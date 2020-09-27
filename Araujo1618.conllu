@@ -1,0 +1,314 @@
+# document_title = Catecismo Araújo
+# document_authorship = Annotated by Fabrício Ferraz Gerardi
+# document_reference = Araujo_1618
+
+
+
+
+# BOOK 3
+
+
+# sent_id = 
+# text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?	
+# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God?
+1-2	mbaʔepe	_	_	_	_	_	_	_	_
+1	mbaʔe	mbaʔe	PRON	_	_	_	_	_	_
+2	pe	pe	PART	_	_	_	_	_	_
+3-4	imoŋgaraiβɨpɨra	_	_	_	_	_	_	_	_
+3	i	i	PRON	_	_	_	_	_	_
+4	moŋgaraiβɨpɨra	moŋgaraiβ	NOUN	_	_	_	_	_	_
+5	jeroβjasaβeté	jeroβja	NOUN	_	_	1	nsubj	_	_
+6	Tupã	Tupã	NOUN	_	_	5	nmod	_	_
+7	moɲɨrõ	moɲɨrõ	NOUN	_	_	6	nmod	_	_
+8	potasáβamo	pota	NOUN	_	_	3	nmod	_	_
+9	?	?	PUNCT	_	_	1	punct	_	_
+
+
+
+# sent_id = 
+# text = jandejara Jesus Cristo reʔõagwera.	
+# text_port = The death of our lord JC.
+1-2	jandéjara	_	_	_	_	_	_	_	_
+1	jandé	jandé	PROP	_	_	2	dep	_	_
+2	jara	jara	NOUN	_	_	3	nmod	_	_
+3	Jesus-Cristo	_	PROPN	_	_	4	nmod	_	_
+4	reʔõawera	reʔõ	NOUN	_	_	0	root	_	_
+
+
+
+# Marãnamope?	
+# Why?
+
+# sent_id = 
+# text = Tekoangajpaβokáramo jandé jara Jesus Cristo rekóreme.	
+# text_eng = For being our lord JC the one who pulls out /rips the sins.
+1-2	Tekoangajpaβokáramo	_	_	_	_	_	_	_	_
+1	Tekoangajpaβ	_	NOUN	_	_	2	nmod	2:nmod	_
+2	 okáramo	_	NOUN	_	Case=Nom	3	nmod	3:nmod	_
+3-4	jandéjara	_	_	_	_	_	_	_	_
+3	jandé	jandé	PRON	_	_	4	dep	4:dep	_
+4	jara	jara	NOUN	_	_	_	_	_	_
+5	JesusCristo	JC	PROPN	_	_	2	dep	2:dep	_
+6	rekóreme	ekó	NOUN	_	_	2	cop	2:cop	_
+
+
+# sent_id = 19
+# text = Marã ojkóβope tekoaŋgaipaβa ʔóki?	
+# text_eng = Acting how did he remove the bad habits?
+1	Marã	_	PRON	_	_	2	advmod	2:advmod	_
+2	ojkóβo	ojkó	VERB	_	|Number=Sing|Person=3|VerbForm=Ger	_	_	_	_
+3	pe	pe	PART	_	_	2	discourse	2:discourse	_
+4	tekoaŋgaipaβa	tekoaŋgaipaβ	NOUN	_	_	_	_	_	_
+5	ʔóki	ʔók	VERB	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	2	punct	2:punct	_
+
+
+
+# Omanõmo.	
+# dying.
+
+# sent_ID = 
+# text =  Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe?	
+# text_eng = Was it through his death, that God the father rescued/forgave us all?
+1	Seʔõawera	seʔõ	NOUN	_	_	3	nmod	3:nmod	_
+2	resépe	esé	ADP	_	_	3	case	3:case	_
+3	Tupã	Tupã	NOUN	_	_	5	nsubj	5:nsubj	_
+4	Tuβa	uβ	NOUN	_	_	3	nmod	3:nmod	_
+5	ɲɨrõkatúramo	ɲɨrõkatú	VERB	_	_	0	root	0:root	_
+6	aséβe	asé	PRON	_	_	5	iobj	5:iobj	_
+7	?	?	PUNCT	_	_	5	punct	5:punct	_
+
+
+
+# sent_ID = 
+# text = Seʔõawera resé.	
+# text_port = Through his death.
+1	s	_	PRON	_	_	2	nmod	2:nmod	_
+2	eʔõawera	_	NOUN	_	_	0	root	0:root	_
+3	resé	resé	ADP	_	_	2	case	2:case	_
+
+
+
+# sent_ID=
+# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?	
+# text_port = Was it by his own will that he then spoke to his future enemies being peaceful?
+1	O	o	PRON	_	_	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotar	NOUN	_	_	_	_	_	_
+3	épe	épe	PART	_	_	_	_	_	_
+4	erimbaʔe	erimbaʔe	ADV	_	_	6	obl	6:obl	_
+5	i	i	PRON	_	_	_	_	_	_
+6	ɲemeʔẽngi	ɲemeʔẽng	VERB	_	_	_	_	_	_
+7	og	o	PRON	_	_	8	nmod	8:nmod	_
+8	upjarama	upjar	NOUN	_	_	6	obl	6:obl	_
+9	supé	supé	ADP	_	_	8	_	8	_
+10	oɲeraneʔɨma	oɲeran	NOUN	_	_	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+
+
+# sent_ID=
+# text = O emimotárɨβo é.	
+# text_port = It was in fact by his own will
+1	O	o	PRON	_	_	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	_	_	0	root	0:root	_
+3	é	é	PART	_	_	2	_	2	_
+
+
+
+
+# sent_ID =
+# text= Ojpotakatupe o eʔõawera resé asé maʔendwara?	
+# text_port = Did he really want people to remember his death?
+1	Ojpotakatupe	potar	VERB	_	_	_	_	_	_
+2	o	o	PRON	_	_	3	det	3:det	_
+3	eʔõawera	eʔõa	NOUN	_	_	6	nmod	6:nmod	_
+4	resé	esé	ADP	_	_	3	case	3:case	_
+5	asé	asé	PRON	_	_	6	det	6:det	_
+6	maʔendwara	maʔendwar	NOUN	_	_	1	obl	1:obl	_
+7	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+
+
+# sent_ID =
+# text= Ojpotakatu: Sesé o maʔendwáramo é asé Tupã rawsúbi o pɨʔape abɨpotareʔɨma.	
+# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail.
+
+
+
+# sent_ID =
+# Marãpe erimbaʔe seków, o e'õjanondé o ekoawjéramo?	
+# How did he act/what did he do, before dying, being ready?
+
+
+
+
+# sent_ID =
+# Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.	
+# Comeu together with his many disciples, in the afternoon, before giving the holy sacrament 
+1	Ombaʔeʔu	mbaʔeʔu	VERB	_	_	0	root	0:root	_
+2	wemimboʔeetá	emimboʔe	NOUN	_	_	_	_	_	_
+3	pɨri	pɨri	ADP	_	_	2	case	2:case	_
+4	karúkeme	karúk	ADV	_	_	1	advmod	1:advmod	_
+5	,	,	PUNCT	_	_	1	punct	1:punct	_
+6	Santo-Sacramento	_	NOUN	_	_	_	_	_	_
+7	meʔenga	meʔeŋ	_	_	_	_	_	_	_
+8	janondé	janondé	ADP	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+
+
+
+
+
+# 97 LIVRO SEXTO
+
+# sent_ID = 
+# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema:  
+# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life.
+1	Sorɨβeté	orɨβ	VERB	_	_	0	root	0:root	_
+2	rakó	rakó	PART	_	_	1	advmod	1:advmod	_
+3	aβá	aβá	NOUN	_	_	1	nsubj	1:nsubj	_
+4	tegwama	_	NOUN	_	_	5	nmod	5:nmod	_
+5	porarasara	_	NOUN	_	_	3	amod	3:amod	_
+6	moroposanongara	moroposanong	NOUN	_	_	12	obj	12:obj	_
+7	mosanga	posaŋ	NOUN	_	_	10	nmod	10:nmod	_
+8	tekoβé	teko	NOUN	_	_	9	nmod	9:nmod	_
+9	jara	jara	NOUN	_	_	7	nmod	7:nmod	_
+10	rerekoara	ereko	NOUN	_	_	6	nmod	6:nmod	_
+11	supé	supé	ADP	_	_	6	case	6:case	_
+12	ogwasema:	gwasem	VERB	_	_	1	xcomp	1:xcomp	_
+
+
+
+
+# sent_ID = 
+# text = aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswí, ʃemombwerápane reá, ojaβo.
+# text_eng = (by) saying: "in change for something he is going to relief me (my wound) (by) healing me."
+1	aʔe	aʔe	PART	_	_	5	discourse	5:discourse	_
+2	ipó	ipó	PART	_	_	5	advmod	5:advmod	_
+3	mbaʔe	mbaʔe	NOUN	_	_	4	nmod	4:nmod	_
+4	repɨ́ramo	epɨ́	NOUN	_	_	5	advcl	5:advcl	_
+5	ojmoariβeukar	moariβ	VERB	_	_	0	root	0:root	_
+6	ʃeswí	ʃe	PRON	_	_	5	obl	5:obl	_
+7	,	,	PUNCT	_	_	5	punct	5:punct	_
+8	ʃemombwerápane	mombwe	NOUN	_	_	5	advmod	5:advmod	_
+9	reá	reá	PART	_	_	5	discourse	5:discourse	_
+10	,	,	PUNCT	_	_	5	punct	5:punct	_
+11	oʔjaβo	oʔjaβ	VERB	_	_	5	advcl	5:advcl	_
+12	.	.	PUNCT	_	_	11	punct	11:punct	_
+
+
+
+
+# sent_ID = 
+# text = Memẽtipó ɲemongaraiβɨpɨra tekokatu aβɨara pecado Tupã ɲeʔenga abɨ tegwama jaba pupé o ʔanga juká rojré, aβaré mosanga tekoβeeté asé ʔanga mombwerasaβa rerekoara supé ogwasema, sorɨβetéwne:
+# text_eng = Even more the baptized that turns away/deviates from the good life/well acting/well living life, after killing his own soul with a sin/sins, deviating from the word of God, called mortal wound, encountering the priest, carrier of the medicine which is real life, mean/way of healing people's souls, greatly rejoyces, saying:
+1	Memẽtipó	memẽtipó	SCONJ	_	_	27	advmod	27:advmod	_
+2	ɲemongaraiβɨpɨra	mongaraiβ	NOUN	_	_	25	obl	25:obl|27:nsubj	_
+3	tekokatu	teko	NOUN	_	_	4	nmod	4:nmod	_
+4	aβɨara	aβɨar	NOUN	_	_	2	nmod	2:nmod	_
+5	pecado	pecado	NOUN	_	_	_	_	_	_
+6	Tupã	Tupã	NOUN	_	_	7	nmod	7:nmod	_
+7	ɲeʔenga	ɲeʔeŋ	NOUN	_	_	8	nmod	8:nmod	_
+8	aβɨ	aβɨ	NOUN	_	_	_	_	_	_
+9	tegwama	tegwam	NOUN	_	_	5	appos	5:appos	_
+10	jaβa	jaβa	NOUN	_	_	9	nmod	9:nmod	_
+11	pupé	pupé	ADP	_	_	5	case	5:case	_
+12	o	o	PRON	_	_	13	amod	13:amod	_
+13	ʔanga	ʔaŋ	NOUN	_	_	14	nmod	14:nmod	_
+14	juká	juká	NOUN	_	_	_	_	_	_
+15	rojré	rojré	ADP	_	_	14	case	14:case	_
+16	,	,	PUNCT	_	_	14	punct	14:punct	_
+17	aβaré	aβaré	NOUN	_	_	25	obl	25:obl	_
+18	mosanga	mosaŋ	NOUN	_	Animacy=Hum	23	nmod	23:nmod	_
+19	tekoβeeté	tekoβe	NOUN	_	_	18	appos	18:appos	_
+20	asé	asé	PRON	_	_	21	amod	21:amod	_
+21	ʔanga	ʔang	NOUN	_	_	22	nmod	22:nmod	_
+22	mombwerasaβa	mombwer	NOUN	_	_	18	nmod	18:nmod	_
+23	rerekoara	erekoar	NOUN	_	_	17	nmod	17:nmod	_
+24	supé	supé	ADP	_	_	17	case	17:case	_
+25	ogwasema	gwasem	VERB	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	25	punct	25:punct	_
+27	sorɨβetéwne	orɨβ	VERB	_	_	_	_	_	_
+
+
+
+
+# sent_ID =
+# text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar ixéβene, ojaβo, ixéβe Tupã moɲɨrõmone, ojaβo.
+# text_eng = Being/acting as substitute/representative of god, certainly, when I confess my sins, when I regret them, sincerely hating them, he will give me back the former life of my soul, which I lost, saying: "God will forgive me". 
+1	aʔe	_	PART	_	_	_	_	_	_
+2	ipó	_	_	_	_	_	_	_	_
+3	Tupã	_	NOUN	_	_	4	nmod	4:nmod	_
+4	rekoβjáramo	_	NOUN	_	_	5	obl	5:obl	_
+5	ojkóβo	_	VERB	_	_	20	ccomp	20:ccomp	_
+6	ojoupé	_	ADP	_	_	_	_	_	_
+7	ʃeangaipaβa	_	NOUN	_	_	10	nmod	10:nmod	_
+8	iʃé	_	PRON	_	_	10	dislocated	10:dislocated	_
+9	i	_	PRON	_	_	10	nmod	10:nmod	_
+10	mombeʔúreme	_	VERB	_	_	20	advmod	20:advmod	_
+11	,	_	PUNCT	_	_	10	punct	10:punct	_
+12	iʃé	_	PRON	_	_	14	nmod	14:nmod	_
+13	i	_	PRON	_	_	14	nmod	14:nmod	_
+14	moasɨkatúreme	_	VERB	_	_	20	advmod	20:advmod	_
+15	,	_	PUNCT	_	_	14	punct	14:punct	_
+16	seroɨrõngatúreme	_	NOUN	_	_	20	advmod	20:advmod	_
+17	ʃeʔanga	_	NOUN	_	_	18	nmod	18:nmod	_
+18	rekoβepwera	_	NOUN	_	_	20	obl	20:obl	_
+19	ʃeremimokaɲẽgwera	_	NOUN	_	_	18	appos	18:appos	_
+20	ojmojeβɨrukar	_	VERB	_	_	0	root	0:root	_
+21	ixéβene	_	PRON	_	_	20	obl	20:obl	_
+22	,	_	PUNCT	_	_	20	punct	20:punct	_
+23	ojaβo	_	VERB	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ixéβe	_	PRON	_	_	_	_	_	_
+26	Tupã	_	NOUN	_	_	_	_	_	_
+27	moɲɨrõmone	_	VERB	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ojaβo	_	VERB	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+
+# sent_ID = 
+# text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: a[w]jekatu ipó.
+# text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good!
+1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
+2	ipó	_	ADV	_	_	1	advmod	_	_
+3	enhemombegwabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
+4	erejur	_	VERB	_	|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	ʃeraʔɨrĩ	_	NOUN	_	_	4	obl	_	_
+6	gwé:	_	PART	_	_	4	discourse	_	_
+7	awjekatu	_	INTJ	_	_	4	advcl	_	_
+8	ipó	_	ADV	_	_	7	dep	_	_
+
+
+# sent_ID = 
+# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβák[ɨ]pe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono. 
+# text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your goint to the devil's fire
+1	Mbaʔeeté	_	NOUN	_	_	3	nsubj	3:nsubj	_
+2	aɲẽ	_	ADV	_	_	1	advmod	1:advmod	_
+3	ɲemombeʔu	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	3	punct	3:punct	_
+5	jandéʔanga	_	NOUN	_	_	6	nmod	6:nmod	_
+6	posãngamo	_	NOUN	_	_	8	nmod	8:nmod	_
+7	Tupã	_	NOUN	_	_	8	nmod	8:nmod	_
+8	remimoɲangwera	_	NOUN	_	_	3	appos	3:appos	_
+9	,	_	PUNCT	_	_	3	punct	3:punct	_
+10	ikó	_	DET	_	_	11	det	11:det	_
+11	ʔara	_	NOUN	_	_	14	nmod	14:nmod	_
+12	pupé	_	ADP	_	_	11	case	11:case	_
+13	o	_	PRON	_	_	14	nmod	14:nmod	_
+14	moɲɨrõsáβamo	_	NOUN	_	_	8	conj	8:conj	_
+15	,	_	PUNCT	_	_	14	punct	14:punct	_
+16	ɨβákupe	_	NOUN	_	_	18	nmod	18:nmod	_
+17	asé	_	PRON	_	_	18	nmod	18:nmod	_
+18	soáβamo	_	NOUN	_	_	14	conj	14:conj	_
+19	,	_	PUNCT	_	_	18	punct	18:punct	_
+20	aɲanga	_	NOUN	_	_	21	nmod	21:nmod	_
+21	ratápe	_	NOUN	_	_	22	nmod	22:nmod	_
+22	ndesorambwera	_	NOUN	_	_	23	nmod	23:nmod	_
+23	morambwesáβamono	_	NOUN	_	_	18	conj	18:conj	_
+24	.	_	PUNCT	_	_	23	punct	23:punct	_
+
+
+

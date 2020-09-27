@@ -1,0 +1,140 @@
+# document_title = Catecismo Araújo /Catálogo
+# document_authorship = Annotated by Fabrício Ferraz Gerardi
+# document_reference = Araujo_1618
+
+
+#  1 January
+
+
+
+# Sent_ID = 1
+# text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
+# text_eng = 
+1	Mokõj	mokõj	NUM	_	_	6	nummod	_	_
+2	ojoirundɨk	ojoirundɨk	NUM	_	_	4	appos	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	oito	oito	NUM	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	ʔara	ʔar	NOUN	_	_	7	nsubj	_	_
+7	sɨkeme	sɨk	VERB	_	_	22	advcl	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	Tupã	tupã	NOUN	_	_	_	_	_	_
+10	taʔɨra	taʔɨr	NOUN	_	_	9	nmod	_	_
+11	o	o	PRON	_	_	12	amod	_	_
+12	sɨ	sɨ	NOUN	_	_	_	_	_	_
+13	swi	swi	ADP	_	_	12	case	_	_
+14	i	i	PRON	_	_	15	amod	_	_
+15	ʔar	ʔar	ADV	_	_	7	advcl	_	_
+16	iré	ire	ADP	_	_	15	case	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	judeus	judeu	NOUN	_	_	19	nmod	_	_
+19	ekomoɲangáβo	ekomoɲangáβ	NOUN	_	_	22	advmod	_	_
+20	i	_	PRON	_	_	21	amod	_	_
+21	ʔapira	_	NOUN	_	_	_	_	_	_
+22	mondoki	_	VERB	_	_	_	_	_	_
+
+
+
+
+
+# # sent_ID = 2
+# text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
+# text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus
+1	Ã	_	PART	_	_	2	discourse	2:discourse	_
+2	tekó	_	NOUN	_	_	_	_	_	_
+3	aʔereme	_	ADV	_	_	2	advmod	2:advmod	_
+4	moreroka	_	NOUN	_	_	2	acl	2:acl	_
+5	kwé	_	DET	_	_	7	nmod	7:nmod	_
+6	βɨá	_	PART	_	_	7	discourse	7:discourse	_
+7	Jesus	_	NOUN	_	_	8	nmod	8:nmod	_
+8	nongi	_	NOUN	_	_	2	parataxis	2:parataxis	_
+9	seramo	_	NOUN	_	_	7	obl	7:obl	_
+10	.	_	PUNCT	_	_	8	punct	8:punct	_
+
+
+
+
+#  6 January
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+
+# sent_ID =
+# text = 
+# text_eng =
+
+
+
+
+
+
+
+# sent_ID = TEST
+# text = Papa ko ʔara ojmeʔeŋ jandéβe ʔaŋwera oaŋgaipaβa repɨmondɨkeʔɨme purgatorio pupé osoβaʔe resé Tupã moŋgetasawama
+# text_eng = The Pope gave us this day of praying to God for the souls of those who are going to the purgatory for not having rescued their sins
+# SOV
+1	Papa	papa	NOUN	n	_	4	obl	4:obl	_
+2	ko	ko	DET	dem:ps	_	3	det	3:det	_
+3	ʔara	ʔar	NOUN	n	_	4	obl	4:obl	_
+4	ojmeʔeŋ	meʔeŋ	VERB	vt	Number=Sing|Person[subj]=3	0	root	0:root	_
+5	jandéβe	jandé	PRON	_	_	4	iobj	4:iobj	_
+6	ʔaŋwera	ʔaŋ	NOUN	_	_	14	case	14:case	_
+7	oaŋgaipaβa	aŋgaipaβ	NOUN	_	_	8	nmod	8:nmod	_
+8	repɨmondɨkeʔɨme	epɨmondɨk	NOUN	_	_	11	mark	11:mark	_
+9	purgatorio	purgatorio	NOUN	_	_	11	case	11:case	_
+10	pupé	pupé	ADP	_	_	9	case	9:case	_
+11	osoβaʔe	oso	NOUN	_	_	6	amod	6:amod	_
+12	resé	esé	ADP	_	_	6	case	6:case	_
+13	Tupã	Tupã	NOUN	_	_	14	nmod	14:nmod	_
+14	moŋgetasawama	moŋgeta	NOUN	_	_	3	case	3:case	_
+
+
+
+
