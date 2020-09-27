@@ -9,29 +9,30 @@
 
 # Sent_ID = 1
 # text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
-# text_eng = 
-1	Mokõj	mokõj	NUM	_	_	6	nummod	_	_
-2	ojoirundɨk	ojoirundɨk	NUM	_	_	4	appos	_	_
-3	,	,	PUNCT	_	_	_	_	_	_
-4	oito	oito	NUM	_	_	_	_	_	_
-5	,	,	PUNCT	_	_	_	_	_	_
-6	ʔara	ʔar	NOUN	_	_	7	nsubj	_	_
-7	sɨkeme	sɨk	VERB	_	_	22	advcl	_	_
-8	,	,	PUNCT	_	_	_	_	_	_
+# text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews
+1	Mokõj	mokõj	NUM	_	_	2	nummod	2:nummod	_
+2	ojoirundɨk	ojoirundɨk	NUM	_	_	6	nummod	6:nummod	_
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
+4	oito	oito	NUM	_	_	2	appos	2:appos	_
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
+6	ʔara	ʔar	NOUN	_	_	7	nsubj	7:nsubj	_
+7	sɨkeme	sɨk	VERB	_	_	22	advcl	22:advcl	_
+8	,	,	PUNCT	_	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	_	_	_	_	_	_
-10	taʔɨra	taʔɨr	NOUN	_	_	9	nmod	_	_
-11	o	o	PRON	_	_	12	amod	_	_
-12	sɨ	sɨ	NOUN	_	_	_	_	_	_
-13	swi	swi	ADP	_	_	12	case	_	_
-14	i	i	PRON	_	_	15	amod	_	_
-15	ʔar	ʔar	ADV	_	_	7	advcl	_	_
-16	iré	ire	ADP	_	_	15	case	_	_
-17	,	,	PUNCT	_	_	_	_	_	_
-18	judeus	judeu	NOUN	_	_	19	nmod	_	_
-19	ekomoɲangáβo	ekomoɲangáβ	NOUN	_	_	22	advmod	_	_
-20	i	_	PRON	_	_	21	amod	_	_
-21	ʔapira	_	NOUN	_	_	_	_	_	_
-22	mondoki	_	VERB	_	_	_	_	_	_
+10	taʔɨra	taʔɨr	NOUN	_	_	9	dep	9:dep	_
+11	o	o	PRON	_	_	12	nmod	12:nmod	_
+12	sɨ	sɨ	NOUN	_	_	15	nmod	15:nmod	_
+13	swi	swi	ADP	_	_	12	case	12:case	_
+14	i	i	PRON	_	_	15	amod	15:amod	_
+15	ʔar	ʔar	ADV	_	_	7	advcl	7:advcl|10:nmod	_
+16	iré	ire	ADP	_	_	15	case	15:case	_
+17	,	,	PUNCT	_	_	10	punct	10:punct	_
+18	judeus	judeu	NOUN	_	_	19	nmod	19:nmod	_
+19	ekomoɲangáβo	ekomoɲangáβ	NOUN	_	Case=Loc	22	advmod	22:advmod	_
+20	i	_	PRON	_	_	21	nmod	21:nmod	_
+21	ʔapira	_	NOUN	_	_	22	nmod	22:nmod	_
+22	mondoki	_	NOUN	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
 
 
 
