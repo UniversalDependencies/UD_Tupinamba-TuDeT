@@ -1,11 +1,19 @@
+![TuLeD](mapNimu2.png)
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org) project. 
+
+
 
 
 # Introduction
 
-...
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Fabrício Ferraz Gerardi.
+
+## Text sources
+
+&#x1F535; **Tupinambá sentences**:<br/>
+* Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
 
 
 # Acknowledgments
