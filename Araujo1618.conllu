@@ -24,15 +24,14 @@
 9	?	?	PUNCT	_	_	1	punct	_	_
 
 
-
 # sent_id = 
 # text = jandejara Jesus Cristo reʔõagwera.	
 # text_port = The death of our lord JC.
 1-2	jandéjara	_	_	_	_	_	_	_	_
-1	jandé	jandé	PROP	_	_	2	dep	_	_
-2	jara	jara	NOUN	_	_	3	nmod	_	_
-3	Jesus-Cristo	_	PROPN	_	_	4	nmod	_	_
-4	reʔõawera	reʔõ	NOUN	_	_	0	root	_	_
+1	jandé	jandé	PROP	_	_	2	dep	2:dep	_
+2	jara	jara	NOUN	_	_	3	nmod	3:nmod	_
+3	Jesus-Cristo	_	PROPN	_	_	4	nmod	4:nmod	_
+4	reʔõawera	reʔõ	NOUN	_	_	0	root	0:root	_
 
 
 
@@ -56,10 +55,10 @@
 # text = Marã ojkóβope tekoaŋgaipaβa ʔóki?	
 # text_eng = Acting how did he remove the bad habits?
 1	Marã	_	PRON	_	_	2	advmod	2:advmod	_
-2	ojkóβo	ojkó	VERB	_	|Number=Sing|Person=3|VerbForm=Ger	_	_	_	_
+2	ojkóβo	ojkó	VERB	_	|Number=Sing|Person=3|VerbForm=Ger	5	dep	5:dep	_
 3	pe	pe	PART	_	_	2	discourse	2:discourse	_
-4	tekoaŋgaipaβa	tekoaŋgaipaβ	NOUN	_	_	_	_	_	_
-5	ʔóki	ʔók	VERB	_	_	_	_	_	_
+4	tekoaŋgaipaβa	tekoaŋgaipaβ	NOUN	_	_	5	obj	5:obj	_
+5	ʔóki	ʔók	NOUN	_	_	_	_	_	_
 6	?	?	PUNCT	_	_	2	punct	2:punct	_
 
 
@@ -91,18 +90,19 @@
 
 # sent_ID=
 # text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?	
-# text_port = Was it by his own will that he then spoke to his future enemies being peaceful?
+# text_port = Was it by his own will that he surrendered to his future enemies being peaceful?
 1	O	o	PRON	_	_	2	nmod	2:nmod	_
-2	emimotárɨβo	emimotar	NOUN	_	_	_	_	_	_
-3	épe	épe	PART	_	_	_	_	_	_
-4	erimbaʔe	erimbaʔe	ADV	_	_	6	obl	6:obl	_
-5	i	i	PRON	_	_	_	_	_	_
-6	ɲemeʔẽngi	ɲemeʔẽng	VERB	_	_	_	_	_	_
-7	og	o	PRON	_	_	8	nmod	8:nmod	_
-8	upjarama	upjar	NOUN	_	_	6	obl	6:obl	_
-9	supé	supé	ADP	_	_	8	_	8	_
-10	oɲeraneʔɨma	oɲeran	NOUN	_	_	_	_	_	_
-11	?	?	_	_	_	_	_	_	_
+2	emimotárɨβo	emimotar	NOUN	_	Case=Loc	_	_	_	_
+3	e	e	PART	_	_	2	discourse	2:discourse	_
+4	pe	pe	PART	_	_	2	discourse	2:discourse	_
+5	erimbaʔe	erimbaʔe	ADV	_	_	7	advmod	7:advmod	_
+6	i	i	PRON	_	_	7	nsubj	7:nsubj	_
+7	ɲemeʔẽngi	ɲemeʔẽng	VERB	_	_	_	_	_	_
+8	og	o	PRON	_	_	9	nmod	9:nmod	_
+9	upjarama	upjar	NOUN	_	_	7	obl	7:obl	_
+10	supé	supé	ADP	_	_	9	case	9:case	_
+11	oɲeraneʔɨma	oɲeran	NOUN	_	_	7	acl	7:acl	_
+12	?	?	PUNCT	_	_	2	punct	2:punct	_
 
 
 
