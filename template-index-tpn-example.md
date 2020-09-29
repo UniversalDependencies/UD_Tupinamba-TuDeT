@@ -31,5 +31,4 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and []().
 
 * Tupinambá uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
-* Nouns in predicative function are not marked as VERB.
 
