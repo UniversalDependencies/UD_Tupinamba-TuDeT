@@ -14,7 +14,7 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words).
-* LEMMA - the stem of words are given without the referential (also called argument) marker: _ɨgara_ is given as _ɨgar_ .
+* LEMMA - the stem of words are given without the referential (also called argument) marker: _ɨgara_ 'canoe' is given as _ɨgar_ .
 
 
 
@@ -24,6 +24,8 @@ udver: '2'
 ---
 
 ## Morphology
+
+
 
 ### Tags
 
