@@ -23,7 +23,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The copula with non-verbal predicates.
 * Verbs with modal meaning are not considered auxiliary.
 * The (de)verbal forms used, are: infinitive `Inf`, finite verb `Fin`, tagged, converb `Conv`, gerund `Ger`.
-
+* Since Tupinambá is as omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
 
 
 ## Morphology
