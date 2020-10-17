@@ -18,19 +18,11 @@ udver: '2'
 
 This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](pos/index.html) and [Czech features](feat/index.html).
 
-* Tupinambá uses all 15 universal POS categories, that is, all but one ADJ (adjective) and DET (determiner).
-* The auxiliary in Tupinmabá ...
+* Tupinambá uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
 * The copula with non-verbal predicates.
 * Verbs with modal meaning are not considered auxiliary.
 * The (de)verbal forms used, are: infinitive `Inf`, finite verb `Fin`, tagged, converb `Conv`, gerund `Ger`.
-* Since Tupinambá is as omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
+* Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
 
 
-
-### Tags
-
-This is an overview only. For more detailed discussion and examples, see the list of []()
-and []().
-
-* Tupinambá uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
 
