@@ -68,8 +68,10 @@
 # text = Seʔõawera resé.	
 # text_port = Through his death.
 1	s	_	PRON	_	_	2	nmod	2:nmod	_
-2	eʔõawera	_	NOUN	_	_	0	root	0:root	_
-3	resé	resé	ADP	_	_	2	case	2:case	_
+2-3	eʔõawera	_	NOUN	_	_	0	root	0:root	_
+2 eʔõ eʔõ	N	_	_	_	_	_	_
+3 wera	wer	N	_	_	_	_	_	_
+4	resé	resé	ADP	_	_	2	case	2:case	_
 
 # sent_ID=
 # text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?	
