@@ -26,9 +26,6 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * Since Tupinambá is as omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
 
 
-## Morphology
-
-
 
 ### Tags
 
