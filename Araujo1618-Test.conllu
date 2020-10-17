@@ -135,13 +135,6 @@
 8	janondé	janondé	ADP	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-
-
-
-
-
-
-
 # sent_ID = p 97 book 6
 # text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema:  
 # text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life.
@@ -215,29 +208,29 @@
 5	ojkóβo	_	VERB	_	_	20	ccomp	20:ccomp	_
 6	ojoupé	_	ADP	_	_	_	_	_	_
 7	ʃeangaipaβa	_	NOUN	_	_	10	nmod	10:nmod	_
-8	iʃé	_	PRON	_	_	10	dislocated	10:dislocated	_
-9	i	_	PRON	_	_	10	nmod	10:nmod	_
+8	iʃé	iʃé	PRON	_	_	10	dislocated	10:dislocated	_
+9	i	i	PRON	_	_	10	nmod	10:nmod	_
 10	mombeʔúreme	_	VERB	_	_	20	advmod	20:advmod	_
-11	,	_	PUNCT	_	_	10	punct	10:punct	_
+11	,	,	PUNCT	_	_	10	punct	10:punct	_
 12	iʃé	_	PRON	_	_	14	nmod	14:nmod	_
 13	i	_	PRON	_	_	14	nmod	14:nmod	_
 14	moasɨkatúreme	_	VERB	_	_	20	advmod	20:advmod	_
-15	,	_	PUNCT	_	_	14	punct	14:punct	_
+15	,	,	PUNCT	_	_	14	punct	14:punct	_
 16	seroɨrõngatúreme	_	NOUN	_	_	20	advmod	20:advmod	_
 17	ʃeʔanga	_	NOUN	_	_	18	nmod	18:nmod	_
 18	rekoβepwera	_	NOUN	_	_	20	obl	20:obl	_
 19	ʃeremimokaɲẽgwera	_	NOUN	_	_	18	appos	18:appos	_
 20	ojmojeβɨrukar	_	VERB	_	_	0	root	0:root	_
 21	ixéβene	_	PRON	_	_	20	obl	20:obl	_
-22	,	_	PUNCT	_	_	20	punct	20:punct	_
+22	,	,	PUNCT	_	_	20	punct	20:punct	_
 23	ojaβo	_	VERB	_	_	_	_	_	_
-24	,	_	PUNCT	_	_	_	_	_	_
+24	,	,	PUNCT	_	_	_	_	_	_
 25	ixéβe	_	PRON	_	_	_	_	_	_
 26	Tupã	_	NOUN	_	_	_	_	_	_
 27	moɲɨrõmone	_	VERB	_	_	_	_	_	_
-28	,	_	PUNCT	_	_	_	_	_	_
+28	,	,	PUNCT	_	_	_	_	_	_
 29	ojaβo	_	VERB	_	_	_	_	_	_
-30	.	_	PUNCT	_	_	_	_	_	_
+30	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_ID = 
 # text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: a[w]jekatu ipó.
