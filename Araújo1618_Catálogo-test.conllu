@@ -32,7 +32,7 @@
 20	i	_	PRON	pro	Poss=Yes	21	nmod	21:nmod	_
 21	ʔapira	_	NOUN	n	Case=Ref	22	nmod	22:nmod	_
 22	mondoki	_	NOUN	n	_	_	_	_	_
-23	.	.	PUNCT	pro	_	22	punct	22:punct	_
+23	.	.	PUNCT	punct	_	22	punct	22:punct	_
 
 # Sent_ID = 2
 # text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
