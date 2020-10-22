@@ -202,8 +202,8 @@
 # How did he act/what did he do, before dying, being ready?
 
 # sent_ID = book 3-12
-# Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.	
-# Comeu together with his many disciples, in the afternoon, before giving the holy sacrament 
+# text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.	
+# text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament 
 1	Ombaʔeʔu	mbaʔeʔu	VERB	_	_	0	root	0:root	_
 2	wemimboʔeetá	emimboʔe	NOUN	_	_	_	_	_	_
 3	pɨri	pɨri	ADP	_	_	2	case	2:case	_
@@ -213,6 +213,21 @@
 7	meʔenga	meʔeŋ	_	_	_	_	_	_	_
 8	janondé	janondé	ADP	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_ID = book 3-13
+# text = mamõ pe i ʃow o mbaʔeʔupaβ iré?
+# text_eng = Where did he go after eating everything?
+1-2	Mamõpe	_	_	_	_	_	_	_	_
+1	mamõ	_	NOUN	n	_	4	advmod	4:advmod	_
+2	pe	_	PART	pcl	_	1	discourse	1:discourse	_
+3	i	_	PRON	pro	_	4	nmod	4:nmod	_
+4	ʃow	so	NOUN	n	_	0	root	0:root	_
+5	o	o	PRON	pro	Reflexive=Yes	7	nmod	7:nmod	_
+6-8	mbaʔeʔupaβiré	_	_	_	_	_	_	_	_
+6	mbaʔe	_	NOUN	n	_	7	dep	7:dep	_
+7	ʔupaβ	_	VERB	v	Aspect=Compl	4	obl	4:obl	_
+8	iré	_	ADP	pp	_	7	case	7:case	_
+9	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_ID = book 6 p 97 1
 # text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema:  
