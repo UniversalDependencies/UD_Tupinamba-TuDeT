@@ -2,7 +2,6 @@
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
 # document_reference = Araujo_1618 
 
-
 # Sent_ID = 1 January 1
 # text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews
@@ -48,53 +47,46 @@
 # sent_ID = 6 January
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo o sɨ rɨgé swi Tupã taʔɨra ʔar ’iré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé Tupã remimoɲanga pɨsasu pe jaramo.
 # text_eng = When the thirteenth day came, after god the son as a man was born from his mother's womb, three chiefs, said (to be) kings, who came from the side of the coming out of the sun
-Opa	opa	PRON	pro	_	3	det	3:det	_
-2	ko	ko	DET	dem	_	3	det	3:det	_
-3	mbo	po	NOUN	n	Poss=Yes	5	nummod	5:nummod	_
-4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
-5	mɨsã	mɨsã	NOUN	n	_	6	nummod	6:nummod	_
-6	ʔara	ʔara	NOUN	n	Case=Ref	7	nsubj	7:nsubj	_
+1	Opa	opa	PRON	pro	_	3	det	_	_
+2	ko	ko	DET	dem	_	3	det	_	_
+3	mbo	po	NOUN	n	Poss=Yes	5	nummod	_	_
+4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	_	_
+5	mɨsã	mɨsã	NOUN	n	_	6	nummod	_	_
+6	ʔara	ʔara	NOUN	n	Case=Ref	7	nsubj	_	_
 7	sɨk’eme	sɨk	VERB	v	_	_	_	_	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	15	obl	15:obl	_
-10	o	o	PRON	pro	Reflexive=Yes	11	nmod	11:nmod	_
-11	sɨ	sɨ	NOUN	n	_	12	nmod	12:nmod	_
-12	rɨgé	ɨgé	NOUN	n	Poss=Yes	14	nmod	14:nmod	_
-13	swi	swi	ADP	posp	_	11	case	11:case	_
-14	Tupã	Tupã	NOUN	n	_	16	nmod	16:nmod	_
-15	taʔɨra	taʔɨr	NOUN	n	Poss=Yes	14	dep	14:dep	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	15	obl	_	_
+10	o	o	PRON	pro	Reflexive=Yes	11	nmod	_	_
+11	sɨ	sɨ	NOUN	n	_	12	nmod	_	_
+12	rɨgé	ɨgé	NOUN	n	Poss=Yes	14	nmod	_	_
+13	swi	swi	ADP	posp	_	11	case	_	_
+14	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
+15	taʔɨra	taʔɨr	NOUN	n	Poss=Yes	14	dep	_	_
 16	ʔar	ʔar	NOUN	n	_	_	_	_	_
-17	’iré	iré	ADP	posp	_	16	case	16:case	_
-18	,	,	PUNCT	punct	_	17	punct	17:punct	_
-19	mosapɨr	mosapɨr	NUM	num	_	20	nummod	20:nummod	_
+17	’iré	iré	ADP	posp	_	16	case	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	mosapɨr	mosapɨr	NUM	num	_	20	nummod	_	_
 20	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref|Poss=Yes	_	_	_	_
-21	,	,	PUNCT	punct	n	20	punct	20:punct	_
-22	Reis	Reis	NOUN	n	_	20	appos	20:appos	_
-23	ʔiaβa	ʔi	NOUN	n	_	22	nmod	22:nmod	_
-24	,	,	PUNCT	punct	_	20	punct	20:punct	_
-25	kwarasɨ	kwarasɨ	NOUN	n	_	26	nmod	26:nmod	_
-26	sembaβa	sem	NOUN	n	_	27	nmod	27:nmod	_
-27	kotɨ	kotɨ	NOUN	n	_	29	nmod	29:nmod	_
-28	swi	swi	ADP	posp	_	27	case	27:case	_
-29	ourɨβaʔe	ur	VERB	v	Person[subj]=3|VerbForm=Rel	20	appos	20:appos	_
-30	,	,	PUNCT	punct	_	29	punct	29:punct	_
-31	jasɨtatá	jasɨtatá	NOUN	n	_	32	nmod	32:nmod	_
+21	,	,	PUNCT	punct	n	20	punct	_	_
+22	Reis	Reis	NOUN	n	_	20	appos	_	_
+23	ʔiaβa	ʔi	NOUN	n	_	22	nmod	_	_
+24	,	,	PUNCT	punct	_	20	punct	_	_
+25	kwarasɨ	kwarasɨ	NOUN	n	_	26	nmod	_	_
+26	sembaβa	sem	NOUN	n	_	27	nmod	_	_
+27	kotɨ	kotɨ	NOUN	n	_	29	nmod	_	_
+28	swi	swi	ADP	posp	_	27	case	_	_
+29	ourɨβaʔe	ur	VERB	v	Person[subj]=3|VerbForm=Rel	20	appos	_	_
+30	,	,	PUNCT	punct	_	29	punct	_	_
+31	jasɨtatá	jasɨtatá	NOUN	n	_	32	nmod	_	_
 32	serekoarama	erekoar	NOUN	n	_	_	_	_	_
-33	resé	esé	ADP	posp	_	32	case	32:case	_
-34	,	,	PUNCT	punct	_	32	punct	32:punct	_
+33	resé	esé	ADP	posp	_	32	case	_	_
+34	,	,	PUNCT	punct	_	32	punct	_	_
 35	Tupã	tupã	NOUN	n	_	_	_	_	_
 36	remimoɲanga	_	NOUN	n	_	_	_	_	_
 37	pɨsasu	pɨsasu	_	_	_	_	_	_	_
-38	pe	_	NOUN	n	_	_	_	_	_
-39	jaramo		jaramo	NOUN	n	Case=Tra	_	_	_
+38	pe	pe	NOUN	n	_	_	_	_	_
+39	jaramo	jaramo	NOUN	n	Case=Tra	_	_	_	_
 40	.	.	Punct	punct	_	_	_	_	_
-
-
-
-
-
-
-
 
 # sent_id = book 3-1
 # text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?	
