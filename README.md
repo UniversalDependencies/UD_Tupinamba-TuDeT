@@ -12,7 +12,7 @@ UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together 
 
 ## Text sources
 
-&#x1F535; **Tupinambá sentences**:<br/>
+**Tupinambá sentences**:<br/>
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
 
 
