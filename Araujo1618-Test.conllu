@@ -357,25 +357,27 @@
 5-6	jandéʔanga	_	NOUN	n	_	6	nmod	6:nmod	_
 5	jandé	jandé	PRON	pro	_	6	nmod	6:nmod	_
 6	ʔanga	ʔanga	NOUN	n	_	6	nmod	6:nmod	_
-7	posãngamo	_	NOUN  n	_	8	nmod	8:nmod	_
-8	Tupã	_	NOUN	n	_	8	nmod	8:nmod	_
-9	remimoɲangwera	n	NOUN	_	_	3	appos	3:appos	_
-10	,	_	PUNCT	punct	_	3	punct	3:punct	_
-11	ikó	_	DET	dem	_	11	det	11:det	_
-12	ʔara	_	NOUN	n	_	14	nmod	14:nmod	_
-13	pupé	_	ADP	pp	_	11	case	11:case	_
-14	o	_	PRON	pro	_	14	nmod	14:nmod	_
+7	posãngamo	posãng	NOUN  n	_	8	nmod	8:nmod	_
+8	Tupã	tupã	NOUN	n	_	8	nmod	8:nmod	_
+9	remimoɲangwera	emimoɲang	NOUN	n	_	3	appos	3:appos	_
+10	,	,	PUNCT	punct	_	3	punct	3:punct	_
+11	ikó	ikó	DET	dem	_	11	det	11:det	_
+12	ʔara	ʔar	NOUN	n	_	14	nmod	14:nmod	_
+13	pupé	pupé	ADP	pp	_	11	case	11:case	_
+14	o	o	PRON	pro	Reflex=Yes	14	nmod	14:nmod	_
 15	moɲɨrõsáβamo	n	NOUN	_	_	8	conj	8:conj	_
-16	,	_	PUNCT	punct	_	14	punct	14:punct	_
-17	ɨβákupe	_	NOUN	n	_	18	nmod	18:nmod	_
-18	asé	_	PRON	pro	_	18	nmod	18:nmod	_
+16	,	,	PUNCT	punct	_	14	punct	14:punct	_
+17	ɨβákupe	ɨβá	NOUN	n	_	18	nmod	18:nmod	_
+18	asé	asé	PRON	pro	_	18	nmod	18:nmod	_
 19	soáβamo	_	NOUN	n	_	14	conj	14:conj	_
-20	,	_	PUNCT	punct	_	18	punct	18:punct	_
-21	aɲanga	_	NOUN	n	_	21	nmod	21:nmod	_
+20	,	,	PUNCT	punct	_	18	punct	18:punct	_
+21	aɲanga	aɲang	NOUN	n	_	21	nmod	21:nmod	_
 22	ratápe	_	NOUN	n	_	22	nmod	22:nmod	_
-23	ndesorambwera	_	NOUN	n	_	23	nmod	23:nmod	_
-24	morambwesáβamono	_	NOUN	n	_	18	conj	18:conj	_
-25	.	.	PUNCT	punct	_	23	punct	23:punct	_
+23-24	ndesorambwera	_	NOUN	n	_	23	nmod	23:nmod	_
+23	nde	nde	PRON	pro	PronType=Prs	_	_	_	_
+24	sorambwera	so	NOUN	n	_	_	_	_	_
+25	morambwesáβamono	_	NOUN	n	_	18	conj	18:conj	_
+26	.	.	PUNCT	punct	_	23	punct	23:punct	_
 
 
 
