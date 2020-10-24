@@ -177,7 +177,7 @@
 # sent_ID = book 3-8
 # text = O emimotárɨβo é.	
 # text_port = It was in fact by his own will
-1	O	o	PRON	pro	Reflex=yes	2	nmod	2:nmod	_
+1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
 2	emimotárɨβo	emimotár	NOUN	n	_	0	root	0:root	_
 3	é	é	PART	pcl	_	2	_	2	_
 
