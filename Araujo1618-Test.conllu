@@ -11,7 +11,7 @@
 4	oito	oito	NUM	num	_	2	appos	2:appos	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nsubj	7:nsubj	_
-7	sɨkeme	sɨk	VERB	v	_	22	advcl	22:advcl	_
+7	sɨkeme	sɨk	VERB	vi	Mood=Sub	0	root	0:root	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	n	_	_	_	_	_
 10	taʔɨra	taʔɨr	NOUN	n	Case=Ref	9	dep	9:dep	_
@@ -19,29 +19,29 @@
 12	sɨ	sɨ	NOUN	n	_	15	nmod	15:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
 14	i	i	PRON	pro	Poss=Yes	15	amod	15:amod	_
-15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl|10:nmod	_
+15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
 16	iré	iré	ADP	pp	_	15	case	15:case	_
 17	,	,	PUNCT	punct	_	10	punct	10:punct	_
 18	judeus	judeu	NOUN	n	_	19	nmod	19:nmod	_
 19	ekomoɲangáβo	ekomoɲaŋ	NOUN	n	Case=Loc	22	advmod	22:advmod	_
 20	i	_	PRON	pro	Poss=Yes	21	nmod	21:nmod	_
 21	ʔapira	_	NOUN	n	Case=Ref	22	nmod	22:nmod	_
-22	mondoki	_	NOUN	n	_	_	_	_	_
+22	mondoki	_	NOUN	n	_	7	advcl	7:advcl	_
 23	.	.	PUNCT	punct	_	22	punct	22:punct	_
 
 # Sent_ID = 1 January 2
 # text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus
-1	Ã	ã	PART	part	_	2	discourse	2:discourse	_
-2	tekó	tekó	NOUN	n	Poss=Yes	_	_	_	_
-3	aʔereme	aʔe	ADV	adv	_	2	advmod	2:advmod	_
-4	moreroka	poreroka	NOUN	n	Animacy=Hum|Case=Ref|Poss=Yes	2	acl	2:acl	_
-5	kwe	kwe	DET	dem	_	7	nmod	7:nmod	_
-6	βɨá	βɨá	PART	part	_	7	discourse	7:discourse	_
-7	Jesus	Jesus	NOUN	n	_	8	nmod	8:nmod	_
-8	nongi	nong	NOUN	n	_	2	parataxis	2:parataxis	_
-9	seramo	seramo	NOUN	n	Case=Tra|Poss=Yes	7	obl	7:obl	_
-10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+1	Ã	ã	PART	part	_	2	discourse	_	_
+2	tekó	tekó	NOUN	n	Poss=Yes	0	root	_	_
+3	aʔereme	aʔe	ADV	adv	_	2	advmod	_	_
+4	moreroka	poreroka	NOUN	n	Animacy=Hum|Case=Ref|Poss=Yes	2	acl	_	_
+5	kwe	kwe	DET	dem	_	7	nmod	_	_
+6	βɨá	βɨá	PART	part	_	7	discourse	_	_
+7	Jesus	Jesus	NOUN	n	_	8	nmod	_	_
+8	nongi	nong	NOUN	n	_	2	parataxis	_	_
+9	seramo	seramo	NOUN	n	Case=Tra|Poss=Yes	7	obl	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_ID = 6 January
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo o sɨ rɨgé swi Tupã taʔɨra ʔar ’iré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé Tupã remimoɲanga pɨsasu pe ʔiaramo.
@@ -91,12 +91,12 @@
 # text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?	
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God?
 1-2	mbaʔepe	_	_	_	_	_	_	_	_
-1	mbaʔe	mbaʔe	NOUN	noun	_	_	_	_	_
+1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
 3-4	imoŋgaraiβɨpɨra	_	_	_	_	_	_	_	_
 3	i	i	PRON	pro	_	4	nmod	4:nmod	_
-4	moŋgaraiβ	moŋgaraiβ	NOUN	n	_	5	nsubj	5:nsubj	_
-5	jeroβjasaβeté	jeroβja	NOUN	_	_	1	obj	1:obj	_
+4	moŋgaraiβ	moŋgaraiβ	NOUN	n	_	_	_	_	_
+5	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
 6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
 7	moɲɨrõ	moɲɨrõ	NOUN	n	_	8	nmod	8:nmod	_
 8	potasáβamo	pota	NOUN	n	Case=Tra	5	advcl	5:advcl	_
@@ -106,25 +106,25 @@
 # text = jandejara Jesus Cristo reʔõagwera.	
 # text_port = The death of our lord JC.
 1-2	jandéjara	_	_	_	_	_	_	_	_
-1	jandé	jandé	PRON	pro	_	2	dep	2:dep	_
+1	jandé	jandé	PRON	pro	PronType=Prs	2	dep	2:dep	_
 2	jara	jara	NOUN	n	_	3	appos	3:appos	_
 3	Jesus-Cristo	jesus	PROPN	pn	_	4	nmod	4:nmod	_
-4	reʔõawera	reʔõ	NOUN	n	Tense=Pas	_	_	_	_
+4	reʔõawera	reʔõ	NOUN	n	Tense=Pas	0	root	0:root	_
 
 # sent_id = book 3-3
 # text = Tekoangajpaβokáramo jandé jara Jesus Cristo rekóreme.	
 # text_eng = For being our lord JC the one who pulls out /rips the sins.
 1-3	Tekoangajpaβokáramo	_	_	_	_	_	_	_	_
-1	eko	eko	NOUN	n	_	3	nmod	3:nmod	_
-2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	1:nmod	_
-3	okáramo	okar	NOUN	n	Case=Tra	5	nsubj	5:nsubj	_
+1	eko	eko	NOUN	n	_	3	nmod	_	_
+2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	_	_
+3	okáramo	okar	NOUN	n	Case=Tra	5	nsubj	_	_
 4-5	jandéjara	_	_	_	_	_	_	_	_
-4	jandé	jandé	PRON	pro	_	5	nmod	5:nmod	_
-5	jara	jara	NOUN	n	_	_	_	_	_
-6	JesusCristo	JC	PROPN	pn	_	5	appos	5:appos	_
+4	jandé	jandé	PRON	pro	PronType=Prs	5	nmod	_	_
+5	jara	jara	NOUN	n	_	0	root	_	_
+6	JesusCristo	JC	PROPN	pn	_	5	appos	_	_
 7-8	rekóreme	_	_	_	_	_	_	_	_
-7	reko	rekó	NOUN	N	_	5	nmod	5:nmod	_
-8	reme	reme	ADP	pp	_	7	case	7:case	_
+7	reko	rekó	NOUN	N	_	5	nmod	_	_
+8	reme	reme	ADP	pp	_	7	case	_	_
 
 # sent_id = book 3-4
 # text = Marã ojkóβope tekoaŋgaipaβa ʔóki?	
@@ -135,19 +135,19 @@
 4-5	tekoaŋgaipaβa	_	_	_	_	_	_	_	_
 4	eko	eko	NOUN	n	_	5	nmod	5:nmod	_
 5	angaipaβ	amgaipaβ	NOUN	n	_	6	nmod	6:nmod	_
-6	ʔóki	ʔók	NOUN	n	_	2	advmod	2:advmod	_
+6	ʔóki	ʔók	NOUN	n	_	2	advmod	0:root|2:advmod	_
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_ID = book 3-5
 # text =  Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe?	
 # text_eng = Was it through his death, that God the father rescued/forgave us all?
-1	Seʔõawera	seʔõ	NOUN	_	_	3	nmod	3:nmod	_
-2	resépe	esé	ADP	_	_	3	case	3:case	_
-3	Tupã	Tupã	NOUN	_	_	5	nsubj	5:nsubj	_
-4	Tuβa	uβ	NOUN	_	_	3	nmod	3:nmod	_
-5	ɲɨrõkatúramo	ɲɨrõkatú	VERB	_	_	0	root	0:root	_
-6	aséβe	asé	PRON	_	_	5	iobj	5:iobj	_
-7	?	?	PUNCT	_	_	5	punct	5:punct	_
+1	Seʔõawera	seʔõ	NOUN	n	_	3	nmod	3:nmod	_
+2	resépe	esé	ADP	pp	_	3	case	3:case	_
+3	Tupã	Tupã	NOUN	n	_	5	nsubj	5:nsubj	_
+4	Tuβa	uβ	NOUN	n	_	3	nmod	3:nmod	_
+5	ɲɨrõkatúramo	ɲɨrõkatú	VERB	vi	_	0	root	0:root	_
+6	aséβe	asé	PRON	pro	_	5	iobj	5:iobj	_
+7	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_ID = book 3-6
 # text = Seʔõawera resé.	
@@ -161,36 +161,36 @@
 # sent_ID = book 3-7
 # text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?	
 # text_port = Was it by his own will that he surrendered to his future enemies being peaceful?
-1	O	o	PRON	_	_	2	nmod	2:nmod	_
-2	emimotárɨβo	emimotar	NOUN	_	Case=Loc	_	_	_	_
-3	e	e	PART	_	_	2	discourse	2:discourse	_
-4	pe	pe	PART	_	_	2	discourse	2:discourse	_
-5	erimbaʔe	erimbaʔe	ADV	_	_	7	advmod	7:advmod	_
-6	i	i	PRON	_	_	7	nsubj	7:nsubj	_
-7	ɲemeʔẽngi	ɲemeʔẽng	VERB	_	_	_	_	_	_
-8	og	o	PRON	_	_	9	nmod	9:nmod	_
-9	upjarama	upjar	NOUN	_	_	7	obl	7:obl	_
-10	supé	supé	ADP	_	_	9	case	9:case	_
-11	oɲeraneʔɨma	oɲeran	NOUN	_	_	7	acl	7:acl	_
-12	?	?	PUNCT	_	_	2	punct	2:punct	_
+1	O	o	PRON	pro	_	2	nmod	_	_
+2	emimotárɨβo	emimotar	NOUN	n	Case=Loc	_	_	_	_
+3	e	e	PART	pcl	_	2	discourse	_	_
+4	pe	pe	PART	pcl	_	2	discourse	_	_
+5	erimbaʔe	erimbaʔe	ADV	adv	_	7	advmod	_	_
+6	i	i	PRON	pro	_	7	nsubj	_	_
+7	ɲemeʔẽngi	ɲemeʔẽng	VERB	v	_	0	root	_	_
+8	og	o	PRON	pro	_	9	nmod	_	_
+9	upjarama	upjar	NOUN	n	_	7	obl	_	_
+10	supé	supé	ADP	pp	_	9	case	_	_
+11	oɲeraneʔɨma	oɲeran	NOUN	n	_	7	acl	_	_
+12	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_ID = book 3-8
 # text = O emimotárɨβo é.	
 # text_port = It was in fact by his own will
-1	O	o	PRON	_	_	2	nmod	2:nmod	_
-2	emimotárɨβo	emimotár	NOUN	_	_	0	root	0:root	_
-3	é	é	PART	_	_	2	_	2	_
+1	O	o	PRON	pro	Reflex=yes	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	n	_	0	root	0:root	_
+3	é	é	PART	pcl	_	2	_	2	_
 
 # sent_ID = book 3-9
 # text= Ojpotakatupe o eʔõawera resé asé maʔendwara?	
 # text_port = Did he really want people to remember his death?
-1	Ojpotakatupe	potar	VERB	_	_	_	_	_	_
-2	o	o	PRON	_	_	3	det	3:det	_
-3	eʔõawera	eʔõa	NOUN	_	_	6	nmod	6:nmod	_
-4	resé	esé	ADP	_	_	3	case	3:case	_
-5	asé	asé	PRON	_	_	6	det	6:det	_
+1	Ojpotakatupe	potar	VERB	vt	_	0	root	0:root	_
+2	o	o	PRON	pro	_	3	det	3:det	_
+3	eʔõawera	eʔõa	NOUN	n	_	6	nmod	6:nmod	_
+4	resé	esé	ADP	pp	_	3	case	3:case	_
+5	asé	asé	PRON	pro	_	6	det	6:det	_
 6	maʔendwara	maʔendwar	NOUN	_	_	1	obl	1:obl	_
-7	.	.	PUNCT	_	_	1	punct	1:punct	_
+7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_ID = book 3-10
 # text= Ojpotakatu: Sesé o maʔendwáramo é asé Tupã rawsúbi o pɨʔape abɨpotareʔɨma.	
