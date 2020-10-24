@@ -349,35 +349,35 @@
 
 # sent_ID = book 6 p 97 6
 # text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβák[ɨ]pe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono. 
-# text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your goint to the devil's fire
+# text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your going to the devil's fire
 1	Mbaʔeeté	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aɲẽ	aɲẽ	ADV	adv	_	1	advmod	1:advmod	_
-3	ɲemombeʔu	_	NOUN	n	_	_	_	_	_
+3	ɲemombeʔu	_	NOUN	n	_	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5-6	jandéʔanga	_	NOUN	n	_	6	nmod	6:nmod	_
+5-6	jandéʔanga	_	_	_	_	_	_	_	_
 5	jandé	jandé	PRON	pro	_	6	nmod	6:nmod	_
-6	ʔanga	ʔanga	NOUN	n	_	6	nmod	6:nmod	_
-7	posãngamo	posãng	NOUN  n	_	8	nmod	8:nmod	_
-8	Tupã	tupã	NOUN	n	_	8	nmod	8:nmod	_
+6	ʔanga	ʔanga	NOUN	n	_	7	nmod	7:nmod	_
+7	posãngamo	posãng	NOUN	n	Case=Tra	_	_	_	_
+8	Tupã	tupã	NOUN	n	_	9	nmod	9:nmod	_
 9	remimoɲangwera	emimoɲang	NOUN	n	_	3	appos	3:appos	_
 10	,	,	PUNCT	punct	_	3	punct	3:punct	_
-11	ikó	ikó	DET	dem	_	11	det	11:det	_
-12	ʔara	ʔar	NOUN	n	_	14	nmod	14:nmod	_
-13	pupé	pupé	ADP	pp	_	11	case	11:case	_
-14	o	o	PRON	pro	Reflex=Yes	14	nmod	14:nmod	_
-15	moɲɨrõsáβamo	n	NOUN	_	_	8	conj	8:conj	_
-16	,	,	PUNCT	punct	_	14	punct	14:punct	_
-17	ɨβákupe	ɨβá	NOUN	n	_	18	nmod	18:nmod	_
-18	asé	asé	PRON	pro	_	18	nmod	18:nmod	_
-19	soáβamo	_	NOUN	n	_	14	conj	14:conj	_
+11	ikó	ikó	DET	dem	_	12	nmod	12:nmod	_
+12	ʔara	ʔar	NOUN	n	_	15	nmod	15:nmod	_
+13	pupé	pupé	ADP	pp	_	12	case	12:case	_
+14	o	o	PRON	pro	Reflex=Yes	15	nmod	15:nmod	_
+15	moɲɨrõsáβamo	n	NOUN	n	Case=Tra	3	appos	3:appos	_
+16	,	,	PUNCT	punct	_	15	punct	15:punct	_
+17	ɨβákupe	ɨβá	NOUN	n	Case=	19	nmod	19:nmod	_
+18	asé	asé	PRON	pro	_	19	nmod	19:nmod	_
+19	soáβamo	_	NOUN	n	Case=Tra	3	appos	3:appos	_
 20	,	,	PUNCT	punct	_	18	punct	18:punct	_
-21	aɲanga	aɲang	NOUN	n	_	21	nmod	21:nmod	_
-22	ratápe	_	NOUN	n	_	22	nmod	22:nmod	_
-23-24	ndesorambwera	_	NOUN	n	_	23	nmod	23:nmod	_
+21	aɲanga	aɲang	NOUN	n	_	22	nmod	22:nmod	_
+22	ratápe	_	NOUN	n	_	24	nmod	24:nmod	_
+23-24	ndesorambwera	_	_	_	_	_	_	_	_
 23	nde	nde	PRON	pro	PronType=Prs	_	_	_	_
-24	sorambwera	so	NOUN	n	_	_	_	_	_
-25	morambwesáβamono	_	NOUN	n	_	18	conj	18:conj	_
-26	.	.	PUNCT	punct	_	23	punct	23:punct	_
+24	sorambwera	so	NOUN	n	_	25	nmod	25:nmod	_
+25	morambwesáβamono	_	NOUN	n	Case=Tra	3	appos	3:appos	_
+26	.	.	PUNCT	punct	_	25	punct	25:punct	_
 
 
 
