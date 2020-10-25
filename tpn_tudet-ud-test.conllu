@@ -374,7 +374,7 @@
 21	aɲanga	aɲang	NOUN	n	_	22	nmod	22:nmod	_
 22	ratápe	_	NOUN	n	_	24	nmod	24:nmod	_
 23-24	ndesorambwera	_	_	_	_	_	_	_	_
-23	nde	nde	PRON	pro	PronType=Prs	_	_	_	_
+23	nde	nde	PRON	pro	PronType=Prs	24	nmod	24:nmod	_
 24	sorambwera	so	NOUN	n	_	25	nmod	25:nmod	_
 25	morambwesáβamono	_	NOUN	n	Case=Tra	3	appos	3:appos	_
 26	.	.	PUNCT	punct	_	25	punct	25:punct	_
