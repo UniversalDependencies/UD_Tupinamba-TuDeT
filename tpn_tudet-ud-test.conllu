@@ -1,8 +1,8 @@
 # document_title = Catecismo Araújo
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
-# document_reference = Araujo_1618 
+# document_reference = Araujo_1618
 
-# Sent_ID = 1 
+# Sent_ID = 1
 # text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
@@ -16,7 +16,7 @@
 9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
 10	taʔɨra	taʔɨr	NOUN	n	_	_	_	_	_
 11	o	o	PRON	pro	_	12	nmod	12:nmod	_
-12	sɨ	sɨ	NOUN	n	_	15	nmod	15:nmod	_
+12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
 14	i	i	PRON	pro	Poss=Yes	15	nmod	15:nmod	_
 15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
@@ -29,7 +29,7 @@
 22	mondoki	_	NOUN	n	_	7	advcl	7:advcl	_
 23	.	.	PUNCT	punct	_	22	punct	22:punct	_
 
-# Sent_ID = 1 
+# Sent_ID = 1
 # text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
 1	Ã	ã	PART	part	_	2	discourse	2:discourse	_
@@ -43,7 +43,7 @@
 9	seramo	seramo	NOUN	n	Case=Tra|Poss=Yes	7	obl	7:obl	_
 10	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
-# sent_id = 3 
+# sent_id = 3
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo o sɨ rɨgé swi Tupã taʔɨra ʔar ’iré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé Tupã remimoɲanga pɨsasu pe ʔiaramo.
 # text_eng = When the thirteenth day came, after god the son as a man was born from his mother's womb, three chiefs, said (to be) kings, who came from the side of the rising (coming out of) the sun, by the leading star, new god made thing indicating the way 6 January
 1	Opa	opa	PRON	pro	_	3	det	3:det	_
@@ -87,7 +87,7 @@
 39	jaramo	jaramo	NOUN	n	Case=Tra	36	nmod	36:nmod	_
 40	.	.	Punct	punct	_	36	punct	36:punct	_
 
-# sent_id = 4 
+# sent_id = 4
 # text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	mbaʔepe	_	_	_	_	_	_	_	_
