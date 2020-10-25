@@ -74,7 +74,7 @@
 26	sembaβa	sem	NOUN	n	_	27	nmod	27:nmod	_
 27	kotɨ	kotɨ	NOUN	n	_	29	nmod	29:nmod	_
 28	swi	swi	ADP	pp	_	27	case	27:case	_
-29	ourɨβaʔe	ur	VERB	v	Person[subj]=3|VerbForm=Rel	20	appos	20:appos	_
+29	ourɨβaʔe	ur	VERB	v	Person=3|VerbForm=Rel	20	appos	20:appos	_
 30	,	,	PUNCT	punct	_	29	punct	29:punct	_
 31	jasɨtatá	jasɨtatá	NOUN	n	_	29	obl	29:obl	_
 32	serekoarama	erekoar	NOUN	n	_	31	nmod	31:nmod	_
@@ -336,7 +336,7 @@
 30	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 22
-# text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: a[w]jekatu ipó.
+# text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: awjekatu ipó.
 # text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good! book 6 p 97 5
 1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
 2	ipó	_	ADV	_	_	1	advmod	_	_
@@ -348,7 +348,7 @@
 8	ipó	_	ADV	_	_	7	dep	_	_
 
 # sent_id = 23
-# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβák[ɨ]pe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
+# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβákɨpe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
 # text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your going to the devil's fire book 6 p 97 6
 1	Mbaʔeeté	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aɲẽ	aɲẽ	ADV	adv	_	1	advmod	1:advmod	_
