@@ -82,7 +82,7 @@
 34	,	,	PUNCT	punct	_	32	punct	32:punct	_
 35	Tupã	tupã	NOUN	n	_	36	nmod	36:nmod	_
 36	remimoɲanga	_	NOUN	n	_	31	appos	31:appos	_
-37	pɨsasu	pɨsasu	NOUN	_	_	36	nmod	36:nmod	_
+37	pɨsasu	pɨsasu	NOUN	n	_	36	nmod	36:nmod	_
 38	pe	pe	NOUN	n	_	39	nmod	39:nmod	_
 39	jaramo	jaramo	NOUN	n	Case=Tra	36	nmod	36:nmod	_
 40	.	.	Punct	punct	_	36	punct	36:punct	_
@@ -189,7 +189,7 @@
 3	eʔõawera	eʔõa	NOUN	n	_	6	nmod	6:nmod	_
 4	resé	esé	ADP	pp	_	3	case	3:case	_
 5	asé	asé	PRON	pro	_	6	det	6:det	_
-6	maʔendwara	maʔendwar	NOUN	_	_	1	obl	1:obl	_
+6	maʔendwara	maʔendwar	NOUN	n	_	1	obl	1:obl	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 13
@@ -203,15 +203,15 @@
 # sent_id = 15
 # text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.
 # text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament book 3-12
-1	Ombaʔeʔu	mbaʔeʔu	VERB	_	_	0	root	0:root	_
-2	wemimboʔeetá	emimboʔe	NOUN	_	_	_	_	_	_
-3	pɨri	pɨri	ADP	_	_	2	case	2:case	_
-4	karúkeme	karúk	ADV	_	_	1	advmod	1:advmod	_
-5	,	,	PUNCT	_	_	1	punct	1:punct	_
-6	Santo-Sacramento	_	NOUN	_	_	_	_	_	_
-7	meʔenga	meʔeŋ	_	_	_	_	_	_	_
-8	janondé	janondé	ADP	_	_	_	_	_	_
-9	.	.	PUNCT	_	_	_	_	_	_
+1	Ombaʔeʔu	mbaʔeʔu	VERB	v	_	0	root	0:root	_
+2	wemimboʔeetá	emimboʔe	NOUN	n	_	_	_	_	_
+3	pɨri	pɨri	ADP	pp	_	2	case	2:case	_
+4	karúkeme	karúk	ADV	adv	_	1	advmod	1:advmod	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	Santo-Sacramento	Santo-Sacramento	NOUN	n	_	_	_	_	_
+7	meʔenga	meʔeŋ	VERB	v	_	_	_	_	_
+8	janondé	janondé	ADP	pp	_	_	_	_	_
+9	.	.	PUNCT	punct	_	_	_	_	_
 
 # sent_id = 16
 # text = mamõ pe i ʃow o mbaʔeʔupaβ iré?
@@ -241,18 +241,18 @@
 # sent_id = 18
 # text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema
 # text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
-1	Sorɨβeté	orɨβ	VERB	_	_	0	root	0:root	_
-2	rakó	rakó	PART	_	_	1	advmod	1:advmod	_
-3	aβá	aβá	NOUN	_	_	1	nsubj	1:nsubj	_
-4	tegwama	_	NOUN	_	_	5	nmod	5:nmod	_
-5	porarasara	_	NOUN	_	_	3	amod	3:amod	_
-6	moroposanongara	moroposanong	NOUN	_	_	12	obj	12:obj	_
-7	mosanga	posaŋ	NOUN	_	_	10	nmod	10:nmod	_
-8	tekoβé	teko	NOUN	_	_	9	nmod	9:nmod	_
-9	jara	jara	NOUN	_	_	7	nmod	7:nmod	_
-10	rerekoara	ereko	NOUN	_	_	6	nmod	6:nmod	_
-11	supé	supé	ADP	_	_	6	case	6:case	_
-12	ogwasema	gwasem	VERB	_	_	1	xcomp	1:xcomp	_
+1	Sorɨβeté	orɨβ	VERB	v	_	0	root	0:root	_
+2	rakó	rakó	PART	pcl	_	1	advmod	1:advmod	_
+3	aβá	aβá	NOUN	n	_	1	nsubj	1:nsubj	_
+4	tegwama	_	NOUN	n	_	5	nmod	5:nmod	_
+5	porarasara	_	NOUN	n	_	3	amod	3:amod	_
+6	moroposanongara	moroposanong	NOUN	n	_	12	obj	12:obj	_
+7	mosanga	posaŋ	NOUN	n	_	10	nmod	10:nmod	_
+8	tekoβé	teko	NOUN	n	_	9	nmod	9:nmod	_
+9	jara	jara	NOUN	n	_	7	nmod	7:nmod	_
+10	rerekoara	ereko	NOUN	n	_	6	nmod	6:nmod	_
+11	supé	supé	ADP	pp	_	6	case	6:case	_
+12	ogwasema	gwasem	VERB	v	_	1	xcomp	1:xcomp	_
 
 # sent_id = 19
 # text = aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswí, ʃemombwerápane reá, ojaβo.
@@ -264,88 +264,88 @@
 5	ojmoariβeukar	moariβ	VERB	vt	_	0	root	0:root	_
 6	ʃeswí	ʃe	PRON	pro	_	5	obl	5:obl	_
 7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	ʃemombwerápane	mombwe	NOUN	_	_	5	advmod	5:advmod	_
+8	ʃemombwerápane	mombwe	NOUN	n	_	5	advmod	5:advmod	_
 9	reá	reá	PART	pcl	_	5	discourse	5:discourse	_
 10	,	,	PUNCT	punct	_	5	punct	5:punct	_
-11	oʔjaβo	oʔjaβ	VERB	_	_	5	advcl	5:advcl	_
+11	oʔjaβo	oʔjaβ	VERB	v	_	5	advcl	5:advcl	_
 12	.	.	PUNCT	punct	_	11	punct	11:punct	_
 
 # sent_id = 20
 # text = Memẽtipó ɲemongaraiβɨpɨra tekokatu aβɨara pecado Tupã ɲeʔenga abɨ tegwama jaba pupé o ʔanga juká rojré, aβaré mosanga tekoβeeté asé ʔanga mombwerasaβa rerekoara supé ogwasema, sorɨβetéwne
 # text_eng = Even more the baptized that turns away/deviates from the good life/well acting/well living life, after killing his own soul with a sin/sins, deviating from the word of God, called mortal wound, encountering the priest, carrier of the medicine which is real life, mean/way of healing people's souls, greatly rejoyces, saying: book 6 p97 3
 1	Memẽtipó	memẽtipó	SCONJ	_	_	27	advmod	27:advmod	_
-2	ɲemongaraiβɨpɨra	mongaraiβ	NOUN	_	_	25	obl	25:obl|27:nsubj	_
-3	tekokatu	teko	NOUN	_	_	4	nmod	4:nmod	_
-4	aβɨara	aβɨar	NOUN	_	_	2	nmod	2:nmod	_
-5	pecado	pecado	NOUN	_	_	_	_	_	_
-6	Tupã	Tupã	NOUN	_	_	7	nmod	7:nmod	_
-7	ɲeʔenga	ɲeʔeŋ	NOUN	_	_	8	nmod	8:nmod	_
-8	aβɨ	aβɨ	NOUN	_	_	_	_	_	_
-9	tegwama	tegwam	NOUN	_	_	5	appos	5:appos	_
-10	jaβa	jaβa	NOUN	_	_	9	nmod	9:nmod	_
-11	pupé	pupé	ADP	_	_	5	case	5:case	_
+2	ɲemongaraiβɨpɨra	mongaraiβ	NOUN	n	_	25	obl	25:obl|27:nsubj	_
+3	tekokatu	teko	NOUN	n	_	4	nmod	4:nmod	_
+4	aβɨara	aβɨar	NOUN	n	_	2	nmod	2:nmod	_
+5	pecado	pecado	NOUN	n	_	_	_	_	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	ɲeʔenga	ɲeʔeŋ	NOUN	n	_	8	nmod	8:nmod	_
+8	aβɨ	aβɨ	NOUN	n	_	_	_	_	_
+9	tegwama	tegwam	NOUN	n	_	5	appos	5:appos	_
+10	jaβa	jaβa	NOUN	n	_	9	nmod	9:nmod	_
+11	pupé	pupé	ADP	pp	_	5	case	5:case	_
 12	o	o	PRON	_	_	13	amod	13:amod	_
-13	ʔanga	ʔaŋ	NOUN	_	_	14	nmod	14:nmod	_
-14	juká	juká	NOUN	_	_	_	_	_	_
-15	rojré	rojré	ADP	_	_	14	case	14:case	_
-16	,	,	PUNCT	_	_	14	punct	14:punct	_
-17	aβaré	aβaré	NOUN	_	_	25	obl	25:obl	_
-18	mosanga	mosaŋ	NOUN	_	Animacy=Hum	23	nmod	23:nmod	_
-19	tekoβeeté	tekoβe	NOUN	_	_	18	appos	18:appos	_
+13	ʔanga	ʔaŋ	NOUN	n	_	14	nmod	14:nmod	_
+14	juká	juká	NOUN	n	_	_	_	_	_
+15	rojré	rojré	ADP	pp	_	14	case	14:case	_
+16	,	,	PUNCT	punct	_	14	punct	14:punct	_
+17	aβaré	aβaré	NOUN	n	_	25	obl	25:obl	_
+18	mosanga	mosaŋ	NOUN	n	Animacy=Hum	23	nmod	23:nmod	_
+19	tekoβeeté	tekoβe	NOUN	n	_	18	appos	18:appos	_
 20	asé	asé	PRON	_	_	21	amod	21:amod	_
-21	ʔanga	ʔang	NOUN	_	_	22	nmod	22:nmod	_
-22	mombwerasaβa	mombwer	NOUN	_	_	18	nmod	18:nmod	_
-23	rerekoara	erekoar	NOUN	_	_	17	nmod	17:nmod	_
-24	supé	supé	ADP	_	_	17	case	17:case	_
-25	ogwasema	gwasem	VERB	_	_	_	_	_	_
-26	,	,	PUNCT	_	_	25	punct	25:punct	_
-27	sorɨβetéwne	orɨβ	VERB	_	_	_	_	_	_
+21	ʔanga	ʔang	NOUN	n	_	22	nmod	22:nmod	_
+22	mombwerasaβa	mombwer	NOUN	n	_	18	nmod	18:nmod	_
+23	rerekoara	erekoar	NOUN	n	_	17	nmod	17:nmod	_
+24	supé	supé	ADP	pp	_	17	case	17:case	_
+25	ogwasema	gwasem	VERB	v	_	_	_	_	_
+26	,	,	PUNCT	punct	_	25	punct	25:punct	_
+27	sorɨβetéwne	orɨβ	VERB	v	_	_	_	_	_
 
 # sent_id = 21
-# text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar iʃéβene, ojaβo, iʃéβe Tupã moɲɨrõmone, ojaβo.
+# text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar iʃéβene, ojaβo, ixéβe Tupã moɲɨrõmone, ojaβo.
 # text_eng = Being/acting as substitute/representative of god, certainly, when I confess my sins, when I regret them, sincerely hating them, he will give me back the former life of my soul, which I lost, saying: "God will forgive me".book 6 p 97 4 
-1	aʔe	_	PART	_	_	_	_	_	_
-2	ipó	_	_	_	_	_	_	_	_
-3	Tupã	_	NOUN	_	_	4	nmod	4:nmod	_
-4	rekoβjáramo	_	NOUN	_	_	5	obl	5:obl	_
-5	ojkóβo	_	VERB	_	_	20	ccomp	20:ccomp	_
-6	ojoupé	_	ADP	_	_	_	_	_	_
-7	ʃeangaipaβa	_	NOUN	_	_	10	nmod	10:nmod	_
+1	aʔe	aʔe	PART	pcl	_	_	_	_	_
+2	ipó	ipó	_	_	_	_	_	_	_
+3	Tupã	tupã	NOUN	n	_	4	nmod	4:nmod	_
+4	rekoβjáramo	_	NOUN	n	_	5	obl	5:obl	_
+5	ojkóβo	ojkó	VERB	v	_	20	ccomp	20:ccomp	_
+6	ojoupé	ojoupé	ADP	pp	_	_	_	_	_
+7	ʃeangaipaβa	_	NOUN	n	_	10	nmod	10:nmod	_
 8	iʃé	iʃé	PRON	_	_	10	dislocated	10:dislocated	_
 9	i	i	PRON	_	_	10	nmod	10:nmod	_
-10	mombeʔúreme	_	VERB	_	_	20	advmod	20:advmod	_
-11	,	,	PUNCT	_	_	10	punct	10:punct	_
-12	iʃé	_	PRON	_	_	14	nmod	14:nmod	_
-13	i	_	PRON	_	_	14	nmod	14:nmod	_
-14	moasɨkatúreme	_	VERB	_	_	20	advmod	20:advmod	_
-15	,	,	PUNCT	_	_	14	punct	14:punct	_
-16	seroɨrõngatúreme	_	NOUN	_	_	20	advmod	20:advmod	_
-17	ʃeʔanga	_	NOUN	_	_	18	nmod	18:nmod	_
-18	rekoβepwera	_	NOUN	_	_	20	obl	20:obl	_
-19	ʃeremimokaɲẽgwera	_	NOUN	_	_	18	appos	18:appos	_
-20	ojmojeβɨrukar	_	VERB	_	_	0	root	0:root	_
-21	ixéβene	_	PRON	_	_	20	obl	20:obl	_
-22	,	,	PUNCT	_	_	20	punct	20:punct	_
-23	ojaβo	_	VERB	_	_	_	_	_	_
-24	,	,	PUNCT	_	_	_	_	_	_
-25	ixéβe	_	PRON	_	_	_	_	_	_
-26	Tupã	_	NOUN	_	_	_	_	_	_
-27	moɲɨrõmone	_	VERB	_	_	_	_	_	_
-28	,	,	PUNCT	_	_	_	_	_	_
-29	ojaβo	_	VERB	_	_	_	_	_	_
-30	.	.	PUNCT	_	_	_	_	_	_
+10	mombeʔúreme	_	VERB	v	_	20	advmod	20:advmod	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	iʃé	iʃé	PRON	_	_	14	nmod	14:nmod	_
+13	i	i	PRON	_	_	14	nmod	14:nmod	_
+14	moasɨkatúreme	moasɨkatú	VERB	v	_	20	advmod	20:advmod	_
+15	,	,	PUNCT	punct	_	14	punct	14:punct	_
+16	seroɨrõngatúreme	eroɨrõn	NOUN	n	_	20	advmod	20:advmod	_
+17	ʃeʔanga	ʔanga	NOUN	n	_	18	nmod	18:nmod	_
+18	rekoβepwera	ekoβe	NOUN	n	_	20	obl	20:obl	_
+19	ʃeremimokaɲẽgwera	remimokaɲẽ	NOUN	n	_	18	appos	18:appos	_
+20	ojmojeβɨrukar	mojeβɨr	VERB	v	_	0	root	0:root	_
+21	iʃéβene	iʃéβene	PRON	_	_	20	obl	20:obl	_
+22	,	,	PUNCT	punct	_	20	punct	20:punct	_
+23	ojaβo	ojaβo	VERB	v	_	_	_	_	_
+24	,	,	PUNCT	punct	_	_	_	_	_
+25	iʃéβe	iʃé	PRON	_	_	_	_	_	_
+26	Tupã	tupã	NOUN	n	_	_	_	_	_
+27	moɲɨrõmone	moɲɨrõ	VERB	v	_	_	_	_	_
+28	,	,	PUNCT	punct	_	_	_	_	_
+29	ojaβo	ojaβo	VERB	v	_	_	_	_	_
+30	.	.	PUNCT	punct	_	_	_	_	_
 
 # sent_id = 22
 # text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: awjekatu ipó.
 # text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good! book 6 p 97 5
-1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	4:advcl	_
-2	ipó	_	ADV	_	_	1	advmod	1:advmod	_
-3	enhemombegwabo	_	VERB	_	VerbForm=Ger	4	advcl	4:advcl	_
-4	erejur	_	VERB	_	|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	_
-5	ʃeraʔɨrĩ	_	NOUN	_	_	4	obl	4:obl	_
-6	gwé:	_	PART	_	_	4	discourse	4:discourse	_
-7	awjekatu	_	INTJ	_	_	4	advcl	4:advcl	_
-8	ipó	_	ADV	_	_	7	dep	7:dep	_
+1	Ejabo	'e'	VERB	v	VerbForm=Ger	4	advcl	_	_
+2	ipó	ipó	ADV	adv	_	1	advmod	_	_
+3	enhemombegwabo	_	VERB	v	VerbForm=Ger	4	advcl	_	_
+4	erejur	jur	VERB	v	|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+5	ʃeraʔɨrĩ	raʔɨr	NOUN	n	_	4	obl	_	_
+6	gwé	gwé	PART	pcl	_	4	discourse	_	_
+7	awjekatu	awjekatu	INTJ	intj	_	4	advcl	_	_
+8	ipó	ipó	ADV	adv	_	7	dep	_	_
 
 # sent_id = 23
 # text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβákɨpe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
