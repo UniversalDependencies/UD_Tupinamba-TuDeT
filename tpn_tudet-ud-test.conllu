@@ -3,7 +3,7 @@
 # document_reference = Araujo_1618
 
 # Sent_ID = 1
-# text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
+# text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swi i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
 2	ojoirundɨk	ojoirundɨk	NUM	num	NumType=Card	6	nummod	6:nummod	_
@@ -27,4 +27,3 @@
 20	i	_	PRON	pro	Poss=Yes	21	nmod	21:nmod	_
 21	ʔapira	_	NOUN	n	_	22	nmod	22:nmod	_
 22	mondoki	_	NOUN	n	_	7	advcl	7:advcl	_
-23	.	.	PUNCT	punct	_	22	punct	22:punct	_
