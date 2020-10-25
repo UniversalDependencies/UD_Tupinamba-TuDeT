@@ -2,9 +2,9 @@
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
 # document_reference = Araujo_1618 
 
-# Sent_ID = 1 January 1
+# Sent_ID = 1 
 # text = Mokõj ojoirundɨk, oito, ʔara sɨkeme, Tupã taʔɨra o sɨ swí i ʔar’iré, judeus ekomoɲangáβo i ʔapira mondoki.
-# text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews
+# text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
 2	ojoirundɨk	ojoirundɨk	NUM	num	NumType=Card	6	nummod	6:nummod	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
@@ -29,9 +29,9 @@
 22	mondoki	_	NOUN	n	_	7	advcl	7:advcl	_
 23	.	.	PUNCT	punct	_	22	punct	22:punct	_
 
-# Sent_ID = 1 January 2
+# Sent_ID = 1 
 # text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
-# text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus
+# text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
 1	Ã	ã	PART	part	_	2	discourse	_	_
 2	tekó	tekó	NOUN	n	Poss=Yes	0	root	_	_
 3	aʔereme	aʔe	ADV	adv	_	2	advmod	_	_
@@ -43,9 +43,9 @@
 9	seramo	seramo	NOUN	n	Case=Tra|Poss=Yes	7	obl	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_ID = 6 January
+# sent_ID = 3 
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo o sɨ rɨgé swi Tupã taʔɨra ʔar ’iré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé Tupã remimoɲanga pɨsasu pe ʔiaramo.
-# text_eng = When the thirteenth day came, after god the son as a man was born from his mother's womb, three chiefs, said (to be) kings, who came from the side of the rising (coming out of) the sun, by the leading star, new god made thing indicating the way
+# text_eng = When the thirteenth day came, after god the son as a man was born from his mother's womb, three chiefs, said (to be) kings, who came from the side of the rising (coming out of) the sun, by the leading star, new god made thing indicating the way 6 January
 1	Opa	opa	PRON	pro	_	3	det	3:det	_
 2	ko	ko	DET	dem	_	3	det	3:det	_
 3	mbo	po	NOUN	n	Poss=Yes	5	nummod	5:nummod	_
@@ -87,9 +87,9 @@
 39	jaramo	jaramo	NOUN	n	Case=Tra	36	nmod	36:nmod	_
 40	.	.	Punct	punct	_	36	punct	36:punct	_
 
-# sent_id = book 3-1
-# text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?	
-# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God?
+# sent_id = 4 
+# text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo?
+# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	mbaʔepe	_	_	_	_	_	_	_	_
 1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
@@ -102,18 +102,18 @@
 8	potasáβamo	pota	NOUN	n	Case=Tra	5	advcl	5:advcl	_
 9	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = book 3-2
-# text = jandejara Jesus Cristo reʔõagwera.	
-# text_port = The death of our lord JC.
+# sent_id = 5
+# text = jandejara Jesus Cristo reʔõagwera.
+# text_port = The death of our lord JC.  book 3-2
 1-2	jandéjara	_	_	_	_	_	_	_	_
 1	jandé	jandé	PRON	pro	PronType=Prs	2	dep	2:dep	_
 2	jara	jara	NOUN	n	_	3	appos	3:appos	_
 3	Jesus-Cristo	jesus	PROPN	pn	_	4	nmod	4:nmod	_
 4	reʔõawera	reʔõ	NOUN	n	Tense=Pas	0	root	0:root	_
 
-# sent_id = book 3-3
+# sent_id = 6
 # text = Tekoangajpaβokáramo jandé jara Jesus Cristo rekóreme.	
-# text_eng = For being our lord JC the one who pulls out /rips the sins.
+# text_eng = For being our lord JC the one who pulls out /rips the sins.  book 3-3
 1-3	Tekoangajpaβokáramo	_	_	_	_	_	_	_	_
 1	eko	eko	NOUN	n	_	3	nmod	_	_
 2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	_	_
@@ -126,9 +126,9 @@
 7	reko	rekó	NOUN	N	_	5	nmod	_	_
 8	reme	reme	ADP	pp	_	7	case	_	_
 
-# sent_id = book 3-4
-# text = Marã ojkóβope tekoaŋgaipaβa ʔóki?	
-# text_eng = Acting how did he remove the bad habits?
+# sent_id = 7
+# text = Marã ojkóβope tekoaŋgaipaβa ʔóki?
+# text_eng = Acting how did he remove the bad habits? book 3-4
 1	Marã	marã	PRON	pro	_	2	advmod	2:advmod	_
 2	ojkóβo	ojkó	VERB	vi	|Number=Sing|Person=3|VerbForm=Ger	_	_	_	_
 3	pe	pe	PART	qprt	_	2	discourse	2:discourse	_
@@ -138,9 +138,9 @@
 6	ʔóki	ʔók	NOUN	n	_	2	advmod	0:root|2:advmod	_
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_ID = book 3-5
-# text =  Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe?	
-# text_eng = Was it through his death, that God the father rescued/forgave us all?
+# sent_ID = 8
+# text =  Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe?
+# text_eng = Was it through his death, that God the father rescued/forgave us all? book 3-5
 1	Seʔõawera	seʔõ	NOUN	n	_	3	nmod	3:nmod	_
 2	resépe	esé	ADP	pp	_	3	case	3:case	_
 3	Tupã	Tupã	NOUN	n	_	5	nsubj	5:nsubj	_
@@ -149,18 +149,18 @@
 6	aséβe	asé	PRON	pro	_	5	iobj	5:iobj	_
 7	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
-# sent_ID = book 3-6
-# text = Seʔõawera resé.	
-# text_port = Through his death.
+# sent_ID = 9
+# text = Seʔõawera resé.
+# text_port = Through his death.book 3-6
 1	s	_	PRON	pro	_	2	nmod	2:nmod	_
 2-3	eʔõawera	_	_	_	_	_	_	_	_
 2	 eʔõ	eʔõ	NOUN	n	_	3	nmod	3:nmod	_
 3	 wera	wer	NOUN	n	_	_	_	_	_
 4	resé	resé	ADP	pp	_	3	case	3:case	_
 
-# sent_ID = book 3-7
-# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?	
-# text_port = Was it by his own will that he surrendered to his future enemies being peaceful?
+# sent_ID = 10
+# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?
+# text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
 1	O	o	PRON	pro	_	2	nmod	_	_
 2	emimotárɨβo	emimotar	NOUN	n	Case=Loc	_	_	_	_
 3	e	e	PART	pcl	_	2	discourse	_	_
@@ -174,16 +174,16 @@
 11	oɲeraneʔɨma	oɲeran	NOUN	n	_	7	acl	_	_
 12	?	?	PUNCT	punct	_	2	punct	_	_
 
-# sent_ID = book 3-8
-# text = O emimotárɨβo é.	
-# text_port = It was in fact by his own will
+# sent_ID = 11
+# text = O emimotárɨβo é.
+# text_port = It was in fact by his own will book 3-8
 1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
 2	emimotárɨβo	emimotár	NOUN	n	_	0	root	0:root	_
 3	é	é	PART	pcl	_	2	_	2	_
 
-# sent_ID = book 3-9
-# text= Ojpotakatupe o eʔõawera resé asé maʔendwara?	
-# text_port = Did he really want people to remember his death?
+# sent_ID = 12
+# text= Ojpotakatupe o eʔõawera resé asé maʔendwara?
+# text_port = Did he really want people to remember his death?book 3-9
 1	Ojpotakatupe	potar	VERB	vt	_	0	root	0:root	_
 2	o	o	PRON	pro	_	3	det	3:det	_
 3	eʔõawera	eʔõa	NOUN	n	_	6	nmod	6:nmod	_
@@ -192,17 +192,17 @@
 6	maʔendwara	maʔendwar	NOUN	_	_	1	obl	1:obl	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_ID = book 3-10
+# sent_ID = 13
 # text= Ojpotakatu: Sesé o maʔendwáramo é asé Tupã rawsúbi o pɨʔape abɨpotareʔɨma.	
-# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail.
+# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10
 
-# sent_ID = book 3-11
-# Marãpe erimbaʔe seków, o e'õjanondé o ekoawjéramo?	
-# How did he act/what did he do, before dying, being ready?
+# sent_ID = 14
+# Marãpe erimbaʔe seków, o e'õjanondé o ekoawjéramo?
+# How did he act/what did he do, before dying, being ready?book 3-11
 
-# sent_ID = book 3-12
-# text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.	
-# text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament 
+# sent_ID = 15
+# text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.
+# text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament book 3-12
 1	Ombaʔeʔu	mbaʔeʔu	VERB	_	_	0	root	0:root	_
 2	wemimboʔeetá	emimboʔe	NOUN	_	_	_	_	_	_
 3	pɨri	pɨri	ADP	_	_	2	case	2:case	_
@@ -213,9 +213,9 @@
 8	janondé	janondé	ADP	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_ID = book 3-13
+# sent_ID = 16
 # text = mamõ pe i ʃow o mbaʔeʔupaβ iré?
-# text_eng = Where did he go after eating everything?
+# text_eng = Where did he go after eating everything?book 3-13
 1-2	Mamõpe	_	_	_	_	_	_	_	_
 1	mamõ	_	NOUN	n	_	4	advmod	4:advmod	_
 2	pe	_	PART	pcl	_	1	discourse	1:discourse	_
@@ -228,9 +228,9 @@
 8	iré	_	ADP	pp	_	7	case	7:case	_
 9	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_ID = book 3-14
-# text = Amõ aβá remitɨ me.
-# text_eng = To some man's plantation
+# sent_ID = 17
+# text = Amõ aβá remitɨ me .
+# text_eng = To some man's plantation book 3-14
 1	Amõ	amõ	PRON	_	PronType=Ind	2	nmod	_	_
 2	aβá	aβá	NOUN	n	Case=Ref	3	nmod	_	_
 3-4	remitɨme	_	_	_	_	_	_	_	_
@@ -238,9 +238,9 @@
 4	me	pe	ADP	pp	_	3	case	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_ID = book 6 p 97 1
-# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema:  
-# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life.
+# sent_ID = 18
+# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema
+# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
 1	Sorɨβeté	orɨβ	VERB	_	_	0	root	0:root	_
 2	rakó	rakó	PART	_	_	1	advmod	1:advmod	_
 3	aβá	aβá	NOUN	_	_	1	nsubj	1:nsubj	_
@@ -252,11 +252,11 @@
 9	jara	jara	NOUN	_	_	7	nmod	7:nmod	_
 10	rerekoara	ereko	NOUN	_	_	6	nmod	6:nmod	_
 11	supé	supé	ADP	_	_	6	case	6:case	_
-12	ogwasema:	gwasem	VERB	_	_	1	xcomp	1:xcomp	_
+12	ogwasema	gwasem	VERB	_	_	1	xcomp	1:xcomp	_
 
-# sent_ID = book 6 p97 2
+# sent_ID = 19
 # text = aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswí, ʃemombwerápane reá, ojaβo.
-# text_eng = (by) saying: "in change for something he is going to relief me (my wound) (by) healing me."
+# text_eng = (by) saying: "in change for something he is going to relief me (my wound) (by) healing me."  book 6 p97 2
 1	aʔe	aʔe	PART	pcl	_	5	discourse	5:discourse	_
 2	ipó	ipó	PART	pcl	_	5	advmod	5:advmod	_
 3	mbaʔe	mbaʔe	NOUN	n	_	4	nmod	4:nmod	_
@@ -270,9 +270,9 @@
 11	oʔjaβo	oʔjaβ	VERB	_	_	5	advcl	5:advcl	_
 12	.	.	PUNCT	punct	_	11	punct	11:punct	_
 
-# sent_ID = book 6 p97 3
-# text = Memẽtipó ɲemongaraiβɨpɨra tekokatu aβɨara pecado Tupã ɲeʔenga abɨ tegwama jaba pupé o ʔanga juká rojré, aβaré mosanga tekoβeeté asé ʔanga mombwerasaβa rerekoara supé ogwasema, sorɨβetéwne:
-# text_eng = Even more the baptized that turns away/deviates from the good life/well acting/well living life, after killing his own soul with a sin/sins, deviating from the word of God, called mortal wound, encountering the priest, carrier of the medicine which is real life, mean/way of healing people's souls, greatly rejoyces, saying:
+# sent_ID = 20
+# text = Memẽtipó ɲemongaraiβɨpɨra tekokatu aβɨara pecado Tupã ɲeʔenga abɨ tegwama jaba pupé o ʔanga juká rojré, aβaré mosanga tekoβeeté asé ʔanga mombwerasaβa rerekoara supé ogwasema, sorɨβetéwne
+# text_eng = Even more the baptized that turns away/deviates from the good life/well acting/well living life, after killing his own soul with a sin/sins, deviating from the word of God, called mortal wound, encountering the priest, carrier of the medicine which is real life, mean/way of healing people's souls, greatly rejoyces, saying: book 6 p97 3
 1	Memẽtipó	memẽtipó	SCONJ	_	_	27	advmod	27:advmod	_
 2	ɲemongaraiβɨpɨra	mongaraiβ	NOUN	_	_	25	obl	25:obl|27:nsubj	_
 3	tekokatu	teko	NOUN	_	_	4	nmod	4:nmod	_
@@ -301,9 +301,9 @@
 26	,	,	PUNCT	_	_	25	punct	25:punct	_
 27	sorɨβetéwne	orɨβ	VERB	_	_	_	_	_	_
 
-# sent_ID = book 6 p 97 4
+# sent_ID = 21
 # text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar ixéβene, ojaβo, ixéβe Tupã moɲɨrõmone, ojaβo.
-# text_eng = Being/acting as substitute/representative of god, certainly, when I confess my sins, when I regret them, sincerely hating them, he will give me back the former life of my soul, which I lost, saying: "God will forgive me". 
+# text_eng = Being/acting as substitute/representative of god, certainly, when I confess my sins, when I regret them, sincerely hating them, he will give me back the former life of my soul, which I lost, saying: "God will forgive me".book 6 p 97 4 
 1	aʔe	_	PART	_	_	_	_	_	_
 2	ipó	_	_	_	_	_	_	_	_
 3	Tupã	_	NOUN	_	_	4	nmod	4:nmod	_
@@ -335,9 +335,9 @@
 29	ojaβo	_	VERB	_	_	_	_	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_ID = book 6 p 97 5
+# sent_ID = 22
 # text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: a[w]jekatu ipó.
-# text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good!
+# text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good! book 6 p 97 5
 1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
 2	ipó	_	ADV	_	_	1	advmod	_	_
 3	enhemombegwabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
@@ -347,9 +347,9 @@
 7	awjekatu	_	INTJ	_	_	4	advcl	_	_
 8	ipó	_	ADV	_	_	7	dep	_	_
 
-# sent_ID = book 6 p 97 6
-# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβák[ɨ]pe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono. 
-# text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your going to the devil's fire
+# sent_ID = 23
+# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβák[ɨ]pe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
+# text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your going to the devil's fire book 6 p 97 6
 1	Mbaʔeeté	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aɲẽ	aɲẽ	ADV	adv	_	1	advmod	1:advmod	_
 3	ɲemombeʔu	_	NOUN	n	_	0	root	0:root	_
@@ -378,6 +378,3 @@
 24	sorambwera	so	NOUN	n	_	25	nmod	25:nmod	_
 25	morambwesáβamono	_	NOUN	n	Case=Tra	3	appos	3:appos	_
 26	.	.	PUNCT	punct	_	25	punct	25:punct	_
-
-
-
