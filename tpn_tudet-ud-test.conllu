@@ -302,7 +302,7 @@
 27	sorɨβetéwne	orɨβ	VERB	_	_	_	_	_	_
 
 # sent_id = 21
-# text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar ixéβene, ojaβo, ixéβe Tupã moɲɨrõmone, ojaβo.
+# text = aʔe ipó Tupã rekoβjáramo ojkóβo ojoupé ʃeangaipaβa iʃé i mombeʔúreme; iʃé i moasɨkatúreme, seroɨrõngatúreme ʃeʔanga rekoβepwera ʃeremimokaɲẽgwera ojmojeβɨrukar iʃéβene, ojaβo, iʃéβe Tupã moɲɨrõmone, ojaβo.
 # text_eng = Being/acting as substitute/representative of god, certainly, when I confess my sins, when I regret them, sincerely hating them, he will give me back the former life of my soul, which I lost, saying: "God will forgive me".book 6 p 97 4 
 1	aʔe	_	PART	_	_	_	_	_	_
 2	ipó	_	_	_	_	_	_	_	_
@@ -338,14 +338,14 @@
 # sent_id = 22
 # text = Ejabo ipó enhemombegwabo erejur ʃeraʔɨrĩ gwé: awjekatu ipó.
 # text_eng = Thus saying/speaking, you came to confess, oh my little son, this is good! book 6 p 97 5
-1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
-2	ipó	_	ADV	_	_	1	advmod	_	_
-3	enhemombegwabo	_	VERB	_	VerbForm=Ger	4	advcl	_	_
-4	erejur	_	VERB	_	|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-5	ʃeraʔɨrĩ	_	NOUN	_	_	4	obl	_	_
-6	gwé:	_	PART	_	_	4	discourse	_	_
-7	awjekatu	_	INTJ	_	_	4	advcl	_	_
-8	ipó	_	ADV	_	_	7	dep	_	_
+1	Ejabo	_	VERB	_	VerbForm=Ger	4	advcl	4:advcl	_
+2	ipó	_	ADV	_	_	1	advmod	1:advmod	_
+3	enhemombegwabo	_	VERB	_	VerbForm=Ger	4	advcl	4:advcl	_
+4	erejur	_	VERB	_	|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	_
+5	ʃeraʔɨrĩ	_	NOUN	_	_	4	obl	4:obl	_
+6	gwé:	_	PART	_	_	4	discourse	4:discourse	_
+7	awjekatu	_	INTJ	_	_	4	advcl	4:advcl	_
+8	ipó	_	ADV	_	_	7	dep	7:dep	_
 
 # sent_id = 23
 # text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβákɨpe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
