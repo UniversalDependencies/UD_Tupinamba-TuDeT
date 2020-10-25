@@ -18,7 +18,7 @@
 11	o	o	PRON	pro	_	12	nmod	12:nmod	_
 12	sɨ	sɨ	NOUN	n	_	15	nmod	15:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
-14	i	i	PRON	pro	Poss=Yes	15	amod	15:amod	_
+14	i	i	PRON	pro	Poss=Yes	15	nmod	15:nmod	_
 15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
 16	iré	iré	ADP	pp	_	15	case	15:case	_
 17	,	,	PUNCT	punct	_	10	punct	10:punct	_
@@ -52,7 +52,7 @@
 4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
 5	mɨsã	mɨsã	NOUN	n	_	6	nummod	6:nummod	_
 6	ʔara	ʔara	NOUN	n	_	7	nsubj	7:nsubj	_
-7	sɨk’eme	sɨk	VERB	v	_	_	_	_	_
+7	sɨk’eme	sɨk	VERB	v	_	16	advcl	16:advcl	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	15	obl	15:obl	_
 10	o	o	PRON	pro	Reflex=Yes	11	nmod	11:nmod	_
@@ -65,7 +65,7 @@
 17	’iré	iré	ADP	posp	_	16	case	16:case	_
 18	,	,	PUNCT	punct	_	17	punct	17:punct	_
 19	mosapɨr	mosapɨr	NUM	num	_	20	nummod	20:nummod	_
-20	moruβiʃaβa	moruβiʃaβ	NOUN	n	_|Poss=Yes	_	_	_	_
+20	moruβiʃaβa	moruβiʃaβ	NOUN	n	Poss=Yes	_	_	_	_
 21	,	,	PUNCT	punct	n	20	punct	20:punct	_
 22	Reis	Reis	NOUN	n	_	20	appos	20:appos	_
 23	ʔiaβa	ʔi	NOUN	n	_	22	nmod	22:nmod	_
