@@ -29,7 +29,7 @@
 22	mondoki	_	NOUN	n	_	7	advcl	7:advcl	_
 23	.	.	PUNCT	punct	_	22	punct	22:punct	_
 
-# Sent_ID = 1
+# Sent_ID = 2
 # text = Ã tekó aʔereme moreroka: kwé βɨá Jesus nongi seramo.
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
 1	Ã	ã	PART	part	_	2	discourse	2:discourse	_
