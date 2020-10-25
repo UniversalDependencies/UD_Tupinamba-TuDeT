@@ -313,13 +313,13 @@
 7	ʃeangaipaβa	_	NOUN	n	_	10	nmod	10:nmod	_
 8	iʃé	iʃé	PRON	_	_	10	dislocated	10:dislocated	_
 9	i	i	PRON	_	_	10	nmod	10:nmod	_
-10	mombeʔúreme	_	VERB	v	_	20	advmod	20:advmod	_
+10	mombeʔúreme	_	VERB	v	_	20	advcl	20:advmod	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
 12	iʃé	iʃé	PRON	_	_	14	nmod	14:nmod	_
 13	i	i	PRON	_	_	14	nmod	14:nmod	_
-14	moasɨkatúreme	moasɨkatú	VERB	v	_	20	advmod	20:advmod	_
+14	moasɨkatúreme	moasɨkatú	VERB	v	_	20	advcl	20:advmod	_
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
-16	seroɨrõngatúreme	eroɨrõn	NOUN	n	_	20	advmod	20:advmod	_
+16	seroɨrõngatúreme	eroɨrõn	NOUN	n	_	20	advcl	20:advmod	_
 17	ʃeʔanga	ʔanga	NOUN	n	_	18	nmod	18:nmod	_
 18	rekoβepwera	ekoβe	NOUN	n	_	20	obl	20:obl	_
 19	ʃeremimokaɲẽgwera	remimokaɲẽ	NOUN	n	_	18	appos	18:appos	_
@@ -348,7 +348,7 @@
 8	ipó	ipó	ADV	adv	_	7	dep	7:dep	_
 
 # sent_id = 23
-# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandé ʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβákɨpe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
+# text = Mbaʔeeté aɲẽ ɲemombeʔu, jandéʔanga posãngamo Tupã remimoɲangwera, ikó ʔara pupé o moɲɨrõsáβamo, ɨβákɨpe asé soáβamo, aɲanga ratápe nde sorambwera morambwesáβamono.
 # text_eng = The confession is in fact a good thing, god-made (as) medicine of our souls, means of appeasing the soul in this world, our way of going to heaven, means of frustrating your going to the devil's fire book 6 p 97 6
 1	Mbaʔeeté	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aɲẽ	aɲẽ	ADV	adv	_	1	advmod	1:advmod	_
