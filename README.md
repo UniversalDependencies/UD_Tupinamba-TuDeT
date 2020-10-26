@@ -18,11 +18,11 @@ UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together 
 
 # Acknowledgments
 
-...
+The development of the treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
 ## References
 
-* (citation)
+
 
 
 # Changelog
