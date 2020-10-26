@@ -1,4 +1,4 @@
-![TuLeD](mapNimu2.png)
+![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
 UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org) project. 
