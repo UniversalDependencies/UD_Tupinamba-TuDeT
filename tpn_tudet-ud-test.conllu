@@ -21,7 +21,7 @@
 14	i	i	PRON	pro	Poss=Yes	15	nmod	15:nmod	_
 15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
 16	'iré	'iré	ADP	pp	_	15	mark	15:mark	_
-17	,	,	PUNCT	punct	_	10	punct	10:punct	_
+17	,	,	PUNCT	punct	_	15	punct	15:punct	_
 18	judeus	judeu	NOUN	n	_	19	nmod	19:nmod	_
 19	ekomoɲangáβo	ekomoɲaŋ	NOUN	n	Case=Loc	22	nmod	22:nmod	_
 20	i	i	PRON	pro	Poss=Yes	21	nmod	21:nmod	_
