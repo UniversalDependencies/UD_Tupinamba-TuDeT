@@ -14,13 +14,13 @@
 7	sɨkeme	sɨk	VERB	vi	Mood=Sub	0	root	0:root	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
-10	taʔɨra	taʔɨr	NOUN	n	_	_	_	_	_
+10	taʔɨra	taʔɨr	NOUN	n	_	15	nsubj	15:nsubj	_
 11	o	o	PRON	pro	_	12	nmod	12:nmod	_
 12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
 14	i	i	PRON	pro	Poss=Yes	15	nmod	15:nmod	_
 15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
-16	'iré	'iré	ADP	pp	_	15	case	15:case	_
+16	'iré	'iré	ADP	pp	_	15	mark	15:mark	_
 17	,	,	PUNCT	punct	_	10	punct	10:punct	_
 18	judeus	judeu	NOUN	n	_	19	nmod	19:nmod	_
 19	ekomoɲangáβo	ekomoɲaŋ	NOUN	n	Case=Loc	22	advmod	22:advmod	_
