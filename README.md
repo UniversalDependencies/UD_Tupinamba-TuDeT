@@ -1,14 +1,14 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org) project. 
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org). The treebank is ongoing work and is constantly being updated.
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org) project.  The sentences are being annotated by Fabrício Ferraz Gerardi.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org).  The sentences are being annotated and glossed by Fabrício Ferraz Gerardi.
 
 ## Text sources
 
