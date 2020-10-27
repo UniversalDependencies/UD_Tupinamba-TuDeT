@@ -40,3 +40,18 @@
 8	nongi	nong	NOUN	n	_	2	parataxis	_	_
 9	seramo	seramo	NOUN	n	Case=Tra|Poss=Yes	8	obl	_	_
 
+# sent_id = 4
+# text = Mbaʔepe i mongaraiβɨpɨra jerobjasaβeté Tupã moɲɨrõ potasáβamo ?
+# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
+1-2	mbaʔepe	_	_	_	_	_	_	_	_
+1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
+2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
+3-4	imoŋgaraiβɨpɨra	_	_	_	_	_	_	_	_
+3	i	i	PRON	pro	_	4	nmod	4:nmod	_
+4	moŋgaraiβ	moŋgaraiβ	NOUN	n	_	_	_	_	_
+5	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	moɲɨrõ	moɲɨrõ	NOUN	n	_	8	nmod	8:nmod	_
+8	potasáβamo	pota	NOUN	n	Case=Tra	5	advcl	5:advcl	_
+9	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
