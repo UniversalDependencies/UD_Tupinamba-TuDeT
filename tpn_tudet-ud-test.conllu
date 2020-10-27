@@ -47,10 +47,10 @@
 1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
 3	i	i	PRON	pro	_	4	nmod	4:nmod	_
-4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	_	5	nsubj	5:nsubj	_
+4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Nomzr=DevPass	5	nsubj	5:nsubj	_
 5	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
 6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
 7	moɲɨrõ	moɲɨrõ	NOUN	n	_	8	nmod	8:nmod	_
-8	potasáβamo	pota	NOUN	n	Case=Tra	5	advcl	5:advcl	_
+8	potasáβamo	pota	NOUN	n	Case=Tra|Nomzr=Circ|VerbForm=Ger	5	advcl	5:advcl	_
 9	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
