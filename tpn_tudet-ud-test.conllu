@@ -56,7 +56,7 @@
 
 # sent_id = 4
 # text = Jandéjara JesusCristo reʔõawera
-# text_eng = The death of our lord JC
+# text_eng = The death of our lord JC book 3-1
 1-2	Jandéjara	_	_	_	_	_	_	_	_
 1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
 2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
