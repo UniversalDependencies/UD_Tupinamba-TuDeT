@@ -14,7 +14,7 @@
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
 10	taʔɨra	taʔɨr	NOUN	n	Case=Ref	15	nsubj	15:nsubj	_
-11	o	o	PRON	pro	_	12	nmod	12:nmod	_
+11	o	o	PRON	pro	Reflex=Yes	12	nmod	12:nmod	_
 12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
 14	i	i	PRON	pro	Poss=Yes	15	nmod	15:nmod	_
@@ -62,4 +62,19 @@
 2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
 3	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
 4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
+
+# sent_id = 6
+# text = eko angaipaβ okáramo jandé jara JesusCristo reko reme
+# text_eng = For being our lord JC the one who pulls out /rips the sins.  book 3-3
+1-3	Tekoangajpaβokáramo	_	_	_	_	_	_	_	_
+1	eko	eko	NOUN	n	Rel=Abs	3	nmod	3:nmod	_
+2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	1:nmod	_
+3	okáramo	okar	NOUN	n	Case=Tra	5	nsubj	5:nsubj	_
+4-5	jandéjara	_	_	_	_	_	_	_	_
+4	jandé	jandé	PRON	pro	Clusivity=In|PronType=Prs	5	nmod	5:nmod	_
+5	jara	jara	NOUN	n	Case=Ref	0	root	0:root	_
+6	JesusCristo	JC	PROPN	pn	_	5	appos	5:appos	_
+7-8	rekóreme	_	_	_	_	_	_	_	_
+7	reko	rekó	NOUN	N	Rel=Cont	5	nmod	5:nmod	_
+8	reme	reme	ADP	pp	_	7	case	7:case	_
 
