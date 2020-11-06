@@ -101,6 +101,6 @@
 4	Tupã	tupã	NOUN	n	_	6	nmod	6:nmod	_
 5	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	4	dep	4:dep	_
 6	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomz=Circ	1	dep	1:dep	_
-7	aséβe	asé	PRON	pro	Case=Dat	6	case	6:case	_
+7	aséβe	asé	PRON	pro	PronType=Prs	6	case	6:case	_
 8	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
