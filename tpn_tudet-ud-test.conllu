@@ -91,3 +91,17 @@
 6	ʔóki	ʔok	NOUN	n	_	1	dep	1:dep	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 8
+# text =  Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe ?
+# text_eng = Was it through his death, that God the father rescued/forgave us all? book 3-5
+1	Seʔõawera	eʔõ	NOUN	n	Rel=NCont|Tense=Past	0	root	0:root	_
+2-3	resépe	_	_	_	_	_	_	_	_
+2	resé	esé	ADP	pp	Rel=Cont	1	case	1:case	_
+3	pe	pe	PART	pcl	_	2	discourse	2:discourse	_
+4	Tupã	tupã	NOUN	n	_	6	nmod	6:nmod	_
+5	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	4	dep	4:dep	_
+
+
+6	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomz=Circ	1	dep	1:dep	_
+7	aséβe	asé	PRON	pro	Case=Dat	6	case	6:case	_
+8	?	?	PUNCT	punct	_	1	punct	1:punct	_
