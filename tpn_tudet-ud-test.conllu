@@ -97,7 +97,7 @@
 1	Seʔõawera	eʔõ	NOUN	n	Rel=NCont|Tense=Past	0	root	0:root	_
 2-3	resépe	_	_	_	_	_	_	_	_
 2	resé	esé	ADP	pp	Rel=Cont	1	case	1:case	_
-3	pe	pe	PART	pcl	_	2	discourse	2:discourse	_
+3	pe	pe	PART	pcl	_	2	dep	2:dep	_
 4	Tupã	tupã	NOUN	n	_	6	nmod	6:nmod	_
 5	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	4	dep	4:dep	_
 6	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomz=Circ	1	dep	1:dep	_
