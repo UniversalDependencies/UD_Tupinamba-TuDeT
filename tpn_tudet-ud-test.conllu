@@ -102,3 +102,17 @@
 6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 10
+# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?
+# text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
+1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	n	Case=Loc	0	root	0:root	_
+3	épe	épe	PART	pcl	_	2	discourse	2:discourse	_
+4	erimbaʔe	erimbaʔe	ADV	adv	_	2	advmod	2:advmod	_
+5	i	i	PRON	pro	_	6	nmod	6:nmod	_
+6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomz=Circ|Reflex=Yes	2	appos	2:appos	_
+7	ogupjarama	upjaram	NOUN	n	Reflex=Yes	6	obl	6:obl	_
+8	supé	supé	ADP	pp	_	7	case	7:case	_
+9	oɲeraneʔɨma	ɲeran	VERB	v	VerbForm=Ger|Polarity=Neg	6	dep	6:dep	_
+10	?	_	PUNCT	punct	_	2	punct	2:punct	_
+
