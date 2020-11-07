@@ -113,6 +113,6 @@
 6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomz=Circ|Reflex=Yes	2	appos	2:appos	_
 7	ogupjarama	upjaram	NOUN	n	Reflex=Yes	6	obl	6:obl	_
 8	supé	supé	ADP	pp	_	7	case	7:case	_
-9	oɲeraneʔɨma	ɲeran	VERB	v	VerbForm=Ger|Polarity=Neg	6	dep	6:dep	_
+9	oɲeraneʔɨma	ɲeran	VERB	v	Polarity=Neg|VerbForm=Ger	6	dep	6:dep	_
 10	?	_	PUNCT	punct	_	2	punct	2:punct	_
 
