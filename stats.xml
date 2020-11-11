@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>8</sentences><tokens>68</tokens><words>76</words><fused>7</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>8</sentences><tokens>68</tokens><words>76</words><fused>7</fused></test>
+  </size>
+  <lemmas unique="58" /><!-- ,, i, ?, tupã, angaipaβ, eko, jandé, jara, o, pe, ʔar, 'iré, JC, Jesus, JesusCristo -->
+  <forms unique="59" /><!-- ,, ?, i, Tupã, JesusCristo, jandé, jara, o, pe, teko, 'iré, Jesus, Marã, Mokõj, Seʔõawera -->
+  <fusions unique="6" /><!-- jandéjara, Mbaʔepe, Tekoangaipaβokáramo, ojkóβope, rekóreme, tekoangaipaβa -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="10">
+    <tag name="ADP">5</tag><!-- 'iré, esé, reme, supé, swi -->
+    <tag name="ADV">4</tag><!-- aʔe, erimbaʔe, marã, ʔar -->
+    <tag name="DET">1</tag><!-- kwe -->
+    <tag name="NOUN">36</tag><!-- tupã, angaipaβ, eko, jara, Jesus, apira, ekomoɲaŋ, emimotár, eʔõ, eʔõaβa -->
+    <tag name="NUM">3</tag><!-- mokõj, oito, ojoirundɨk -->
+    <tag name="PART">5</tag><!-- pe, ã, épe, βɨá -->
+    <tag name="PRON">9</tag><!-- i, jandé, o, asé -->
+    <tag name="PROPN">2</tag><!-- JC, JesusCristo -->
+    <tag name="PUNCT">8</tag><!-- ,, ?, _ -->
+    <tag name="VERB">3</tag><!-- ojkó, sɨk, ɲeran -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="23">
+    <feat name="Animacy" value="Hum" upos="NOUN">1</feat><!-- moreroka -->
+    <feat name="Case" value="Loc" upos="NOUN">2</feat><!-- ekomoɲangáβo, emimotárɨβo -->
+    <feat name="Case" value="Ref" upos="NOUN">10</feat><!-- jara, Tuβa, angaipaβa, mongaraiβɨpɨra, moreroka, reʔõawera, taʔɨra, ʔapira, ʔara -->
+    <feat name="Case" value="Tra" upos="NOUN">3</feat><!-- okáramo, potasáβamo, seramo -->
+    <feat name="Clusivity" value="In" upos="PRON">2</feat><!-- jandé -->
+    <feat name="Mood" value="Sub" upos="VERB">1</feat><!-- sɨkeme -->
+    <feat name="Nomz" value="Circ" upos="NOUN">2</feat><!-- ɲemeʔẽngi, ɲɨrõkatúramo -->
+    <feat name="Nomzr" value="Circ" upos="NOUN">2</feat><!-- potasáβamo, reʔõawera -->
+    <feat name="Nomzr" value="DevPass" upos="NOUN">1</feat><!-- mongaraiβɨpɨra -->
+    <feat name="Number" value="Plur" upos="PRON">1</feat><!-- Jandé -->
+    <feat name="Number" value="Sing" upos="VERB">1</feat><!-- ojkóβo -->
+    <feat name="NumType" value="Card" upos="NUM">2</feat><!-- Mokõj, ojoirundɨk -->
+    <feat name="Person" value="1" upos="PRON">1</feat><!-- Jandé -->
+    <feat name="Person" value="3" upos="VERB">1</feat><!-- ojkóβo -->
+    <feat name="Polarity" value="Neg" upos="VERB">1</feat><!-- oɲeraneʔɨma -->
+    <feat name="Poss" value="Yes" upos="NOUN,PRON">4</feat><!-- i, seramo, tekó -->
+    <feat name="PronType" value="Prs" upos="PRON">2</feat><!-- aséβe, jandé -->
+    <feat name="Reflex" value="Yes" upos="NOUN,PRON">4</feat><!-- o, ogupjarama, ɲemeʔẽngi -->
+    <feat name="Rel" value="Abs" upos="NOUN">3</feat><!-- teko, Tuβa -->
+    <feat name="Rel" value="Cont" upos="NOUN">1</feat><!-- rekó -->
+    <feat name="Rel" value="NCont" upos="NOUN">1</feat><!-- Seʔõawera -->
+    <feat name="Tense" value="Past" upos="NOUN">2</feat><!-- Seʔõawera, reʔõawera -->
+    <feat name="VerbForm" value="Ger" upos="NOUN,VERB">3</feat><!-- ojkóβo, oɲeraneʔɨma, potasáβamo -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="16">
+    <dep name="acl">1</dep>
+    <dep name="advcl">4</dep>
+    <dep name="advmod">2</dep>
+    <dep name="appos">3</dep>
+    <dep name="case">4</dep>
+    <dep name="dep">4</dep>
+    <dep name="discourse">5</dep>
+    <dep name="mark">1</dep>
+    <dep name="nmod">25</dep>
+    <dep name="nsubj">4</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">1</dep>
+    <dep name="obl">3</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">8</dep>
+    <dep name="root">8</dep>
+  </deps>
+</treebank>
