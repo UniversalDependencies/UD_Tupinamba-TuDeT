@@ -62,48 +62,11 @@
 40	.	.	Punct	punct	_	36	punct	36:punct	_
 
 
-# sent_id = 9
-# text = Seʔõawera resé.
-# text_port = Through his death.book 3-6
-1	s	_	PRON	pro	_	2	nmod	2:nmod	_
-2-3	eʔõawera	_	_	_	_	_	_	_	_
-2	 eʔõ	eʔõ	NOUN	n	_	3	nmod	3:nmod	_
-3	 wera	wer	NOUN	n	_	_	_	_	_
-4	resé	resé	ADP	pp	_	3	case	3:case	_
 
-# sent_id = 10
-# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma?
-# text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
-1	O	o	PRON	pro	_	2	nmod	2:nmod	_
-2	emimotárɨβo	emimotar	NOUN	n	Case=Loc	_	_	_	_
-3	e	e	PART	pcl	_	2	discourse	2:discourse	_
-4	pe	pe	PART	pcl	_	2	discourse	2:discourse	_
-5	erimbaʔe	erimbaʔe	ADV	adv	_	7	advmod	7:advmod	_
-6	i	i	PRON	pro	_	7	nsubj	7:nsubj	_
-7	ɲemeʔẽngi	ɲemeʔẽng	VERB	v	_	0	root	0:root	_
-8	og	o	PRON	pro	_	9	nmod	9:nmod	_
-9	upjarama	upjar	NOUN	n	_	7	obl	7:obl	_
-10	supé	supé	ADP	pp	_	9	case	9:case	_
-11	oɲeraneʔɨma	oɲeran	NOUN	n	_	7	acl	7:acl	_
-12	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 11
-# text = O emimotárɨβo é.
-# text_port = It was in fact by his own will book 3-8
-1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
-2	emimotárɨβo	emimotár	NOUN	n	_	0	root	0:root	_
-3	é	é	PART	pcl	_	2	_	2	_
 
-# sent_id = 12
-# text= Ojpotakatupe o eʔõawera resé asé maʔendwara?
-# text_port = Did he really want people to remember his death?book 3-9
-1	Ojpotakatupe	potar	VERB	vt	_	0	root	0:root	_
-2	o	o	PRON	pro	_	3	det	3:det	_
-3	eʔõawera	eʔõa	NOUN	n	_	6	nmod	6:nmod	_
-4	resé	esé	ADP	pp	_	3	case	3:case	_
-5	asé	asé	PRON	pro	_	6	det	6:det	_
-6	maʔendwara	maʔendwar	NOUN	n	_	1	obl	1:obl	_
-7	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+
 
 # sent_id = 13
 # text= Ojpotakatu: Sesé o maʔendwáramo é asé Tupã rawsúbi o pɨʔape abɨpotareʔɨma.	
