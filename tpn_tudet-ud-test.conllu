@@ -116,3 +116,23 @@
 9	oɲeraneʔɨma	ɲeran	VERB	v	Polarity=Neg|VerbForm=Ger	6	dep	6:dep	_
 10	?	_	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 11
+# text = O emimotárɨβo é
+# text_port = It was in fact by his own will book 3-8
+1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	n	Case=Loc	0	root	0:root	_
+3	é	é	PART	pcl	_	2	discourse	2:discourse	_
+
+# sent_id = 12
+# text= Ojpotakatupe o eʔõawera resé asé maʔendwara ?
+# text_port = Did he really want people to remember his death?book 3-9
+1-2	Ojpotakatupe	_	_	_	_	_	_	_	_
+1	Ojpotakatu	potar	VERB	vt	Person=33	0	root	0:root	_
+2	pe	pe	PART	pcl	_	1	discourse	1:discourse	_
+3	o	o	PRON	pro	Reflex=Yes	4	nmod	4:nmod	_
+4	eʔõawera	eʔõa	NOUN	n	Case=Ref	7	obl	7:obl	_
+5	resé	esé	ADP	pp	Rel=Cont	4	case	4:case	_
+6	asé	asé	PRON	pro	Case=Ref	7	nmod	7:nmod	_
+7	maʔendwara	maʔendwar	NOUN	n	_	1	xcomp	1:xcomp	_
+8	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
