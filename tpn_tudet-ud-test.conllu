@@ -137,7 +137,7 @@
 8	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 14
-# text= Sesé o maʔendwaramo é asé Tupã rawsúβi o pɨʔape aβɨpotareʔɨma	
+# text= Sesé o maʔendwaramo é asé Tupã rawsúβi o pɨʔape seko aβɨpotareʔɨma
 # text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10
 1	Sesé	esé	ADP	pp	Rel=NCont	3	case	3:case	_
 2	o	o	PRON	pro	Person=3|Reflex=Yes	3	nmod	3:nmod	_
