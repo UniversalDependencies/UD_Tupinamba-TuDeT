@@ -136,3 +136,20 @@
 7	maʔendwara	maʔendwar	NOUN	n	_	1	xcomp	1:xcomp	_
 8	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 14
+# text= Sesé o maʔendwáramo é asé Tupã rawsúβi o pɨʔape aβɨpotareʔɨma	
+# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10
+1	Sesé	esé	ADP	pp	Rel=NCont	3	case	3:case	_
+2	o	o	PRON	pro	Person=3|Reflex=Yes	3	nmod	3:nmod	_
+3	maʔendwaramo	maʔendwar	NOUN	n	Case=Tra	0	root	0:root	_
+4	é	é	PART	pcl	_	3	discourse	3:discourse	_
+5	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	dep	3:dep	_
+8	o	o	PRON	pro	Person=3|Reflex=Yes	9	nmod	9:nmod	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	11	obl	11:obl	_
+10	seko	eko	NOUN	n	Rel=NCont	11	obj	11:obj	_
+11-12	aβɨpotareʔɨma	_	_	_	_	_	_	_	_
+11	aβɨ	aβɨ	VERB	v	_	12	xcomp	12:xcomp	_
+12	potareʔɨma	potar	VERB	vt	_	3	advcl	3:advcl	_
+
