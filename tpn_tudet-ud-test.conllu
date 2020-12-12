@@ -98,7 +98,7 @@
 2	resépe	esé	ADP	pp	_	1	case	_	_
 3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
 4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	3	dep	_	_
-5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomz=Circ	1	dep	_	_
+5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomzr=Circ	1	dep	_	_
 6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -110,7 +110,7 @@
 3	épe	épe	PART	pcl	_	2	discourse	2:discourse	_
 4	erimbaʔe	erimbaʔe	ADV	adv	_	2	advmod	2:advmod	_
 5	i	i	PRON	pro	_	6	nmod	6:nmod	_
-6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomz=Circ|Reflex=Yes	2	appos	2:appos	_
+6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomzr=Circ|Reflex=Yes	2	appos	2:appos	_
 7	ogupjarama	upjaram	NOUN	n	Reflex=Yes	6	obl	6:obl	_
 8	supé	supé	ADP	pp	_	7	case	7:case	_
 9	oɲeraneʔɨma	ɲeran	VERB	v	Polarity=Neg|VerbForm=Ger	6	dep	6:dep	_
