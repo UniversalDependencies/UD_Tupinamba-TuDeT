@@ -166,11 +166,11 @@
 8	janondé	janondé	ADP	pp	_	7	mark	7:mark	_
 9	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
-# sent_id = 16
+# sent_id = 17
 # text = Mamõpe i ʃow o mbaʔeʔupaβ iré ?
 # text_eng = Where did he go after eating everything?book 3-13
 1-2	Mamõpe	_	_	_	_	_	_	_	_
-1	mamõ	_	NOUN	n	_	4	advmod	4:advmod	_
+1	mamõ	_	ADV	n	_	4	advmod	4:advmod	_
 2	pe	_	PART	pcl	_	1	discourse	1:discourse	_
 3	i	_	PRON	pro	Rel=NCont	4	nmod	4:nmod	_
 4	ʃow	so	NOUN	n	_	0	root	0:root	_
