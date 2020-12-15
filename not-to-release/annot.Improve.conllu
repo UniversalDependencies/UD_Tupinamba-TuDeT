@@ -76,33 +76,6 @@
 # Marãpe erimbaʔe seków, o e'õjanondé o ekoawjéramo?
 # How did he act/what did he do, before dying, being ready?book 3-11
 
-# sent_id = 15
-# text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme, Santo Sacramento meʔenga janondé.
-# text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament book 3-12
-1	Ombaʔeʔu	mbaʔeʔu	VERB	v	_	0	root	0:root	_
-2	wemimboʔeetá	emimboʔe	NOUN	n	_	_	_	_	_
-3	pɨri	pɨri	ADP	pp	_	2	case	2:case	_
-4	karúkeme	karúk	ADV	adv	_	1	advmod	1:advmod	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	Santo-Sacramento	Santo-Sacramento	NOUN	n	_	7	obj	7:obj	_
-7	meʔenga	meʔeŋ	VERB	v	_	1	advcl	1:advcl	_
-8	janondé	janondé	ADP	pp	_	7	mark	7:mark	_
-9	.	.	PUNCT	punct	_	7	punct	7:punct	_
-
-# sent_id = 16
-# text = mamõ pe i ʃow o mbaʔeʔupaβ iré?
-# text_eng = Where did he go after eating everything?book 3-13
-1-2	Mamõpe	_	_	_	_	_	_	_	_
-1	mamõ	_	NOUN	n	_	4	advmod	4:advmod	_
-2	pe	_	PART	pcl	_	1	discourse	1:discourse	_
-3	i	_	PRON	pro	_	4	nmod	4:nmod	_
-4	ʃow	so	NOUN	n	_	0	root	0:root	_
-5	o	o	PRON	pro	Reflex=Yes	7	nmod	7:nmod	_
-6-8	mbaʔeʔupaβiré	_	_	_	_	_	_	_	_
-6	mbaʔe	_	NOUN	n	_	7	dep	7:dep	_
-7	ʔupaβ	_	VERB	v	Aspect=Compl	4	obl	4:obl	_
-8	iré	_	ADP	pp	_	7	case	7:case	_
-9	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 17
 # text = Amõ aβá remitɨ me .
