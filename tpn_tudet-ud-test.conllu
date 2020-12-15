@@ -167,7 +167,7 @@
 9	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
 # sent_id = 17
-# text = Mamõpe i ʃow o mbaʔeʔupaβ iré ?
+# text = Mamõpe i ʃow o mbaʔeʔupaβiré ?
 # text_eng = Where did he go after eating everything?book 3-13
 1-2	Mamõpe	_	_	_	_	_	_	_	_
 1	mamõ	_	ADV	n	_	4	advmod	4:advmod	_
