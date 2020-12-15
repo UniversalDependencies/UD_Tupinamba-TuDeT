@@ -162,7 +162,7 @@
 4	karúkeme	karúk	ADV	adv	_	1	advmod	1:advmod	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	Santo-Sacramento	Santo-Sacramento	NOUN	n	_	7	obj	7:obj	_
-7	meʔenga	meʔeŋ	VERB	v	_	1	advcl	1:advcl	_
+7	meʔenga	meʔeŋ	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
 8	janondé	janondé	ADP	pp	_	7	mark	7:mark	_
 9	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
