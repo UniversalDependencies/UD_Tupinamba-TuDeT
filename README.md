@@ -2,11 +2,10 @@
 # Summary
 
 <p>
+<img align="left" src="not-to-release/tupi1.png" width="180" height="180">
 
-UD_Tupinamba-TuDeT is a collection of annotated sentences in Tupinambá.
-Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a> and <a href="https://github.com/UniversalDependencies/UD_Munduruku-TuDeT">UD_Munduruku-TuDeT</a>, UD_Tupinamba-TuDeT is part of <a href="https://tular.org">TuLaR</a>. </p>
-
-
+UD_Guajajara-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/guaj1255">Guajajara</a>.
+Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a>, <a href="http://www.endangeredlanguages.com/lang/2981">UD_Kaapor-TuDeT</a>  <a href="https://github.com/UniversalDependencies/UD_Kaapor-TuDeT">UD_Tupinamba-TuDeT</a>, UD_Munduruku-TuDeT is part of <a href="https://tular.org">TuLaR</a>. </p>
 
 
 # Introduction
