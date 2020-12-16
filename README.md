@@ -3,7 +3,7 @@
 # Summary
 
 <p>
-<img align="left" src="not-to-release/tupi1.png" width="160" height="160">
+<img align="left" src="not-to-release/tupi1.png" width="140" height="140">
 
 UD_Tupinamba-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/guaj1255">Tupinambá</a>.
 Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a>, <a href="http://www.endangeredlanguages.com/lang/2981">UD_Kaapor-TuDeT</a>  <a href="https://github.com/UniversalDependencies/UD_Kaapor-TuDeT">UD_Tupinamba-TuDeT</a>, UD_Munduruku-TuDeT is part of <a href="https://tular.org">TuLaR</a>. </p>
