@@ -181,3 +181,18 @@
 8	iré	_	ADP	pp	Rel=Cont	7	case	7:case	_
 9	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
+# sent_id = 18
+# text = Sesé o maʔendwáramo e asé Tupã rawsúβi o pɨʔape sekó aβɨpotareʔɨma
+# text_eng = by remembering it, people love God not wishing to break his law in their hearts 3-14
+1	Sesé	ese	ADP	pp	Rel=NCont	3	case	3:case	_
+2	o	o	PRON	pro	Reflex=Yes	3	nmod	3:nmod	_
+3	maʔendwáramo	maʔendwár	NOUN	n	_	0	root	0:root	_
+4	e	e	PART	pcl	_	3	discourse	3:discourse	_
+5	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	ccomp	3:ccomp	_
+8	o	o	PRON	pro	Reflex=Yes	9	nmod	9:nmod	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	obl	10:obl	_
+10	sekó	ekó	NOUN	n	Rel=NCont	11	obj	11:obj	_
+11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	7:dep	_
+
