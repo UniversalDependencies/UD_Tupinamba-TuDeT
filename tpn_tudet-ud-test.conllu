@@ -196,3 +196,19 @@
 10	sekó	ekó	NOUN	n	Rel=NCont	11	obj	11:obj	_
 11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	7:dep	_
 
+# sent_id = 18
+# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema
+# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
+1	Sorɨβeté	orɨβ	VERB	v	_	0	root	0:root	_
+2	rakó	rakó	PART	pcl	_	1	advmod	1:advmod	_
+3	aβá	aβá	NOUN	n	_	1	nsubj	1:nsubj	_
+4	tegwama	tegwam	NOUN	n	Case=Ref	5	nmod	5:nmod	_
+5	porarasara	_	NOUN	n	_	3	amod	3:amod	_
+6	moroposanongara	poroposanong	NOUN	n	Poss=Hum	12	obj	12:obj	_
+7	mosanga	posaŋ	NOUN	n	Case=Ref|Poss=Hum	10	nmod	10:nmod	_
+8	tekoβé	teko	NOUN	n	Rel=Cont	9	nmod	9:nmod	_
+9	jara	jara	NOUN	n	_	7	nmod	7:nmod	_
+10	rerekoara	ereko	NOUN	n	Rel=Cont	6	nmod	6:nmod	_
+11	supé	supé	ADP	pp	_	6	case	6:case	_
+12	ogwasema	gwasem	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
+
