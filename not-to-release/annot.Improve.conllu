@@ -87,21 +87,6 @@
 4	me	pe	ADP	pp	_	3	case	3:case	_
 5	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 18
-# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema
-# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
-1	Sorɨβeté	orɨβ	VERB	v	_	0	root	0:root	_
-2	rakó	rakó	PART	pcl	_	1	advmod	1:advmod	_
-3	aβá	aβá	NOUN	n	_	1	nsubj	1:nsubj	_
-4	tegwama	_	NOUN	n	_	5	nmod	5:nmod	_
-5	porarasara	_	NOUN	n	_	3	amod	3:amod	_
-6	moroposanongara	moroposanong	NOUN	n	_	12	obj	12:obj	_
-7	mosanga	posaŋ	NOUN	n	_	10	nmod	10:nmod	_
-8	tekoβé	teko	NOUN	n	_	9	nmod	9:nmod	_
-9	jara	jara	NOUN	n	_	7	nmod	7:nmod	_
-10	rerekoara	ereko	NOUN	n	_	6	nmod	6:nmod	_
-11	supé	supé	ADP	pp	_	6	case	6:case	_
-12	ogwasema	gwasem	VERB	v	_	1	xcomp	1:xcomp	_
 
 # sent_id = 19
 # text = aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswí, ʃemombwerápane reá, ojaβo.
