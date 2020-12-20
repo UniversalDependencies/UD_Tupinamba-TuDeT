@@ -197,7 +197,7 @@
 11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	7:dep	_
 
 # sent_id = 18
-# text = Sorɨβeté rakó abá tegwama porarasara moroposanongara mosanga tekobé jara rerekoara supé ogwasema
+# text = Sorɨβeté rakó aβá tegwama porarasara moroposanongara mosanga tekoβé jara rerekoara supé ogwasema
 # text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
 1	Sorɨβeté	orɨβ	VERB	v	_	0	root	0:root	_
 2	rakó	rakó	PART	pcl	_	1	advmod	1:advmod	_
