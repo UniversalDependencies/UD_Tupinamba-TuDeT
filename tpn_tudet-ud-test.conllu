@@ -212,12 +212,15 @@
 11	supé	supé	ADP	pp	_	6	case	6:case	_
 12	ogwasema	gwasem	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
 
+# sent_id = 20
+# text = aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswi , ʃemombwerápane reá , ojaβo
+# text_eng = 
 1	aʔe	aʔe	PART	pcl	_	2	discourse	_	_
 2	ipó	ipó	ADV	adv	_	5	discourse	_	_
 3	mbaʔe	mbaʔe	NOUN	n	_	4	nmod	_	_
 4	repɨ́ramo	epɨ́	NOUN	n	Case=trans|Rel=Cont	5	obl	_	_
 5	ojmoariβeukar	_	VERB	v	_	11	parataxis	_	_
-6	ʃeswi	swi	ADP	pp	_	5	obl	_	_
+6	ʃeswi	swi	ADP	pp	Number=Sing|Person=1	5	obl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	ʃemombwerápane	_	NOUN	_	_	5	dep	_	_
 9	reá	_	PART	pcl	_	8	discourse	_	_
