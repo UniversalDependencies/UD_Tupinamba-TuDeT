@@ -227,3 +227,15 @@
 10	,	_	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 1
+# text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
+# text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-cahp 9
+1	Marãpe	marãpe	PRON	pro	_	4	advmod	4:advmod	_
+2	judeus	judeus	NOUN	n	_	4	nmod	4:nmod	_
+3	jandéjara	jar	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	4:nmod	_
+4	rereków	erekó	NOUN	n	_	0	root	0:root	_
+5	ojoupé	joupé	ADP	posp	Reflex=Yes|Rel=Cont	7	obl	7:obl	_
+6	Pilatos	Pilatos	NOUN	n	_	7	nsubj	7:nsubj	_
+7	imeʔengiré	meʔeng	NOUN	n	Rel=NCont	4	advcl	4:advcl	_
+8	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
