@@ -239,8 +239,8 @@
 7	imeʔengiré	meʔeng	NOUN	n	Rel=NCont	4	advcl	4:advcl	_
 8	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
-# sent_id = 2
-# text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári 
+# sent_id = 10022
+# text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book 3-chap 9
 # text_eng = They went to the patio placing a cross on his shoulder
 1	Okárɨpe	okár	NOUN	n	_	2	obl	_	_
 2	senosẽmi	enosẽm	NOUN	n	_	0	root	_	_
@@ -248,4 +248,13 @@
 4	nonga	nong	VERB	v	VerbForm=Ger	2	advcl	_	_
 5	iatiʔɨβ	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	_	_
 6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	_	_
+
+# sent_id = 3
+# text = Turusukatupe aʔe cruz erimbaʔe ?
+# text_eng = Was the cross then very big ?book 3-chap 9
+1	Turusukatupe	(eb)urusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
+2	aʔe	aʔe	DET	dem	_	3	nmod	3:nmod	_
+3	cruz	cruz	NOUN	n	_	0	root	0:root	_
+4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	3:advmod	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
