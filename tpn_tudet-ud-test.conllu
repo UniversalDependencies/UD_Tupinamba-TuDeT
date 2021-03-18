@@ -258,3 +258,15 @@
 4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	3:advmod	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 1004
+# text = Turusukatu , ndʔeʔiteʔe seroʔároʔá serasóβo , iposɨja swi
+# text_eng =  It was very big, for this reason he kept on falling while carrying it, from its wheight   book 3-chap 9
+1	Turusukatu	(eb)urusu	NOUN	n	Intens=Yes|Rel=Abs	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ndʔeʔiteʔe	ndʔeʔiteʔe	ADV	v	_	1	parataxis	1:parataxis	gloss_eng=Neg-say-for.no.reason
+4	seroʔaroʔa	ʔar	NOUN	n	Aspect=Iter|Rel=NCont	3	advcl	3:advcl	_
+5	serasóβo	so	VERB	v	VerbForm=Ger|Rel=NCont	4	dep	4:dep	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	iposɨja	posɨj	NOUN	n	Rel=NCont	5	obj	5:obj	_
+8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
+
