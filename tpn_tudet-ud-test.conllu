@@ -227,9 +227,9 @@
 10	,	_	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
-# sent_id = 1
+# sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
-# text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-cahp 9
+# text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
 1	Marãpe	marãpe	PRON	pro	_	4	advmod	4:advmod	_
 2	judeus	judeus	NOUN	n	_	4	nmod	4:nmod	_
 3	jandéjara	jar	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	4:nmod	_
@@ -238,4 +238,13 @@
 6	Pilatos	Pilatos	NOUN	n	_	7	nsubj	7:nsubj	_
 7	imeʔengiré	meʔeng	NOUN	n	Rel=NCont	4	advcl	4:advcl	_
 8	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 1002
+# text = Okárɨpe senosẽmi cruz nonga iatiʔɨβári 
+# text_eng = They went to the patio placing a cross on his shoulder book 3-chap 9
+1	Okárɨpe	okár	NOUN	n	_	2	obl	2:obl	_
+2	senosẽmi	enosẽm	NOUN	n	_	0	root	0:root	_
+3	cruz	cruz	NOUN	n	_	4	obj	4:obj	_
+4	nonga	nong	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
+5	iatiʔɨβári	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	4:obl	_
 
