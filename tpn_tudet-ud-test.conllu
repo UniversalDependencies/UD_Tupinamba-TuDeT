@@ -249,7 +249,7 @@
 5	iatiʔɨβ	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	_	_
 6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	_	_
 
-# sent_id = 3
+# sent_id = 1003
 # text = Turusukatupe aʔe cruz erimbaʔe ?
 # text_eng = Was the cross then very big ?book 3-chap 9
 1	Turusukatupe	(eb)urusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
