@@ -291,3 +291,11 @@
 4	serɨβaʔe	er	NOUN	n	Nmzr=Rel|Rel=NCont	2	dep	2:dep	_
 5	supé	supé	ADP	posp	REL=Cont	2	case	2:case	_
 
+# sent_id = 7
+# text = iporeawsuβerekóβope emonã seków ?
+# text_eng = Did they act this way having mercy of him book 3-chap 9
+1	iporeawsuβerekóβope	poreawsuβerekó	NOUN	n	Case=Per|Rel=NCont	3	dep	3:dep	_
+2	emonã	emonã	ADV	adv	_	3	advmod	3:advmod	_
+3	seków	ekó	NOUN	n	Rel=NCont	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
