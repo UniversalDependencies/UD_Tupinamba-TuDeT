@@ -299,7 +299,7 @@
 3	seków	ekó	NOUN	n	Rel=NCont	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 8
+# sent_id = 1008
 # text = Aʔãni , t'oβasem esapɨʔa ojukawame  ojaβo é
 # text_eng = No, instead, so that he could quickly arrive at the place of his killing, the said   book 3-chap 9
 1	Aʔãni	aʔãni	INTJ	intj	_	3	discourse	3:discourse	_
@@ -309,5 +309,4 @@
 5	ojukawame	juka	NOUN	n	NTens=Fut|Reflex=Yes	3	obl	3:obl	_
 6	ojaβo	_	VERB	v	VerbForm=Ger|Person=3	3	dep	3:dep	_
 7	é	_	PART	prcl	_	6	discourse	6:discourse	_
-
 
