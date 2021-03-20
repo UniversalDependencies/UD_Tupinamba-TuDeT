@@ -310,3 +310,13 @@
 6	ojaβo	_	VERB	v	VerbForm=Ger|Person=3	3	dep	3:dep	_
 7	é	_	PART	prcl	_	6	discourse	6:discourse	_
 
+# sent_id = 1009
+# text = Nd'ojkójpe amõ aβá sakɨpwéri iporeawsuβerekosáramo ?
+# text_eng = Weren't there others, having mercy of him? book 3-chap 9
+1	Nd'ojkójpe	ojkó	VERB	v	Person=3	0	root	_	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
+3	aβá	aβá	NOUN	n	_	1	obl	_	_
+4	sakɨpwéri	akɨpwéri	ADV	adv	Rel=NCont	3	obl	_	_
+5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|Nomz=Ag|Rel=NCont	3	obl	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
