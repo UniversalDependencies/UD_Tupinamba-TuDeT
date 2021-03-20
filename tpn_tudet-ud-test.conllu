@@ -291,11 +291,23 @@
 4	serɨβaʔe	er	NOUN	n	Nmzr=Rel|Rel=NCont	2	dep	2:dep	_
 5	supé	supé	ADP	posp	REL=Cont	2	case	2:case	_
 
-# sent_id = 7
+# sent_id = 1007
 # text = iporeawsuβerekóβope emonã seków ?
 # text_eng = Did they act this way having mercy of him book 3-chap 9
 1	iporeawsuβerekóβope	poreawsuβerekó	NOUN	n	Case=Per|Rel=NCont	3	dep	3:dep	_
 2	emonã	emonã	ADV	adv	_	3	advmod	3:advmod	_
 3	seków	ekó	NOUN	n	Rel=NCont	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 8
+# text = Aʔãni , t'oβasem esapɨʔa ojukawame  ojaβo é
+# text_eng = No, instead, so that he could quickly arrive at the place of his killing, the said   book 3-chap 9
+1	Aʔãni	aʔãni	INTJ	intj	_	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	t'oβasem	oβasem	VERB	v	Mood=Perm|Person=3	0	root	0:root	_
+4	esapɨʔa	esapɨʔa	ADV	adv	_	3	advmod	3:advmod	_
+5	ojukawame	juka	NOUN	n	NTens=Fut|Reflex=Yes	3	obl	3:obl	_
+6	ojaβo	_	VERB	v	VerbForm=Ger|Person=3	3	dep	3:dep	_
+7	é	_	PART	prcl	_	6	discourse	6:discourse	_
+
 
