@@ -328,3 +328,12 @@
 3	semimboʔeetá	emimboʔe	NOUN	n	Number=Coll	2	appos	2:appos	gloss_port=REL2-pupil-COLL
 4	sapirõmo	apirõ	VERB	vt	VerbForm=Ger	1	dep	1:dep	gloss_port=REL2-mourn-GER
 
+# sent_id = 1011
+# text = Marã eʔipe jandéjara iʃupé ?
+# text_eng = What did our lord tell them? book 3 chap 9
+1	Marã	marã	PRON	pro	PronType=Int	2	obj	2:obj	_
+2	eʔipe	eʔi	VERB	vt	_	0	root	0:root	gloss_port=say-Q
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	2:nsubj	_
+4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	2:obl	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
