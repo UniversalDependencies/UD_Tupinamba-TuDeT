@@ -320,3 +320,11 @@
 5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|Nomz=Ag|Rel=NCont	3	obl	_	_
 6	?	?	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 1010
+# text = Osó kuɲã semimboʔeetá sapirõmo
+# text_eng = The women, his many disciples, went mourning him
+1	Osó	so	VERB	vi	Person=3	0	root	0:root	gloss_port=3-ir
+2	kuɲã	kuɲã	NOUN	n	_	1	obl	1:obl	gloss_port=mulher-REF
+3	semimboʔeetá	emimboʔe	NOUN	n	Number=Coll	2	appos	2:appos	gloss_port=REL2-pupil-COLL
+4	sapirõmo	apirõ	VERB	vt	VerbForm=Ger	1	dep	1:dep	gloss_port=REL2-mourn-GER
+
