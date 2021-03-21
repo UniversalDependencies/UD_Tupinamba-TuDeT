@@ -337,3 +337,17 @@
 4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	2:obl	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 1012
+# text = Peté umẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pe membɨrate pesapirõ  eʔi
+# text_eng = Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9
+1	Petéumẽ	petéumẽ	PART	pcl	Number=Sing|Person=2|Polarity=Neg	2	dep	2:dep	_
+2	ʃerapirõmo	apirõ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
+3	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+4	peẽ	peẽ	PRON	pron	Number=Plur|Person=2|PronType=Prs	6	obl	6:obl	_
+5	aéte	aéte	PART	pcl	_	4	discourse	4:discourse	_
+6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	3:parataxis	_
+7	eʔi	eʔi	VERB	v	_	6	parataxis	6:parataxis	_
+8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=2	9	obl	9:obl	_
+9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=23	7	dep	7:dep	_
+10	eʔi	eʔi	VERB	_	v	9	advcl	9:advcl	_
+
