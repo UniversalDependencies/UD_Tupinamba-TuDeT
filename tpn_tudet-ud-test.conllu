@@ -47,11 +47,11 @@
 1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
 3	i	i	PRON	pro	_	4	nmod	4:nmod	_
-4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Case=Ref|nmzrr=DevPass	5	nsubj	5:nsubj	_
+4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Case=Ref|Nomzr=DevPass	5	nsubj	5:nsubj	_
 5	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
 6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
 7	moɲɨrõ	moɲɨrõ	NOUN	n	_	8	nmod	8:nmod	_
-8	potasáβamo	pota	NOUN	n	Case=Tra|nmzrr=Circ|VerbForm=Ger	5	advcl	5:advcl	_
+8	potasáβamo	pota	NOUN	n	Case=Tra|Nomzr=Circ|VerbForm=Ger	5	advcl	5:advcl	_
 9	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 5
@@ -61,7 +61,7 @@
 1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
 2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
 3	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
-4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|nmzr=Circ|Tense=Past	0	root	_	_
+4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
 
 # sent_id = 6
 # text = Tekoangaipaβokáramo jandéjara JesusCristo rekóreme
@@ -98,7 +98,7 @@
 2	resépe	esé	ADP	pp	_	1	case	_	_
 3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
 4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	3	dep	_	_
-5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	nmzrr=Circ	1	dep	_	_
+5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomzr=Circ	1	dep	_	_
 6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -110,7 +110,7 @@
 3	épe	épe	PART	pcl	_	2	discourse	2:discourse	_
 4	erimbaʔe	erimbaʔe	ADV	adv	_	2	advmod	2:advmod	_
 5	i	i	PRON	pro	_	6	nmod	6:nmod	_
-6	ɲemeʔẽngi	meʔẽng	NOUN	n	nmzrr=Circ|Reflex=Yes	2	appos	2:appos	_
+6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomzr=Circ|Reflex=Yes	2	appos	2:appos	_
 7	ogupjarama	upjaram	NOUN	n	Reflex=Yes	6	obl	6:obl	_
 8	supé	supé	ADP	pp	_	7	case	7:case	_
 9	oɲeraneʔɨma	ɲeran	VERB	v	Polarity=Neg|VerbForm=Ger	6	dep	6:dep	_
@@ -317,7 +317,7 @@
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
 3	aβá	aβá	NOUN	n	_	1	obl	_	_
 4	sakɨpwéri	akɨpwéri	NOUN	n	Rel=NCont	3	obl	_	_
-5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|nmzr=Ag|Rel=NCont	3	obl	_	_
+5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|Nomzr=Ag|Rel=NCont	3	obl	_	_
 6	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 1010
