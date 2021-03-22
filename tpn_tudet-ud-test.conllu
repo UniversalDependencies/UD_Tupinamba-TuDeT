@@ -366,7 +366,7 @@
 1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	2:nmod	_
 2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	15:nmod	_
 3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
-4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	_	_	_	_
+4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	15	nmod	15:nmod	_
 5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Abs	4	conj	4:conj	_
 6	marana	marana	NOUN	n	_	8	nmod	8:nmod	_
 7	ri	ri	ADP	posp	_	6	case	6:case	_
