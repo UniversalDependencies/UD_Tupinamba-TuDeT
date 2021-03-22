@@ -408,7 +408,7 @@
 # text_eng = Where did they finally show up with our lord? book 3-chap 9
 1	Mamõpe	mamõpe	ADV	adv	_	4	advmod	4:advmod	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	dep	3:dep	_
-3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Rel=Cont	nmod	4:nmod	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Rel=Cont  4	nmod	4:nmod	_
 4	reroβasẽmi	oβasem	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	4:advmod	_
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
