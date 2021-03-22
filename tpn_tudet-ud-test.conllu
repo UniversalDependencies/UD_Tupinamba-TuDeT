@@ -360,7 +360,7 @@
 4	iʔew	iʔe	NOUN	n	Form=Circ	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
-# sent_id = 14
+# sent_id = 1014
 # text = Ojukaawera repɨramo amõ apɨaβa toβajara marana ri tekoara irã akwé taβusu Jerusalém jaβa pora mombeβawama kwapa ɲẽ ajpó iʔew
 # text_eng = He said this futurely knowing of the smashing (to come) of the of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9
 1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	2:nmod	_
