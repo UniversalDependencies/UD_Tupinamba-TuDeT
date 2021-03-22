@@ -306,7 +306,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	t'oβasem	oβasem	VERB	v	Mood=Perm|Person=3	0	root	0:root	_
 4	esapɨʔa	esapɨʔa	ADV	adv	_	3	advmod	3:advmod	_
-5	ojukawame	juka	NOUN	n	Case=Loc|NTens=Fut|Reflex=Yes	3	obl	3:obl	_
+5	ojukawame	juka	NOUN	n	Case=Loc|Tens=Fut|Reflex=Yes	3	obl	3:obl	_
 6	ojaβo	_	VERB	v	VerbForm=Ger|Person=3	3	dep	3:dep	_
 7	é	_	PART	prcl	_	6	discourse	6:discourse	_
 
