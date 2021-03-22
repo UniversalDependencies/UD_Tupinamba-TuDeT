@@ -218,7 +218,7 @@
 1	aʔe	aʔe	PART	pcl	_	2	discourse	_	_
 2	ipó	ipó	ADV	adv	_	5	discourse	_	_
 3	mbaʔe	mbaʔe	NOUN	n	_	4	nmod	_	_
-4	repɨ́ramo	epɨ́	NOUN	n	Case=tra|Rel=Cont	5	obl	_	_
+4	repɨ́ramo	epɨ́	NOUN	n	Case=Tra|Rel=Cont	5	obl	_	_
 5	ojmoariβeukar	_	VERB	v	_	11	parataxis	_	_
 6	ʃeswi	swi	ADP	pp	Number=Sing|Person=1	5	obl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
