@@ -360,3 +360,26 @@
 4	iʔew	iʔe	NOUN	n	Form=Circ	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
+# sent_id = 14
+# text = Ojukaawera repɨramo amõ apɨaβa toβajara marana ri tekoara irã akwé taβusu Jerusalém jaβa pora mombeβawama kwapa ɲẽ ajpó iʔew
+# text_eng = He said this futurely knowing of the smashing (to come) of the of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9
+1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	2:nmod	_
+2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	15:nmod	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	_	_	_	_
+5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Abs	4	conj	4:conj	_
+6	marana	marana	NOUN	n	_	8	nmod	8:nmod	_
+7	ri	ri	ADP	posp	_	6	case	6:case	_
+8	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	5	conj	5:conj	_
+9	irã	irã	ADV	adv	_	16	advmod	16:advmod	_
+10	akwé	akwé(j)	DET	dem	_	11	nmod	11:nmod	_
+11	taβusu	aβa	NOUN	n	Rel=Abs	14	nmod	14:nmod	_
+12	Jerusalém	Jerusalém	PROPN	_	_	11	appos	11:appos	_
+13	ʔiaβa	ʔi	NOUN	n	_	12	amod	12:amod	_
+14	pora	por	NOUN	_	_	8	appos	8:appos	_
+15	mombeβawama	mombeβ	NOUN	n	Case=Ref|Tense=Fut	16	obj	16:obj	_
+16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	19:advcl	_
+17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	19:discourse	_
+18	ajpó	ajpó	DET	dem	_	19	obj	19:obj	_
+19	iʔew	iʔe	NOUN	n	_	0	root	0:root	_
+
