@@ -306,7 +306,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	t'oβasem	oβasem	VERB	v	Mood=Perm|Person=3	0	root	0:root	_
 4	esapɨʔa	esapɨʔa	ADV	adv	_	3	advmod	3:advmod	_
-5	ojukawame	juka	NOUN	n	Case=Loc|Reflex=Yes|Tens=Fut	3	obl	3:obl	_
+5	ojukawame	juka	NOUN	n	Case=Loc|Reflex=Yes|Tense=Fut	3	obl	3:obl	_
 6	ojaβo	_	VERB	v	Person=3|VerbForm=Ger	3	dep	3:dep	_
 7	e	e	PART	prcl	_	6	discourse	6:discourse	_
 
@@ -338,7 +338,7 @@
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 1012
-# text = Peté umẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pe membɨrate pesapirõ eʔi
+# text = Peté umẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pemembɨrate pesapirõ eʔi
 # text_eng = Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9
 1	Petéumẽ	petéumẽ	PART	pcl	Number=Sing|Person=2|Polarity=Neg	2	dep	2:dep	_
 2	ʃerapirõmo	apirõ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
