@@ -356,7 +356,7 @@
 1	Marã	marã	ADV	adv	_	2	advmod	2:advmod	_
 2	ojaβope	ojaβope	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
 3	ajpó	ajpó	DET	dem	_	4	nmod	4:nmod	_
-4	iʔew	iʔe	NOUN	n	Form=Circ	0	root	0:root	_
+4	iʔew	iʔe	NOUN	n	OblTop=Yes	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 1014
@@ -380,7 +380,7 @@
 16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	19:advcl	_
 17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	19:discourse	_
 18	ajpó	ajpó	DET	dem	_	19	obj	19:obj	_
-19	iʔew	iʔe	NOUN	n	_	0	root	0:root	_
+19	iʔew	iʔe	NOUN	n	OblTop=Yes	0	root	0:root	_
 
 # sent_id = 1015
 # text = Osoβasɨpe amõ kuɲã ?
