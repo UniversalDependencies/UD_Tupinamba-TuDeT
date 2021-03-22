@@ -265,7 +265,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ndʔeʔiteʔe	ndʔeʔiteʔe	ADV	v	_	1	parataxis	1:parataxis	gloss_eng=Neg-say-for.no.reason
 4	seroʔaroʔa	ʔar	NOUN	n	Aspect=Iter|Rel=NCont	3	advcl	3:advcl	_
-5	serasóβo	so	VERB	v	VerbForm=Ger|Rel=NCont	4	dep	4:dep	_
+5	serasóβo	so	VERB	v	Rel=NCont|VerbForm=Ger	4	dep	4:dep	_
 6	,	,	PUNCT	punct	_	3	punct	3:punct	_
 7	iposɨja	posɨj	NOUN	n	Rel=NCont	5	obj	5:obj	_
 8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
@@ -288,7 +288,7 @@
 1	Owarukar	jar	VERB	v	_	0	root	0:root	_
 2	Simão	Simão	PROPN	propn	_	1	obl	1:obl	_
 3	Cirineu	Cirineu	PRON	propn	_	4	nsubj	4:nsubj	_
-4	serɨβaʔe	er	NOUN	n	Nmzr=Rel|Rel=NCont	2	dep	2:dep	_
+4	serɨβaʔe	er	NOUN	n	Nomzr=Rel|Rel=NCont	2	dep	2:dep	_
 5	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
 
 # sent_id = 1007
