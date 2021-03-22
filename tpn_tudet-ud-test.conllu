@@ -391,3 +391,16 @@
 3	kuɲã	kuɲã	NOUN	n	Case=Ref	1	obj	1:obj	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 1016
+# text = Osoβasɨβ aotinga pupé , aʔe resé soβá ra'angaβa jári
+# text_eng = She washed his face wih a white fabric, the image of his face satyed on it. book 3-chap 9
+1	Osoβasɨβ	oβasɨ	VERB	v	Person=33	0	root	0:root	_
+2	aotinga	aotiŋ	NOUN	n	Case=Ref	1	obl	1:obl	_
+3	pupé	pupé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	aʔe	aʔe	DET	dem	_	9	obl	9:obl	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	soβá	oβá	NOUN	n	Case=Ref|Rel=NCont	8	nmod	8:nmod	_
+8	raʔangaβa	aʔaŋ	NOUN	n	Case=Ref|Nmzr=Circ|Rel=Cont	9	nsubj	9:nsubj	_
+9	jári	jar	NOUN	n	Rel=Cont	1	parataxis	1:parataxis	_
+
