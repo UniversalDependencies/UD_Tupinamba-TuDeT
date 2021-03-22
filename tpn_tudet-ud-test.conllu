@@ -338,7 +338,7 @@
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 1012
-# text = Peté umẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pemembɨrate pesapirõ eʔi
+# text = Petéumẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pemembɨrate pesapirõ eʔi
 # text_eng = Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9
 1	Petéumẽ	petéumẽ	PART	pcl	Number=Sing|Person=2|Polarity=Neg	2	dep	2:dep	_
 2	ʃerapirõmo	apirõ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
