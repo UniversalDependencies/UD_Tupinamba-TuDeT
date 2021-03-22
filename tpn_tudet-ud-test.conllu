@@ -376,7 +376,7 @@
 11	taβusu	aβa	NOUN	n	Rel=Abs	14	nmod	14:nmod	_
 12	Jerusalém	Jerusalém	PROPN	_	_	11	appos	11:appos	_
 13	ʔiaβa	ʔi	NOUN	n	_	12	amod	12:amod	_
-14	pora	por	NOUN	_	_	8	appos	8:appos	_
+14	pora	por	NOUN	n	Case=Ref	8	appos	8:appos	_
 15	mombeβawama	mombeβ	NOUN	n	Case=Ref|Tense=Fut	16	obj	16:obj	_
 16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	19:advcl	_
 17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	19:discourse	_
