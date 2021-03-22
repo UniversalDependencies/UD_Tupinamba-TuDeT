@@ -230,7 +230,7 @@
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
-1	Marãpe	marãpe	PRON	pro	_	4	advmod	4:advmod	_
+1	Marãpe	marãpe	ADV	adv	_	4	advmod	4:advmod	_
 2	judeus	judeus	NOUN	n	_	4	nmod	4:nmod	_
 3	jandéjara	jar	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	4:nmod	_
 4	rereków	erekó	NOUN	n	_	0	root	0:root	_
