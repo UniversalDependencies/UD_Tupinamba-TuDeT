@@ -251,8 +251,8 @@
 
 # sent_id = 1003
 # text = Turusukatupe aʔe cruz erimbaʔe ?
-# text_eng = Was the cross then very big ?book 3-chap 9
-1	Turusukatupe	(eb)urusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
+# text_eng = Was the cross then very big? book 3-chap 9
+1	Turusukatupe	eburusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
 2	aʔe	aʔe	DET	dem	_	3	nmod	3:nmod	_
 3	cruz	cruz	NOUN	n	_	0	root	0:root	_
 4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	3:advmod	_
