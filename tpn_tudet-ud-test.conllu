@@ -383,3 +383,11 @@
 18	ajpó	ajpó	DET	dem	_	19	obj	19:obj	_
 19	iʔew	iʔe	NOUN	n	_	0	root	0:root	_
 
+# sent_id = 1015
+# text = Osoβasɨpe amõ kuɲã ?
+# text_eng = Did any woman wash his face? book 3-chap 9
+1	Osoβasɨpe	oβasɨ	VERB	v	Person=33	0	root	0:root	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	3:nmod	_
+3	kuɲã	kuɲã	NOUN	n	Case=Ref	1	obj	1:obj	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
