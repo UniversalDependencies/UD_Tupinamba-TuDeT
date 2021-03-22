@@ -316,7 +316,7 @@
 1	Nd'ojkójpe	ojkó	VERB	v	Person=3	0	root	_	_
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
 3	aβá	aβá	NOUN	n	_	1	obl	_	_
-4	sakɨpwéri	akɨpwéri	ADV	adv	Rel=NCont	3	obl	_	_
+4	sakɨpwéri	akɨpwéri	NOUN	n	Rel=NCont	3	obl	_	_
 5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|nmzr=Ag|Rel=NCont	3	obl	_	_
 6	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -347,13 +347,13 @@
 5	aéte	aéte	PART	pcl	_	4	discourse	4:discourse	_
 6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	3:parataxis	_
 7	eʔi	eʔi	VERB	v	_	6	parataxis	6:parataxis	_
-8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=2	9	obl	9:obl	_
-9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=23	7	dep	7:dep	_
+8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=23	9	obl	9:obl	_
+9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=2	7	dep	7:dep	_
 10	eʔi	eʔi	VERB	v	_	9	advcl	9:advcl	_
 
 # sent_id = 1013
-# text = Marã ojaβope ajpó i'éw ?
-# text_eng = Wha did he mean by saying this? (How saying, did he say this?) book 3-chap 9
+# text = Marã ojaβope ajpó iʔéw ?
+# text_eng = What did he mean by saying this? (How saying, did he say this?) book 3-chap 9
 1	Marã	marã	ADV	adv	_	2	advmod	2:advmod	_
 2	ojaβope	ojaβope	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
 3	ajpó	ajpó	DET	dem	_	4	nmod	4:nmod	_
