@@ -392,7 +392,7 @@
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 1016
-# text = Osoβasɨβ aotinga pupé , aʔe resé soβá ra'angaβa jári
+# text = Osoβasɨβ aotinga pupé , aʔe resé soβá raʔangaβa jári
 # text_eng = She washed his face wih a white fabric, the image of his face satyed on it. book 3-chap 9
 1	Osoβasɨβ	oβasɨ	VERB	v	Person=33	0	root	0:root	_
 2	aotinga	aotiŋ	NOUN	n	Case=Ref	1	obl	1:obl	_
