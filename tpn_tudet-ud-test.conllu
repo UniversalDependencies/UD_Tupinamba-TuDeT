@@ -240,8 +240,8 @@
 8	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 1022
-# text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book 3-chap 9
-# text_eng = They went to the patio placing a cross on his shoulder
+# text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári
+# text_eng = They went to the patio placing a cross on his shoulder  book 3-chap 9
 1	Okárɨpe	okár	NOUN	n	_	2	obl	_	_
 2	senosẽmi	enosẽm	NOUN	n	_	0	root	_	_
 3	cruz	cruz	NOUN	n	_	4	obj	_	_
