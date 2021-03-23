@@ -426,8 +426,8 @@
 8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
 
 # sent_id = 1019
-# text = Ojaoβok raɲẽpe ɨβɨá ? book 3-chap 9
-# text_eng = Were his clothes tore apart before ? 
+# text = Ojaoβok raɲẽpe ɨβɨá ?
+# text_eng = Were his clothes tore apart before ?  book 3-chap 9 
 1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person=33	0	root	0:root	_
 2	raɲẽpe	raɲẽ	ADV	adv	_	1	advmod	1:advmod	_
 3	ɨβɨá	ɨβɨá	PART	prcl	_	1	obl	1:obl	_
