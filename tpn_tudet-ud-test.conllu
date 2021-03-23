@@ -414,7 +414,7 @@
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 1018
-# text = ɨβɨtɨrɨpe Monte Calvário jápe , aʔepe imojá cruz resé
+# text = ɨβɨtɨrɨpe MonteCalvário jápe , aʔepe imojá cruz resé
 # text_eng = To the mount called Calvary, there he was naild on the cross book 3-chap 9 -- RRRRRR words to be checked
 1	ɨβɨtɨrɨpe	ɨβɨtɨr	NOUN	n	Case=All	0	root	0:root	_
 2	MonteCalvário	_	PROPN	propn	_	1	appos	1:appos	_
