@@ -438,7 +438,7 @@
 # text_eng = They tore his clothes. book 3-chap 9
 1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person=33	0	root	0:root	_
 
-# sent_id = 21
+# sent_id = 1021
 # text = Ojaratã serã iaoβa inupãsawera imoperépereβawera resé ?
 # text_eng =
 1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
@@ -449,7 +449,7 @@
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 22
+# sent_id = 1022
 # text = Ojaratã , nd'eʔi teʔe aʔéreme judeus sekɨjatãmo ipira βe reru , suwɨ mosɨrɨka iʃwi
 # text_eng =
 1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
@@ -466,4 +466,20 @@
 12	suwɨ	_	NOUN	n	Rel=NCont	13	obj	13:obj	_
 13	mosɨrɨka	sɨrɨk	VERB	v	VerbForm=Ger|Voice=Cau	7	dep	7:dep	_
 14	iʃwi	swi	ADP	posp	Rel=NCont	13	obl	13:obl	_
+
+# sent_id = 1023
+# text = iaowérape , marã sereków ?
+# text_eng =
+1	iaowérape	aoβ	NOUN	Case=Ref|Rel=NCont|Tense=Past	_	4	dep	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	marã	marã	ADV	adv	_	4	advmod	_	_
+4	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 1024
+# text = ijukasarama ojmojaʔok ojoupé
+# text_eng =
+1	ijukasarama	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Fut	2	nsubj	_	gloss_port=RELNCONT-matar-NOMZR-REF
+2	ojmojaʔok	moja'ok	VERB	v	Person=33|Voice=Cau	0	root	_	gloss_port=3-RELNCONT-CAUS-SEPARATE
+3	ojoupé	joupé	ADP	posp	Reflex=Yes	2	obl	_	_
 
