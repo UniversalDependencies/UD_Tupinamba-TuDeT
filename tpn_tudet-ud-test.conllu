@@ -449,3 +449,21 @@
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 22
+# text = Ojaratã , nd'eʔi teʔe aʔéreme judeus sekɨjatãmo ipira βe reru , suwɨ mosɨrɨka iʃwi
+# text_eng =
+1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	nd'eʔi	_	VERB	v	Polarity=Neg	7	advmod	7:advmod	_
+4	teʔe	_	ADV	adv	_	3	advmod	3:advmod	_
+5	aʔéreme	_	ADV	_	_	7	advmod	7:advmod	_
+6	judeus	judeus	NOUN	n	_	7	nsubj	7:nsubj	_
+7	sekɨjatãmo	ekɨjatã	VERB	v	Rel=NCont|VerbForm=Ger	1	parataxis	1:parataxis	_
+8	ipira	_	NOUN	n	Rel=NCont	10	nmod	10:nmod	_
+9	βe	βe	ADV	adv	_	10	advcl	10:advcl	_
+10	reru	er	NOUN	n	_	7	dep	7:dep	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	suwɨ	_	NOUN	n	Rel=NCont	13	obj	13:obj	_
+13	mosɨrɨka	sɨrɨk	VERB	v	VerbForm=Ger|Voice=Cau	7	dep	7:dep	_
+14	iʃwi	swi	ADP	posp	Rel=NCont	13	obl	13:obl	_
+
