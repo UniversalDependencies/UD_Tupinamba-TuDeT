@@ -438,3 +438,14 @@
 # text_eng = They tore his clothes. book 3-chap 9
 1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person=33	0	root	0:root	_
 
+# sent_id = 21
+# text = Ojaratã serã iaoβa inupãsawera imoperépereβawera resé ?
+# text_eng =
+1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
+2	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
+3	iaoβa	aoβ	NOUN	n	Case=Ref|Rel=NCont	1	obl	1:obl	_
+4	inupãsawera	_	NOUN	_	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Pas	1	obl	1:obl	gloss_port=RELNC-beat-NOMZR-PAST-REF
+5	imoperépereβawera	_	NOUN	_	Case=Ref|Nomzr=Circ|Red=Di|Rel=NCont|Tense=Pas	4	appos	4:appos	gloss_port=RELNC-wound.RED-NOMZR-PAST-REF
+6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
