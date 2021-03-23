@@ -413,7 +413,7 @@
 5	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	4:advmod	_
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
-# sent_id = 18
+# sent_id = 1018
 # text = ɨβɨtɨrɨpe Monte Calvário jápe , aʔepe imojá cruz resé
 # text_eng = To the mount called Calvary, there he was naild on the cross book 3-chap 9 -- RRRRRR words to be checked
 1	ɨβɨtɨrɨpe	ɨβɨtɨr	NOUN	n	Case=All	0	root	0:root	_
@@ -425,7 +425,7 @@
 7	cruz	cruz	NOUN	n	_	6	obj	6:obj	_
 8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
 
-# sent_id = 19
+# sent_id = 1019
 # text = Ojaoβok raɲẽpe ɨβɨá ? book 3-chap 9
 # text_eng = Were his clothes tore apart before ? 
 1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person=33	0	root	0:root	_
@@ -433,7 +433,7 @@
 3	ɨβɨá	ɨβɨá	PART	prcl	_	1	obl	1:obl	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 20
+# sent_id = 1020
 # text = Ojaoβok
 # text_eng = They tore his clothes. book 3-chap 9
 1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person=33	0	root	0:root	_
