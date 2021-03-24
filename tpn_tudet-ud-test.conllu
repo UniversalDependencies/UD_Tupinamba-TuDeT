@@ -242,12 +242,12 @@
 # sent_id = 1022
 # text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári
 # text_eng = They went to the patio placing a cross on his shoulder  book 3-chap 9
-1	Okárɨpe	okár	NOUN	n	_	2	obl	_	_
-2	senosẽmi	enosẽm	NOUN	n	_	0	root	_	_
-3	cruz	cruz	NOUN	n	_	4	obj	_	_
-4	nonga	nong	VERB	v	VerbForm=Ger	2	advcl	_	_
-5	iatiʔɨβ	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	_	_
-6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	_	_
+1	Okárɨpe	okár	NOUN	n	_	2	obl	2:obl	_
+2	senosẽmi	enosẽm	NOUN	n	_	0	root	0:root	_
+3	cruz	cruz	NOUN	n	_	4	obj	4:obj	_
+4	nonga	nong	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
+5	iatiʔɨβ	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	4:obl	_
+6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	5:case	_
 
 # sent_id = 1003
 # text = Turusukatupe aʔe cruz erimbaʔe ?
@@ -541,7 +541,7 @@
 7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
 8	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 30
+# sent_id = 1030
 # text = Owatá jepé
 # text_eng = It certainly didn't reach!
 1	Owatár	watá	VERB	v	Person=3	0	root	0:root	_
