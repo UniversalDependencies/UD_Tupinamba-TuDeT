@@ -483,7 +483,7 @@
 2	ojmojaʔok	moja'ok	VERB	v	Person=33|Voice=Cau	0	root	_	gloss_port=3-RELNCONT-CAUS-SEPARATE
 3	ojoupé	joupé	ADP	posp	Reflex=Yes	2	obl	_	_
 
-# sent_id = 25
+# sent_id = 1025
 # text = Ikatupe ɲẽpe seków teʔɨjpe ?
 # text_eng = Was he, as a matter of fact, naked in public? book 3-chap 9
 1	Ikatupe	ikatupe	ADV	adv	Rel=NCont	0	root	0:root	_
@@ -492,7 +492,7 @@
 4	teʔɨjpe	teʔɨjpe	NOUN	n	Case=Loc|Rel=Abs	1	obl	1:obl	_
 5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 26
+# sent_id = 1026
 # text = Ikatupe ɲẽ , iʃɨ aʔe ipó opjá oakangaoβĩ pupé
 # text_eng = He was naked, his mother even covered him with her veil     book 3-chap 9
 1	Ikatupe	_	NOUN	n	Rel=NCont	7	dep	7:dep	_
