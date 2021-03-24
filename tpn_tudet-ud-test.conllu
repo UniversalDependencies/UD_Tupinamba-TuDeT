@@ -507,11 +507,25 @@
 
 # sent_id = 1027
 # text = Marãpe ɨβɨá sereków aʔe riré ?
-# text_eng =
+# text_eng = How did they treat him after tzhat?      book 3-chap 9
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	3:advmod	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	nsubj	3:nsubj	_
 3	sereków	erekó	NOUN	n	Rel=NCont|OblTop=Yes	0	root	0:root	_
 4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
 5	riré	_	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 1028
+# text = Ojpɨsó ɨβɨrajoasaβa ʔárɨβo , itapɨwá pupé ipó kutuka , imojá
+# text_eng = They extenden him on along the cross, nailing his hands with nails, piercing them  book 3-chap 9
+1	Ojpɨsó	pɨsó	VERB	v	Person=33	0	root	0:root	_
+2	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	1:obl	_
+3	ʔárɨβo	_	NOUN	n	Case=Per	2	case	2:case	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	itapɨwá	itapɨwá	NOUN	n	_	1	obl	1:obl	_
+6	pupé	pupé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	ipó	_	DET	dem	_	8	nsubj	8:nsubj	_
+8	kutuka	kutuk	VERB	v	VerbForm=Ger	1	conj	1:conj	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	imojá	mojár	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 
