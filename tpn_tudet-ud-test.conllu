@@ -529,3 +529,15 @@
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	imojá	mojár	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 
+# sent_id = 1029
+# text = Owatá jepé serã ijɨβamokõja itapɨwá soarama resé ?
+# text_eng = Poraca­ so não chegava seu segundo braço ao lugar de irem os pregos?
+1	Owatá	watá	VERB	v	Person=3	0	root	0:root	_
+2	jepé	jepé	PART	pcl	_	1	discourse	1:discourse	_
+3	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
+4	ijɨβamokõja	NOUN	NOUN	Case=Ref|Rel=NCont	_	1	obj	1:obj	_
+5	itapɨwá	itapɨwá	NOUN	n	Case=Ref	6	nmod	6:nmod	_
+6	soarama	so	NOUN	n	Case=Ref|Nomzr=Ag|Tense=Fut	1	obj	1:obj	_
+7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
+8	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
