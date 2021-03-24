@@ -543,7 +543,7 @@
 
 # sent_id = 30
 # text = Owatá jepé
-# text_eng = It certainly
+# text_eng = It certainly didn't reach!
 1	Owatár	watá	VERB	v	Person=3	0	root	0:root	_
 2	jepé	jepé	PART	pcl	_	1	discourse	1:discourse	_
 
