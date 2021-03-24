@@ -505,3 +505,13 @@
 8	oakangaoβĩ	akangaoβĩ	NOUN	N	Reflex=Yes	7	obl	7:obl	_
 9	pupé	pupé	ADP	posp	Rel=Cont	8	case	8:case	_
 
+# sent_id = 27
+# text = Marãpe ɨβɨá sereków aʔe riré ?
+# text_eng =
+1	Marãpe	marãpe	ADV	adv	_	3	advmod	3:advmod	_
+2	ɨβɨá	ɨβɨá	PART	prcl	_	3	nsubj	3:nsubj	_
+3	sereków	erekó	NOUN	n	Rel=NCont|OblTop=Yes	0	root	0:root	_
+4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
+5	riré	_	ADP	posp	_	4	case	4:case	_
+6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
