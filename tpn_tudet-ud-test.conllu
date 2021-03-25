@@ -628,9 +628,8 @@
 4	kotɨ	kotɨ	ADP	posp	_	3	case	3:case	_
 5	amõ	amõ	PRON	pro	PronType=Ind	2	appos	2:appos	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	aé	aé	PART pcl	_	5	discourse	5:discourse	_
+7	aé	aé	PART	pcl	_	5	discourse	5:discourse	_
 8	amõ	amõ	PRON	pro	PronType=Ind	5	conj	5:conj	_
 9	iasu	asu	NOUN	n	Rel=NCont	8	obl	8:obl	_
 10	kotɨ	kotɨ	ADP	posp	_	9	case	9:case	_
-
 
