@@ -567,9 +567,8 @@
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	sekɨjsekɨjetéβo	ekɨj	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger	4	advcl	4:advcl	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-
-
 8	ikanga	kang	NOUN	n	Case=Ref|Rel=NCont	9	nmod	9:nmod	_
 9	jepotasaβa	jepotasaβa	NOUN	Case=Ref	_	10	obj	10:obj	_
 10	peʔaβo	peʔa	VERB	vt	VerbForm=Ger	_	_	_	_
 11	ojoswi	swi	ADP	posp	_	10	obl	10:obl	_
+
