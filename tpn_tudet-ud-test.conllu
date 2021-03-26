@@ -272,7 +272,7 @@
 
 # sent_id = 2336
 # text = mbaʔepe oɲonoŋ iakanga ʔárɨβo ?
-# text_eng =
+# text_eng = What did the place through his head ?  book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pro	_	2	obl	2:obl	_
 2	oɲonoŋ	noŋ	VERB	VT	PERSON=33	0	root	0:root	_
 3	iakanga	akaŋ	NOUN	N	Rel=NCont	2	obl	2:obl	_
@@ -281,7 +281,7 @@
 
 # sent_id = 2337
 # text = juatĩembo apɨɲa , iakang kutukutuka , sasapa
-# text_eng =
+# text_eng = A ring of thorn sticks, looming over his head, going through it.
 1	juatĩ	juatĩ	NOUN	n	_	2	nmod	2:nmod	_
 2	emboapɨɲa	emboapɨɲa	NOUN	n	_	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
