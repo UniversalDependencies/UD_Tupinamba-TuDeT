@@ -227,6 +227,49 @@
 10	,	_	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 2001
+# text = Marãpe ɨβɨá jandéjara rereków , inupãnupã ré ?
+# text_eng = How was our lord treated after his flogging?   book 3 chap 8
+1	Marãpe	marã	ADV	adv	_	4	advmod	4:advmod	_
+2	ɨβɨá	ɨβɨá	PART	pcl	_	_	_	_	_
+3	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
+4	rereków	_	NOUN	N	OblTop=Yes|Rel=Cont	0	root	0:root	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	inupãnupã	nupã	NOUN	_	Aspect=Iter|Rel=NCont	4	obl	4:obl	_
+7	ré	ré	PART	pcl	_	6	case	6:case	_
+8	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 2002
+# text = Owerasó amõ okusupe , serojkjaβo , aʔepe maranaritekoaratã reʔɨɲanga sesé
+# text_eng = They took him to a certain palace, gathering there strong soldiers because of him book 3 chap 8
+1	Owerasó	so	VERB	v	Person=3|Voice=CCom	0	root	0:root	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	3:nmod	_
+3	okusupe	ok	NOUN	n	Case=All	1	obl	1:obl	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	serojkjaβo	iké	VERB	v	Rel=NCont|VerbForm=Gern	1	advcl	1:advcl	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	aʔepe	aʔe	ADV	adv	_	9	advmod	9:advmod	_
+8	maranaritekoaratã	maranaritekoar	NOUN	n	_	9	nmod	9:nmod	_
+9	reʔɨɲanga	eʔɨɲang	VERB	V	Rel=Cont|VerbForm=Ger	5	conj	5:conj	_
+10	sesé	sesé	ADP	posp	Rel=NCont	9	case	9:case	_
+
+# sent_id = 2334
+# text = Marã serekóβope ?
+# text_eng = How was he treated?  3 chap 8
+1	Marã	marã	ADV	adv	_	2	advmod	2:advmod	_
+2	serekóβope	erekó	VERB	v	Rel=NCont|VerbForm=Ger	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 2335
+# text = Ijaoβoka , amõ aopiranga mondepa sesé
+# text_eng = Ripping his clothes, dressein him woth a red garment  book 3 chap 8
+1	Ijaoβoka	aoβok	VERB	vi	Incorp=Yes|Rel=NCont|VerbForm=Ger	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+4	aopiranga	aoβpirang	NOUN	_	_	5	obl	5:obl	_
+5	mondepa	mondep	VERB	vt	Rel=Cont|VerbForm=Ger	1	conj	1:conj	_
+6	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
