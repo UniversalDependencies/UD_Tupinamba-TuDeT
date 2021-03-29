@@ -303,6 +303,31 @@
 8	βé	βé	ADV	adv	_	6	advmod	6:advmod	_
 9	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
+# sent_id = 2339
+# text = Suwɨsɨrɨk 
+# text_eng = H had blood running down! book 3 chapetr 8
+1	Suwɨsɨrɨk	uwɨsɨrɨk	NOUN	n	Rel=NCont	0	root	0:root	_
+
+# sent_id = 2340
+# text = mbaʔepe ojmeʔeŋ iʔekatwápe ?
+# text_eng = What did they give to/in his right hand? book 3 chap 8
+1	mbaʔepe	mbaʔe	PRON	_	_	2	obl	0:root|2:obl	_
+2	ojmeʔeŋ	meʔeŋ	VERB	vt	Peron=33	_	_	_	_
+3	iʔekatwápe	ʔekatuaβ	NOUN	n	Rel=NCont	2	obl	2:obl	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 2341
+# text = Takwara , oendɨpɨãeʔɨjβo soβaké omemwãnamo , imouβiʃáβiʃaβa aʔupa
+# text_eng = A scpeter, mocking him on their knees in front of him , pretending he is the king/chief
+1	Takwara	_	NOUN	n	Case=Ref	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	oendɨpɨãeʔɨjβo	endɨpɨã	ADV	adv	_	5	advmod	5:advmod	_
+4	soβaké	oβaké	ADP	posp	Rel=NCont	3	case	3:case	_
+5	omemwãnamo	_	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	imouβiʃáβiʃaβa	mouβiʃáβ	NOUN	n	Rel=NCont	8	obj	8:obj	_
+8	aʔupa	aʔuβ	VERB	v	VerbForm=Ger	5	parataxis	5:parataxis	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
