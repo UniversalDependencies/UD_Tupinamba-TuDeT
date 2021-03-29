@@ -290,6 +290,19 @@
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	sasapa	_	VERB	v	Aspect=Iter|VerbForm=Ger	5	conj	5:conj	_
 
+# sent_id = 2338
+# text = Suwɨsɨrɨk serã soβá rupi , iatukupé rupi βé ?
+# text_eng = Did he, by the way, have blood running down his face and also down his back? book 3 chap 8
+1	Suwɨsɨrɨk	uwɨsɨrɨk	NOUN	n	Rel=NCont	0	root	0:root	_
+2	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
+3	soβá	oβá	NOUN	n	Rel=NCont	1	obl	1:obl	_
+4	rupi	upi	ADP	posp	Rel=Cont	3	case	3:case	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	iatukupé	atukupé	NOUN	Rel=NCont	_	1	parataxis	1:parataxis	_
+7	rupi	upi	ADP	posp	Rel=Cont	6	case	6:case	_
+8	βé	βé	ADV	adv	_	6	advmod	6:advmod	_
+9	?	?	PUNCT	punct	_	6	punct	6:punct	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
