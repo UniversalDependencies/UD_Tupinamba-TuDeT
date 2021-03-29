@@ -328,6 +328,33 @@
 7	imouβiʃáβiʃaβa	mouβiʃáβ	NOUN	n	Rel=NCont	8	obj	8:obj	_
 8	aʔupa	aʔuβ	VERB	v	VerbForm=Ger	5	parataxis	5:parataxis	_
 
+# sent_id = 2342
+# text = Marãpe sereków aʔe takwara meʔengiré ?
+# text_eng = How was he treated after given a scepter ? book 3 chap 8
+1	Marãpe	marãpe	ADV	adv	_	2	advmod	2:advmod	_
+2	sereków	erekó	NOUN	n	OblTop=Yes|Reflex=Yes	0	root	0:root	_
+3	aʔe	aʔe	DET	dem	_	4	nmod	4:nmod	_
+4	takwara	takwara	NOUN	n	Case=Ref	5	obj	5:obj	_
+5-6	meʔengiré	_	_	_	_	_	_	_	_
+5	meʔeng	meʔeng	VERB	v	_	2	advcl	2:advcl	_
+6	iré	riré	ADP	posp	_	5	case	5:case	_
+7	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 2343
+# text = Oɲenomũnomũ soβá resé , ipetépeteka , iakanga resé aʔe takwara reropwá
+# text_eng = They spit on his face, hitting it, beating his head with that scepter.  book 3 chap 8
+1	Oɲenomũnomũ	_	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
+2	soβá	oβá	NOUN	n	Rel=NCont	1	obl	1:obl	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ipetépeteka	peték	NOUN	n	Aspect=Iter|Rel=Cont|VerbForm=Ger	1	advcl	1:advcl	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	iakanga	akang	NOUN	n	Case=Ref|Rel=NCont	11	obl	11:obl	_
+8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
+9	aʔe	aʔe	DET	dem	_	10	nmod	10:nmod	_
+10	takwara	takwara	NOUN	n	Case=Ref	11	obj	11:obj	_
+11	reropwá	eropwá	VERB	vt	Rel=Cont|VerbForm=Ger	5	parataxis	5:parataxis	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
