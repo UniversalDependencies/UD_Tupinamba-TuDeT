@@ -355,6 +355,15 @@
 10	takwara	takwara	NOUN	n	Case=Ref	11	obj	11:obj	_
 11	reropwá	eropwá	VERB	vt	Rel=Cont|VerbForm=Ger	5	parataxis	5:parataxis	_
 
+# sent_id = 344
+# text = Mamõpe Pilatos senosemi aʔéreme ?
+# text_eng =
+1	Mamõpe	Mamõ	ADV	adv	_	3	obl	3:obl	_
+2	Pilatos	Pilatos	PROPN	propn	_	3	nsubj	3:nsubj	_
+3	senosemi	sem	NOUN	n	OblTop=Yes|Rel=NCont|Voice=Com	0	root	0:root	_
+4	aʔéreme	aʔéreme	ADV	_	_	3	advmod	3:advmod	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
