@@ -356,7 +356,7 @@
 10	takwara	takwara	NOUN	n	Case=Ref	11	obj	11:obj	_
 11	reropwá	eropwá	VERB	vt	Rel=Cont|VerbForm=Ger	5	parataxis	5:parataxis	_
 
-# sent_id = 344
+# sent_id = 2344
 # text = Mamõpe Pilatos senosemi aʔéreme ?
 # text_eng = Where to did Pilatos exit with him
 1	Mamõpe	Mamõ	ADV	adv	_	3	obl	3:obl	_
@@ -365,7 +365,7 @@
 4	aʔéreme	aʔéreme	ADV	_	_	3	advmod	3:advmod	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 345
+# sent_id = 2345
 # text = Okárɨpe moroepjakápe judeus supé sepjakuká , imondó ɲẽ motá
 # text_eng = to the outside, to the stage, making him see the jews, wanting to send him. book 3 chap 8
 1	Okárɨpe	okar	NOUN	N	Case=All	0	root	0:root	_
