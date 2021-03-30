@@ -430,6 +430,37 @@
 17	wijaβo	eʔi	VERB	v	VerbForm=Ger	18	dep	18:dep	_
 18	eʔi	eʔi	VERB	v	_	3	parataxis	3:parataxis	_
 
+# sent_id = 2350
+# text = Marãpe judeus reków aʔéreme ?
+# text_eng = How did the jews act afterwards? Book 3 chap 8
+1	Marãpe	Marãpe	ADV	adv	_	3	advmod	3:advmod	_
+2	judeus	judeus	NOUN	n	_	3	nsubj	3:nsubj	_
+3	reków	ekó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
+4	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	3:advmod	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 2351
+# text = Oposẽposem paβẽ ɲẽ sesé , ejmojarukar ɨβɨrajoasaβa resé ojaβo , imondóβo ɲẽ , nd'erejkój César nderuβiʃaβa rawsupáramo ojaβo
+# text_eng = The yelled saying: nail him against the cross, saying: by letting him go, you dou not act as a friend of Cesar, your Emperor. Book 3 chap 8
+1	Oposẽposem	posem	VERB	v	Aspect=Iter|Person=3	0	root	0:root	_
+2	paβẽ	paβẽ	PRON	pcl	PronType=Ind	1	obl	1:obl	_
+3	ɲẽ	ɲẽ	PART	pcl	_	1	discourse	1:discourse	_
+4	sesé	sesé	ADP	posp	Rel=NCont	1	obl	1:obl	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	ejmojarukar	mojar	VERB	Mood=Imp|Number=Sing|Person=23|Voice=Cau	_	9	dep	9:dep	_
+7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Nomzr=|Case=Ref	6	obl	6:obl	_
+8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
+9	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	imondóβo	mondó	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
+12	ɲẽ	_	PART	pcl	_	11	discourse	11:discourse	_
+13	,	,	PUNCT	punct	_	11	punct	11:punct	_
+14	nd'erejkój	ikó	VERB	v	Number=Sing|Person=2|Polatity=Neg	1	parataxis	1:parataxis	_
+15	César	César	PROPN	pro	_	17	nmod	17:nmod	_
+16	nderuβiʃaβa	uβiʃaβ	NOUN	n	Nomzr=|Case=Ref	15	appos	15:appos	_
+17	rawsupáramo	awsuβ	NOUN	n	Case=Tra|Rel=Cont	14	obl	14:obl	_
+18	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	14	advcl	14:advcl	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
