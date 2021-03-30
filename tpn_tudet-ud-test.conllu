@@ -408,6 +408,28 @@
 5	supé	supé	ADP	posp	Rel=Cont	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 2349
+# text = Ikó aβá arur iké okárɨpe senosema , ta pejkwaβ sekopwera amõ iʃé sekara jepé , ijukaukar janondé wijaβo eʔi
+# text_eng = Saying I bring this man here, coming out with him, may you know that I have searched in vain for a previous act of his, before ordaining his death, he said it. Book 3 chap 8
+1	Ikó	ikó	DET	dem	_	2	nmod	2:nmod	_
+2	Aβá	aβá	PRON	pro	PronType=Int	3	obj	3:obj	_
+3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=Com	0	root	0:root	_
+4	iké	iké	ADV	adv	_	3	obl	3:obl	_
+5	okárɨpe	ok	NOUN	N	Case=All	4	appos	4:appos	_
+6	senosema	sem	VERB	v	Rel=NCont|VerbType=Ger|Voice=Com	3	advcl	3:advcl	_
+7	,	,	PUNCT	punct	_	3	punct	3:punct	_
+8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plu|Person=23	3	parataxis	3:parataxis	_
+9	sekopwera	ekó	NOUN	n	Case=Ref|Rel=NCont|Tense=Pas	12	obj	12:obj	_
+10	amõ	amõ	PRON	pro	PronType=PrsInd	9	nmod	9:nmod	_
+11	iʃé	iʃé	PRON	pro	PronType=Prs	12	nsubj	12:nsubj	_
+12	sekara	ekar	VERB	vt	Rel=NCont|VerbType=Ger	8	ccomp	8:ccomp	_
+13	jepé	jepé	ADV	adv	_	12	advmod	12:advmod	_
+14	,	,	PUNCT	punct	_	12	punct	12:punct	_
+15	ijukaukar	juká	NOUN	n	Rel=NCont|Voice=Cau	12	advcl	12:advcl	gloss_port=RELNC-kill-CAUS
+16	janondé	janondé	ADV	adv	_	15	case	15:case	_
+17	wijaβo	eʔi	VERB	v	VerbForm=Ger	18	dep	18:dep	_
+18	eʔi	eʔi	VERB	v	_	3	parataxis	3:parataxis	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
