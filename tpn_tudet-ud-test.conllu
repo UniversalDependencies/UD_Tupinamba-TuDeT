@@ -448,7 +448,7 @@
 4	sesé	sesé	ADP	posp	Rel=NCont	1	obl	1:obl	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	ejmojarukar	mojar	VERB	Mood=Imp|Number=Sing|Person=23|Voice=Cau	_	9	dep	9:dep	_
-7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Nomzr=|Case=Ref	6	obl	6:obl	_
+7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	6	obl	6:obl	_
 8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
 9	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
