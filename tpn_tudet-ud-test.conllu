@@ -773,7 +773,7 @@
 # text = Ikatupe ɲẽ , iʃɨ aʔe ipó opjá oakangaoβĩ pupé
 # text_eng = He was naked, his mother even covered him with her veil     book 3-chap 9
 1	Ikatupe	_	NOUN	n	Rel=NCont	7	dep	7:dep	_
-2	ɲẽ	ɲẽ	PART	pcl	PART	1	discourse	1:discourse	_
+2	ɲẽ	ɲẽ	PART	pcl	_	1	discourse	1:discourse	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
 4	iʃɨ	sɨ	NOUN	n	Rel=NCont	7	obl	7:obl	_
 5	aʔe	aʔe	DET	dem	_	7	advmod	7:advmod	_
