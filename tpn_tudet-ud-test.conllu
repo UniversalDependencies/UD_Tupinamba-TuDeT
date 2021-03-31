@@ -498,7 +498,7 @@
 # sent_id = 2355
 # text = Ojepoej , teʔɨja remiepjákamo .
 # text_eng = He washed his own hands, as seen by the crowd. Book 3 chap 8
-1	Ojepoej	ej	VERB	v	Incopr=Yes|Person=3|Reflex=Yes	0	root	0:root	_
+1	Ojepoej	ej	VERB	v	Incorp=Yes|Person=3|Reflex=Yes	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	teʔɨja	eʔɨj	NOUN	n	Case=Ref|Rel=Abs	4	nmod	4:nmod	_
 4	remiepjákamo	epjak	NOUN	Case=Tra|Nom=Pass|Rel=Cont	_	1	obl	1:obl	_
