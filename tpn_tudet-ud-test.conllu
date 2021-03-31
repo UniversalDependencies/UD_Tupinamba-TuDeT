@@ -420,7 +420,7 @@
 7	,	,	PUNCT	punct	_	3	punct	3:punct	_
 8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plur|Person=23	3	parataxis	3:parataxis	_
 9	sekopwera	ekó	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	12:obj	_
-10	amõ	amõ	PRON	pro	PronType=PrsInd	9	nmod	9:nmod	_
+10	amõ	amõ	PRON	pro	PronType=Ind	9	nmod	9:nmod	_
 11	iʃé	iʃé	PRON	pro	PronType=Prs	12	nsubj	12:nsubj	_
 12	sekara	ekar	VERB	vt	Rel=NCont|VerbForm=Ger	8	ccomp	8:ccomp	_
 13	jepé	jepé	ADV	adv	_	12	advmod	12:advmod	_
