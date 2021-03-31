@@ -846,7 +846,7 @@
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	ikanga	kang	NOUN	n	Case=Ref|Rel=NCont	9	nmod	9:nmod	_
 9	jepotasaβa	jepotasaβa	NOUN	Case=Ref	_	10	obj	10:obj	_
-10	peʔaβo	peʔa	VERB	vt	VerbForm=Ger	_	_	_	_
+10	peʔaβo	peʔa	VERB	vt	VerbForm=Ger	6	parataxis	6:parataxis	_
 11	ojoswi	swi	ADP	posp	Reflex=Yes	10	obl	10:obl	_
 
 # sent_id = 1033
