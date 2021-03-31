@@ -281,7 +281,7 @@
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 2337
-# text = juatĩembo apɨɲa , iakang kutukutuka , sasapa
+# text = juatĩ emboapɨɲa , iakang kutukutuka , sasapa
 # text_eng = A ring of thorn sticks, looming over his head, going through it.
 1	juatĩ	juatĩ	NOUN	n	_	2	nmod	2:nmod	_
 2	emboapɨɲa	emboapɨɲa	NOUN	n	_	0	root	0:root	_
