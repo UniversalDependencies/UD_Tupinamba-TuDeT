@@ -887,11 +887,11 @@
 # sent_id = 1037
 # text = Aβáaβápe ojmoʔam iirũnamo amõ aé cruz resé ?
 # text_eng = Who did they lift with him in other crosses? 3-chap 9 
-1	Aβáaβápe	aβá	PRON	_	_	2	obl	2:obl	_
-2	ojmoʔam	_	VERB	v	Person=33|Voice=Cau	0	root	0:root	_
-3	irũnamo	_	ADP	posp	_	2	obj	2:obj	_
+1	Aβáaβápe	aβá	PRON	pron	_	2	obl	2:obl	_
+2	ojmoʔam	ʔam	VERB	v	Person=33|Voice=Cau	0	root	0:root	_
+3	irũnamo	irũnamo	ADP	posp	_	2	obj	2:obj	_
 4	amõ	amõ	PRON	pro	PronType=Ind	6	nmod	6:nmod	_
-5	aé	_	PART	pcl	_	4	discourse	4:discourse	_
+5	aé	aé	PART	pcl	_	4	discourse	4:discourse	_
 6	cruz	cruz	NOUN	n	_	_	_	_	_
 7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
 8	?	?	PUNCT	punct	_	2	punct	2:punct	_
