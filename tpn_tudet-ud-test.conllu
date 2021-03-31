@@ -387,7 +387,7 @@
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2347
-# text = Aopiranga , ju aβé owerur ojoesé , oporeawsuβetekatúramo .
+# text = Aopiranga , ju aβé owerur ojoesé , oporeawsuβetekatúramo
 # text_eng = He brought red clothes, and thorns also on himself, he was suffering a great deal. book 3 chap 8
 1	Aopiranga	aoβ	NOUN	n	Case=ref	5	obj	5:obj	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -396,7 +396,7 @@
 5	owerur	ur	VERB	v	Person=e|Voice=Com	0	root	0:root	_
 6	ojoesé	_	ADP	posp	Reflex=Yes	5	obl	5:obl	_
 7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	oporeawsuβetekatúramo	poreawsuβ	NOUN	n	Case=Tra|Intens=Yes|Reflex=Yes	5	advmod	5:advmod	_
+8	oporeawsuβetekatúramo	poreawsuβ	NOUN	n	Case=Tra|Intens=Yes|Reflex=Yes	5	obl	5:obl	_
 
 # sent_id = 2348
 # text = Marã eʔipe Pilatos judeus supé ?
