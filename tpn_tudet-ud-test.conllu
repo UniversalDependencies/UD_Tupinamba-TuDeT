@@ -731,7 +731,7 @@
 # text_eng = It stick hard, that's why the jews then pulled it hard, ripping his skin, making him bleed     book 3-chap 9
 1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	nd'eʔi	_	VERB	v	Polarity=Neg	7	advmod	7:advmod	_
+3	nd'eʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	7:advmod	_
 4	teʔe	_	ADV	adv	_	3	advmod	3:advmod	_
 5	aʔéreme	_	ADV	_	_	7	advmod	7:advmod	_
 6	judeus	judeus	NOUN	n	_	7	nsubj	7:nsubj	_
