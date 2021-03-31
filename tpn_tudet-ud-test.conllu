@@ -717,7 +717,7 @@
 
 # sent_id = 1021
 # text = Ojaratã serã iaoβa inupãsawera imoperépereβawera resé ?
-# text_eng = Did his clothes stick hard to his whips, to his wounds ?        book 3-chap 9
+# text_eng = Did his clothes stick hard to his whips, to his wounds ? book 3-chap 9
 1	Ojaratã	jaratã	VERB	v	Person=33	0	root	0:root	_
 2	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
 3	iaoβa	aoβ	NOUN	n	Case=Ref|Rel=NCont	1	obl	1:obl	_
@@ -787,7 +787,7 @@
 # text_eng = How did they treat him after tzhat?      book 3-chap 9
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	3:advmod	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	nsubj	3:nsubj	_
-3	sereków	erekó	NOUN	n	Rel=NCont|OblTop=Yes	0	root	0:root	_
+3	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
 5	riré	_	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	3	punct	3:punct	_
