@@ -247,7 +247,7 @@
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	3:nmod	_
 3	okusupe	ok	NOUN	n	Case=All	1	obl	1:obl	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	serojkjaβo	iké	VERB	v	Rel=NCont|VerbForm=Gern	1	advcl	1:advcl	_
+5	serojkjaβo	iké	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	aʔepe	aʔe	ADV	adv	_	9	advmod	9:advmod	_
 8	maranaritekoaratã	maranaritekoar	NOUN	n	_	9	nmod	9:nmod	_
@@ -275,7 +275,7 @@
 # text = mbaʔepe oɲonoŋ iakanga ʔárɨβo ?
 # text_eng = What did the place through his head ?  book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pro	_	2	obl	2:obl	_
-2	oɲonoŋ	noŋ	VERB	VT	PERSON=33	0	root	0:root	_
+2	oɲonoŋ	noŋ	VERB	VT	Person=33	0	root	0:root	_
 3	iakanga	akaŋ	NOUN	N	Rel=NCont	2	obl	2:obl	_
 4	ʔárɨβo	ár	ADP	posp	Case=Per	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
@@ -383,7 +383,7 @@
 # text_eng = How was Jesus when he exited with him? book 3 chap 8
 1	Marãeteʔĩpe	Marã	ADV	adv	_	0	root	0:root	_
 2	Jesus	Jesus	PROPN	propn	_	1	nsubj	1:nsubj	_
-3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=Com	2	advmod	2:advmod	_
+3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=Com	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2347
