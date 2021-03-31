@@ -890,7 +890,7 @@
 # text_eng = Who did they lift with him in other crosses? 3-chap 9 
 1	Aβáaβápe	aβá	PRON	pron	_	2	obl	2:obl	_
 2	ojmoʔam	ʔam	VERB	v	Person=33|Voice=Cau	0	root	0:root	_
-3	irũnamo	irũnamo	ADP	posp	_	2	obj	2:obj	_
+3	iirũnamo	irũnamo	ADP	posp	_	2	obj	2:obj	_
 4	amõ	amõ	PRON	pro	PronType=Ind	6	nmod	6:nmod	_
 5	aé	aé	PART	pcl	_	4	discourse	4:discourse	_
 6	cruz	cruz	NOUN	n	_	2	obl	2:obl	_
