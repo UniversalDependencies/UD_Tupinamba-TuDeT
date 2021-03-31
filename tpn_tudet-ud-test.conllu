@@ -243,7 +243,7 @@
 # sent_id = 2332
 # text = Owerasó amõ okusupe , serojkjaβo , aʔepe maranaritekoaratã reʔɨɲanga sesé
 # text_eng = They took him to a certain palace, gathering there strong soldiers because of him book 3 chap 8
-1	Owerasó	so	VERB	v	Person=3|Voice=CCom	0	root	0:root	_
+1	Owerasó	so	VERB	v	Person=3|Voice=Com	0	root	0:root	_
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	3:nmod	_
 3	okusupe	ok	NOUN	n	Case=All	1	obl	1:obl	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
