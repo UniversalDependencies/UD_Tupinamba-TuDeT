@@ -754,8 +754,8 @@
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1024
-# text = ijukasarama ojmojaʔok ojoupé  book 3-chap 9
-# text_eng = Those who would kill him divided them among themselves  
+# text = ijukasarama ojmojaʔok ojoupé
+# text_eng = Those who would kill him divided them among themselves.     book 3-chap 9
 1	ijukasarama	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Fut	2	nsubj	_	gloss_port=RELNCONT-matar-NOMZR-REF
 2	ojmojaʔok	moja'ok	VERB	v	Person=33|Voice=Cau	0	root	_	gloss_port=3-RELNCONT-CAUS-SEPARATE
 3	ojoupé	joupé	ADP	posp	Reflex=Yes	2	obl	_	_
