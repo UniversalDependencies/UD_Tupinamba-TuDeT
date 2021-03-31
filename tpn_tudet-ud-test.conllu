@@ -305,7 +305,7 @@
 9	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 2339
-# text = Suwɨsɨrɨk 
+# text = Suwɨsɨrɨk
 # text_eng = H had blood running down! book 3 chapetr 8
 1	Suwɨsɨrɨk	uwɨsɨrɨk	NOUN	n	Rel=NCont	0	root	0:root	_
 
