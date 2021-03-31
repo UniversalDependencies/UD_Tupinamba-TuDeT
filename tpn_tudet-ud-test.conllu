@@ -409,7 +409,7 @@
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 2349
-# text = Ikó aβá arur iké okárɨpe senosema , ta pejkwaβ sekopwera amõ iʃé sekara jepé , ijukaukar janondé wijaβo eʔi
+# text = Ikó aβá arur iké okárɨpe senosema , tapejkwaβ sekopwera amõ iʃé sekara jepé , ijukaukar janondé wijaβo eʔi
 # text_eng = Saying I bring this man here, coming out with him, may you know that I have searched in vain for a previous act of his, before ordaining his death, he said it. Book 3 chap 8
 1	Ikó	ikó	DET	dem	_	2	nmod	2:nmod	_
 2	aβá	aβá	PRON	pro	PronType=Int	3	obj	3:obj	_
