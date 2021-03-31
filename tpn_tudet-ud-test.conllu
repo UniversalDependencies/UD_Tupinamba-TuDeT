@@ -880,9 +880,10 @@
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 1036
-# text = aʔejβé
+# text = aʔejβé .
 # text_eng =
-1	aʔejβé	aʔejβé	ADV	adv	_	0	_	_	_
+1	aʔejβé	aʔejβé	ADV	adv	_	0	root	0:root	_
+2	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 1037
 # text = Aβáaβápe ojmoʔam iirũnamo amõ aé cruz resé ?
