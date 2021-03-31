@@ -483,7 +483,7 @@
 7	,	,	PUNCT	punct	_	1	punct	1:punct	_
 8	ʃekwaukámo	kwaβ	NOUN	n	Mood=Cnd|Number=Sing|Person=1|Voice=Caus	11	dep	11:dep	_
 9	ʃeruβiʃaβa	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	8	obl	8:obl	_
-10	supémo	supé	ADP	posp	Mood=Cnd|	9	case	9:case	_
+10	supémo	supé	ADP	posp	Mood=Cnd	9	case	9:case	_
 11	ojaβo	_	VERB	v	Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 2354
