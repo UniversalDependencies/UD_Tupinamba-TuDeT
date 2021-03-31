@@ -381,7 +381,7 @@
 # sent_id = 2346
 # text = Marãeteʔĩpe Jesus oenoseme ?
 # text_eng = How was Jesus when he exited with him? book 3 chap 8
-1	Marãeteʔĩpe	Marã	ADV	adv	PronType=Int	0	root	0:root	_
+1	Marãeteʔĩpe	Marã	ADV	adv	_	0	root	0:root	_
 2	Jesus	Jesus	PROPN	propn	_	1	nsubj	1:nsubj	_
 3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=Com	2	advmod	2:advmod	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
