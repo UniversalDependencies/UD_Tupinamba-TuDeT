@@ -468,7 +468,7 @@
 2	Pilatos	Pilatos	PROPN	propn	_	1	obl	1:obl	_
 3	iɲeʔenga	ɲeʔeng	NOUN	n	Case=Ref|Rel=NCont	1	obl	1:obl	_
 4	aʔéreme	aʔéreme	ADV	adv	_	1	advmod	1:advmod	_
-5	koʔɨté	koʔɨté	ADV	adv	_	_	_	_	_
+5	koʔɨté	koʔɨté	ADV	adv	_	1	advmod	1:advmod	_
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2353
