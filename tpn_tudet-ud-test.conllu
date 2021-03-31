@@ -835,7 +835,7 @@
 6	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 1032
-# text = Opa sama pupé iapɨtĩw, sekɨjsekɨjetéβo, ikanga jepotasaβa peʔaβo ojoswi
+# text = Opa sama pupé iapɨtĩw , sekɨjsekɨjetéβo , ikanga jepotasaβa peʔaβo ojoswi
 # text_eng = They tied him with whole rope, pulling over and over, breaking the joints of his bones book 3-chap 9
 1	Opa	opa	PART	pcl	_	2	nmod	2:nmod	_
 2	sama	sama	NOUN	n	_	4	obj	4:obj	_
