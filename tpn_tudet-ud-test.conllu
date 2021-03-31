@@ -864,7 +864,7 @@
 10	?	?	PUNCT	punct	_	9	punct	9:punct	_
 
 # sent_id = 1034
-# text = aʔe rameʔĩ.
+# text = aʔe rameʔĩ
 # text_eng = Similar to this!      book 3-chap 9
 1	aʔe	aʔe	DET	dem	_	2	nsubj	2:nsubj	_
 2	rameʔĩ	rameʔĩ	ADV	adv	_	0	root	0:root	_
