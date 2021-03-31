@@ -313,7 +313,7 @@
 # text = mbaʔepe ojmeʔeŋ iʔekatwápe ?
 # text_eng = What did they give to/in his right hand? book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pron	_	2	obl	2:obl	_
-2	ojmeʔeŋ	meʔeŋ	VERB	vt	Peron=33	0	root	0:root	_
+2	ojmeʔeŋ	meʔeŋ	VERB	vt	Person=33	0	root	0:root	_
 3	iʔekatwápe	ʔekatuaβ	NOUN	n	Rel=NCont	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
