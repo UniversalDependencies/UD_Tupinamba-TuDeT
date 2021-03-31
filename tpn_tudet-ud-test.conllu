@@ -893,7 +893,7 @@
 3	irũnamo	irũnamo	ADP	posp	_	2	obj	2:obj	_
 4	amõ	amõ	PRON	pro	PronType=Ind	6	nmod	6:nmod	_
 5	aé	aé	PART	pcl	_	4	discourse	4:discourse	_
-6	cruz	cruz	NOUN	n	_	_	_	_	_
+6	cruz	cruz	NOUN	n	_	2	obl	2:obl	_
 7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
 8	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
