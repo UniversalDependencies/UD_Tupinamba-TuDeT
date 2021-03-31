@@ -853,7 +853,7 @@
 # text = aʔe rameʔĩpe ɨβɨá ipɨ rereków , itapɨwá pupé imojáno ?
 # text_eng = Similar to this, they did with his feet, also nailing them with nails? ***ADD GLOSS -no (mojá-no)*** book 3-chap 9
 1	aʔe	aʔe	DET	dem	_	2	nmod	2:nmod	_
-2	rameʔĩpe	rameʔĩ	ADV	adv	Rel=Cont	5	advcl	5:advcl	_
+2	rameʔĩpe	rameʔĩ	ADV	adv	_	5	advcl	5:advcl	_
 3	ɨβɨá	ɨβɨá	PART	prcl	_	5	nsubj	5:nsubj	_
 4	ipɨ	pɨ	NOUN	n	Rel=NCont	5	obj	5:obj	_
 5	rereków	erekó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
