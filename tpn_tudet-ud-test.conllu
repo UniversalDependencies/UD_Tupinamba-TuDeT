@@ -412,7 +412,7 @@
 # text = Ikó aβá arur iké okárɨpe senosema , ta pejkwaβ sekopwera amõ iʃé sekara jepé , ijukaukar janondé wijaβo eʔi
 # text_eng = Saying I bring this man here, coming out with him, may you know that I have searched in vain for a previous act of his, before ordaining his death, he said it. Book 3 chap 8
 1	Ikó	ikó	DET	dem	_	2	nmod	2:nmod	_
-2	Aβá	aβá	PRON	pro	PronType=Int	3	obj	3:obj	_
+2	aβá	aβá	PRON	pro	PronType=Int	3	obj	3:obj	_
 3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=Com	0	root	0:root	_
 4	iké	iké	ADV	adv	_	3	obl	3:obl	_
 5	okárɨpe	ok	NOUN	N	Case=All	4	appos	4:appos	_
