@@ -418,7 +418,7 @@
 5	okárɨpe	ok	NOUN	N	Case=All	4	appos	4:appos	_
 6	senosema	sem	VERB	v	Rel=NCont|VerbType=Ger|Voice=Com	3	advcl	3:advcl	_
 7	,	,	PUNCT	punct	_	3	punct	3:punct	_
-8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plu|Person=23	3	parataxis	3:parataxis	_
+8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plur|Person=23	3	parataxis	3:parataxis	_
 9	sekopwera	ekó	NOUN	n	Case=Ref|Rel=NCont|Tense=Pas	12	obj	12:obj	_
 10	amõ	amõ	PRON	pro	PronType=PrsInd	9	nmod	9:nmod	_
 11	iʃé	iʃé	PRON	pro	PronType=Prs	12	nsubj	12:nsubj	_
