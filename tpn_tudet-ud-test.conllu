@@ -232,7 +232,7 @@
 # text = Marãpe ɨβɨá jandéjara rereków , inupãnupã ré ?
 # text_eng = How was our lord treated after his flogging?   book 3 chap 8
 1	Marãpe	marã	ADV	adv	_	4	advmod	4:advmod	_
-2	ɨβɨá	ɨβɨá	PART	pcl	_	_	_	_	_
+2	ɨβɨá	ɨβɨá	PART	pcl	_	3	dep	3:dep	_
 3	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
 4	rereków	_	NOUN	N	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
