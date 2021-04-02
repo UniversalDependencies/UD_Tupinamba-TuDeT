@@ -13,7 +13,7 @@
 7	sɨkeme	sɨk	VERB	vi	Mood=Sub	0	root	0:root	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
-10	taʔɨra	taʔɨr	NOUN	n	Case=Ref|Rel=Abs	15	nsubj	15:nsubj	_
+10	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	15	nsubj	15:nsubj	_
 11	o	o	PRON	pro	Reflex=Yes	12	nmod	12:nmod	_
 12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
