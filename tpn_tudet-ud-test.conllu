@@ -504,6 +504,20 @@
 4	remiepjákamo	epjak	NOUN	Case=Tra|Nom=Pass|Rel=Cont	_	1	obl	1:obl	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 359
+# text = Ojmeʔeŋ ipópekatu , pe rekopotasaβo é perekó , ijukáβo ojaβo
+# text_eng = He gave him right in their hands, saying you may have him by your will, you may have him to kill him.  Book 3 chap 8
+1	Ojmeʔeŋ	meʔeŋ	VERB	vt	Peron=33|	0	root	0:root	_
+2	ipópekatu	po	NOUN	n	Case=Loc|Intens=Yes|Rel=NCont	1	obl	1:obl	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	pereko	eko	NOUN	n	Number=Plur|Person=2	10	ccomp	10:ccomp	_
+5	potasaβo	potasaβo	ADV	adv	_	4	advmod	4:advmod	_
+6	e	e	PART	pcl	_	4	discourse	4:discourse	_
+7	,	,	PUNCT	punct	_	4	discourse	4:discourse	_
+8	perekó	ekó	NOUN	n	Number=Plur|Person=2|Rel=Cont	4	parataxis	4:parataxis	_
+9	ijukáβo	juká	VERB	v	Rel=NCont|VerbForm=Ger	8	advmod	8:advmod	_
+10	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
