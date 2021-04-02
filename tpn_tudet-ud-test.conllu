@@ -45,7 +45,7 @@
 # text = Mbaʔepe i mongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	Mbaʔepe	_	_	_	_	_	_	_	_
-1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
+1	mbaʔe	mbaʔe	NOUN	n	_	5	obj	5:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
 3	i	i	PRON	pro	_	4	nmod	4:nmod	_
 4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Case=Ref|Nomzr=DevPass	5	nsubj	5:nsubj	_
