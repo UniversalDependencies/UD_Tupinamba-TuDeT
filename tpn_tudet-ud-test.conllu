@@ -530,17 +530,17 @@
 # sent_id = 2358
 # text = Marãpe jandéjara rereków aʔe rojré ?
 # text_eng =
-1	Marãpe	marãpe	PRON	pro	PronType=Int	3	advmod	3:advmod	_
-2	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
+1	Marãpe	marãpe	ADV	adv	PronType=Int	3	advmod	3:advmod	_
+2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
 3	rereków	erekó	NOUN	n	OblTop=Yes	0	root	0:root	_
 4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
 5	rojré	rojré	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 2359
-# text = Ojmeʔeŋ ipópekatu , pe rekopotasaβo é perekó , ijukáβo ojaβo
+# text = Ojmeʔeŋ ipópekatu , pe rekopotasaβo e perekó , ijukáβo ojaβo
 # text_eng = He gave him right in their hands, saying you may have him by your will, you may have him to kill him.  Book 3 chap 8
-1	Ojmeʔeŋ	meʔeŋ	VERB	vt	Peron=33|	0	root	0:root	_
+1	Ojmeʔeŋ	meʔeŋ	VERB	vt	Person=33	0	root	0:root	_
 2	ipópekatu	po	NOUN	n	Case=Loc|Intens=Yes|Rel=NCont	1	obl	1:obl	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
 4	pereko	eko	NOUN	n	Number=Plur|Person=2	10	ccomp	10:ccomp	_
