@@ -507,7 +507,7 @@
 # sent_id = 2356
 # text = Marã ojáβope ?
 # text_eng = By saying what ?
-1	Marã	marã	PRON	pron	PronType=Int	2	advmod	2:advmod	_
+1	Marã	marã	ADV	adv	PronType=Int	2	advmod	2:advmod	_
 2	ojáβope	_	VERB	v	Int=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 3	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
@@ -517,7 +517,7 @@
 1	Naʃeremimotara	_	NOUN	N	Case=Ref|Dev=Pass|Number=Sing|Person=1|Polarity=Neg|Rel=Cont	4	discourse	4:discourse	_
 2	rupi	_	ADP	posp	_	1	case	1:case	_
 3	ruã	ruã	PART	pcl	_	1	dep	1:dep	_
-4	ajukaukáne	juká	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=cau	0	root	0:root	_
+4	ajukaukáne	juká	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=Cau	0	root	0:root	_
 5	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	parataxis	4:parataxis	_
 6	;	;	PUNCT	punct	_	4	punct	4:punct	_
 7	naʃeresé	esé	ADP	posp	Rel=Cont	9	obl	9:obl	_
