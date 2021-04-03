@@ -527,6 +527,16 @@
 11	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	10	parataxis	10:parataxis	_
 12	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
+# sent_id = 2358
+# text = Marãpe jandéjara rereków aʔe rojré ?
+# text_eng =
+1	Marãpe	marãpe	PRON	pro	PronType=Int	3	advmod	3:advmod	_
+2	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
+3	rereków	erekó	NOUN	n	OblTop=Yes	0	root	0:root	_
+4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
+5	rojré	rojré	ADP	posp	_	4	case	4:case	_
+6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
 # sent_id = 2359
 # text = Ojmeʔeŋ ipópekatu , pe rekopotasaβo é perekó , ijukáβo ojaβo
 # text_eng = He gave him right in their hands, saying you may have him by your will, you may have him to kill him.  Book 3 chap 8
