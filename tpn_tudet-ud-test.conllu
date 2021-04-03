@@ -530,7 +530,7 @@
 # sent_id = 2358
 # text = Marãpe jandéjara rereków aʔe rojré ?
 # text_eng =
-1	Marãpe	PRON	pro	adv	PronType=Int	3	advmod	3:advmod	_
+1	Marãpe	ADV	adv	adv	_	3	advmod	3:advmod	_
 2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
 3	rereków	erekó	NOUN	n	OblTop=Yes	0	root	0:root	_
 4	aʔe	aʔe	DET	dem	_	3	obl	3:obl	_
