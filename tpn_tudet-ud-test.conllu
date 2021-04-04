@@ -1023,3 +1023,28 @@
 3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Pas|Voice=Cau	0	root	0:root	_
 4	aβé	aβé	ADV	adv	_	3	advmod	3:advmod	_
 
+# sent_id = 65
+# text = Nd'ojmoasɨipe amõ oɲeʔengaiβawera , ijaʔo ré ?
+# text_eng = Didn't anyone regret his/her evil words after insulting him?  Book 3 chap 10
+1	Nd'ojmoasɨipe	asɨ	VERB	v	Int=Yes|Person=3|Polarity=Neg|Rel=NCont|Voice=Cau	0	root	0:root	_
+2	amõ	amõ	PRON	pro	PronType=Ind	1	obl	1:obl	_
+3	oɲeʔengaiβawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Pas	1	obl	1:obl	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ijaʔo	_	NOUN	n	Rel=NCont	1	advcl	1:advcl	_
+6	ré	_	ADP	posp	_	5	case	5:case	_
+7	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 66
+# text = Ojmoasɨ , iʔekatwaβa kotɨ ojkóβaʔe ndʔeʔiteʔe oapiʃara akakapa , sepɨka
+# text_eng = He regret it, the one who as on his right side, for this reason he censured his companion defending him   Book 3 chap 10
+1	Ojmoasɨ	asɨ	VERB	v	Person=3|Rel=NCont|Voice=Cau	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	iʔekatwaβa	ʔekatwaβ	NOUN	n	Case=Ref|Rel=NCont	5	obl	5:obl	_
+4	kotɨ	kotɨ	ADP	posp	_	3	case	3:case	_
+5	ojkóβaʔe	ikó	NOUN	n	Nomzr=Rel|Person=3	1	acl	1:acl	_
+6	ndʔeʔiteʔe	ADV	adv	_	_	8	advmod	8:advmod	gloss_eng=Neg-say-for.no.reason
+7	oapiʃara	apiʃar	NOUN	n	Case=Ref|Reflex=Yes	8	obj	8:obj	_
+8	akakapa	akakaβ	VERB	v	VerbForm=Ger	1	dep	1:dep	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	sepɨka	epɨk	VERB	v	Rel=NCont|VerbForm=Ger	8	cc	8:cc	_
+
