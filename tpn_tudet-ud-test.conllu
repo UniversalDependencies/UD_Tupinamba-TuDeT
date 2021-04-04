@@ -1008,3 +1008,18 @@
 9	aβé	aβé	ADV	adv	_	8	advmod	8:advmod	_
 10	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
+# sent_id = 63
+# text = Aβá aβépeno ?
+# text_eng = Who else?  Book 3 chap 10
+1	Aβá	aβá	PRON	pro	PronType=Int	0	root	0:root	_
+2	aβépeno	aβé	ADV	adv	Int=Yes	1	advmod	1:advmod	_
+3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 64
+# text = Ajpó ipɨ́ri imojarɨpɨrwera aβé
+# text_eng = Those who were crucified next to him as well  Book 3 chap 10
+1	ajpó	ajpó	DET	dem	_	3	nmod	3:nmod	_
+2	ipɨ́ri	pɨ	NOUN	n	Case=Loc|Rel=NCont	3	nmod	3:nmod	_
+3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Pas|Voice=Cau	0	root	0:root	_
+4	aβé	aβé	ADV	adv	_	3	advmod	3:advmod	_
+
