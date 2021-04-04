@@ -994,4 +994,18 @@
 5	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 62
+# text = Ojtɨk , judeusetá cruz roβáβo pe rupi owatáβaʔe aβé .
+# text_eng = The threw them, the many jews by the cross, that were walking on the way  Book 3 chap 10
+1	Ojtɨk	tɨk	VERB	vt	Person=3|Rel=NCont	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	judeusetá	judeus	NOUN	Number=Plu	_	1	obl	1:obl	_
+4	Cruz	cruz	NOUN	n	_	3	nmod	3:nmod	_
+5	roβáβo	_	ADP	_	_	4	case	4:case	_
+6	pe	pe	NOUN	n	_	8	nmod	8:nmod	_
+7	rupi	upi	ADP	posp	Rel=Cont	8	case	8:case	_
+8	owatáβaʔe	watá	NOUN	n	Nomzr=Rel|Person=3	3	acl	3:acl	_
+9	aβé	aβé	ADV	adv	_	8	advmod	8:advmod	_
+10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
 
