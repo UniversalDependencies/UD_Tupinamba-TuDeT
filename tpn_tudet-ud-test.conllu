@@ -970,3 +970,28 @@
 7	mongetáβo	mongetá	VERB	v	VerbForm=Ger	2	dep	2:dep	_
 8	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 60
+# text = ndeɲɨrõ iʃupé ʃeruβɨwé eʔi . Otekokwaβeʔɨ̃mamo ɲẽ emonã ʃerereków eʔi
+# text_eng = Forgive them, oh my father! As ignorants, they treat me this way.  Book 3 chap 10
+1	ndeɲɨrõ	ɲɨrõ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
+2	iʃupé	supé	ADP	posp	Rel=NCont	1	case	1:case	_
+3	ʃeruβɨwé	uβ	NOUN	n	Rel=Cont	1	dep	1:dep	_
+4	eʔi	eʔi	VERB	v	_	1	dep	1:dep	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+6	Otekokwaβeʔɨ̃mamo	tekokwaβeʔɨm	NOUN	n	Case=Tra|Reflex=Yes	9	obl	9:obl	_
+7	ɲẽ	ɲẽ	PART	pcl	_	6	discourse	6:discourse	_
+8	emonã	emonã	ADV	adv	_	9	advmod	9:advmod	_
+9	ʃerereków	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	parataxis	1:parataxis	_
+10	eʔi	eʔi	VERB	v	_	9	dep	9:dep	_
+
+# sent_id = 61
+# text = Ojtɨ́kɨpe ɨβɨɨá erimbaʔe ɲeʔenga sesé ?
+# text_eng = Have words been trhown at him?  Book 3 chap 10
+1	Ojtɨ́kɨpe	tɨk	VERB	v	Int=Yes|Person=3|Rel=NCont	0	root	0:root	_
+2	ɨβɨɨá	ɨβɨɨá	PART	pcl	_	1	obl	1:obl	_
+3	erimbaʔe	erimbaʔe	ADV	adv	_	1	advmod	1:advmod	_
+4	ɲeʔenga	ɲeʔenga	NOUN	n	Case=Ref	1	obl	1:obl	_
+5	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
+6	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+
