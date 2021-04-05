@@ -1077,5 +1077,14 @@
 4	ʃepɨ́rine	pɨ́rine	ADP	posp	Number=Plur|Person=1|Tense=Fut	2	obl	2:obl	_
 5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
-
+# sent_id = 71
+# text = Aβá aβépe oʔam cruz-ɨpɨpe aʔéreme ?
+# text_eng = Who else was standing near the cross afther that  Book 3 chap 10
+1	Aβá	aβá	PRON	pro	PronType=PrsInt	3	nsubj	3:nsubj	_
+2	aβépe	aβé	ADV	adv	Int=Yes	3	advcl	3:advcl	_
+3	oʔam	ʔam	VERB	vi	_	0	root	0:root	_
+4	cruz	cruz	NOUN	n	_	3	obl	3:obl	_
+5	ɨpɨpe	ɨpɨpe	ADP	posp	_	4	case	4:case	_
+6	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	3:advmod	_
+7	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
