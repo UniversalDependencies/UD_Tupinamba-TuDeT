@@ -1048,3 +1048,34 @@
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	sepɨka	epɨk	VERB	v	Rel=NCont|VerbForm=Ger	8	cc	8:cc	_
 
+# sent_id = 67
+# text = aʔepe jandéjara supé marã eʔi ?
+# text_eng =  This one, what did he tell our lord?  Book 3 chap 10
+1	aʔepe	aʔe	DET	dem	Int=Yes	5	nsubj	5:nsubj	_
+2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	5	obl	5:obl	_
+3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	Marã	marã	PRON	pron	PronType=Int	5	advmod	5:advmod	_
+5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# sent_id = 68
+# text = ndemaʔendwar ʃeresé nderorɨpápe nderekó rojré eʔi .
+# text_eng = He said remember me after you are in the place of your happiness. Book 3 chap 10
+1	ndemaʔendwar	maʔendwar	NOUN	n	Number=Sing|Person=2	6	ccomp	6:ccomp	_
+2	ʃeresé	esé	ADP	posp	Number=Sing|Peron=1|Rel=Cont	1	obl	1:obl	_
+3	nderorɨpápe	orɨβ	NOUN	n	Case=Loc|Nomzr=Circ|Number=Sing|Person=2|Rel=Cont	4	nmod	4:nmod	_
+4	nderekó	ekó	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	advcl	1:advcl	_
+5	rojré	rojré	ADP	posp	_	4	case	4:case	_
+6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+
+# sent_id = 70
+# text = Kori erejkó ʃerorɨpápe ʃepɨ́rine eʔi .
+# text_eng = He said, you will be in the place of my happiness today.  Book 3 chap 10
+1	Kori	kori	ADV	adv	_	2	advmod	2:advmod	_
+2	erejkó	ikó	VERB	v	Number=Plur|Person=2	5	ccomp	5:ccomp	_
+3	ʃerorɨpápe	orɨpáβ	NOUN	n	Number=Plur|Person=1|Rel=Cont	2	obl	2:obl	_
+4	ʃepɨ́rine	pɨ́rine	ADP	posp	Number=Plur|Person=1|Tense=Fut	2	obl	2:obl	_
+5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+
+
+
