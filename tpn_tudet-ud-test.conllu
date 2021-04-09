@@ -1088,3 +1088,71 @@
 6	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	3:advmod	_
 7	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 72
+# text = iʃɨ , S . João aβé , kuɲãangaturametá aβé
+# text_eng = His mother, saint John, and may good women   Book 3 chap 10
+1	iʃɨ	sɨ	NOUN	n	Number=Sing|Person=1|Rel=NCont	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	S.João	_	PROPN	propn	_	1	cc	1:cc	_
+4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	kuɲãangaturametá	kuɲã	NOUN	n	Number=Plur	1	cc	1:cc	_
+7	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
+
+# sent_id = 73
+# text = Marã eʔipe Jesus osɨ supé oeʔõ janondé ?
+# text_eng =  What did he say to his mother before his death?  Book 3 chap 10
+1	Marã	marã	ADV	adv	PronType=Int	2	advmod	2:advmod	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+3	Jesus	Jesus	PROPN	propn	_	2	nsubj	2:nsubj	_
+4	osɨ	sɨ	NOUN	n	Reflex=Yes	2	obl	2:obl	_
+5	supé	supé	ADP	posp	Rel=Cont	4	case	4:case	_
+6	oeʔõ	eʔõ	NOUN	n	Reflex=Yes	2	obj	2:obj	_
+7	janondé	janondé	ADP	posp	_	6	case	6:case	_
+8	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 74
+# text = Eβokwé ndemembɨra , kuɲã we eʔi , S.João meʔenga imembɨ́ramo
+# text_eng =  He said: oh woman, that is your son, considering S. John as her son         Book 3 chap 10
+1	Eβokwé	Eβokwé	DET	dem	_	2	nmod	2:nmod	_
+2	ndemembɨra	membɨr	NOUN	n	Case=Ref|Number=Sing|Person=Plur	6	ccomp	6:ccomp	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	kuɲã	kuɲã	NOUN	n	_	2	nsubj	2:nsubj	_
+5	we	we	PART	pcl	Case=Voc	4	dep	4:dep	_
+6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	S.João	S.João	PROPN	propn	_	9	obj	9:obj	_
+9	meʔenga	meʔeng	VERB	vt	VerbForm=Ger	6	advcl	6:advcl	_
+10	imembɨ́ramo	membɨr	NOUN	n	Case=Tra|Rel=NCont	9	obl	9:obl	_
+
+# sent_id = 75
+# text = aʔepe S . João supé marã eʔi ?
+# text_eng = And what did he say to S. John?  Book 3 chap 10
+1	aʔepe	aʔe	PART	pcl	Int=Yes	5	discourse	5:discourse	_
+2	S.João	S.João	PROPN	propn	_	5	obl	5:obl	_
+3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	Marã	marã	ADV	pron	PronType=Int	5	advmod	5:advmod	_
+5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# sent_id = 76
+# text = Eβokwé ndesɨ eʔi , iʃɨ́ramo osɨ meʔenga
+# text_eng = there's your morther, he said, considering his own mother his Book 3 chap 10
+1	Eβokwé	Eβokwé	ADV	adv	_	3	advcl	3:advcl	_
+2	ndesɨ	sɨ	NOUN	n	Number=Sing|Person=2	1	nsubj	1:nsubj	_
+3	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	iʃɨ́ramo	ʃɨ	NOUN	n	Case=Tra|Rel=NCont	7	obl	7:obl	_
+6	osɨ	sɨ	NOUN	n	Reflex=Yes	7	obj	7:obj	_
+7	meʔenga	meʔeng	VERB	v	VerbForm=Ger	3	advcl	3:advcl	_
+
+# sent_id = 77
+# text = Ojmongetá βépe paʔi Jesus oguβa ?
+# text_eng =  Did Jesus speake to his fahter?  Book 3 chap 10
+1	Ojmongetá	mongetá	VERB	v	Person=33|Rel=NCont	0	root	0:root	_
+2	βépe	βé	ADV	adv	Int=Yes	1	advmod	1:advmod	_
+3	paʔi	paʔi	NOUN	n	_	4	nmod	4:nmod	_
+4	Jesus	Jesus	PROPN	propn	_	1	obl	1:obl	_
+5	oguβa	uβ	NOUN	n	Case=Ref|Reflex=Yes	1	obj	1:obj	_
+6	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
