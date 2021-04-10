@@ -86,7 +86,7 @@
 41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	39:obj	_
 42	,	,	PUNCT	punct	_	41	punct	41:punct	_
 43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	cc	41:cc	_
-44	sɨapwanɨβaʔe	_	NOUN	n	Nmzr=Rel	43	nmod	43:nmod	_
+44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nmzr=Rel|Rel=NCont	43	nmod	43:nmod	_
 
 # sent_id = 2
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
