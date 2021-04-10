@@ -40,6 +40,54 @@
 8	nongi	nong	NOUN	n	OblTop=Yes	2	parataxis	2:parataxis	_
 9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	8:obl	_
 
+# sent_id = 33333333
+# text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé, Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa, ɨsɨkatã sɨapwanɨβaʔe
+# text_eng = Catálogo January 6
+1	Opa	opa	PRON	pro	_	3	nmod	3:nmod	_
+2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
+3	mbo	po	NOUN	n	_	6	nummod	6:nummod	_
+4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
+5	mɨsã	pɨsã	NOUN	n	_	3	dep	3:dep	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	7:nmod	_
+7	sɨk’eme	sɨk	NOUN	n	_	39	advcl	39:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	14:obl	_
+10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	11:nmod	_
+11	rɨgé	rɨgé	NOUN	n	Rel=Cont	_	_	_	_
+12	swi	swi	ADP	posp	_	11	case	11:case	_
+13	Tupã	Tupã	NOUN	n	_	14	nmod	14:nmod	_
+14	taʔɨra	aʔɨr	NOUN	n	Rel=Abs	15	nmod	15:nmod	_
+15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	39:advcl	_
+16	,	,	PUNCT	punct	_	15	punct	15:punct	_
+17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	18:nummod	_
+18	moruβiʃaβa	moruβiʃaβ	NOUN	Case=Ref	_	39	obl	39:obl	_
+19	,	,	PUNCT	punct	_	18	punct	18:punct	_
+20	Reis	rei	NOUN	n	_	18	appos	18:appos	_
+21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	20:amod	_
+22	,	,	PUNCT	punct	_	20	punct	20:punct	_
+23	kwarasɨ	kwarasɨ	NOUN	n	_	24	nmod	24:nmod	_
+24	sembaβa	sem	NOUN	n	Nmzr=Circ	25	nmod	25:nmod	_
+25	kotɨ	kotɨ	NOUN	n	_	27	obl	27:obl	_
+26	swi	swi	ADP	pos	_	25	case	25:case	_
+27	ourɨβaʔe	ur	NOUN	Nmzr=Rel|Person=3	_	18	acl	18:acl	_
+28	,	,	PUNCT	punct	_	27	punct	27:punct	_
+29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	27:obl	_
+30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	29:nmod	_
+31	resé	esé	ADP	posp	Rel=Cont	30	case	30:case	_
+32	,	,	PUNCT	punct	_	31	punct	31:punct	_
+33	Tupã	Tupã	NOUN	n	_	34	nmod	34:nmod	_
+34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pass|Rel=Cont	29	appos	29:appos	_
+35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	34:obl	_
+36	pe	pe	NOUN	n	_	37	nmod	37:nmod	_
+37	jaramo	jar	NOUN	n	Case=Tra	34	obl	34:obl	_
+38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	34:obl	_
+39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
+40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nmzr=Circ	39	obj	39:obj	_
+41	itajuβa	itajuβa	NOUN	n	Case=Ref	40	cc	40:cc	_
+42	,	,	PUNCT	punct	_	41	punct	41:punct	_
+43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	cc	41:cc	_
+44	sɨapwanɨβaʔe	_	NOUN	n	Nmzr=Rel	43	nmod	43:nmod	_
+
 # sent_id = 2
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
