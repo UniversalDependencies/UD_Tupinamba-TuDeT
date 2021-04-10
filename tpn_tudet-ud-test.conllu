@@ -53,7 +53,7 @@
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	14:obl	_
 10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	11:nmod	_
-11	rɨgé	rɨgé	NOUN	n	Rel=Cont	_	_	_	_
+11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	14:nmod	_
 12	swi	swi	ADP	posp	_	11	case	11:case	_
 13	Tupã	Tupã	NOUN	n	_	14	nmod	14:nmod	_
 14	taʔɨra	aʔɨr	NOUN	n	Rel=Abs	15	nmod	15:nmod	_
@@ -82,8 +82,8 @@
 37	jaramo	jar	NOUN	n	Case=Tra	34	obl	34:obl	_
 38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	34:obl	_
 39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
-40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nmzr=Circ	39	obj	39:obj	_
-41	itajuβa	itajuβa	NOUN	n	Case=Ref	40	cc	40:cc	_
+40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nmzr=Circ	39	obl	39:obl	_
+41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	39:obj	_
 42	,	,	PUNCT	punct	_	41	punct	41:punct	_
 43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	cc	41:cc	_
 44	sɨapwanɨβaʔe	_	NOUN	n	Nmzr=Rel	43	nmod	43:nmod	_
