@@ -1127,7 +1127,7 @@
 3	iʔekatwaβa	ʔekatwaβ	NOUN	n	Case=Ref|Rel=NCont	5	obl	5:obl	_
 4	kotɨ	kotɨ	ADP	posp	_	3	case	3:case	_
 5	ojkóβaʔe	ikó	NOUN	n	Nomzr=Rel|Person=3	1	acl	1:acl	_
-6	ndʔeʔiteʔe	ADV	adv	_	_	8	advmod	8:advmod	gloss_eng=Neg-say-for.no.reason
+6	ndʔeʔiteʔe	ndʔeʔiteʔe	ADV	adv	_	8	advmod	8:advmod	gloss_eng=Neg-say-for.no.reason
 7	oapiʃara	apiʃar	NOUN	n	Case=Ref|Reflex=Yes	8	obj	8:obj	_
 8	akakapa	akakaβ	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
