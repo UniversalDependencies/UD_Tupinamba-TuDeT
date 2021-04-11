@@ -1147,7 +1147,7 @@
 # text = ndemaʔendwar ʃeresé nderorɨpápe nderekó rojré eʔi
 # text_eng = He said remember me after you are in the place of your happiness. Book 3 chap 10
 1	ndemaʔendwar	maʔendwar	NOUN	n	Number=Sing|Person=2	6	ccomp	6:ccomp	_
-2	ʃeresé	esé	ADP	posp	Number=Sing|Peron=1|Rel=Cont	1	obl	1:obl	_
+2	ʃeresé	esé	ADP	posp	Number=Sing|Person=1|Rel=Cont	1	obl	1:obl	_
 3	nderorɨpápe	orɨβ	NOUN	n	Case=Loc|Nomzr=Circ|Number=Sing|Person=2|Rel=Cont	4	nmod	4:nmod	_
 4	nderekó	ekó	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	advcl	1:advcl	_
 5	rojré	rojré	ADP	posp	_	4	case	4:case	_
