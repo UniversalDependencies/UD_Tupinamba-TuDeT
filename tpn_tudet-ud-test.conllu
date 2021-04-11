@@ -1154,7 +1154,7 @@
 6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
 # sent_id = 70
-# text = Kori erejkó ʃerorɨpápe ʃepɨ́rine eʔi .
+# text = Kori erejkó ʃerorɨpápe ʃepɨ́rine eʔi
 # text_eng = He said, you will be in the place of my happiness today.  Book 3 chap 10
 1	Kori	kori	ADV	adv	_	2	advmod	2:advmod	_
 2	erejkó	ikó	VERB	v	Number=Plur|Person=2	5	ccomp	5:ccomp	_
@@ -1163,9 +1163,9 @@
 5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
 # sent_id = 71
-# text = Aβá aβépe oʔam cruz-ɨpɨpe aʔéreme ?
+# text = Aβá aβépe oʔam cruz ɨpɨpe aʔéreme ?
 # text_eng = Who else was standing near the cross afther that  Book 3 chap 10
-1	Aβá	aβá	PRON	pro	PronType=PrsInt	3	nsubj	3:nsubj	_
+1	Aβá	aβá	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
 2	aβépe	aβé	ADV	adv	Int=Yes	3	advcl	3:advcl	_
 3	oʔam	ʔam	VERB	vi	_	0	root	0:root	_
 4	cruz	cruz	NOUN	n	_	3	obl	3:obl	_
