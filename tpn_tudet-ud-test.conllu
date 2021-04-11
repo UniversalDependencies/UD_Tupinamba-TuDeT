@@ -157,7 +157,7 @@
 # text = Jandéjara JesusCristo reʔõawera
 # text_eng = The death of our lord JC book 3-1
 1-2	Jandéjara	_	_	_	_	_	_	_	_
-1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plu|Person=1	2	nmod	_	_
+1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
 2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
 3	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
 4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
