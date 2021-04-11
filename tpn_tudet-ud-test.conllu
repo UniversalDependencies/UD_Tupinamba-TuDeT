@@ -76,7 +76,7 @@
 31	resé	esé	ADP	posp	Rel=Cont	30	case	30:case	_
 32	,	,	PUNCT	punct	_	31	punct	31:punct	_
 33	Tupã	Tupã	NOUN	n	_	34	nmod	34:nmod	_
-34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pass|Rel=Cont	29	appos	29:appos	_
+34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	29:appos	_
 35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	34:obl	_
 36	pe	pe	NOUN	n	_	37	nmod	37:nmod	_
 37	jaramo	jar	NOUN	n	Case=Tra	34	obl	34:obl	_
