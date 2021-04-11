@@ -1174,7 +1174,7 @@
 7	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 72
-# text = iʃɨ , S . João aβé , kuɲãangaturametá aβé
+# text = iʃɨ , S.João aβé , kuɲãangaturametá aβé
 # text_eng = His mother, saint John, and may good women   Book 3 chap 10
 1	iʃɨ	sɨ	NOUN	n	Number=Sing|Person=1|Rel=NCont	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
