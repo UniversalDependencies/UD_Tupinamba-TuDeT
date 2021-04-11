@@ -1183,7 +1183,7 @@
 3	S.João	_	PROPN	propn	_	1	conj	1:conj	_
 4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	kuɲãangaturametá	kuɲã	NOUN	n	Number=Plur	1	cc	1:cc	_
+6	kuɲãangaturametá	kuɲã	NOUN	n	Number=Plur	1	conj	1:conj	_
 7	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
 
 # sent_id = 73
