@@ -229,7 +229,7 @@
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 14
-# text= Ojpotakatu, Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨ potareʔɨma
+# text= Ojpotakatu, Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨpotareʔɨma
 # text_port = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
 1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person=33	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
