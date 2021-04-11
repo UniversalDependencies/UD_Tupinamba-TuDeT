@@ -110,7 +110,7 @@
 13	swi	swi	ADP	posp	_	12	case	12:case	_
 14	mirra	mirra	NOUN	n	_	17	nsubj	17:nsubj	_
 15	moroesé	_	NOUN	n	Rel=Hum	16	obj	16:obj	_
-16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Pas	17	nmod	17:nmod	_
+16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	17:nmod	_
 17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	10:parataxis	_
 
 # sent_id = 55555 
