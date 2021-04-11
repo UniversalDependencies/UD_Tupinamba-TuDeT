@@ -1202,7 +1202,7 @@
 # text = Eβokwé ndemembɨra , kuɲã we eʔi , S.João meʔenga imembɨ́ramo
 # text_eng =  He said: oh woman, that is your son, considering S. John as her son         Book 3 chap 10
 1	Eβokwé	Eβokwé	DET	dem	_	2	nmod	2:nmod	_
-2	ndemembɨra	membɨr	NOUN	n	Case=Ref|Number=Sing|Person=Plur	6	ccomp	6:ccomp	_
+2	ndemembɨra	membɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	6	ccomp	6:ccomp	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	kuɲã	kuɲã	NOUN	n	_	2	nsubj	2:nsubj	_
 5	we	we	PART	pcl	Case=Voc	4	dep	4:dep	_
