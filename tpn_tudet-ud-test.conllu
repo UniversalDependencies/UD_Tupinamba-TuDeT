@@ -1187,7 +1187,7 @@
 # sent_id = 73
 # text = Marã eʔipe Jesus osɨ supé oeʔõ janondé ?
 # text_eng =  What did he say to his mother before his death?  Book 3 chap 10
-1	Marã	marã	ADV	adv	PronType=Int	2	advmod	2:advmod	_
+1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
 3	Jesus	Jesus	PROPN	propn	_	2	nsubj	2:nsubj	_
 4	osɨ	sɨ	NOUN	n	Reflex=Yes	2	obl	2:obl	_
@@ -1216,7 +1216,7 @@
 1	aʔepe	aʔe	PART	pcl	Int=Yes	5	discourse	5:discourse	_
 2	S.João	S.João	PROPN	propn	_	5	obl	5:obl	_
 3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
-4	Marã	marã	ADV	pron	Int=Yes	5	advmod	5:advmod	_
+4 marã	marã	ADV	pron	Int=Yes	5	advmod	5:advmod	_
 5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
