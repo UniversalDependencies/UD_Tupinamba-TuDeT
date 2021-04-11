@@ -1105,7 +1105,7 @@
 # text_eng = Those who were crucified next to him as well  Book 3 chap 10
 1	Ajpó	ajpó	DET	dem	_	3	nmod	3:nmod	_
 2	ipɨ́ri	pɨ	NOUN	n	Case=Loc|Rel=NCont	3	nmod	3:nmod	_
-3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Pas|Voice=Cau	0	root	0:root	_
+3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Past|Voice=Cau	0	root	0:root	_
 4	aβé	aβé	ADV	adv	_	3	advmod	3:advmod	_
 
 # sent_id = 65
@@ -1113,7 +1113,7 @@
 # text_eng = Didn't anyone regret his/her evil words after insulting him?  Book 3 chap 10
 1	Nd'ojmoasɨipe	asɨ	VERB	v	Int=Yes|Person=3|Polarity=Neg|Rel=NCont|Voice=Cau	0	root	0:root	_
 2	amõ	amõ	PRON	pro	PronType=Ind	1	obl	1:obl	_
-3	oɲeʔengaiβawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Pas	1	obl	1:obl	_
+3	oɲeʔengaiβawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	1	obl	1:obl	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
 5	ijaʔo	_	NOUN	n	Rel=NCont	1	advcl	1:advcl	_
 6	ré	_	ADP	posp	_	5	case	5:case	_
