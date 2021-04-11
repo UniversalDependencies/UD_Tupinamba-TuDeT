@@ -262,9 +262,9 @@
 1	mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	2:advmod	_
 2	iʃow	so	NOUN	n	Rel=NCont	0	root	0:root	_
 3-5	ombaʔeʔupaβiré	_	_	_	_	_	_	_	_
-3	ombaʔe	_	NOUN	n	Reflex=Yes	4	dep	4:dep	_
-4	ʔupaβ	_	VERB	v	Aspect=Compl	2	obl	2:obl	_
-5	iré	_	ADP	posp	Rel=Cont	4	case	4:case	_
+3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	4:dep	_
+4	ʔupaβ  ʔupaβ	VERB	v	Aspect=Compl	2	obl	2:obl	_
+5	iré	iré	ADP	posp	Rel=Cont	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 18
