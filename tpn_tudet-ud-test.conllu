@@ -318,7 +318,7 @@
 # text_eng = How was our lord treated after his flogging?   book 3 chap 8
 1	Marãpe	marã	ADV	adv	_	4	advmod	4:advmod	_
 2	ɨβɨá	ɨβɨá	PART	pcl	_	3	dep	3:dep	_
-3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plu|Person=1|Rel=Cont	4	nmod	4:nmod	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
 4	rereków	_	NOUN	N	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	inupãnupã	nupã	NOUN	_	Aspect=Iter|Rel=NCont	4	obl	4:obl	_
@@ -503,7 +503,7 @@
 5	okárɨpe	ok	NOUN	N	Case=All	4	appos	4:appos	_
 6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	3	advcl	3:advcl	_
 7	,	,	PUNCT	punct	_	3	punct	3:punct	_
-8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plu|Person=23	3	parataxis	3:parataxis	_
+8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plur|Person=23	3	parataxis	3:parataxis	_
 9	sekopwera	ekó	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	12:obj	_
 10	amõ	amõ	PRON	pro	PronType=Ind	9	nmod	9:nmod	_
 11	iʃé	iʃé	PRON	pro	PronType=Prs	12	nsubj	12:nsubj	_
@@ -1105,7 +1105,7 @@
 # text_eng = Those who were crucified next to him as well  Book 3 chap 10
 1	Ajpó	ajpó	DET	dem	_	3	nmod	3:nmod	_
 2	ipɨ́ri	pɨ	NOUN	n	Case=Loc|Rel=NCont	3	nmod	3:nmod	_
-3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Past|Voice=Cau	0	root	0:root	_
+3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pas|Rel=NCont|Tense=Past|Voice=Cau	0	root	0:root	_
 4	aβé	aβé	ADV	adv	_	3	advmod	3:advmod	_
 
 # sent_id = 65
