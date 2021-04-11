@@ -85,10 +85,10 @@
 40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	39:obl	_
 41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	39:obj	_
 42	,	,	PUNCT	punct	_	41	punct	41:punct	_
-43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	cc	41:cc	_
+43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	41:conj	_
 44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	43:nmod	_
 45	,	,	PUNCT	punct	_	43	punct	43:punct	_
-46	Mirra	mirra	NOUN	n	_	43	cc	43:cc	_
+46	Mirra	mirra	NOUN	n	_	43	conj	43:conj	_
 47	,	,	PUNCT	punct	_	46	punct	46:punct	_
 48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	46:appos	_
 49	toʔo	oʔo	NOUN	n	Rel=Abs	48	nmod	48:nmod	_
