@@ -1141,7 +1141,7 @@
 1	aʔepe	aʔe	DET	dem	Int=Yes	5	nsubj	5:nsubj	_
 2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	5	obl	5:obl	_
 3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
-4	marã	marã	PRON	pron	PronType=Int	5	advmod	5:advmod	_
+4	marã	marã	ADV	adv	Int=Yes	5	advmod	5:advmod	_
 5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
