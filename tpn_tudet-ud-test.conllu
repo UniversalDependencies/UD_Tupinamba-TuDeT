@@ -142,7 +142,7 @@
 # text = Mbaʔepe i mongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	Mbaʔepe	_	_	_	_	_	_	_	_
-1	mbaʔe	mbaʔe	NOUN	n	_	4	obj	4:obj	_
+1	Mbaʔe	mbaʔe	NOUN	n	_	4	obj	4:obj	_
 2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
 3	imongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Case=Ref|Nomzr=Pas|Rel=NCont	4	nsubj	4:nsubj	_
 4	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
@@ -200,7 +200,7 @@
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 10
-# text = Oemimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?
+# text = Oemimotárɨβo épe erimbaʔe iɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?
 # text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
 1	Oemimotárɨβo	emimotár	NOUN	n	Case=Loc|Reflex=Yes	0	root	0:root	_
 2	épe	épe	PART	pcl	_	1	discourse	1:discourse	_
@@ -229,7 +229,7 @@
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 14
-# text= Ojpotakatu, Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨpotareʔɨma
+# text= Ojpotakatu , Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨpotareʔɨma
 # text_port = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
 1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person=33	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -1218,7 +1218,7 @@
 1	aʔepe	aʔe	PART	pcl	Int=Yes	5	discourse	5:discourse	_
 2	S.João	S.João	PROPN	propn	_	5	obl	5:obl	_
 3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
-4 marã	marã	ADV	pron	Int=Yes	5	advmod	5:advmod	_
+4	marã	marã	ADV	pron	Int=Yes	5	advmod	5:advmod	_
 5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
