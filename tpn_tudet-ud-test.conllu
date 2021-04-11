@@ -41,7 +41,7 @@
 9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	8:obl	_
 
 # sent_id = 33333333
-# text = Opa ko mbo mosapɨr mɨsã ʔara sɨk’eme, apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré, mosapɨr moruβiʃaβa, Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe, jasɨtatá serekoarama resé, Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa, ɨsɨkatã sɨapwanɨβaʔe, mirra, mosanga toʔo swi 
+# text = Opa ko mbo mosapɨr mɨsã ʔara sɨk'eme , apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré , mosapɨr moruβiʃaβa , Reis ʔiaβa, kwarasɨ sembaβa kotɨ swi ourɨβaʔe , jasɨtatá serekoarama resé , Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa , ɨsɨkatã sɨapwanɨβaʔe , mirra , mosanga toʔo swi
 # text_eng = Three chiefs, said to be king, who came from the orient through the guardian star that god had made new as indicator of the path, brought him as offering: gold, incense and myhrr, after god's son was born from his mother's womb, when the thirteenth day came  Catálogo January 6
 1	Opa	opa	PRON	pro	_	3	nmod	3:nmod	_
 2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
@@ -49,7 +49,7 @@
 4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
 5	mɨsã	pɨsã	NOUN	n	_	3	dep	3:dep	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	7:nmod	_
-7	sɨk’eme	sɨk	NOUN	n	_	39	advcl	39:advcl	_
+7	sɨk'eme	sɨk	NOUN	n	_	39	advcl	39:advcl	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	14:obl	_
 10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	11:nmod	_
@@ -95,7 +95,7 @@
 50	swi	swi	ADP	posp	_	49	case	49:case	_
 
 # sent_id = 4444444
-# text = Itajuβa moruβiʃaβa Rejamo sekó mombewaβa, ɨsɨkatãsɨapwana Tupanamo sekó kwapaβa, toʔo swi mirra moroesé seʔõawama mombewaβa
+# text = Itajuβa moruβiʃaβa Rejamo sekó mombewaβa , ɨsɨkatãsɨapwana Tupanamo sekó kwapaβa , toʔo swi mirra moroesé seʔõawama mombewaβa
 # text_eng = Gold was a way of announcing his being a chief as a king, the incense was a way of recogninzing him to be god, the pulp myrrh was a way of announcing he would die for the people.  Catálogo January 6
 1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
 2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	4:nmod	_
@@ -116,7 +116,7 @@
 17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	10:parataxis	_
 
 # sent_id = 55555 
-# text = SãoSebastião ʔara, seʔõawera, Cristãos ojmoeté ojemotupana
+# text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoeté ojemotupana
 # sent_eng = The christians honour Saint Sebastian's day, of his death, making it (a) holy(day)     Catálogo January 20
 1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	2:nmod	_
 2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl	7:obl	_
