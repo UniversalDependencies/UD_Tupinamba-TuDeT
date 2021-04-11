@@ -263,7 +263,7 @@
 2	iʃow	so	NOUN	n	Rel=NCont	0	root	0:root	_
 3-5	ombaʔeʔupaβiré	_	_	_	_	_	_	_	_
 3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	4:dep	_
-4	ʔupaβ  ʔupaβ	VERB	v	Aspect=Compl	2	obl	2:obl	_
+4	ʔupaβ	ʔupaβ	VERB	v	Aspect=Compl	2	obl	2:obl	_
 5	iré	iré	ADP	posp	Rel=Cont	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
@@ -733,7 +733,7 @@
 # text_eng = The women, his many disciples, went mourning him
 1	Osó	so	VERB	vi	Person=3	0	root	0:root	gloss_port=3-ir
 2	kuɲã	kuɲã	NOUN	n	_	1	obl	1:obl	gloss_port=mulher-REF
-3	semimboʔeetá	emimboʔe	NOUN	n	Number=Coll	2	appos	2:appos	gloss_port=Rel2-pupil-COLL
+3	semimboʔeetá	emimboʔe	NOUN	n	Number=Plur	2	appos	2:appos	gloss_port=Rel2-pupil-COLL
 4	sapirõmo	apirõ	VERB	vt	VerbForm=Ger	1	dep	1:dep	gloss_port=Rel2-mourn-GER
 
 # sent_id = 1011
