@@ -229,19 +229,21 @@
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 14
-# text= Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨpotareʔɨma
-# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10
-1	Sesé	esé	ADP	posp	Rel=NCont	3	case	3:case	_
-2	omaʔendwaramo	maʔendwar	NOUN	n	Case=Tra|Reflex=Yes	0	root	0:root	_
-3	é	é	PART	pcl	_	3	discourse	3:discourse	_
-4	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
-5	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
-6	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	dep	3:dep	_
-7	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	11	obl	11:obl	_
-8	seko	eko	NOUN	n	Rel=NCont	11	obj	11:obj	_
-9-10	aβɨpotareʔɨma	_	_	_	_	_	_	_	_
-9	aβɨ	aβɨ	VERB	v	_	12	xcomp	12:xcomp	_
-10	potareʔɨma	potar	VERB	vt	_	3	advcl	3:advcl	_
+# text= Ojpotakatu, Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨ potareʔɨma
+# text_port = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
+1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person=33	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	Sesé	esé	ADP	posp	Rel=NCont	4	case	4:case	_
+4	omaʔendwaramo	maʔendwar	NOUN	n	Case=Tra|Reflex=Yes	8	xcomp	8:xcomp	_
+5	é	é	PART	pcl	_	4	discourse	4:discourse	_
+6	asé	asé	PRON	pro	PronType=Prs	8	nmod	8:nmod	_
+7	Tupã	Tupã	NOUN	n	_	8	nmod	8:nmod	_
+8	rawsúβi	awsuβ	NOUN	n	Rel=Cont	1	parataxis	1:parataxis	_
+9	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	8	obl	8:obl	_
+10	seko	eko	NOUN	n	Rel=NCont	12	nmod	12:nmod	_
+11-12	aβɨpotareʔɨma	_	_	_	_	_	_	_	_
+11	aβɨ	aβɨ	VERB	v	_	12	nmod	12:nmod	_
+12	potareʔɨma	potar	NOUN	n	Case=Ref|Polarity=Neg	8	advcl	8:advcl	_
 
 # sent_id = 16
 # text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme , Santo-Sacramento meʔenga janondé .
