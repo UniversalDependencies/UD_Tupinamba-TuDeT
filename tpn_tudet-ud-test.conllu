@@ -1180,7 +1180,7 @@
 # text_eng = His mother, saint John, and may good women   Book 3 chap 10
 1	iʃɨ	sɨ	NOUN	n	Number=Sing|Person=1|Rel=NCont	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	S.João	_	PROPN	propn	_	1	cc	1:cc	_
+3	S.João	_	PROPN	propn	_	1	conj	1:conj	_
 4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	kuɲãangaturametá	kuɲã	NOUN	n	Number=Plur	1	cc	1:cc	_
