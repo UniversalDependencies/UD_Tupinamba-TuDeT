@@ -259,8 +259,8 @@
 # sent_id = 17
 # text = Mamõpe iʃow ombaʔeʔupaβiré ?
 # text_eng = Where did he go after eating everything?book 3-13
-1	mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	2:advmod	_
-2	iʃow	so	NOUN	n	Rel=NCont	0	root	0:root	_
+1	Mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	2:advmod	_
+2	iʃow	so	NOUN	n	OblZop=Yes|Rel=NCont	0	root	0:root	_
 3-5	ombaʔeʔupaβiré	_	_	_	_	_	_	_	_
 3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	4:dep	_
 4	ʔupaβ	ʔupaβ	VERB	v	Aspect=Compl	2	obl	2:obl	_
@@ -1046,7 +1046,7 @@
 # sent_id = 3359
 # text = Marã eʔipe jandéjara ojukasara ri oguβa mongetáβo ?
 # text_eng = What did our lord say seus about his killers talking to his father?  Book 3 chap 10
-1	Marã	marã	PRON	pron	PronType=Int	2	advmod	2:advmod	_
+1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
 4	ojukasara	juká	NOUN	n	Case=Ref|Nomzr=Ag|Reflex=Yes	2	obl	2:obl	_
