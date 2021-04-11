@@ -113,13 +113,13 @@
 16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	17:nmod	_
 17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	10:parataxis	_
 
-# sent_id = 55555 
+# sent_id = 55555
 # text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoeté ojemotupana
 # sent_eng = The christians honour Saint Sebastian's day, of his death, making it (a) holy(day)     Catálogo January 20
 1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	2:nmod	_
 2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl	7:obl	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tens=Pas	2	appos	2:appos	_
+4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Pas	2	appos	2:appos	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	Cristãos	Cristão	NOUN	n	_	7	obl	7:obl	_
 7	ojmoeté	eté	VERB	v	Person=33|Voice=Cau	0	root	0:root	_
