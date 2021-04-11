@@ -260,7 +260,7 @@
 # text = Mamõpe iʃow ombaʔeʔupaβiré ?
 # text_eng = Where did he go after eating everything?book 3-13
 1	Mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	2:advmod	_
-2	iʃow	so	NOUN	n	OblZop=Yes|Rel=NCont	0	root	0:root	_
+2	iʃow	so	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 3-5	ombaʔeʔupaβiré	_	_	_	_	_	_	_	_
 3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	4:dep	_
 4	ʔupaβ	ʔupaβ	VERB	v	Aspect=Compl	2	obl	2:obl	_
@@ -1131,7 +1131,7 @@
 7	oapiʃara	apiʃar	NOUN	n	Case=Ref|Reflex=Yes	8	obj	8:obj	_
 8	akakapa	akakaβ	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	sepɨka	epɨk	VERB	v	Rel=NCont|VerbForm=Ger	8	cc	8:cc	_
+10	sepɨka	epɨk	VERB	v	Rel=NCont|VerbForm=Ger	8	conj	8:conj	_
 
 # sent_id = 67
 # text = aʔepe jandéjara supé marã eʔi ?
