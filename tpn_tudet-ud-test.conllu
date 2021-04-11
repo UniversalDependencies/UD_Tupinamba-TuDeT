@@ -1013,7 +1013,7 @@
 
 # sent_id = 1036
 # text = aʔejβé .
-# text_eng =
+# text_eng = They did! 
 1	aʔejβé	aʔejβé	ADV	adv	_	0	root	0:root	_
 2	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
@@ -1103,7 +1103,7 @@
 # sent_id = 64
 # text = Ajpó ipɨ́ri imojarɨpɨrwera aβé
 # text_eng = Those who were crucified next to him as well  Book 3 chap 10
-1	ajpó	ajpó	DET	dem	_	3	nmod	3:nmod	_
+1	Ajpó	ajpó	DET	dem	_	3	nmod	3:nmod	_
 2	ipɨ́ri	pɨ	NOUN	n	Case=Loc|Rel=NCont	3	nmod	3:nmod	_
 3	imojarɨpɨrwera	mojar	NOUN	n	Case=Ref|Nomzr=Pass|Rel=NCont|Tense=Pas|Voice=Cau	0	root	0:root	_
 4	aβé	aβé	ADV	adv	_	3	advmod	3:advmod	_
