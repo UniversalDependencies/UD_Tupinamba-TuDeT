@@ -1048,7 +1048,7 @@
 # text_eng = What did our lord say seus about his killers talking to his father?  Book 3 chap 10
 1	Marã	marã	PRON	pron	PronType=Int	2	advmod	2:advmod	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
-3	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
 4	ojukasara	juká	NOUN	n	Case=Ref|Nomzr=Ag|Reflex=Yes	2	obl	2:obl	_
 5	ri	ri	ADP	posp	_	4	case	4:case	_
 6	oguβa	_	NOUN	n	Case=Ref|Reflex=Yes	7	obj	7:obj	_
