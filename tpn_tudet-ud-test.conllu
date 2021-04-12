@@ -126,7 +126,7 @@
 8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	7:advcl	tupã-ʔar-a
 
 # sent_id = 66666666
-# text = Jandéjara mombeʔureme, serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo, ijukáβo
+# text = Jandéjara mombeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
 # text_eng = Those who believed him worked together shooting arrows at him, killing him, for announcing our lord
 1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	2:nmod	_
 2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	5:advcl	_
