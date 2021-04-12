@@ -1295,8 +1295,8 @@
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 80
-# text = Oguwɨ jemobokaβawera swi oʔuséjamo , ʃeʔusej ã eʔi
-# text_eng =   He said, I am thirsty, (being) thirsty due to the exhausting of his blood   Book 3 chap 10
+# text = Oguwɨ jemobokaβawera swi oʔuséjamo , ʃeʔusej ã , eʔi
+# text_eng =  He said, I am thirsty, (being) thirsty due to the exhausting of his blood   Book 3 chap 10
 1	Oguwɨ	uwɨ	NOUN	n	Reflex=Yes	2	nmod	2:nmod	_
 2	jemobokaβawera	jemobok	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	4	nmod	4:nmod	_
 3	swi	swi	ADP	posp	_	2	case	2:case	_
