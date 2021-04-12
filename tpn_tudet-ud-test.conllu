@@ -1307,3 +1307,15 @@
 8	,	,	PUNCT	punct	_	6	punct	6:punct	_
 9	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
+# sent_id = 81
+# text = Ojmoʔɨ'upe ɨβɨ́á ?
+# text_eng = Did someone made him drink  Book 3 chap 10
+1	Ojmoʔɨʔupe	ʔu	VERB	vt	Incorp=Yes|Int=Yes|Person=33|Voice=Cau	0	root	0:root	_
+2	ɨβɨá	_	PART	pcl	_	1	obl	1:obl	_
+3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 82
+# text = Ojmoʔɨʔu
+# text_eng =  The made him drink Book 3 chap 10
+1	Ojmoʔɨʔu	ʔu	VERB	vt	Incorp=Yes|Person=33|Voice=Cau	0	root	0:root	_
+
