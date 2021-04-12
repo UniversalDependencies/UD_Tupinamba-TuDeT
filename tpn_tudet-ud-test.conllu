@@ -148,6 +148,27 @@
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
 7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	0:root	_
 
+# sent_id = 1
+# text = mbaʔepe cristãos jekwapaβa ?
+# text_eng = What is the sign of the christians? Book 1 chap 2
+1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
+2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	3:nmod	_
+3	jekwapaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 2
+# text = Santa Cruz .
+# text_eng = The holy cross. book 1 chap 2
+1	Santa	santa	NOUN	n	_	2	nmod	2:nmod	_
+2	Cruz	cruz	NOUN	n	_	0	root	0:root	_
+3	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 3
+# text = Marãnamope ?
+# text_eng = Why? Book 1 chap 2
+1	Marãnamope	Marãnamope	ADV	adv	Int=Yes	0	root	0:root	_
+2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 2
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
