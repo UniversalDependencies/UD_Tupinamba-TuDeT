@@ -1355,7 +1355,7 @@
 4	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
 # sent_id = 87
-# text = Marã eʔipe oguβa supé ojekɨj janondé ?
+# text = Marã eʔipe oguβa supé ojekɨjjanondé ?
 # text_eng =  What did he say to his father before expiring   Book 3 chap 10
 1	Marã	marã	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
