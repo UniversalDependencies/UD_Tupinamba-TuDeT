@@ -1378,9 +1378,9 @@
 7	eʔi	eʔi	VERB	v	_	3	xcomp	3:xcomp	_
 
 # sent_id = 89
-# text = Marãpe seków aʔe riré ?
+# text = Marãpe seków aʔeriré ?
 # text_eng = How did he act after that?    Book 3 chap 10
-1	Marãpe	marãpe	ADV	adv	PronType=Int	2	advcl	2:advcl	_
+1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advcl	2:advcl	_
 2	seków	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 3-4	aʔeriré	_	_	_	_	_	_	_	_
 3	aʔe	aʔe	DET	dem	_	2	obl	2:obl	_
