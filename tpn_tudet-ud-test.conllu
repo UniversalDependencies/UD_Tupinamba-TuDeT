@@ -1336,3 +1336,13 @@
 5	ipupé	pupé	ADP	posp	Rel=NCont	4	case	4:case	_
 6	seʔɨma	eʔɨm	VERB	v	Rel=NCont|VerbForm=Ger	0	root	0:root	_
 
+# sent_id = 85
+# text = Marã eʔipe saʔangiré ?
+# text_eng =  What did he say after tasting it?     Book 3 chap 10
+1	Marã	marã	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+3-4	saʔangiré	_	_	_	_	_	_	_	_
+3	saʔang	aʔang	NOUN	n	Rel=NCont	2	nmod	2:nmod	_
+4	iré	riré	ADP	posp	_	3	case	3:case	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
