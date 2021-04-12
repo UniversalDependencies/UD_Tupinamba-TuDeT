@@ -1346,3 +1346,11 @@
 4	iré	riré	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 86
+# text = Awjé ã koʔɨté eʔi
+# text_eng = He said it's enough, finally       Book 3 chap 10
+1	Awjé	awjé	INTJ	intj	_	4	obj	4:obj	_
+2	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
+3	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	4:advmod	_
+4	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+
