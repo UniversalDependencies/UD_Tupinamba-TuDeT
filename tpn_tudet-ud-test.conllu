@@ -1269,19 +1269,19 @@
 # sent_id = 78
 # text = Ojmongetá βé , osapukaja osasẽngatúramo , marãnamopjã ʃepeʔa jepé , ʃeruβɨwé , ojaβo
 # text_eng = He did it also, yellling lourd       Book 3 chap 10
-1	Ojmongetá	mongetá	VERB	v	Person=33|Rel=NCont	0	root	_	_
-2	βé	βé	ADV	adv	_	1	advcl	_	_
-3	,	,	PUNCT	punct	_	1	punct	_	_
-4	osapukaja	_	VERB	vi	Person=3|VerbForm=Ger	1	advcl	_	_
-5	osasẽngatúramo	asem	NOUN	n	Case=Tra|Intens=Yes|Person=3|Rel=NCont	4	advmod	_	_
-6	,	,	PUNCT	punct	_	4	punct	_	_
+1	Ojmongetá	mongetá	VERB	v	Person=33|Rel=NCont	0	root	0:root	_
+2	βé	βé	ADV	adv	_	1	advcl	1:advcl	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	osapukaja	_	VERB	vi	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+5	osasẽngatúramo	asem	NOUN	n	Case=Tra|Intens=Yes|Person=3|Rel=NCont	4	nmod	4:nmod	_
+6	,	,	PUNCT	punct	_	4	punct	4:punct	_
 7-8	marãnamopjã	_	_	_	_	_	_	_	_
-7	marãnamo	marãnamo	ADV	adv	Int=Yes	9	advmod	_	_
-8	pjã	pjã	PART	pcl	_	7	discourse	_	_
-9	ʃepeʔa	_	NOUN	n	Number=Sing|Person=1	14	obj	_	_
-10	jepé	jepé	PRON	pron	_	9	nsubj	_	_
-11	,	,	PUNCT	punct	_	9	punct	_	_
-12	ʃeruβɨwé	uβ	NOUN	n	Case=Voc|Number=Sing|Person=1|Rel=Cont	9	dep	_	_
-13	,	,	PUNCT	punct	_	12	punct	_	_
-14	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	advcl	_	_
+7	marãnamo	marãnamo	ADV	adv	Int=Yes	9	advmod	9:advmod	_
+8	pjã	pjã	PART	pcl	_	7	discourse	7:discourse	_
+9	ʃepeʔa	_	NOUN	n	Number=Sing|Person=1	14	obj	14:obj	_
+10	jepé	jepé	PRON	pron	_	9	nsubj	9:nsubj	_
+11	,	,	PUNCT	punct	_	9	punct	9:punct	_
+12	ʃeruβɨwé	uβ	NOUN	n	Case=Voc|Number=Sing|Person=1|Rel=Cont	9	dep	9:dep	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
+14	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
 
