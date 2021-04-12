@@ -1294,3 +1294,16 @@
 4	riré	riré	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 80
+# text = Oguwɨ jemobokaβawera swi oʔuséjamo , ʃeʔusej ã eʔi
+# text_eng =   He said, I am thirsty, (being) thirsty due to the exhausting of his blood   Book 3 chap 10
+1	Oguwɨ	uwɨ	NOUN	n	Reflex=Yes	2	nmod	2:nmod	_
+2	jemobokaβawera	jemobok	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	4	nmod	4:nmod	_
+3	swi	swi	ADP	posp	_	2	case	2:case	_
+4	oʔuséjamo	ʔuséj	NOUN	n	Case=Tra|Reflex=Yes	9	dep	9:dep	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	ʃeʔusej	ʔuséj	NOUN	n	Numer=Sing|Person=1	9	ccomp	9:ccomp	_
+7	ã	ã	PART	pcl	_	6	discourse	6:discourse	_
+8	,	,	PUNCT	punct	_	6	punct	6:punct	_
+9	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+
