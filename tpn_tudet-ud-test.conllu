@@ -1285,3 +1285,12 @@
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
 
+# sent_id = 79
+# text = Marã eʔipe aʔe riré ?
+# text_eng = What did he say after that?   Book 3 chap 10
+1	Marã	marã	ADV	pron	PronType=Int	2	advmod	2:advmod	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	_	_	_	_
+3	aʔe	aʔe	DET	dem	_	2	obl	2:obl	_
+4	riré	riré	ADP	posp	_	3	case	3:case	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
