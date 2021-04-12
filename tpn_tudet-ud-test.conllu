@@ -130,7 +130,7 @@
 # text_eng = Those who believed him worked together shooting arrows at him, killing him, for announcing our lord
 1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	2:nmod	_
 2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	5:advcl	_
-3	,	,	PUNCT	punct	punct	2	punct	2:punct	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	5:nsubj	_
 5	potɨrõw	potɨr	NOUN	n	OblTop=Yes	0	root	0:root	_
 6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	5:advcl	_
