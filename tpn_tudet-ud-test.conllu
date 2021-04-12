@@ -1319,3 +1319,10 @@
 # text_eng =  The made him drink Book 3 chap 10
 1	Ojmoʔɨʔu	ʔu	VERB	vt	Incorp=Yes|Person=33|Voice=Cau	0	root	0:root	_
 
+# sent_id = 83
+# text = mbaʔe pupépe ?
+# text_eng = With what?   Book 3 chap 10
+1	mbaʔe	mbaʔe	NOUN	n	_	0	root	0:root	_
+2	pupépe	pupé	ADP	posp	Int=Yes	1	case	1:case	_
+3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
