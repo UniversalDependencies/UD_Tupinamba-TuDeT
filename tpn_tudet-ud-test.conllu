@@ -149,7 +149,7 @@
 7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	0:root	_
 
 # sent_id = 1
-# text = mbaʔepe cristãos jekwapaβa ?
+# text = Mbaʔepe cristãos jekwapaβa ?
 # text_eng = What is the sign of the christians? Book 1 chap 2
 1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
 2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	3:nmod	_
