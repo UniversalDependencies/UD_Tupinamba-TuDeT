@@ -334,12 +334,12 @@
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 18
-# text = Oker janondé , opakawérɨpe , oka swi osema βé .
+# text = Oker janondé , opakawérɨpe , oka swi osema βé
 # text_eng = Before sleeping, in waking up, also when leaving the house. Book 1 chap 2  
 1	Oker	ker	NOUN	n	Reflex=Yes	0	root	0:root	_
 2	janondé	janondé	ADP	posp	_	1	case	1:case	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	opakawérɨpe	ok	NOUN	n	Case=Loc|Reflex=Yes|tense=Past	1	conj	1:conj	_
+4	opakawérɨpe	ok	NOUN	n	Case=Loc|Reflex=Yes|Tense=Past	1	conj	1:conj	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	oka	oka	NOUN	n	Case=Ref	8	obl	8:obl	_
 7	swi	swi	ADP	posp	Rel=Cont	6	case	6:case	_
