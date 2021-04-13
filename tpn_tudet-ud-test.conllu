@@ -281,6 +281,15 @@
 9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	3:appos	_
 10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
 
+# sent_id = 13
+# text = Marãnamo βépe asé joβasáβi ?
+# text_eng = Why do we also cross our faces? Book 1 chap 2
+1	Marãnamo	marãnamo	ADV	adv	_	4	advmod	4:advmod	_
+2	βépe	βe	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
+4	joβasáβi	joβasáβ	NOUN	n	OblTop=Yes	0	root	0:root	_
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
