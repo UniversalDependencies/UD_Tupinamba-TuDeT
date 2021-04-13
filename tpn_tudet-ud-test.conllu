@@ -219,6 +219,16 @@
 20	pupé	pupé	ADP	posp	Rel=Cont	19	case	19:case	_
 21	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 
+# sent_id = 7
+# text = Marãnamope asé osɨβápe joβasaβa moini ?
+# text_eng = Why do we put the crossing of the face on the forehead? Book 1 chap 2
+1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	5	advmod	5:advmod	_
+2	asé	asé	PRON	pro	PronType=Prs	5	nsubj	5:nsubj	_
+3	osɨβápe	_	NOUN	n	Case=Loc|Int=Yes	4	obl	4:obl	_
+4	joβasaβa	joβasaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	nmod	5:nmod	_
+5	moini	moin	NOUN	n	OblTop=Yes|Voice=Cau	0	root	0:root	_
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
