@@ -267,6 +267,20 @@
 4	imoíni	moín	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
+# sent_id = 1235234535
+# text = Taʃepeʔa Tupã tekoangajpaβa swi , asé ɲɨʔã swi osembaʔe  ojaβo
+# text_eng = (by) saying, may god keep me apart from the evil acting, which comes from people's hearts. Book 1 chap 2
+1	Taʃepeʔa	_	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	10:ccomp	_
+2	Tupã	Tupã	PROPN	propn	propn	1	nsubj	1:nsubj	_
+3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Abs	1	obl	1:obl	_
+4	swi	swi	ADP	posp	Rel=Cont	3	case	3:case	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	asé	asé	PRON	pro	PronType=Prs	7	nmod	7:nmod	_
+7	ɲɨʔã	_	NOUN	n	_	9	nmod	9:nmod	_
+8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
+9	osembaʔe	sem	NOUN	_	_	3	appos	3:appos	_
+10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
