@@ -258,12 +258,12 @@
 5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
 6	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
 
-# sent_id = 11
-# text = Marãnamope asé opoti'ape imoĩni ?
+# sent_id = 113456
+# text = Marãnamope asé opotiʔape imoíni ?
 # text_eng = Why do they put it on their chests? Book 1 chap 2
 1	Marãnamope	marãnamo	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
-3	opoti'ape	poti'	NOUN	n	Case=Loc|Reflex=Yes	4	obl	4:obl	_
+3	opotiʔape	potiʔ	NOUN	n	Case=Loc|Reflex=Yes	4	obl	4:obl	_
 4	imoíni	moín	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
