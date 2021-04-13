@@ -307,6 +307,14 @@
 12	mombewaβo	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 13	ɲẽ	ɲẽ	PART	pcl	_	12	discourse	12:discourse	_
 
+# sent_id = 15
+# text = Marãnemetepe asé joβasáβine ?
+# text_eng = When do poeple make the sign of the cross? Book 1 chap 2
+1	Marãnemetepe	Marãneme	ADV	adv	Int=Yes	3	advmod	3:advmod	_
+2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
+3	joβasáβine	joβasáβ	NOUN	n	Emph=Yes|OblTop=Yes	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
