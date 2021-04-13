@@ -229,6 +229,16 @@
 5	moini	moin	NOUN	n	OblTop=Yes|Voice=Cau	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
+# sent_id = 8
+# text = Taʃepɨsɨrõ Tupã , maʔendwasaβaiβa swi  ojaβo
+# text_eng = (By) saying, may god save me from bad memories
+1	Taʃepɨsɨrõ	pɨsɨrõ	NOUN	n	Mood=Perm|Number=Sing|Person=1	2	obj	2:obj	_
+2	Tupã	Tupã	PROPN	propn	_	6	ccomp	6:ccomp	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	maʔendwasaβaiβa	maʔendwar	NOUN	n	Nomzr=Circ	2	obl	2:obl	_
+5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
+6	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
