@@ -346,6 +346,25 @@
 8	osema	sem	NOUN	n	Case=Ref|Reflex=Yes	1	conj	1:conj	_
 9	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
 
+# sent_id = 19437563
+# text = Osoβasápe asé oemiʔurama ?
+# text_eng = Do we bless what we are going to eat?
+1	Osoβasápe	oβasá	VERB	vt	Int=Yes|Person=33	0	root	0:root	_
+2	asé	asé	PRON	pro	PronType=Prs	1	obl	1:obl	_
+3	oemiʔurama	emiʔu	NOUN	n	Case=Ref|Dev=Pass|Reflex=Yes|Tense=Fut	1	obl	1:obl	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 20735
+# text = Osoβasaβ
+# text_eng = The do make the sign of the cross
+1	Osoβasaβ	Osoβasaβ	VERB	vt	Person=33	0	root	0:root	_
+
+# sent_id = 213134
+# text = Marãnamope ?
+# text_eng = Why? Book 1 chap 2
+1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	0	root	0:root	_
+2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
