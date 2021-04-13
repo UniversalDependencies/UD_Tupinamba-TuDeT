@@ -378,7 +378,7 @@
 # text_eng = Why will we make the cign of the cross more and more? Book 1 chap 2
 1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	3	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
-3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|OblTop=Yes|Red=Dis|Tense=Fut	0	root	_	_
+3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|OblTop=Yes|Red=Di|Tense=Fut	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 24345
