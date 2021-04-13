@@ -315,6 +315,17 @@
 3	joβasáβine	joβasáβ	NOUN	n	Emph=Yes|OblTop=Yes	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 16
+# text = mbaʔe ɨpɨrunga jaβiʔõ , kwépe marãtekó omoʔangekoaíme
+# text_eng = Each time something begins somewhere, whenever the word upsets 
+1	mbaʔe	mbaʔe	NOUN	n	_	2	nmod	2:nmod	_
+2	ɨpɨrunga	ɨpɨrung	NOUN	n	Case=Ref	0	root	0:root	_
+3	jaβiʔõ	jaβiʔõ	DET	_	_	2	nmod	2:nmod	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	kwépe	kwépe	ADV	adv	_	7	advmod	7:advmod	_
+6	marãtekó	_	NOUN	n	_	7	nmod	7:nmod	_
+7	omoʔangekoaíme	_	NOUN	n	Mood=Sub|Reflex=Yes|Voice=Cau	2	parataxis	2:parataxis	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
