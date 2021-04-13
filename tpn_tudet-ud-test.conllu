@@ -315,7 +315,7 @@
 3	joβasáβine	joβasáβ	NOUN	n	Emph=Yes|OblTop=Yes	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 16
+# sent_id = 163964
 # text = mbaʔe ɨpɨrunga jaβiʔõ , kwépe marãtekó omoʔangekoaíme
 # text_eng = Each time something begins somewhere, whenever the word upsets 
 1	mbaʔe	mbaʔe	NOUN	n	_	2	nmod	2:nmod	_
