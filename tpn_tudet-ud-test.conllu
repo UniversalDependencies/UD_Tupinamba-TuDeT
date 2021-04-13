@@ -313,6 +313,15 @@
 6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 9
+# text = Marãnamope asé ojurupe saʔãngino ?
+# text_eng = Why do we also make the sign on our mouths? Book 1 chap 2
+1	Marãnamope	marãnamo	ADV	_	_	4	advmod	4:advmod	_
+2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
+3	ojurupe	juru	NOUN	n	Case=Loc|Reflex=Yes	4	obl	4:obl	_
+4	saʔãngino	aʔãng	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
 # sent_id = 10
 # text = Oemimotárɨβo épe erimbaʔe iɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?
 # text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
