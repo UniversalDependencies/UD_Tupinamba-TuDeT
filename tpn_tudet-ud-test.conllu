@@ -333,7 +333,7 @@
 2	βépe	βe	ADV	adv	Int=Yes	1	discourse	1:discourse	_
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 18
+# sent_id = 18999990
 # text = Oker janondé , opakawérɨpe , oka swi osema βé
 # text_eng = Before sleeping, in waking up, also when leaving the house. Book 1 chap 2  
 1	Oker	ker	NOUN	n	Reflex=Yes	0	root	0:root	_
