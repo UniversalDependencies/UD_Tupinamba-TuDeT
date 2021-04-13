@@ -381,6 +381,20 @@
 3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|OblTop=Yes|Red=Di|Tense=Fut	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 24
+# text = Taʃepɨsɨrõ Tupã ʃesumarã swi , kwépe marã ʃerekoápe , ojaβo
+# text_eng = Que me livre Deus de meus inimigos, em toda parte, em minhas dificuldades. Book 1 chap 2
+1	Taʃepɨsɨrõ	pɨsɨrõ	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	10:ccomp	_
+2	Tupã	Tupã	PROPN	propn	_	1	nsubj	1:nsubj	_
+3	ʃesumarã	marã	PRON	pron	PronType=Int	1	obl	1:obl	_
+4	swi	swi	ADP	posp	Rel=Cont	3	case	3:case	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	kwépe	kwépe	ADV	adv	_	8	advmod	8:advmod	_
+7	marã	marã	PRON	pron	PronType=Int	8	nmod	8:nmod	_
+8	ʃerekoápe	ekó	NOUN	n	Case=Loc|Nomzr=Circ|Number=Sing|Person=1|Rel=Cont	1	advcl	1:advcl	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
