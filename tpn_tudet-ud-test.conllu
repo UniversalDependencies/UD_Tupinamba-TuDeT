@@ -207,7 +207,7 @@
 8	Tupã	Tupã	PROPN	propn	_	5	nsubj	5:nsubj	_
 9	oréjar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	8:appos	_
 10	,	,	PUNCT	punct	_	8	punct	8:punct	_
-11	oréamotareʔɨmbara	_	NOUN	n	Clusivity=Ex|Case=Ref|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	5:obl	_
+11	oréamotareʔɨmbara	_	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	5:obl	_
 12	swi	swi	ADP	posp	Rel=Cont	11	obl	11:obl	_
 13	.	.	PUNCT	punct	_	11	punct	11:punct	_
 14	Tuβa	uβa	NOUN	n	Rel=Abs	19	nmod	19:nmod	_
