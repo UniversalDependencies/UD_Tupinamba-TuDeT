@@ -185,6 +185,15 @@
 11	resé	esé	ADP	posp	Rel=Cont	10	case	10:case	_
 12	βé	βé	ADV	adv	_	10	advmod	10:advmod	_
 
+# sent_id = 5
+# text = Marã eʔipe asé ojoβasapa ?
+# text_eng = What do people say crossong the face? Book 1 chap 2
+1	Marã	marã	PRON	pron	PronType=Int	2	obj	2:obj	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+3	asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+4	ojoβasapa	joβasab	VERB	vi	Person=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
