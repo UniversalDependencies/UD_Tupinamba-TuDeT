@@ -300,7 +300,7 @@
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	EspíritoSanto	EspíritoSanto	PROPN	_	_	1	appos	1:appos	_
 7	mosapɨr	mosapɨr	NUM	num	NumType=Card	8	nummod	8:nummod	_
-8	Aβá	aβá	NOUN	n	_	1	appos	1:appos	_
+8	aβá	aβá	NOUN	n	_	1	appos	1:appos	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	ojepé	ojepé	NUM	num	NumType=Card	11	nummod	11:nummod	_
 11	Tupã	Tupã	PROPN	propn	_	1	appos	1:appos	_
