@@ -366,7 +366,7 @@
 2	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 22
-# text = Taʃemaran umẽ iʔwaβo , ojaβo
+# text = Taʃemaran umẽ iʔwaβo ojaβo
 # text_eng = (By) saying may I not fall ill eating it. Book 1 chap 2
 1	Taʃemaran	maran	NOUN	n	Mood=Perm|Number=Sing|Person=1|Rel=Cont	4	ccomp	4:ccomp	_
 2	umẽ	umẽ	PART	pcl	Polarity=Neg	1	discourse	1:discourse	_
