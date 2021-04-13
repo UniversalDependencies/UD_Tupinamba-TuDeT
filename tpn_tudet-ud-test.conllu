@@ -373,6 +373,14 @@
 3	iʔwaβo	ʔu	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 4	ojaβo	eʔi	VERB	v	Rel=NCont|VerbForm=Ger	0	root	0:root	_
 
+# sent_id = 23
+# text = Marãnamope asé joβasaβetáetáwne ?
+# text_eng = Why will we make the cign of the cross more and more? Book 1 chap 2
+1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	3	advmod	_	_
+2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
+3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|OblTop=Yes|Red=Dis|Tense=Fut	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
