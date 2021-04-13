@@ -194,6 +194,31 @@
 4	ojoβasapa	joβasab	VERB	vi	Person=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 6
+# text = SantaCruz raʔangaβa resé , orépɨsɨrõ jepé , Tupã oréjar , oréamotareʔɨmbara swi . Tuβa , Taʔɨra , EspíritoSanto rera pupé eʔi
+# text_eng = They say, by the sign of the holy cross, free us, God, our lord, from our lord. In the name of the father, of the son, of the holy ghost. Book 1 chap 2
+1	SantaCruz	cruz	NOUN	n	_	2	nmod	2:nmod	_
+2	raʔangaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	5:advcl	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	orépɨsɨrõ	_	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	21:ccomp	_
+6	jepé	_	PRON	_	_	5	nsubj	5:nsubj	_
+7	,	,	PUNCT	punct	_	5	punct	5:punct	_
+8	Tupã	Tupã	PROPN	propn	_	5	nsubj	5:nsubj	_
+9	oréjar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	8:appos	_
+10	,	,	PUNCT	punct	_	8	punct	8:punct	_
+11	oréamotareʔɨmbara	_	NOUN	n	Clusivity=Ex|Case=Ref|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	5:obl	_
+12	swi	swi	ADP	posp	Rel=Cont	11	obl	11:obl	_
+13	.	.	PUNCT	punct	_	11	punct	11:punct	_
+14	Tuβa	uβa	NOUN	n	Rel=Abs	19	nmod	19:nmod	_
+15	,	,	PUNCT	punct	_	14	punct	14:punct	_
+16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	14	conj	14:conj	_
+17	,	,	PUNCT	punct	_	16	punct	16:punct	_
+18	EspíritoSanto	_	PROPN	_	_	14	conj	14:conj	_
+19	rera	er	NOUN	n	Rel=Cont	5	parataxis	5:parataxis	_
+20	pupé	pupé	ADP	posp	Rel=Cont	19	case	19:case	_
+21	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
 # text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
