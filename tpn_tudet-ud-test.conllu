@@ -281,7 +281,7 @@
 9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	3:appos	_
 10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
 
-# sent_id = 13
+# sent_id = 130987
 # text = Marãnamo βépe asé joβasáβi ?
 # text_eng = Why do we also cross our faces? Book 1 chap 2
 1	Marãnamo	marãnamo	ADV	adv	_	4	advmod	4:advmod	_
@@ -289,6 +289,23 @@
 3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
 4	joβasáβi	joβasáβ	NOUN	n	OblTop=Yes	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 14765
+# text = Santíssima Trindade Tuβa , Taʔɨra , Espírito Santo mosapɨr aβá , ojepé Tupã mombewaβo ɲẽ
+# text_eng = Proclaiming in fact the holy trinity, fatherm son, holy ghost, three persons, one god. Book 1 chap 2
+1	SantíssimaTrindade	SantíssimaTrindade	PROPN	propn	_	12	obj	12:obj	_
+2	Tuβa	uβa	NOUN	n	Case=Ref|Rel=Abs	1	appos	1:appos	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	1	appos	1:appos	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	EspíritoSanto	EspíritoSanto	PROPN	_	_	1	appos	1:appos	_
+7	mosapɨr	mosapɨr	NUM	num	NumType=	8	nummod	8:nummod	_
+8	Aβá	aβá	NOUN	n	_	1	appos	1:appos	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	ojepé	ojepé	NUM	num	_	11	nummod	11:nummod	_
+11	Tupã	Tupã	PROPN	propn	_	1	appos	1:appos	_
+12	mombewaβo	_	VERB	v	VerbForm=Ger	0	root	0:root	_
+13	ɲẽ	ɲẽ	PART	pcl	_	12	discourse	12:discourse	_
 
 # sent_id = 24345
 # text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
