@@ -291,7 +291,7 @@
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 14765
-# text = SantíssimaTrindade Tuβa , Taʔɨra , Espírito Santo mosapɨr aβá , ojepé Tupã mombewaβo ɲẽ
+# text = SantíssimaTrindade Tuβa , Taʔɨra , EspíritoSanto mosapɨr aβá , ojepé Tupã mombewaβo ɲẽ
 # text_eng = Proclaiming in fact the holy trinity, fatherm son, holy ghost, three persons, one god. Book 1 chap 2
 1	SantíssimaTrindade	SantíssimaTrindade	PROPN	propn	_	12	obj	12:obj	_
 2	Tuβa	uβa	NOUN	n	Case=Ref|Rel=Abs	1	appos	1:appos	_
