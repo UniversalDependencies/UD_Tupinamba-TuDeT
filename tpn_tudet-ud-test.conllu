@@ -740,9 +740,9 @@
 # sent_id = 57
 # text = Natuβitepe apɨaβetéramo ojkóβo ?
 # text_eng = Doens't he have a father being real god? Book 1 chap 3
-1	Natuβitepe	úβ	NOUN	n	Int=Yes|Polarity=Yes|Rel=Abs	0	root	0:root	_
+1	Natuβitepe	úβ	NOUN	n	Int=Yes|Polarity=Neg|Rel=Abs	0	root	0:root	_
 2	apɨaβetéramo	apɨaβ	NOUN	n	Case=Tra|Intens=Yes	3	obl	3:obl	_
-3	ojkóβo	ikó	VERB	v	Person=3|VerbType=Ger	1	advcl	1:advcl	_
+3	ojkóβo	ikó	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 58
