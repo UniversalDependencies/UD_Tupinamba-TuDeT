@@ -515,6 +515,28 @@
 7	moetéw	eté	NOUN	n	OblTop=Yes|Voice=Cau	0	root	0:root	_
 8	?	?	PUNCT	punct	_	7	punct	7:punct	_
 
+# sent_id = 38
+# text = ijaβé
+# text_eng = in the same way! Book 1 chap 2 (fix sentence 37 based on 38)
+1	ijaβé	jaβé	ADV	adv	Rel=NCont	0	root	0:root	_
+
+# sent_id = 39
+# text = Marã itá ɲẽpe , kojpó ɨβɨrá , ɲauʔuma imoɲangɨmbɨra ɲẽpe asé ojmoeté ?
+# text_eng =  Book 1 chap 2
+1	Marã	marã	ADV	adv	Int=Yes	12	advmod	12:advmod	_
+2	itá	itá	NOUN	n	_	12	obl	12:obl	_
+3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	2:discourse	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	kojpó	kojpó	CCONJ	cc	_	2	cc	2:cc	_
+6	ɨβɨrá	ɨβɨrá	NOUN	n	_	2	conj	2:conj	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	ɲauʔuma	ɲauʔum	NOUN	n	Case=Ref	2	conj	2:conj	_
+9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	8:appos	_
+10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	8:discourse	_
+11	asé	asé	PRON	pro	PronType=Prs	12	obl	12:obl	_
+12	ojmoeté	eté	VERB	vt	Person=33|Voice=Cau	0	root	0:root	_
+13	?	?	PUNCT	punct	_	12	punct	12:punct	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
