@@ -695,6 +695,28 @@
 4	ojepéβaʔeramo	ojepé	NOUN	n	Case=Tra	3	acl	3:acl	_
 5	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	0:root	_
 
+# sent_id = 53
+# text = Aʔepe marã apɨ́aβetéramo seków jandé jaβé ?
+# text_eng = How is he as a human like us? Book 1 chap 2
+1	Aʔepe	aʔe	DET	dem	Int=Yes	4	nsubj	4:nsubj	_
+2	marã	marã	PRON	pron	PronType=Int	4	advmod	4:advmod	_
+3	apɨ́aβetéramo	apɨ́aβ	NOUN	n	Case=Tra|Intens=Yes	4	obl	4:obl	_
+4	seków	ekó	NOUN	n	OblTop=Yes	0	root	0:root	_
+5	jandé	jandé	PRON	pron	Clusivity=In|Number=Sing|Person=1	4	dep	4:dep	_
+6	jaβé	jaβé	ADV	adv	_	5	obl	5:obl	_
+7	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 54
+# text = kuɲãangaturama aβá βɨkawereʔɨma Santa Maria sérɨβaʔe membɨ́ramo sekóreme
+# text_eng = When being as the son of a good woman, untouched, Saint Mary is her name. Book 1 chap 3
+1	kuɲãangaturama	kuɲãangaturama	NOUN	n	Case=Ref|Tense=Fut	6	nmod	6:nmod	_
+2	aβá	aβá	PRON	pro	PronType=PrsInt	3	nmod	3:nmod	_
+3	βɨkawereʔɨma	βɨ	NOUN	n	Case=Ref|Polarity=Neg|Tense=Past	1	appos	1:appos	_
+4	SantaMaria	SantaMaria	PROPN	propn	_	1	appos	1:appos	_
+5	sérɨβaʔe	er	NOUN	n	Nomzr=Rel|Rel=NCont	4	acl	4:acl	_
+6	membɨ́ramo	membɨ́r	NOUN	n	Case=Tra	7	obl	7:obl	_
+7	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	0:root	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
