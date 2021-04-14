@@ -398,7 +398,7 @@
 # sent_id = 25
 # text = Aβápe asé sumarã ?
 # text_eng = Who is our enemy? Book 1 chap 2
-1	Aβápe	aβá	PRON	pro	PronType=PrsInt	0	root	0:root	_
+1	Aβápe	aβá	NOUN	n	Int=Yes	0	root	0:root	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nmod	3:nmod	_
 3	sumarã	marã	PRON	pron	PronType=Int	1	nsubj	1:nsubj	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
@@ -427,7 +427,7 @@
 # sent_id = 29
 # text = Marã ɨβɨrá supé ɲẽpe asé jerokɨw ?
 # text_eng = How is it to wood then that we bow? Book1 chap 2 
-1	Marã	marã	ADV	pron	PronType=Int	6	advmod	6:advmod	_
+1	Marã	marã	ADV	pron	Int=Yes	6	advmod	6:advmod	_
 2	ɨβɨrá	ɨβɨrá	NOUN	n	_	6	obl	6:obl	_
 3	supé	supé	ADP	posp	Rel=NCont	2	case	2:case	_
 4	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	2:discourse	_
