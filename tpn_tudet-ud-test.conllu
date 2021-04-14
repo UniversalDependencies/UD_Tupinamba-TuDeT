@@ -721,7 +721,7 @@
 # text = Niʃɨjtepe Tupãetéramo ojkóβo ?
 # text_eng = Doesn't he have a mother, being the real god? Book 1 chap 3
 1	Niʃɨjtepe	sɨ	NOUN	n	Int=Yes|Polarity=Neg	0	root	0:root	_
-2	Tupãetéramo	Tupã	NOUN	n	Case=Tra|Intense=Yes	3	obl	3:obl	_
+2	Tupãetéramo	Tupã	NOUN	n	Case=Tra|Intens=Yes	3	obl	3:obl	_
 3	ojkóβo	ikó	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
@@ -735,7 +735,7 @@
 5	nijɨpɨj	_	NOUN	n	Polarity=Neg	1	conj	1:conj	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	Tupãetéramo	Tupã	NOUN	n	Case=Tra|Intense=Yes	8	obl	8:obl	_
-8	ojkóβo	ikó	VERB	v	Person=3|VerbType=Ger	1	advcl	1:advcl	_
+8	ojkóβo	ikó	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
