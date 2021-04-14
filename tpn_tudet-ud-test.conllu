@@ -491,7 +491,7 @@
 9	supé	supé	ADP	posp	Rel=Cont	8	case	8:case	_
 10	,	,	PUNCT	punct	_	1	punct	1:punct	_
 11	santos	santo	NOUN	n	_	13	nmod	13:nmod	_
-12	ɨβakɨpendwara	ɨβak	NOUN	n	Case=Loc|Nomzr=CCirc	13	appos	13:appos	_
+12	ɨβakɨpendwara	ɨβak	NOUN	n	Case=Loc|Nomzr=CCirc	11	acl	11:acl	_
 13	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	1:obl	_
 14	supé	supé	ADP	posp	Rel=Cont	13	case	13:case	_
 15	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
