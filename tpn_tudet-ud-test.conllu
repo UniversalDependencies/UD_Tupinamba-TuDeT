@@ -470,15 +470,15 @@
 # sent_id = 34
 # text = Sesé imojarɨpɨ́ramo omanõmo ojemoatãawera resé .
 # text_eng = Because he was laid on the cross, dying as a crucified on it. Book 1 chap 2
-1	sesé	sesé	ADP	posp	Rel=NCont	2	case	2:case	_
+1	Sesé	sesé	ADP	posp	Rel=NCont	2	case	2:case	_
 2	imojarɨpɨ́ramo	_	NOUN	n	Case=Tra|Dev=Pass|Rel=NCont	3	advcl	3:advcl	_
-3	omanõmo	manõ	VERB	V	Person=3|VerbType=Ger	4	advcl	4:advcl	_
-4	ojemoatãawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Pas	0	root	0:root	_
+3	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
+4	ojemoatãawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	0	root	0:root	_
 5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
 6	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 35
-# text = Ojerokɨpe asé jandéjara raʔangaβa supé , Santa Maria raʔangaβa supé , santos ɨβakɨpendwara raʔangaβa supé βé ?
+# text = Ojerokɨpe asé jandéjara raʔangaβa supé , SantaMaria raʔangaβa supé , santos ɨβakɨpendwara raʔangaβa supé βé ?
 # text_eng = Do we bow to the image of our lord, to the image of holy Mary, also to the image of the saints that are in heaven? Book 1 chap 2
 1	Ojerokɨpe	jerokɨ	VERB	vt	Int=Yes|Person=33|Voice=Mid	0	root	0:root	_
 2	asé	asé	PRON	pro	PronType=Prs	1	obl	1:obl	_
