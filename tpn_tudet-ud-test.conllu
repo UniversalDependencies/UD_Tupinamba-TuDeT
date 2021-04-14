@@ -148,6 +148,34 @@
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
 7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	0:root	_
 
+# sent_id = 888888
+# text = ʃepó ʃepɨ aβá pó ipɨ ʔara omembɨrawera kwaβ iré, SantaMaria omembɨra Iesus rerasow Tupã okɨpe, Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
+# text_eng = Saint Mary took her son to the house of god, after forty days had passed form his birth, in order to present him to god the father, according to the law of the jews. Catálogo 2 February
+1	ʃepó	_	NOUN	n	Number=Sing|Person=1	6	nmod	6:nmod	_
+2	ʃepɨ	_	NOUN	n	Number=Sing|Person=1	1	conj	1:conj	_
+3	aβá	_	NOUN	n	_	4	nmod	4:nmod	_
+4	pó	_	NOUN	n	_	1	conj	1:conj	_
+5	ipɨ	_	NOUN	n	Rel=NCont	1	conj	1:conj	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	14:advcl	_
+7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	6:dep	_
+8-9	kwaβiré	_	_	_	_	_	_	_	_
+8	kwaβ	kwaβ	NOUN	n	_	6	obl	6:obl	_
+9	iré	iré	ADP	posp	_	8	case	8:case	_
+10	,	,	PUNCT	punct	_	6	punct	6:punct	_
+11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	14:nsubj	_
+12	omembɨra	membɨr	NOUN	n	Case=Yes|Reflex=Yes	14	obj	14:obj	_
+13	Iesus	Iesus	PROPN	propn	_	12	appos	12:appos	_
+14	rerasow	so	NOUN	n	Rel=NCont|OblTop=Yes|Voice=Com	0	root	0:root	_
+15	Tupã	Tupã	NOUN	n	_	16	nmod	16:nmod	_
+16	okɨpe	ok	NOUN	n	_	14	obl	14:obl	_
+17	,	,	PUNCT	punct	_	14	punct	14:punct	_
+18	Tupã	Tupã	PROPN	propn	_	19	nmod	19:nmod	_
+19	tuβape	uβ	NOUN	n	Case=Dat|Rel=Abs	20	obl	20:obl	_
+20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbFor=Ger	14	advcl	14:advcl	_
+21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
+22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
+23	rupi	upi	ADP	posp	Rel=Cont	22	case	22:case	_
+
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
 # text_eng = What is the sign of the christians? Book 1 chap 2
