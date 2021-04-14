@@ -637,18 +637,18 @@
 1	Niapɨsɨki	apɨsɨk	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
 2	ʃwémo	ʃwe	PART	pcl	Int=Yes|Mood=Cnd|Polarity=Neg	1	dep	1:dep	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	omanõmo	manõ	VERB	V	Person=3|VerbType=Ger	1	parataxis	1:parataxis	_
+4	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	1	parataxis	1:parataxis	_
 5	tiruã	tiruã	ADV	adv	_	4	discourse	4:discourse	_
 6	seroβjámo	eroβjár	NOUN	n	Rel=NCont	4	xcomp	4:xcomp	_
 
 # sent_id = 47
 # text = Aβá swipe Cristãos ajpó owerama rári ?
 # text_eng = From whom do the christians take their name? Book 1 chap 3
-1	Aβá	aβá	PRON	pro	PronType=PrsInt	6	obl	6:obl	_
+1	Aβá	aβá	NOUN	n	_	6	obl	6:obl	_
 2	swipe	swi	ADP	posp	_	1	case	1:case	_
 3	Cristãos	Cristão	NOUN	n	_	6	nsubj	6:nsubj	_
 4	ajpó	ajpó	DET	dem	_	5	nmod	5:nmod	_
-5	owerama	ram	NOUN	n	Case=Ref|Tense=Fut	_	_	_	_
+5	owerama	er	NOUN	n	Case=Ref|Reflex=Yes|Tense=Fut	_	_	_	_
 6	rári	ar	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 7	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
