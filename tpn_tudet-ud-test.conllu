@@ -149,7 +149,7 @@
 7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	0:root	_
 
 # sent_id = 888888
-# text = ʃepó ʃepɨ aβá pó ipɨ ʔara omembɨrawera kwaβiré, SantaMaria omembɨra Iesus rerasow Tupã okɨpe, Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
+# text = ʃepó ʃepɨ aβá pó ipɨ ʔara omembɨrawera kwaβiré , SantaMaria omembɨra Iesus rerasow Tupã okɨpe, Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
 # text_eng = Saint Mary took her son to the house of god, after forty days had passed form his birth, in order to present him to god the father, according to the law of the jews. Catálogo 2 February
 1	ʃepó	_	NOUN	n	Number=Sing|Person=1	6	nmod	6:nmod	_
 2	ʃepɨ	_	NOUN	n	Number=Sing|Person=1	1	conj	1:conj	_
@@ -171,7 +171,7 @@
 17	,	,	PUNCT	punct	_	14	punct	14:punct	_
 18	Tupã	Tupã	PROPN	propn	_	19	nmod	19:nmod	_
 19	tuβape	uβ	NOUN	n	Case=Dat|Rel=Abs	20	obl	20:obl	_
-20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbFor=Ger	14	advcl	14:advcl	_
+20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
 21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
 22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
 23	rupi	upi	ADP	posp	Rel=Cont	22	case	22:case	_
