@@ -737,6 +737,25 @@
 7	Tupãetéramo	Tupã	NOUN	n	Case=Tra|Intens=Yes	8	obl	8:obl	_
 8	ojkóβo	ikó	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 
+# sent_id = 57
+# text = Natuβitepe apɨaβetéramo ojkóβo ?
+# text_eng = Doens't he have a father being real god? Book 1 chap 3
+1	Natuβitepe	úβ	NOUN	n	Int=Yes|Polarity=Yes|Rel=Abs	0	root	0:root	_
+2	apɨaβetéramo	apɨaβ	NOUN	n	Case=Tra|Intens=Yes	3	obl	3:obl	_
+3	ojkóβo	ikó	VERB	v	Person=3|VerbType=Ger	1	advcl	1:advcl	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 58
+# text = Natuβi , oɲemoɲang e osɨ iatõjmbɨreʔɨma rɨgepe
+# text_eng = He doesn't have a father, in fact he made himself in the womb of his mother
+1	Natuβi	uβ	NOUN	n	Polarity=Neg|Rel=Abs	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	oɲemoɲang	moɲang	VERB	v	Person=3|Reflex=Yes	1	parataxis	1:parataxis	_
+4	e	e	PART	pcl	_	3	discourse	3:discourse	_
+5	osɨ	sɨ	NOUN	n	Reflex=Yes	7	nmod	7:nmod	_
+6	iatõjmbɨreʔɨma	_	NOUN	n	Case=Ref|Dev=Pass|Polarity=Neg	7	nmod	7:nmod	_
+7	rɨgepe	rɨge	NOUN	n	Case=Loc	3	obl	3:obl	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
