@@ -1,4 +1,4 @@
-# document_title = Catecismo Araújo
+# document_title = Catecismo Araújo (1618)
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
 # document_reference = Araujo_1618 
 # sent_id = 11111
@@ -175,6 +175,15 @@
 21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
 22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
 23	rupi	upi	ADP	posp	Rel=Cont	22	case	22:case	_
+
+# sent_id = 999999
+# text = Mokõj pɨkasuaʔɨra iʃɨ owerasó jetanongaβamo
+# text_eng = His mother brought two small pigeons as offering. Catálogo 2 February.
+1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
+2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	4:obl	_
+3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	4:obl	_
+4	owerasó	so	VERB	v	Person=3|Voice=Com	_	_	_	_
+5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	4:obl	_
 
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
