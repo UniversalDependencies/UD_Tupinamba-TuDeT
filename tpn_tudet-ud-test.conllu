@@ -645,22 +645,22 @@
 # text = Aβá swipe Cristãos ajpó owerama rári ?
 # text_eng = From whom do the christians take their name? Book 1 chap 3
 1	Aβá	aβá	NOUN	n	_	6	obl	6:obl	_
-2	swipe	swi	ADP	posp	_	1	case	1:case	_
+2	swipe	swi	ADP	posp	Int=Yes	1	case	1:case	_
 3	Cristãos	Cristão	NOUN	n	_	6	nsubj	6:nsubj	_
 4	ajpó	ajpó	DET	dem	_	5	nmod	5:nmod	_
-5	owerama	er	NOUN	n	Case=Ref|Reflex=Yes|Tense=Fut	_	_	_	_
+5	owerama	er	NOUN	n	Case=Ref|Reflex=Yes|Tense=Fut	6	obj	6:obj	_
 6	rári	ar	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 7	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 48
-# text = jandéjara Jesus Cristo swi
+# text = jandéjara JesusCristo swi
 # text_eng = From our lord JC. Book 1 chap 3
 1	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	0:root	_
 2	JesusCristo	_	PROPN	_	_	1	appos	1:appos	_
 3	swi	swi	ADP	posp	Rel=Cont	1	case	1:case	_
 
 # sent_id = 49
-# text = Aβápe Jesus Cristo ?
+# text = Aβápe JesusCristo ?
 # text_eng = Who is Jesus Christ? Book 1 chap 3
 1	Aβápe	aβá	PRON	pro	PronType=PrsInt	2	nsubj	2:nsubj	_
 2	JesusCristo	JesusCristo	PROPN	propn	_	0	root	0:root	_
