@@ -436,13 +436,13 @@
 7	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 30
-# text = Aʔãni , saʔangaβɨjara supé é sesé omaʔendwáramo
+# text = Aʔãni , saʔangaβɨjara supé e sesé omaʔendwáramo
 # text_eng = No, only to the reference of the signal, remembering him. Book 1 chap 2
 1	Aʔãni	aʔãni	INTJ	intj	Polarity=Neg	3	discourse	3:discourse	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	saʔangaβɨjara	_	NOUN	n	Rel=NCont	0	root	0:root	_
 4	supé	supé	ADP	posp	Rel=Cont	3	case	3:case	_
-5	e	e	PART	_	_	3	discourse	3:discourse	_
+5	e	e	PART	pcl	_	3	discourse	3:discourse	_
 6	sesé	sesé	ADP	posp	Rel=NCont	7	case	7:case	_
 7	omaʔendwáramo	maʔendwár	NOUN	n	Case=Tra|Reflex=Yes	3	advcl	3:advcl	_
 
