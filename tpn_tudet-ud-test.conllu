@@ -455,9 +455,9 @@
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 32
-# text = jandéjara Jesus Cristo .
+# text = jandéjara JesusCristo .
 # text_eng = Our lodr Jesus Christ. Book 1 chap 2
-1	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	0:root	_
+1	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	0:root	_
 2	JesusCristo	Jesus	PROPN	propn	_	1	appos	1:appos	_
 3	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
@@ -471,7 +471,7 @@
 # text = Sesé imojarɨpɨ́ramo omanõmo ojemoatãawera resé .
 # text_eng = Because he was laid on the cross, dying as a crucified on it. Book 1 chap 2
 1	sesé	sesé	ADP	posp	Rel=NCont	2	case	2:case	_
-2	imojarɨpɨ́ramo	_	NOUN	n	Case=Tra|Dev=Pas|Rel=NCont	3	advcl	3:advcl	_
+2	imojarɨpɨ́ramo	_	NOUN	n	Case=Tra|Dev=Pass|Rel=NCont	3	advcl	3:advcl	_
 3	omanõmo	manõ	VERB	V	Person=3|VerbType=Ger	4	advcl	4:advcl	_
 4	ojemoatãawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Pas	0	root	0:root	_
 5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
