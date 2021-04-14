@@ -435,6 +435,25 @@
 6	jerokɨw	jerokɨ	NOUN	n	OblTop=Yes|Reflex=Yes	0	root	0:root	_
 7	?	?	PUNCT	punct	_	6	punct	6:punct	_
 
+# sent_id = 30
+# text = aʔãni , saʔangaβɨjara supé é sesé omaʔendwáramo
+# text_eng = No, only to the reference of the signal, remembering him. Book 1 chap 2
+1	Aʔãni	aʔãni	INTJ	intj	Polarity=Neg	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	saʔangaβɨjara	_	NOUN	n	Rel=NCont	0	root	0:root	_
+4	supé	supé	ADP	posp	Rel=Cont	3	case	3:case	_
+5	e	e	PART	_	_	3	discourse	3:discourse	_
+6	sesé	sesé	ADP	posp	Rel=NCont	7	case	7:case	_
+7	omaʔendwáramo	maʔendwár	NOUN	n	Case=Tra|Reflex=Yes	3	advcl	3:advcl	_
+
+# sent_id = 31
+# text = Aβápe Cruz raʔangaβɨjara ?
+# text_eng = Who is the reference of the signal? Book 1 chap 2
+1	Aβápe	aβá	NOUN	n	Int=Yes	0	root	0:root	_
+2	Cruz	cruz	NOUN	n	_	3	nmod	3:nmod	_
+3	raʔangaβɨjara	aʔanga	NOUN	n	Nomzr=Circ|Rel=Cont	1	nsubj	1:nsubj	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
