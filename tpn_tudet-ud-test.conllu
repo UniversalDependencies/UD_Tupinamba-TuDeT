@@ -699,7 +699,7 @@
 # text = Aʔepe marã apɨ́aβetéramo seków jandé jaβé ?
 # text_eng = How is he as a human like us? Book 1 chap 2
 1	Aʔepe	aʔe	DET	dem	Int=Yes	4	nsubj	4:nsubj	_
-2	marã	marã	ADV	adv	PronType=Int	4	advmod	4:advmod	_
+2	marã	marã	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 3	apɨ́aβetéramo	apɨ́aβ	NOUN	n	Case=Tra|Intens=Yes	4	obl	4:obl	_
 4	seków	ekó	NOUN	n	OblTop=Yes	0	root	0:root	_
 5	jandé	jandé	PRON	pron	Clusivity=In|Number=Sing|Person=1	4	dep	4:dep	_
