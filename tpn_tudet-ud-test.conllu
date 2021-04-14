@@ -456,7 +456,7 @@
 
 # sent_id = 32
 # text = jandéjara JesusCristo .
-# text_eng = Our lodr Jesus Christ. Book 1 chap 2
+# text_eng = Our lord Jesus Christ. Book 1 chap 2
 1	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	0:root	_
 2	JesusCristo	Jesus	PROPN	propn	_	1	appos	1:appos	_
 3	.	.	PUNCT	punct	_	1	punct	1:punct	_
@@ -522,7 +522,7 @@
 
 # sent_id = 39
 # text = Marã itá ɲẽpe , kojpó ɨβɨrá , ɲauʔuma imoɲangɨmbɨra ɲẽpe asé ojmoeté ?
-# text_eng =  Book 1 chap 2
+# text_eng = How do people in fact honor metal or wood, something made of clay?  Book 1 chap 2 (why marã at the beginning?)
 1	Marã	marã	ADV	adv	Int=Yes	12	advmod	12:advmod	_
 2	itá	itá	NOUN	n	_	12	obl	12:obl	_
 3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	2:discourse	_
@@ -536,6 +536,20 @@
 11	asé	asé	PRON	pro	PronType=Prs	12	obl	12:obl	_
 12	ojmoeté	eté	VERB	vt	Person=33|Voice=Cau	0	root	0:root	_
 13	?	?	PUNCT	punct	_	12	punct	12:punct	_
+
+# sent_id = 40
+# text = aʔãni , saʔangaβɨjara e . Saʔangáβamo sekóreme , sesé omaʔendwáramo .
+# text_eng = No, actually the meaning of the symbol (they honour)! When being as image of something, as a remimder of it. Book 1 chap 2
+1	Aʔãni	aʔãni	INTJ	intj	Polarity=Neg	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	saʔangaβɨjara	aʔang	NOUN	n	Nomzr=Circ|Rel=NCont	0	root	0:root	_
+4	e	e	PART	pcl	_	3	discourse	3:discourse	_
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+6	Saʔangáβamo	aʔang	NOUN	n	Case=Tra|Nomzr=Circ|Rel=NCont	7	obl	7:obl	_
+7	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	10	advcl	10:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	sesé	esé	ADP	posp	Rel=NCont	10	obl	10:obl	_
+10	omaʔendwáramo	maʔendwár	NOUN	n	Case=Tra|Reflex=Yes	3	parataxis	3:parataxis	_
 
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
