@@ -631,6 +631,70 @@
 6	seroβjámo	eroβjár	NOUN	n	Rel=NCont	1	advcl	1:advcl	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 46
+# text = Niapɨsɨki ʃwémo , omanõmo tiruã seroβjámo
+# text_eng = It would not suffice, they would die even believing it. Book 1 chap 3
+1	Niapɨsɨki	apɨsɨk	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
+2	ʃwémo	ʃwe	PART	pcl	Int=Yes|Mood=Cnd|Polarity=Neg	1	dep	1:dep	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	omanõmo	manõ	VERB	V	Person=3|VerbType=Ger	1	parataxis	1:parataxis	_
+5	tiruã	tiruã	ADV	adv	_	4	discourse	4:discourse	_
+6	seroβjámo	eroβjár	NOUN	n	Rel=NCont	4	xcomp	4:xcomp	_
+
+# sent_id = 47
+# text = Aβá swipe Cristãos ajpó owerama rári ?
+# text_eng = From whom do the christians take their name? Book 1 chap 3
+1	Aβá	aβá	PRON	pro	PronType=PrsInt	6	obl	6:obl	_
+2	swipe	swi	ADP	posp	_	1	case	1:case	_
+3	Cristãos	Cristão	NOUN	n	_	6	nsubj	6:nsubj	_
+4	ajpó	ajpó	DET	dem	_	5	nmod	5:nmod	_
+5	owerama	ram	NOUN	n	Case=Ref|Tense=Fut	_	_	_	_
+6	rári	ar	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
+7	?	?	PUNCT	punct	_	6	punct	6:punct	_
+
+# sent_id = 48
+# text = jandéjara Jesus Cristo swi
+# text_eng = From our lord JC. Book 1 chap 3
+1	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	0:root	_
+2	JesusCristo	_	PROPN	_	_	1	appos	1:appos	_
+3	swi	swi	ADP	posp	Rel=Cont	1	case	1:case	_
+
+# sent_id = 49
+# text = Aβápe Jesus Cristo ?
+# text_eng = Who is Jesus Christ? Book 1 chap 3
+1	Aβápe	aβá	PRON	pro	PronType=PrsInt	2	nsubj	2:nsubj	_
+2	JesusCristo	JesusCristo	PROPN	propn	_	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 50
+# text = Tupãeté , apɨ́aβeté , jandéjara aβé
+# text_eng = Real god, real man, and also our lord. Book 1 chap 3
+1	Tupãeté	Tupã	NOUN	n	_	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	apɨ́aβeté	apɨ́aβ	NOUN	n	_	1	conj	1:conj	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	1	conj	1:conj	_
+6	aβé	aβé	ADV	adv	_	5	advmod	5:advmod	_
+
+# sent_id = 51
+# text = Marãnamope asé Tupãeté iʔew iʃupé ?
+# text_eng = Why do we call him real god? Book 1 chap 3
+1	Marãnamope	marãnamo	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
+3	TupãetéTupã	NOUN	n	_	4	obj	4:obj	_
+4	iʔew	eʔi	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+5	iʃupé	supé	ADP	posp	Rel=NCont	4	obl	4:obl	_
+6	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 52
+# text = Tupã Tuβa raʔɨreté ojepéβaʔeramo sekóreme
+# text_eng = For being the real son which is the unique one of god the father. Book 1 chap 3
+1	Tupã	Tupã	PROPN	propn	_	3	nmod	3:nmod	_
+2	Tuβa	uβa	NOUN	n	Rel=Abs	1	appos	1:appos	_
+3	raʔɨreté	aʔɨr	NOUN	n	Rel=Cont	5	nmod	5:nmod	_
+4	ojepéβaʔeramo	ojepé	NOUN	n	Case=Tra	3	acl	3:acl	_
+5	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	0:root	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
