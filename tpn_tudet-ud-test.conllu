@@ -538,7 +538,7 @@
 13	?	?	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 40
-# text = aʔãni , saʔangaβɨjara e . Saʔangáβamo sekóreme , sesé omaʔendwáramo .
+# text = Aʔãni , saʔangaβɨjara e . Saʔangáβamo sekóreme , sesé omaʔendwáramo .
 # text_eng = No, actually the meaning of the symbol (they honour)! When being as image of something, as a remimder of it. Book 1 chap 2
 1	Aʔãni	aʔãni	INTJ	intj	Polarity=Neg	3	discourse	3:discourse	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
