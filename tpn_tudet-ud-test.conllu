@@ -188,7 +188,7 @@
 # sent_id = 101010101010
 # text = oporomboʔeβo ã sekóû
 # text_eng = She was actually teaching people. Catálogo 2 February
-1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	3:1	3:advcl	_
+1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	3:advcl	3:advcl
 2	ã	ã	PART	pcl	_	3	discourse	3:discourse	_
 3	sekóû	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 
