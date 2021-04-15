@@ -1998,3 +1998,18 @@
 4	omanõngatwaβo	manõ	VERB	v	_	1	advcl	1:advcl	_
 5	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	4:advmod	_
 
+# sent_id = 91
+# text = Kwarasɨ oɲemopɨtun , ɨβɨ oβuoβur , otumũtumunga , itá ojekájeká ojopɨtérɨβo
+# text_eng = The sun darkened, the earth bubbled up, shooking, the stones were splitting in half.  book 3 chap 11
+1	Kwarasɨ	kwarasɨ	NOUN	n	_	2	obl	2:obl	_
+2	oɲemopɨtun	pɨtun	VERB	v	Person=3|Reflex=Yes|Voice=Cau	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	ɨβɨ	ɨβɨ	NOUN	n	_	5	obj	5:obj	_
+5	oβuoβur	βur	VERB	v	Aspect=Iter|Person=3|Red=Mo	2	parataxis	2:parataxis	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	otumũtumunga	tumung	VERB	v	Aspect=Iter|Person=3|Red=Di|VerbForm=Ger	5	advcl	5:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	itá	itá	NOUN	n	_	10	obl	10:obl	_
+10	ojekájeká	jeká	VERB	v	Aspect=Iter|Red=Di|Reflex=Yes	7	parataxis	7:parataxis	_
+11	ojopɨtérɨβo	pɨtér	NOUN	n	Person=e|Refelx=Yes|Case=Per	10	advmod	10:advmod	_
+
