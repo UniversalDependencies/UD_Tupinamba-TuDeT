@@ -2031,7 +2031,7 @@
 2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	6:ccomp	_
 3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	2:discourse	_
 4	ikó	ikó	DET	dem	_	5	nmod	5:nmod	_
-5	Aβá	aβá	PRON	pro	PronType=PrsInt	2	nsubj	2:nsubj	_
+5	Aβá	aβá	NOUN	n	_	2	nsubj	2:nsubj	_
 6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	amõamõ	amõ	PRON	pro	Number=Plur|PronType=Ind	11	obl	11:obl	_
@@ -2039,6 +2039,6 @@
 10	resé	esé	ADP	posp	Rel=Cont	9	case	9:case	_
 11	opwáopwá	pwá	VERB	v	Aspect=Iter|Person=3|Red=Di	6	parataxis	6:parataxis	_
 12	,	,	PUNCT	punct	_	11	punct	11:punct	_
-13	oangajpawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Pas	14	obj	14:obj	_
+13	oangajpawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	14	obj	14:obj	_
 14	moasɨ́aβo	_	VERB	v	VerbForm=Ger|Voice=Cau	11	advcl	11:advcl	_
 
