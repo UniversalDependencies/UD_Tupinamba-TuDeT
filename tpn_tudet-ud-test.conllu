@@ -2026,7 +2026,7 @@
 
 # sent_id = 93
 # text = Tupã raʔɨra ɲẽ ikó aβá eʔi , amõamõ opotiʔa resé opwáopwá , oangajpawera moasɨ́aβo
-# text_eng =
+# text_eng =     Book 1 chap 3
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
 2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	6:ccomp	_
 3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	2:discourse	_
@@ -2043,10 +2043,20 @@
 14	moasɨ́aβo	_	VERB	v	VerbForm=Ger|Voice=Cau	11	advcl	11:advcl	_
 
 # sent_id = 94
-# text = Aβápe opɨtá aʔepe ?
+# text = Aβápe opɨtá aʔepe ?  Book 1 chap 3
 # text_eng = Who remained there?
 1	Aβápe	aβá	PRON	pro	PronType=Int	2	obl	2:obl	_
 2	opɨtá	pɨtá	VERB	v	Person=3	0	root	0:root	_
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 95
+# text = iʃɨ , iirũetá aβé ojaseʔõerekóβo oina
+# text_eng = His mother, his (many) companions were mourning. Book 1 chap 3
+1	iʃɨ	sɨ	NOUN	n	Rel=NCont	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	iirũetá	irũ	NOUN	n	Number=Plur|Rel=NCont	1	conj	1:conj	_
+4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
+5	ojaseʔõerekóβo	jaseʔõerekó	VERB	_	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+6	oina	in	VERB	v	Person=3|VerbForm=Ger	5	cop	5:cop	_
 
