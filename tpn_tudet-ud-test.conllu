@@ -2025,7 +2025,7 @@
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 93
-# text = Tupã raʔɨra ɲẽ ikó aβá eʔi , amõamõ opotiʔa resé opwáopwá , oangajpawera moasɨ́aβo .
+# text = Tupã raʔɨra ɲẽ ikó aβá eʔi , amõamõ opotiʔa resé opwáopwá , oangajpawera moasɨ́aβo
 # text_eng =
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
 2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	6:ccomp	_
