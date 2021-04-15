@@ -2050,13 +2050,3 @@
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 95
-# text = iʃɨ , iirũetá aβé ojaseʔõerekóβo oina
-# text_eng = His mother, his (many) companions were mourning. Book 1 chap 3
-1	iʃɨ	sɨ	NOUN	n	Rel=NCont	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	iirũetá	irũ	NOUN	n	Number=Plur|Rel=NCont	1	conj	1:conj	_
-4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
-5	ojaseʔõerekóβo	jaseʔõerekó	VERB	_	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
-6	oina	in	AUX	aux	Person=3|VerbForm=Ger	5	aux	5:aux	_
-
