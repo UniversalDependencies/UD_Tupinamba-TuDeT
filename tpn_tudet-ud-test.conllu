@@ -2011,5 +2011,5 @@
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	itá	itá	NOUN	n	_	10	obl	10:obl	_
 10	ojekájeká	jeká	VERB	v	Aspect=Iter|Red=Di|Reflex=Yes	7	parataxis	7:parataxis	_
-11	ojopɨtérɨβo	pɨtér	NOUN	n	Case=Per|Person=3|Reflex=Yes	10	advmod	10:advmod	_
+11	ojopɨtérɨβo	pɨtér	NOUN	n	Case=Per|Person=3|Reflex=Yes	10	advcl	10:advcl	_
 
