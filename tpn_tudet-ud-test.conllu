@@ -178,12 +178,19 @@
 
 # sent_id = 999999
 # text = Mokõj pɨkasuaʔɨra iʃɨ owerasó jetanongaβamo
-# text_eng = His mother brought two small pigeons as offering. Catálogo 2 February.
+# text_eng = His mother brought two small pigeons as offering. Catálogo 2 February
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
 2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	4:obl	_
 3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	4:obl	_
 4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	0:root	_
 5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	4:obl	_
+
+# sent_id = 101010101010
+# text = oporomboʔeβo ã sekóû
+# text_eng = She was actually teaching people. Catálogo 2 February
+1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advmod	3:advmod	_
+2	ã	ã	PART	pcl	_	3	discourse	3:discourse	_
+3	sekóû	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
