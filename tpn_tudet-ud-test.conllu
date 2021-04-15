@@ -2031,7 +2031,7 @@
 2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	6:ccomp	_
 3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	2:discourse	_
 4	ikó	ikó	DET	dem	_	5	nmod	5:nmod	_
-5	Aβá	aβá	NOUN	n	_	2	nsubj	2:nsubj	_
+5	aβá	aβá	NOUN	n	_	2	nsubj	2:nsubj	_
 6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	amõamõ	amõ	PRON	pro	Number=Plur|PronType=Ind	11	obl	11:obl	_
