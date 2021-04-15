@@ -2013,3 +2013,14 @@
 10	ojekájeká	jeká	VERB	v	Aspect=Iter|Red=Di|Reflex=Yes	7	parataxis	7:parataxis	_
 11	ojopɨtérɨβo	pɨtér	NOUN	n	Case=Per|Person=3|Reflex=Yes	10	advcl	10:advcl	_
 
+# sent_id = 92
+# text = Marã eʔipe supjarwera osóβo seʔõmbwera rejá ?
+# text_eng = What did his enemies say going to dispose his corpse. 
+1	Marã	marã	PRON	pron	PronType=Int	2	advmod	2:advmod	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+3	supjarwera	upjar	NOUN	n	Case=Ref|Tense=Pas	2	nsubj	2:nsubj	_
+4	osóβo	so	VERB	v	Person=3|VerbForm=Ger	2	advcl	2:advcl	_
+5	seʔõmbwera	eʔõ	NOUN	n	Case=Ref|Tense=Past	6	obj	6:obj	_
+6	rejá	ejár	VERB	v	Rel=Cont|VerbForm=Ger	4	advcl	4:advcl	_
+7	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
