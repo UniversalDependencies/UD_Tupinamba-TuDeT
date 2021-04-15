@@ -2045,7 +2045,7 @@
 # sent_id = 94
 # text = Aβápe opɨtá aʔepe ?
 # text_eng = Who remained there?
-1	Aβápe	aβá	PRON	pro	PronType=PrsInt	2	obl	2:obl	_
+1	Aβápe	aβá	PRON	pro	PronType=Int	2	obl	2:obl	_
 2	opɨtá	pɨtá	VERB	v	Person=3	0	root	0:root	_
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
