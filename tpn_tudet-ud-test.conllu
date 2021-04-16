@@ -2057,7 +2057,7 @@
 2	βépe	βe	ADV	adv	_	1	advmod	1:advmod	_
 3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 4	aβá	aβá	PRON	pro	PronType=Int	1	obl	1:obl	_
-5	aʔepeno	aʔe	DET	dem	Case=Loca	1	obl	1:obl	_
+5	aʔepeno	aʔe	DET	dem	Case=Loc	1	obl	1:obl	_
 6	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 97
@@ -2065,7 +2065,7 @@
 # text_eng =  Some soldiers went again to break the legs of the two soldiers, and bring them dowm. Book 3 chap 11
 1	Osó	so	VERB	vi	Person=3	0	root	0:root	_
 2	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
-3	amõ	amõ	PRON	pro	PronType=PrsInd	4	nmod	4:nmod	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 4	marana	maran	NOUN	n	Case=Ref	6	obl	6:obl	_
 5	ri	ri	ADP	posp	_	4	case	4:case	_
 6	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	1	obl	1:obl	_
@@ -2075,5 +2075,5 @@
 10	retɨmã	etɨmã	NOUN	n	Rel=Cont	11	obj	11:obj	_
 11	mopena	_	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
 12	,	,	PUNCT	punct	_	11	punct	11:punct	_
-13	serojɨpa	erojɨβ	VERB	v	Rel=NCont|VerbForm=Ger|Voic=Com	1	advcl	1:advcl	_
+13	serojɨpa	erojɨβ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	1	advcl	1:advcl	_
 
