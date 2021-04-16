@@ -2015,7 +2015,7 @@
 
 # sent_id = 92
 # text = Marã eʔipe supjarwera osóβo seʔõmbwera rejá ?
-# text_eng = What did his enemies say going to dispose his corpse. 
+# text_eng = What did his enemies say going to dispose his corpse. Book 3 chap 11
 1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
 3	supjarwera	upjar	NOUN	n	Case=Ref|Tense=Past	2	nsubj	2:nsubj	_
@@ -2026,7 +2026,7 @@
 
 # sent_id = 93
 # text = Tupã raʔɨra ɲẽ ikó aβá eʔi , amõamõ opotiʔa resé opwáopwá , oangajpawera moasɨ́aβo
-# text_eng =     Book 1 chap 3
+# text_eng = They said: this man is really the son of god, others beating their chests, regreting their evil acting.    Book 3 chap 11
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
 2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	6:ccomp	_
 3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	2:discourse	_
@@ -2044,9 +2044,36 @@
 
 # sent_id = 94
 # text = Aβápe opɨtá aʔepe ?
-# text_eng = Who remained there?   Book 1 chap 3
+# text_eng = Who remained there?   Book 3 chap 11
 1	Aβápe	aβá	PRON	pro	PronType=Int	2	obl	2:obl	_
 2	opɨtá	pɨtá	VERB	v	Person=3	0	root	0:root	_
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 96
+# text = Osó βépe amõ aβá aʔepeno ?
+# text_eng = Who else went there ? Book 3 chap 11
+1	Osó	só	VERB	vi	Person=3	0	root	0:root	_
+2	βépe	βe	ADV	adv	_	1	advmod	1:advmod	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+4	aβá	aβá	PRON	pro	PronType=Int	1	obl	1:obl	_
+5	aʔepeno	aʔe	DET	dem	Case=Loca	1	obl	1:obl	_
+6	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 97
+# text = Osó βé amõ marana ri tekoara aʔe mokõj mondá retɨmã mopena , serojɨpa
+# text_eng =  Some soldiers went again to break the legs of the two soldiers, and bring them dowm. Book 3 chap 11
+1	Osó	so	VERB	vi	Person=3	0	root	0:root	_
+2	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
+3	amõ	amõ	PRON	pro	PronType=PrsInd	4	nmod	4:nmod	_
+4	marana	maran	NOUN	n	Case=Ref	6	obl	6:obl	_
+5	ri	ri	ADP	posp	_	4	case	4:case	_
+6	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	1	obl	1:obl	_
+7	aʔe	aʔe	DET	dem	_	9	nmod	9:nmod	_
+8	mokõj	mokõj	NUM	num	NumType=Card	9	nummod	9:nummod	_
+9	mondá	mondá	NOUN	n	Case=Ref	10	nmod	10:nmod	_
+10	retɨmã	etɨmã	NOUN	n	Rel=Cont	11	obj	11:obj	_
+11	mopena	_	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
+12	,	,	PUNCT	punct	_	11	punct	11:punct	_
+13	serojɨpa	erojɨβ	VERB	v	Rel=NCont|VerbForm=Ger|Voic=Com	1	advcl	1:advcl	_
 
