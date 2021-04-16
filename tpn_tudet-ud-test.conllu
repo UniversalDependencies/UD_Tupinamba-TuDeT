@@ -2050,6 +2050,16 @@
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	2:obl	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 95
+# text = iʃɨ , iirũetá aβé ojaseʔõerekóβo oina
+# text_eng =
+1	iʃɨ	sɨ	NOUN	n	Rel=NCont	5	nsubj	5:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	iirũetá	irũ	NOUN	n	Rel=NCont	1	conj	1:conj	_
+4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
+5	ojaseʔõerekóβo	jaseʔõereko	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
+6	oina	in	AUX	aux	Person=3|VerbForm=Ger	5	aux	5:aux	_
+
 # sent_id = 96
 # text = Osó βépe amõ aβá aʔepeno ?
 # text_eng = Who else went there ? Book 3 chap 11
