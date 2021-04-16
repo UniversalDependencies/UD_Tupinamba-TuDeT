@@ -2052,7 +2052,7 @@
 
 # sent_id = 95
 # text = iʃɨ , iirũetá aβé ojaseʔõerekóβo oina
-# text_eng =
+# text_eng = Sua mãe, muitos companheiros seus também pranteando estando. Book 3 chap 11
 1	iʃɨ	sɨ	NOUN	n	Rel=NCont	5	nsubj	5:nsubj	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	iirũetá	irũ	NOUN	n	Rel=NCont	1	conj	1:conj	_
