@@ -2081,9 +2081,9 @@
 # text = aʔepe jandéjara reʔõmbwera marã sereków ?
 # text_eng = And how did they treat the corpse of our lodr? Book 3 chap 11
 1	aʔepe	aʔe	PART	pcl	Int=Yes	5	discourse	5:discourse	_
-2	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
-3	reʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Pas	5	obj	5:obj	_
-4	Marã	marã	PRON	pron	PronType=Int	5	advmod	5:advmod	_
+2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	3:nmod	_
+3	reʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Past	5	obj	5:obj	_
+4	marã	marã	ADV	adv	_	5	advmod	5:advmod	_
 5	sereków	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
