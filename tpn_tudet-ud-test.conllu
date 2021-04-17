@@ -2117,7 +2117,7 @@
 15	iẽawama	en	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Fut	4	xcomp	4:xcomp	gloss=RELNC-en-sab-wam
 
 # sent_id = 100
-# text = aʔepe aʔe marana ri tekoara so ré , marã ?
+# text = aʔepe aʔe marana ri tekoara so re , marã ?
 # text_eng = After the soldiers went there, how was it? Book 3 chap 11
 1	aʔepe	_	PART	pcl	_	6	discourse	6:discourse	_
 2	aʔe	_	DET	dem	_	5	nmod	5:nmod	_
@@ -2131,7 +2131,7 @@
 10	?	?	PUNCT	punct	_	9	punct	9:punct	_
 
 # sent_id = 101
-# text = Amõ mokõj jandéjara βojá , José , Nicodemos serɨβaʔe , oso aʔepe .
+# text = Amõ mokõj jandéjara βojá , José , Nicodemos serɨβaʔe , oso aʔepe
 # text_eng = Other two disciples of our lord, named Joseph and Nicodemos went there. Book 3 chap 11
 1	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 2	mokõj	mokõj	NUM	num	NumType=Card	4	nummod	4:nummod	_
