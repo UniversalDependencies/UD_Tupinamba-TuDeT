@@ -2146,3 +2146,11 @@
 11	oso	so	VERB	vi	Person=3	0	root	0:root	_
 12	aʔepe	aʔe	ADV	adv	Case=All	11	advmod	11:advmod	_
 
+# sent_id = 102
+# text = mbaʔe resépe iʃów ?
+# text_eng = Becasue of what did they go (there)? Book 3 chap 11
+1	mbaʔe	mbaʔe	NOUN	n	_	3	obl	3:obl	_
+2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	1	case	1:case	_
+3	iʃów	_	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
