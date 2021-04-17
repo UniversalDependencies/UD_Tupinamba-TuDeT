@@ -2133,9 +2133,9 @@
 # sent_id = 101
 # text = Amõ mokõj jandéjara βojá , José , Nicodemos serɨβaʔe , oso aʔepe
 # text_eng = Other two disciples of our lord, named Joseph and Nicodemos went there. Book 3 chap 11
-1	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+1	Amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 2	mokõj	mokõj	NUM	num	NumType=Card	4	nummod	4:nummod	_
-3	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
 4	βojá	βoja	NOUN	n	_	11	obl	11:obl	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	José	José	PROPN	propn	_	4	appos	4:appos	_
