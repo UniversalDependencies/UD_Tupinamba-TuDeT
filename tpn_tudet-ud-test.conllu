@@ -2172,3 +2172,16 @@
 4	janondé	janondé	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 105
+# text = Aotinga pupé iɲuβãni , itakaramemwã aβá tɨmawereʔɨma pupé imondepa
+# text_eng = They covered him with a white cloth, putting him in a stone box box with no person buried (in it). Book 3 chap 11
+1	Aotinga	Aoting	NOUN	n	Case=Ref	3	obl	3:obl	_
+2	pupé	pupé	ADP	posp	_	1	case	1:case	_
+3	iɲuβãni	ɲuβãn	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	itakaramemwã	itakaramemwã	NOUN	n	_	9	obl	9:obl	_
+6	aβá	aβá	PRON	pro	PronType=PrsInt	7	nmod	7:nmod	_
+7	tɨmawereʔɨma	_	NOUN	n	Case=Ref|Polarity=Neg|Rel=Cont	5	nmod	5:nmod	_
+8	pupé	pupé	ADP	posp	Rel=Cont	5	case	5:case	_
+9	imondepa	mondé	VERB	v	Rel=NCont|VerbForm=Ger	3	advcl	3:advcl	_
+
