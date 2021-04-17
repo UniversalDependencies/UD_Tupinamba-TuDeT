@@ -2234,7 +2234,7 @@
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 111
-# text = Ojaseʔõerekó aβé , paʔi Jesus rekoβejeβɨsawama resé oɲemosakojaβo βéte .
+# text = Ojaseʔõerekó aβé , paʔi Jesus rekoβejeβɨsawama resé oɲemosakojaβo βéte
 # text_eng = Their mourning also, but preparing for the return to life of the lord Jesus. Book 3 chap 11
 1	Ojaseʔõerekó	jaseʔõerekó	NOUN	n	Person=3	0	root	0:root	_
 2	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
@@ -2243,6 +2243,6 @@
 5	Jesus	Jesus	PROPN	propn	_	6	nmod	6:nmod	_
 6	rekoβejeβɨsawama	ekoβejeβ	NOUN	n	_	8	obj	8:obj	_
 7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
-8	oɲemosakojaβo	eʔi	VERB	v	Person=3|Nomzr=Circ|Reflex=Yes|Tense=Past|VerbForm=Ger	1	advcl	1:advcl	_
+8	oɲemosakojaβo	eʔi	VERB	v	Nomzr=Circ|Person=3|Reflex=Yes|Tense=Past|VerbForm=Ger	1	advcl	1:advcl	_
 9	βéte	βé	ADV	adv	_	8	conj	8:conj	_
 
