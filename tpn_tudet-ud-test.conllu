@@ -2247,7 +2247,7 @@
 9	βéte	βé	ADV	adv	_	8	conj	8:conj	_
 
 # sent_id = 5000
-# text = ʃemoajumarangatu, ʃemoɨrõetékatuaβo, ajpó tekópɨsasu
+# text = ʃemoajumarangatu , ʃemoɨrõetékatuaβo , ajpó tekópɨsasu
 # text_eng = That new law bothers me a lot, repugnating me. Anchieta Teatro 21.1 p 6
 1	ʃemoajumarangatu	moajumarangatu	NOUN	n	Number=Sing|Person=1	6	nmod	6:nmod	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -2264,6 +2264,6 @@
 3	oweru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ʃeretama	etam	NOUN	n	Number=Sing|Person=1|Rel=Cont	6	obj	6:obj	_
-6	momoʃɨaβo	poʃɨ	VERB	v	Voice=Cau|VerbForm=Ger	3	advcl	3:advcl	_
+6	momoʃɨaβo	poʃɨ	VERB	v	VerbForm=Ger|Voice=Cau	3	advcl	3:advcl	_
 7	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
