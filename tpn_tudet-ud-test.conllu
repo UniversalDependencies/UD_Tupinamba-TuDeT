@@ -2214,3 +2214,22 @@
 7	osóβo	so	VERB	v	Person=3|VerbForm=Ger	2	advcl	2:advcl	_
 8	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 109
+# text = Osokendaβ aʔe karamemwã itawasu pupé
+# text_eng = They closed the box with a big stone. Book 3 chap 11
+1	Osokendaβ	okendaβ	VERB	v	Person=33	0	root	0:root	_
+2	aʔe	aʔe	DET	dem	_	3	nmod	3:nmod	_
+3	karamemwã	karamemwã	NOUN	n	_	1	obl	1:obl	_
+4	itawasu	itawasu	NOUN	n	_	1	obl	1:obl	_
+5	pupé	pupé	ADP	posp	Rel=Cont	4	case	4:case	_
+
+# sent_id = 110
+# text = Ojaseʔõerekó aβé serã owerasó ogókɨpe ?
+# text_eng = Did they take home their mourning as well? 
+1	Ojaseʔõerekó	jaseʔõerekó	NOUN	n	Person=3	4	obl	4:obl	_
+2	aβé	aβé	ADV	adv	_	4	advmod	4:advmod	_
+3	serã	serã	PART	pcl	_	4	discourse	4:discourse	_
+4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	0:root	_
+5	ogókɨpe	ok	NOUN	n	Case=Loc|Person=3|Reflex=Yes	4	obl	4:obl	_
+6	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
