@@ -2246,3 +2246,24 @@
 8	oɲemosakojaβo	eʔi	VERB	v	Nomzr=Circ|Person=3|Reflex=Yes|Tense=Past|VerbForm=Ger	1	advcl	1:advcl	_
 9	βéte	βé	ADV	adv	_	8	conj	8:conj	_
 
+# sent_id = 5000
+# text = ʃemoajumarangatu, ʃemoɨrõetékatuaβo, ajpó tekópɨsasu
+# text_eng = That new law bothers me a lot, repugnating me. Anchieta Teatro 21.1 p 6
+1	ʃemoajumarangatu	moajumarangatu	NOUN	n	Number=Sing|Person=1	6	nmod	6:nmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ʃemoɨrõetékatuaβo	moɨrõetékatuaβo	VERB	v	Intens=Yes|Number=Sing|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	ajpó	ajpó	DET	dem	_	6	nmod	6:nmod	_
+6	tekópɨsasu	ekópɨsasu	NOUN	n	Rel=Abs	0	root	0:root	_
+
+# sent_id = 5001
+# text = Aβá serã oweru , ʃeretama momoʃɨaβo ?
+# text_eng = Who would have brought it, ruining my country? Anchieta Teatro 21.2 p 6
+1	Aβá	aβá	NOUN	n	_	3	obl	3:obl	_
+2	serã	serã	PART	pcl	_	3	discourse	3:discourse	_
+3	oweru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	ʃeretama	etam	NOUN	n	Number=Sing|Person=1|Rel=Cont	6	obj	6:obj	_
+6	momoʃɨaβo	poʃɨ	VERB	v	Voice=Cau|VerbForm=Ger	3	advcl	3:advcl	_
+7	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
