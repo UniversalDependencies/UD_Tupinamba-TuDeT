@@ -2202,3 +2202,15 @@
 3	iirũetá	irũ	NOUN	n	Number=Plur|Rel=NCont	1	conj	1:conj	_
 4	aβé	aβé	ADV	adv	_	1	advmod	1:advmod	_
 
+# sent_id = 108
+# text = Marãpe seków ipupé imondeβ iré iʃuí osóβo ?
+# text_eng = What did they do going from there after puttin him in it? Book 3 chap 11
+1	Marãpe	marãpe	PRON	pro	PronType=Int	2	advmod	2:advmod	_
+2	seków	_	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+3	ipupé	pupé	ADP	posp	Rel=Cont	4	case	4:case	_
+4	imondeβ	mondeβ	NOUN	n	Rel=NCont	7	advcl	7:advcl	_
+5	iré	riré	ADP	posp	_	4	case	4:case	_
+6	iʃuí	swi	ADP	posp	Rel=NCont	7	case	7:case	_
+7	osóβo	so	VERB	v	Person=3|VerbForm=Ger	2	advcl	2:advcl	_
+8	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
