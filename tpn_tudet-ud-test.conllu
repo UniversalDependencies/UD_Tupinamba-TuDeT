@@ -2099,7 +2099,7 @@
 
 # sent_id = 99
 # text = Itamina pupé iɨké kutúki , iɲɨʔã momboka , awɲeɲẽ ʔɨ , suwɨ aβé iʃwí iẽawama
-# text_eng = The perfurated his side with a metal spear, fending his heart, immediately water and his blood drained
+# text_eng = The perfurated his side with a metal spear, fending his heart, immediately water and his blood drained. Book 3 chap 11
 1	Itamina	itamina	NOUN	n	_	4	obl	4:obl	_
 2	pupé	pupé	ADP	posp	Rel=Cont	1	case	1:case	_
 3	iɨké	ɨké	NOUN	n	Rel=NCont	4	obj	4:obj	_
@@ -2118,15 +2118,31 @@
 
 # sent_id = 100
 # text = aʔepe aʔe marana ri tekoara so ré , marã ?
-# text_eng =
+# text_eng = After the soldiers went there, how was it? Book 3 chap 11
 1	aʔepe	_	PART	pcl	_	6	discourse	6:discourse	_
 2	aʔe	_	DET	dem	_	5	nmod	5:nmod	_
 3	marana	marana	NOUN	n	_	5	nmod	5:nmod	_
 4	ri	ri	ADP	posp	_	3	case	3:case	_
-5	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	6	nmod	6:nmod	_
+5	tekoara	eko	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Abs	6	nmod	6:nmod	_
 6	so	so	NOUN	n	_	0	root	0:root	_
 7	re	re	ADP	posp	_	6	case	6:case	_
 8	,	,	PUNCT	punct	_	6	punct	6:punct	_
 9	marã	marã	PRON	pron	PronType=Int	6	advcl	6:advcl	_
 10	?	?	PUNCT	punct	_	9	punct	9:punct	_
+
+# sent_id = 101
+# text = Amõ mokõj jandéjara βojá , José , Nicodemos serɨβaʔe , oso aʔepe .
+# text_eng = Other two disciples of our lord, named Joseph and Nicodemos went there. Book 3 chap 11
+1	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+2	mokõj	mokõj	NUM	num	NumType=Card	4	nummod	4:nummod	_
+3	jandéjara	jar	NOUN	n	Case=Rfe|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	4:nmod	_
+4	βojá	βoja	NOUN	n	_	11	obl	11:obl	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	José	José	PROPN	propn	_	4	appos	4:appos	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	Nicodemos	Nicodemos	PROPN	propn	_	4	appos	4:appos	_
+9	serɨβaʔe	er	NOUN	n	Nomzr=Rel|Rel=NCont	4	acl	4:acl	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	oso	so	VERB	vi	Person=3	0	root	0:root	_
+12	aʔepe	aʔe	ADV	adv	Case=All	11	advmod	11:advmod	_
 
