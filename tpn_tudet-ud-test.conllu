@@ -2156,10 +2156,19 @@
 
 # sent_id = 103
 # text = Seʔõmbwera rerojɨpa , itɨma motá
-# text_eng = In order to brong down his corpse, to burry him
+# text_eng = In order to brong down his corpse, to burry him.  Book 3 chap 11
 1	Seʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Past	2	obj	2:obj	_
 2	rerojɨpa	erojɨ	NOUN	n	Rel=Cont|VerbForm=Ger|Voice=Cau	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	itɨma	tɨm	NOUN	n	Rel=NCont	5	obj	5:obj	_
 5	motá	potar	VERB	vt	VerbForm=Ger	2	parataxis	2:parataxis	_
+
+# sent_id = 104
+# text = Marãpe sereków itɨmɨ janondé ?
+# text_eng = What did they do with him before burying? Book 3 chap 11
+1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	2:advmod	_
+2	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+3	itɨmɨ	tɨm	NOUN	n	Rel=NCont	2	obl	2:obl	_
+4	janondé	janondé	ADP	posp	_	3	case	3:case	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
