@@ -2180,7 +2180,7 @@
 3	iɲuβãni	ɲuβãn	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	itakaramemwã	itakaramemwã	NOUN	n	_	9	obl	9:obl	_
-6	aβá	aβá	PRON	pro	PronType=PrsInt	7	nmod	7:nmod	_
+6	aβá	aβá	NOUN	n	_	7	nmod	7:nmod	_
 7	tɨmawereʔɨma	_	NOUN	n	Case=Ref|Polarity=Neg|Rel=Cont	5	nmod	5:nmod	_
 8	pupé	pupé	ADP	posp	Rel=Cont	5	case	5:case	_
 9	imondepa	mondé	VERB	v	Rel=NCont|VerbForm=Ger	3	advcl	3:advcl	_
