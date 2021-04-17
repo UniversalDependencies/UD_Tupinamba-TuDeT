@@ -2116,3 +2116,17 @@
 14	iʃwí	swi	ADP	posp	Rel=NCont	10	case	10:case	_
 15	iẽawama	en	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Fut	4	xcomp	4:xcomp	gloss=RELNC-en-sab-wam
 
+# sent_id = 100
+# text = aʔepe aʔe marana ri tekoara so ré , marã ?
+# text_eng =
+1	aʔepe	_	PART	pcl	_	6	discourse	6:discourse	_
+2	aʔe	_	DET	dem	_	5	nmod	5:nmod	_
+3	marana	marana	NOUN	n	_	5	nmod	5:nmod	_
+4	ri	ri	ADP	posp	_	3	case	3:case	_
+5	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	6	nmod	6:nmod	_
+6	so	so	NOUN	n	_	0	root	0:root	_
+7	re	re	ADP	posp	_	6	case	6:case	_
+8	,	,	PUNCT	punct	_	6	punct	6:punct	_
+9	marã	marã	PRON	pron	PronType=Int	6	advcl	6:advcl	_
+10	?	?	PUNCT	punct	_	9	punct	9:punct	_
+
