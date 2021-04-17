@@ -2157,7 +2157,7 @@
 # sent_id = 103
 # text = Seʔõmbwera rerojɨpa , itɨma motá
 # text_eng = In order to brong down his corpse, to burry him
-1	Seʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Pas	2	obj	2:obj	_
+1	Seʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Past	2	obj	2:obj	_
 2	rerojɨpa	erojɨ	NOUN	n	Rel=Cont|VerbForm=Ger|Voice=Cau	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	itɨma	tɨm	NOUN	n	Rel=NCont	5	obj	5:obj	_
