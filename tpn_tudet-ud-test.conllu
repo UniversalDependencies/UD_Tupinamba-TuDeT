@@ -2188,7 +2188,7 @@
 # sent_id = 106
 # text = Aβá aβépe ipɨ́ri itɨmbáramo ?
 # text_eng =
-1	Aβá	aβá	PRON	pro	PronType=PrsInt	3	nsubj	3:nsubj	_
+1	Aβá	aβá	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aβépe	aβé	ADV	adv	Int=Yes	3	advmod	3:advmod	_
 3	ipɨ́ri	pɨ	ADP	POSP	Rel=NCont	0	root	0:root	_
 4	itɨmbáramo	tɨm	NOUN	n	Case=Tra|Nomzr=Ag|Rel=NCont	3	obl	3:obl	_
