@@ -2248,7 +2248,7 @@
 
 # sent_id = 5000
 # text = ʃemoajumarangatu , ʃemoɨrõetékatuaβo , ajpó tekópɨsasu
-# text_eng = That new law bothers me a lot, repugnating me. Anchieta Teatro 21.1 p 6
+# text_eng = That new law bothers me a lot, repugnating me. Anchieta Teatro 21-23 p 6
 1	ʃemoajumarangatu	moajumarangatu	NOUN	n	Number=Sing|Person=1	6	nmod	6:nmod	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ʃemoɨrõetékatuaβo	moɨrõetékatuaβo	VERB	v	Intens=Yes|Number=Sing|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
@@ -2258,7 +2258,7 @@
 
 # sent_id = 5001
 # text = Aβá serã oweru , ʃeretama momoʃɨaβo ?
-# text_eng = Who would have brought it, ruining my country? Anchieta Teatro 21.2 p 6
+# text_eng = Who would have brought it, ruining my country? Anchieta Teatro 24-25 p 6
 1	Aβá	aβá	NOUN	n	_	3	obl	3:obl	_
 2	serã	serã	PART	pcl	_	3	discourse	3:discourse	_
 3	oweru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
@@ -2266,4 +2266,21 @@
 5	ʃeretama	etam	NOUN	n	Number=Sing|Person=1|Rel=Cont	6	obj	6:obj	_
 6	momoʃɨaβo	poʃɨ	VERB	v	VerbForm=Ger|Voice=Cau	3	advcl	3:advcl	_
 7	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 5002
+# text = ʃe aɲõ kó taβa pupé ajkó , serekóaramo witekóβo , ʃerekó rupi imoingóβo
+# I alone lived in this city, being as its guardian, causing it to be according to my law. Anchieta Teatro 26-29 p 6
+1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1	6	obl	6:obl	_
+2	aɲõ	aɲõ	ADV	posp	_	6	advmod	6:advmod	_
+3	kó	kó	DET	dem	_	4	nmod	4:nmod	_
+4	taβa	taβa	NOUN	n	_	6	obl	6:obl	_
+5	pupé	pupé	ADP	posp	_	4	case	4:case	_
+6	ajkó	ikó	VERB	vi	Number=Sing|Person=1	0	root	0:root	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	serekóaramo	erekó	NOUN	n	Case=Tra|Number=Sing|Person=1|Rel=Cont	9	obl	9:obl	_
+9	witekóβo	ekó	VERB	v	Number=Sing|Person=1|VerbForm=Ger	6	advcl	6:advcl	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	ʃerekó	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	13	obl	13:obl	_
+12	rupi	rupi	ADP	posp	_	11	case	11:case	_
+13	imoingóβo	moingó	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	6:advcl	_
 
