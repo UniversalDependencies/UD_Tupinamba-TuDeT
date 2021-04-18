@@ -2269,8 +2269,8 @@
 
 # sent_id = 5002
 # text = ʃe aɲõ kó taβa pupé ajkó , serekóaramo witekóβo , ʃerekó rupi imoingóβo
-# I alone lived in this city, being as its guardian, causing it to be according to my law. Anchieta Teatro 26-29 p 6
-1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1	6	obl	6:obl	_
+# text_eng = I alone lived in this city, being as its guardian, causing it to be according to my law. Anchieta Teatro 26-29 p 6
+1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	obl	6:obl	_
 2	aɲõ	aɲõ	ADV	posp	_	6	advmod	6:advmod	_
 3	kó	kó	DET	dem	_	4	nmod	4:nmod	_
 4	taβa	taβa	NOUN	n	_	6	obl	6:obl	_
@@ -2283,4 +2283,16 @@
 11	ʃerekó	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	13	obl	13:obl	_
 12	rupi	rupi	ADP	posp	_	11	case	11:case	_
 13	imoingóβo	moingó	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	6:advcl	_
+
+# sent_id = 5003
+# text = Kwe swi asó mamõ, amõ taβa rapekóβo
+# text_eng = From there I went afar, visiting other villages. Teatro 30-31 p 6
+1	Kwe	kwe	ADV	adv	_	3	obl	3:obl	_
+2	swi	swi	ADP	posp	_	1	case	1:case	_
+3	asó	so	VERB	v	Number=Sing|Person=1	0	root	0:root	_
+4	mamõ	_	ADV	adv	_	3	advmod	3:advmod	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	amõ	amõ	PRON	pron	PronType=Ind	7	nmod	7:nmod	_
+7	taβa	taβa	NOUN	n	_	8	obj	8:obj	_
+8	rapekóβo	apekó	VERB	v	Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
 
