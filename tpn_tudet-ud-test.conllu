@@ -2285,7 +2285,7 @@
 13	imoingóβo	moingó	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	6:advcl	_
 
 # sent_id = 5003
-# text = Kwe swi asó mamõ, amõ taβa rapekóβo
+# text = Kwe swi asó mamõ , amõ taβa rapekóβo
 # text_eng = From there I went afar, visiting other villages. Teatro 30-31 p 6
 1	Kwe	kwe	ADV	adv	_	3	obl	3:obl	_
 2	swi	swi	ADP	posp	_	1	case	1:case	_
