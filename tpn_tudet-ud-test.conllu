@@ -2296,7 +2296,7 @@
 7	taβa	taβa	NOUN	n	_	8	obj	8:obj	_
 8	rapekóβo	apekó	VERB	v	Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
 
-# sent_id =
+# sent_id = 78987
 # text = Eresawsupe Tupã nderuβa, ndesɨ, nderemirekó, ndemena, nderaʔɨra, ndembaʔe katupaβẽ ndesawsuβa sosé ?
 # text_eng = Do you love more than you love your father, your mother, your wife, your husband, your child, and the multitude of you things?  Araujo Book 6 chap 12
 # text_po = Amas a deus masi do que amas teu pai, tua mãe, tua esposa, teu marido, todas as tuas coisas ?
@@ -2317,4 +2317,25 @@
 15	ndesawsuβa	_	NOUN	n	_	1	advcl	1:advcl	_
 16	sosé	sosé	ADP	posp	_	15	case	15:case	_
 17	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 76276378
+# text = Eresawsupe nderapiʃara ndejoawsuβa jabé , sekokatu resé , imbaʔekatu resé βé nderorɨβamo , sekomemwã potareʔɨma ?
+# text_eng = Do you love your neighbour as you love yourself, for his wellbeing, for his many possessions as well, rejoicing (yourself), without wanting that he is not well?  Araujo Book 6 chap 12
+# text_po = Amas teu próximo como amas a ti mesmo, por estar bem, por ele ter coisas boas também, alegrando-te, não querendo que esteja mal?
+1	Eresawsupe	awsuβ	VERB	vt	Int=Yes|Number=Sing|Person=23	0	root	0:root	_
+2	nderapiʃara	apiʃar	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	obl	1:obl	_
+3	ndejoawsuβa	awsuβ	NOUN	n	Case=Ref|Number=Sing|Person=2|Reflex=Yes	1	advcl	1:advcl	_
+4	jabé	jabé	ADV	adv	_	3	advmod	3:advmod	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	sekokatu	ekokatu	NOUN	n	Rel=NCont	1	obl	1:obl	_
+7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
+8	,	,	PUNCT	punct	_	6	punct	6:punct	_
+9	imbaʔekatu	mbaʔe	NOUN	n	Rel=NCont	6	conj	6:conj	_
+10	resé	esé	ADP	posp	Rel=Cont	9	case	9:case	_
+11	βé	βé	ADV	adv	_	9	advmod	9:advmod	_
+12	nderorɨβamo	orɨβ	VERB	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	_	1	advcl	1:advcl	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
+14	sekomemwã	ekomemwã	NOUN	n	Rel=NCont	15	obj	15:obj	_
+15	potareʔɨma	potar	VERB	vt	Polarity=Neg|VerbForm=Ger	1	advcl	1:advcl	_
+16	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
