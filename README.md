@@ -1,14 +1,14 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The treebank is ongoing work and is constantly being updated. 
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is work in progress and the treebank is being updated on a regular basis.
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contain other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
 
 
 
