@@ -1,23 +1,23 @@
 ![TuLeD](not-to-release/mapNimu2.png)
-
 # Summary
 
-
-
-UD_Tupinamba-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/guaj1255">Tupinambá</a>.
-Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-TuDeT</a>, <a href="http://www.endangeredlanguages.com/lang/2981">UD_Kaapor-TuDeT</a>  <a href="https://github.com/UniversalDependencies/UD_Kaapor-TuDeT">UD_Tupinamba-TuDeT</a>, UD_Munduruku-TuDeT is part of <a href="https://tular.org">TuLaR</a>. 
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The treebank is ongoing work and is constantly being updated. 
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org).  The sentences are being annotated and glossed by Fabrício Ferraz Gerardi and the tools are being developed by Tatiana Merzhevich and Fabrício Ferraz Gerardi.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contain other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+
+
 
 ## Text sources
 
 **Tupinambá sentences**:<br/>
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
+* Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
+* de Anchieta, J., de Almeida Navarro, E., & Ferreira, H. P. (2004). Poemas: lírica portuguesa e tupi. Martins Fontes.
 
 
 # Acknowledgments
