@@ -2312,7 +2312,7 @@
 1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	1:appos	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1|	1	conj	1:conj	_
+4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	1:conj	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	7:nmod	_
 7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	1:conj	_
