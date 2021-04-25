@@ -2307,7 +2307,7 @@
 
 # sent_id = 7539746
 # text = Iʃé seroβiarɨpɨra , ʃeaɲangusumiʃɨra , Waiʃará serɨβaʔe , kwepe imoerapwanɨmbɨra
-# text_eng = I, who must be believed, big cooked devil, whose name is Guaixará, made famous everywhere
+# text_eng = I, who must be believed, big cooked devil, whose name is Guaixará, made famous everywhere. (Teatro 33-36, p 6)
 # text_por = Eu, aquele em que se deve acreditar, eu, o diabão assado, o que tem nome Guaixará, o que é afamado por aí.
 1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	1:appos	_
