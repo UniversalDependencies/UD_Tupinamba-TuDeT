@@ -2376,5 +2376,5 @@
 # text_por = não quero que os homens a lancem fora.
 1	naipotari	potar	VERB	v	Number=Sing|Person=13|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
-3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Gen	1	obl	1:obl	_
+3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
 
