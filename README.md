@@ -17,7 +17,7 @@ UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is par
 **Tupinambá sentences**:<br/>
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
 * Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
-* de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Martins Fontes. Ed. Eduardo de A. Navarro. Martins Fontes.
+* de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
 
 
 # Acknowledgments
