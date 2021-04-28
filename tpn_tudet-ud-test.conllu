@@ -233,7 +233,7 @@
 # text = Marã eʔipe asé ojoβasapa ?
 # text_eng = What do people say crossong the face? Book 1 chap 2
 1	Marã	marã	PRON	pron	PronType=Int	2	obj	2:obj	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3	asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
 4	ojoβasapa	joβasab	VERB	vi	Person=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
@@ -261,7 +261,7 @@
 18	EspíritoSanto	_	PROPN	_	_	14	conj	14:conj	_
 19	rera	er	NOUN	n	Rel=Cont	5	parataxis	5:parataxis	_
 20	pupé	pupé	ADP	posp	Rel=Cont	19	case	19:case	_
-21	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+21	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 7
 # text = Marãnamope asé osɨβápe joβasaβa moini ?
@@ -281,7 +281,7 @@
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	maʔendwasaβaiβa	maʔendwar	NOUN	n	Nomzr=Circ	2	obl	2:obl	_
 5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
-6	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+6	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 9
 # text = Marãnamope asé ojurupe saʔãngino ?
@@ -300,7 +300,7 @@
 3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	_	_	1	obl	1:obl	_
 4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	1:obl	_
 5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
-6	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
+6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 113456
 # text = Marãnamope asé opotiʔape imoíni ?
@@ -323,7 +323,7 @@
 7	ɲɨʔã	_	NOUN	n	_	9	nmod	9:nmod	_
 8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
 9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	3:appos	_
-10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 130987
 # text = Marãnamo βépe asé joβasáβi ?
@@ -415,7 +415,7 @@
 1	Taʃemaran	maran	NOUN	n	Mood=Perm|Number=Sing|Person=1|Rel=Cont	4	ccomp	4:ccomp	_
 2	umẽ	umẽ	PART	pcl	Polarity=Neg	1	discourse	1:discourse	_
 3	iʔwaβo	ʔu	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
-4	ojaβo	eʔi	VERB	v	Rel=NCont|VerbForm=Ger	0	root	0:root	_
+4	ojaβo	ʔi	VERB	v	Rel=NCont|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 23
 # text = Marãnamope asé joβasaβetáetáwne ?
@@ -437,7 +437,7 @@
 7	marã	marã	PRON	pron	PronType=Int	8	nmod	8:nmod	_
 8	ʃerekoápe	ekó	NOUN	n	Case=Loc|Nomzr=Circ|Number=Sing|Person=1|Rel=Cont	1	advcl	1:advcl	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	ojaβo	eʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 25
 # text = Aβápe asé sumarã ?
@@ -689,7 +689,7 @@
 1	Marãnamope	marãnamo	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
 3	Tupãeté	Tupã	NOUN	n	_	4	obj	4:obj	_
-4	iʔew	eʔi	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+4	iʔew	ʔi	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 5	iʃupé	supé	ADP	posp	Rel=NCont	4	obl	4:obl	_
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
@@ -937,7 +937,7 @@
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	ʃemombwerápane	_	NOUN	_	_	5	dep	_	_
 9	reá	_	PART	pcl	_	8	discourse	_	_
-10	,	_	PUNCT	punct	_	8	punct	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
 # sent_id = 2331
@@ -1114,7 +1114,7 @@
 # text = Marã eʔipe Pilatos judeus supé ?
 # text_eng = How (what) did Pilatos say to the jews? book 3 chap 8
 1	Marã	marã	ADV	adv	_	2	advmod	2:advmod	_
-2	eʔipe	eʔi	VERB	vt	_	0	root	0:root	_
+2	eʔipe	ʔi	VERB	vt	Person=3	0	root	0:root	_
 3	Pilatos	Pilatos	PROPN	propn	_	2	nsubj	2:nsubj	_
 4	judeus	judeus	NOUN	n	_	2	obl	2:obl	_
 5	supé	supé	ADP	posp	Rel=Cont	4	case	4:case	_
@@ -1139,8 +1139,8 @@
 14	,	,	PUNCT	punct	_	12	punct	12:punct	_
 15	ijukaukar	juká	NOUN	n	Rel=NCont|Voice=Cau	12	advcl	12:advcl	gloss_port=RELNC-kill-CAUS
 16	janondé	janondé	ADV	adv	_	15	case	15:case	_
-17	wijaβo	eʔi	VERB	v	VerbForm=Ger	18	dep	18:dep	_
-18	eʔi	eʔi	VERB	v	_	3	parataxis	3:parataxis	_
+17	wijaβo	ʔi	VERB	v	VerbForm=Ger	18	dep	18:dep	_
+18	eʔi	ʔi	VERB	v	Person=3	3	parataxis	3:parataxis	_
 
 # sent_id = 2350
 # text = Marãpe judeus reków aʔéreme ?
@@ -1162,7 +1162,7 @@
 6	ejmojarukar	mojar	VERB	Mood=Imp|Number=Sing|Person=23|Voice=Cau	_	9	dep	9:dep	_
 7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	6	obl	6:obl	_
 8	resé	esé	ADP	posp	Rel=Cont	7	case	7:case	_
-9	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+9	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
 11	imondóβo	mondó	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
 12	ɲẽ	_	PART	pcl	_	11	discourse	11:discourse	_
@@ -1171,7 +1171,7 @@
 15	César	César	PROPN	pro	_	17	nmod	17:nmod	_
 16	nderuβiʃaβa	uβiʃaβ	NOUN	n	Case=Ref|Nomzr=Circ	15	appos	15:appos	_
 17	rawsupáramo	awsuβ	NOUN	n	Case=Tra|Rel=Cont	14	obl	14:obl	_
-18	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	14	advcl	14:advcl	_
+18	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	14	advcl	14:advcl	_
 
 # sent_id = 2352
 # text = Osapjápe Pilatos iɲeʔenga aʔéreme koʔɨté ?
@@ -1230,13 +1230,13 @@
 2	rupi	_	ADP	posp	_	1	case	1:case	_
 3	ruã	ruã	PART	pcl	_	1	dep	1:dep	_
 4	ajukaukáne	juká	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=Cau	0	root	0:root	_
-5	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	parataxis	4:parataxis	_
+5	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	4	parataxis	4:parataxis	_
 6	;	;	PUNCT	punct	_	4	punct	4:punct	_
 7	naʃeresé	esé	ADP	posp	Rel=Cont	9	obl	9:obl	_
 8	ruã	ruã	PART	pcl	_	7	dep	7:dep	_
 9	ijukasaβa	juká	NOUN	n	Case=Ref|Nomzr=Circ	10	nsubj	10:nsubj	_
 10	ʔárine	_	VERB	v	Tense=Fut	4	parataxis	4:parataxis	_
-11	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	10	parataxis	10:parataxis	_
+11	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	10	parataxis	10:parataxis	_
 12	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 2358
@@ -1261,7 +1261,7 @@
 7	,	,	PUNCT	punct	_	4	punct	4:punct	_
 8	perekó	ekó	NOUN	n	Number=Plur|Person=2|Rel=Cont	4	parataxis	4:parataxis	_
 9	ijukáβo	juká	VERB	v	Rel=NCont|VerbForm=Ger	8	advcl	8:advcl	_
-10	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
+10	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 
 # sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
@@ -1367,7 +1367,7 @@
 # text = Marã eʔipe jandéjara iʃupé ?
 # text_eng = What did our lord tell them? book 3 chap 9
 1	Marã	marã	PRON	pro	PronType=Int	2	obj	2:obj	_
-2	eʔipe	eʔi	VERB	vt	_	0	root	0:root	gloss_port=say-Q
+2	eʔipe	ʔi	VERB	vt	Person=3	0	root	0:root	gloss_port=say-Q
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	2:nsubj	_
 4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	2:obl	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
@@ -1377,14 +1377,14 @@
 # text_eng = Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9
 1	Petéumẽ	petéumẽ	PART	pcl	Number=Sing|Person=2|Polarity=Neg	2	dep	2:dep	_
 2	ʃerapirõmo	apirõ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
-3	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+3	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 4	peẽ	peẽ	PRON	pron	Number=Plur|Person=2|PronType=Prs	6	obl	6:obl	_
 5	aéte	aéte	PART	pcl	_	4	discourse	4:discourse	_
 6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	3:parataxis	_
-7	eʔi	eʔi	VERB	v	_	6	parataxis	6:parataxis	_
+7	eʔi	ʔi	VERB	v	Person=3	6	parataxis	6:parataxis	_
 8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=23	9	obl	9:obl	_
 9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=2	7	dep	7:dep	_
-10	eʔi	eʔi	VERB	v	_	9	advcl	9:advcl	_
+10	eʔi	ʔi	VERB	v	Person=3	9	advcl	9:advcl	_
 
 # sent_id = 1013
 # text = Marã ojaβope ajpó iʔew ?
@@ -1674,7 +1674,7 @@
 # text = Marã eʔipe jandéjara ojukasara ri oguβa mongetáβo ?
 # text_eng = What did our lord say seus about his killers talking to his father?  Book 3 chap 10
 1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
 4	ojukasara	juká	NOUN	n	Case=Ref|Nomzr=Ag|Reflex=Yes	2	obl	2:obl	_
 5	ri	ri	ADP	posp	_	4	case	4:case	_
@@ -1688,13 +1688,13 @@
 1	ndeɲɨrõ	ɲɨrõ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
 2	iʃupé	supé	ADP	posp	Rel=NCont	1	case	1:case	_
 3	ʃeruβɨwé	uβ	NOUN	n	Rel=Cont	1	dep	1:dep	_
-4	eʔi	eʔi	VERB	v	_	1	dep	1:dep	_
+4	eʔi	ʔi	VERB	v	Person=3	1	dep	1:dep	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 6	Otekokwaβeʔɨ̃mamo	tekokwaβeʔɨm	NOUN	n	Case=Tra|Reflex=Yes	9	obl	9:obl	_
 7	ɲẽ	ɲẽ	PART	pcl	_	6	discourse	6:discourse	_
 8	emonã	emonã	ADV	adv	_	9	advmod	9:advmod	_
 9	ʃerereków	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	parataxis	1:parataxis	_
-10	eʔi	eʔi	VERB	v	_	9	dep	9:dep	_
+10	eʔi	ʔi	VERB	v	Person=3	9	dep	9:dep	_
 
 # sent_id = 61
 # text = Ojtɨ́kɨpe ɨβɨɨá erimbaʔe ɲeʔenga sesé ?
@@ -1767,7 +1767,7 @@
 2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	5	obl	5:obl	_
 3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
 4	marã	marã	ADV	adv	Int=Yes	5	advmod	5:advmod	_
-5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+5	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 68
@@ -1778,7 +1778,7 @@
 3	nderorɨpápe	orɨβ	NOUN	n	Case=Loc|Nomzr=Circ|Number=Sing|Person=2|Rel=Cont	4	nmod	4:nmod	_
 4	nderekó	ekó	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	advcl	1:advcl	_
 5	rojré	rojré	ADP	posp	_	4	case	4:case	_
-6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+6	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 70
 # text = Kori erejkó ʃerorɨpápe ʃepɨ́rine eʔi
@@ -1787,7 +1787,7 @@
 2	erejkó	ikó	VERB	v	Number=Plur|Person=2	5	ccomp	5:ccomp	_
 3	ʃerorɨpápe	orɨpáβ	NOUN	n	Number=Plur|Person=1|Rel=Cont	2	obl	2:obl	_
 4	ʃepɨ́rine	pɨ́rine	ADP	posp	Number=Plur|Person=1|Tense=Fut	2	obl	2:obl	_
-5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+5	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 71
 # text = Aβá aβépe oʔam cruz ɨpɨpe aʔéreme ?
@@ -1815,7 +1815,7 @@
 # text = Marã eʔipe Jesus osɨ supé oeʔõ janondé ?
 # text_eng =  What did he say to his mother before his death?  Book 3 chap 10
 1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3	Jesus	Jesus	PROPN	propn	_	2	nsubj	2:nsubj	_
 4	osɨ	sɨ	NOUN	n	Reflex=Yes	2	obl	2:obl	_
 5	supé	supé	ADP	posp	Rel=Cont	4	case	4:case	_
@@ -1831,7 +1831,7 @@
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	kuɲã	kuɲã	NOUN	n	_	2	nsubj	2:nsubj	_
 5	we	we	PART	pcl	Case=Voc	4	dep	4:dep	_
-6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+6	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	S.João	S.João	PROPN	propn	_	9	obj	9:obj	_
 9	meʔenga	meʔeng	VERB	vt	VerbForm=Ger	6	advcl	6:advcl	_
@@ -1844,7 +1844,7 @@
 2	S.João	S.João	PROPN	propn	_	5	obl	5:obl	_
 3	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
 4	marã	marã	ADV	pron	Int=Yes	5	advmod	5:advmod	_
-5	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+5	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 76
@@ -1852,7 +1852,7 @@
 # text_eng = there's your morther, he said, considering his own mother his Book 3 chap 10
 1	Eβokwé	Eβokwé	ADV	adv	_	3	advcl	3:advcl	_
 2	ndesɨ	sɨ	NOUN	n	Number=Sing|Person=2	1	nsubj	1:nsubj	_
-3	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+3	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	iʃɨ́ramo	ʃɨ	NOUN	n	Case=Tra|Rel=NCont	7	obl	7:obl	_
 6	osɨ	sɨ	NOUN	n	Reflex=Yes	7	obj	7:obj	_
@@ -1885,7 +1885,7 @@
 11	,	,	PUNCT	punct	_	9	punct	9:punct	_
 12	ʃeruβɨwé	uβ	NOUN	n	Case=Voc|Number=Sing|Person=1|Rel=Cont	9	dep	9:dep	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
-14	ojaβo	eʔi	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
+14	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
 
 # sent_id = 79
 # text = Marã eʔipe aʔe riré ?
@@ -1907,7 +1907,7 @@
 6	ʃeʔusej	ʔuséj	NOUN	n	Number=Sing|Person=1	9	ccomp	9:ccomp	_
 7	ã	ã	PART	pcl	_	6	discourse	6:discourse	_
 8	,	,	PUNCT	punct	_	6	punct	6:punct	_
-9	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+9	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 81
 # text = Ojmoʔɨʔupe ɨβɨá ?
@@ -1942,7 +1942,7 @@
 # text = Marã eʔipe saʔangiré ?
 # text_eng =  What did he say after tasting it?     Book 3 chap 10
 1	Marã	marã	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3-4	saʔangiré	_	_	_	_	_	_	_	_
 3	saʔang	aʔang	NOUN	n	Rel=NCont	2	nmod	2:nmod	_
 4	iré	riré	ADP	posp	_	3	case	3:case	_
@@ -1954,13 +1954,13 @@
 1	Awjé	awjé	INTJ	intj	_	4	obj	4:obj	_
 2	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
 3	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	4:advmod	_
-4	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+4	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 87
 # text = Marã eʔipe oguβa supé ojekɨjjanondé ?
 # text_eng =  What did he say to his father before expiring   Book 3 chap 10
 1	Marã	marã	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3	oguβa	uβ	NOUN	n	Case=Ref|Reflex=Yes	2	obl	2:obl	_
 4	supé	supé	ADP	posp	Rel=Cont	3	case	3:case	_
 5-6	ojekɨjjanondé	_	_	_	_	_	_	_	_
@@ -1977,7 +1977,7 @@
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ʃeruβɨwé	uβ	NOUN	n	Case=Voc|Number=Sing|Person=1	3	dep	3:dep	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	eʔi	eʔi	VERB	v	_	3	xcomp	3:xcomp	_
+7	eʔi	ʔi	VERB	v	Person=3	3	xcomp	3:xcomp	_
 
 # sent_id = 89
 # text = Marãpe seków aʔeriré ?
@@ -2017,7 +2017,7 @@
 # text = Marã eʔipe supjarwera osóβo seʔõmbwera rejá ?
 # text_eng = What did his enemies say going to dispose his corpse. Book 3 chap 11
 1	Marã	marã	ADV	adv	Int=Yes	2	advmod	2:advmod	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
 3	supjarwera	upjar	NOUN	n	Case=Ref|Tense=Past	2	nsubj	2:nsubj	_
 4	osóβo	so	VERB	v	Person=3|VerbForm=Ger	2	advcl	2:advcl	_
 5	seʔõmbwera	eʔõ	NOUN	n	Case=Ref|Tense=Past	6	obj	6:obj	_
@@ -2032,7 +2032,7 @@
 3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	2:discourse	_
 4	ikó	ikó	DET	dem	_	5	nmod	5:nmod	_
 5	aβá	aβá	NOUN	n	_	2	nsubj	2:nsubj	_
-6	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+6	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	amõamõ	amõ	PRON	pro	Number=Plur|PronType=Ind	11	obl	11:obl	_
 9	opotiʔa	potiʔ	NOUN	n	Case=Ref	11	obl	11:obl	_
@@ -2243,7 +2243,7 @@
 5	Jesus	Jesus	PROPN	propn	_	6	nmod	6:nmod	_
 6	rekoβejeβɨsawama	ekoβejeβ	NOUN	n	_	8	obj	8:obj	_
 7	resé	esé	ADP	posp	Rel=Cont	6	case	6:case	_
-8	oɲemosakojaβo	eʔi	VERB	v	Nomzr=Circ|Person=3|Reflex=Yes|Tense=Past|VerbForm=Ger	1	advcl	1:advcl	_
+8	oɲemosakojaβo	ʔi	VERB	v	Nomzr=Circ|Person=3|Reflex=Yes|Tense=Past|VerbForm=Ger	1	advcl	1:advcl	_
 9	βéte	βé	ADV	adv	_	8	conj	8:conj	_
 
 # sent_id = 78987
