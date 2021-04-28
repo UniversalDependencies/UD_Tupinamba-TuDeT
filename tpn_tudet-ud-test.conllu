@@ -2372,7 +2372,7 @@
 
 # sent_id = 68366489
 # text = naipotari aβá sejtɨka
-# text_eng = My law is very nice. (Teatro 37, p 8)
+# text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a lancem fora.
 1	naipotari	potar	VERB	v	Number=Sing|Person=13|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
