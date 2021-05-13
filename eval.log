@@ -1,38 +1,40 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Tupinamba-TuDeT:
-commit 73c28fea26369110ca4d8c61816af66030191fb4
+commit e626ca967687560ecc07296b44cbb09445bc89e0
+Merge: 107df70 244d946
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 11 16:18:21 2020 +0100
-Size: counted 76 of 76 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.
+Size: counted 1515 of 1515 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.830830877922665.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
-Universal POS tags: 10 out of 17 found in the corpus.
+Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 35 out of 76 total words have one or more features.
+Features: 816 out of 1515 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 16 out of 37 found in the corpus.
+Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 10 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 76 words.
+Udapi:
+               TOTAL        167
+Udapi: found 167 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 1515 words.
 Genres: found 2 out of 17 known.
 validate.py --lang tpn --max-err=10 UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
+(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0) = 0
+(weight=0.256410256410256) * (score{size}=0.0601375442794413) = 0.0154198831485747
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.470588235294118) = 0.0361990950226244
+(weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.345945945945946) = 0.0266112266112266
-(TOTAL score=0.167757531286943) * (availability=1) * (validity=1) = 0.167757531286943
+(weight=0.0769230769230769) * (score{udeprels}=0.518918918918919) = 0.0399168399168399
+(TOTAL score=0.241731896519412) * (availability=1) * (validity=1) = 0.241731896519412
 STARS = 1
-UD_Tupinamba-TuDeT	0.167757531286943	1
+UD_Tupinamba-TuDeT	0.241731896519412	1
