@@ -1,19 +1,23 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org). The treebank is ongoing work and is constantly being updated.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is a work in progress and the treebank is being updated on a regular basis.
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org).  The sentences are being annotated and glossed by Fabrício Ferraz Gerardi.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+
+
 
 ## Text sources
 
 **Tupinambá sentences**:<br/>
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
+* Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
+* de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
 
 
 # Acknowledgments
