@@ -940,6 +940,18 @@
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 444325
+# text = Ojaoβok , ita okɨtá resé ipopwá , imoʔama .
+# text_eng = They undressed him, making him stand, tying his hans on a column. Book 3 chapter 7
+1	Ojaoβok	aoβok	VERB	vt	Person=33	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ita	ita	NOUN	n	_	4	nmod	4:nmod	_
+4	okɨtá	okɨtá	NOUN	n	_	6	obl	6:obl	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
+6	ipopwá	_	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	imoʔama	ʔam	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
+
 # sent_id = 444326
 # text = Setápe inupãnupãsara ?
 # text_eng = His killers, were they many? Book 3 chapter 7
