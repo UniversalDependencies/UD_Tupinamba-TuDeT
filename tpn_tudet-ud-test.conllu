@@ -940,6 +940,42 @@
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 444328
+# text = Seté jakatupe ɨβɨá imoperéperéβi , imouwɨsɨrɨka ?
+# text_eng = Were they causing wound thorugh all his body?  Book 3 chapter 7
+1	Seté	eté	NOUN	n	_	4	nmod	4:nmod	_
+2	jakatupe	jakatu	ADP	posp	Int=Yes	1	case	1:case	_
+3	ɨβɨá	ɨβɨá	PART	pcl	_	4	dep	4:dep	_
+4	imoperéperéβi	peréβ	NOUN	n	OblTop=Yes|Red=Dis|Rel=NCont|Voice=Cau	0	root	0:root	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	imouwɨsɨrɨka	owɨsɨrɨk	VERB	vi	Rel=NCont|VerbForm=Ger|Voice=Cau	4	advcl	4:advcl	_
+7	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 444329
+# text = Seté jakatu .
+# text_eng = Through all his body.     Book 3 chapter 7
+1	Seté	eté	NOUN	n	Rel=NCont	0	root	0:root	_
+2	jakatu	jakatu	ADP	posp	Intens=Yes	1	case	1:case	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 444330
+# text = ɨβɨ rupi βépe suwɨ sɨrɨki ?
+# text_eng = Even through the floor did his blood flow?     Book 3 chapter 7
+1	ɨβɨ	ɨβɨ	NOUN	n	_	5	obl	5:obl	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	1:case	_
+3	βépe	βe	ADV	adv	Int=Yes	1	advmod	1:advmod	_
+4	suwɨ	uwɨ	NOUN	n	Rel=NCont	5	nmod	5:nmod	_
+5	sɨrɨki	_	NOUN	n	OblTop=Yes	0	root	0:root	_
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# sent_id = 444331
+# text = ɨβɨ rupi βé .
+# text_eng = Through the floor indeed.        Book 3 chapter 7
+1	ɨβɨ	ɨβɨ	NOUN	n	_	0	root	0:root	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	1:case	_
+3	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 2331
 # text = Marãpe ɨβɨá jandéjara rereków , inupãnupã ré ?
 # text_eng = How was our lord treated after his flogging?   book 3 chap 8
@@ -2289,27 +2325,6 @@
 15	potareʔɨma	potar	VERB	vt	Polarity=Neg|VerbForm=Ger	1	advcl	1:advcl	_
 16	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent=id = 76276379
-# text = Eresawsupe nderapiʃara ndejoawsuβa jaβé, sekokatu resé, imbaʔekatu resé βe nderorɨβamo, sekomemwã potareʔɨma?
-# text_eng = Do you love your neighbour as yourself as well, because he is well, because he has good things also, rejoycing yourself, not whishing him bad things? Araujo Book 6 chap 12
-# text_port = Amas teu próximo como amas a ti mesmo, por seu bem estar, por suas coisas boas também alegrando-te, não querendo seu mal?
-1	Eresawsupe	awsuβ	VERB	v	Int=Yes|Person=23	0	root	0:root	_
-2	nderapiʃara	apiʃar	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=Cont	1	obl	1:obl	_
-3	ndejoawsuβa	awsuβ	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=Cont|Reflex=Yes	1	obl	1:obl	_
-4	jaβé	jaβé	ADV	adv	_	1	advmod	1:advmod	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	sekokatu	ekó	NOUN	n	Rel=NCont	1	obl	1:obl	_
-7	resé	_	ADP	posp	|Rel=Cont	6	case	6:case	_
-8	,	,	PUNCT	punct	_	6	punct	6:punct	_
-9	imbaʔekatu	mbaʔe	NOUN	n	Rel=NCont	1	obl	1:obl	_
-10	resé	esé	ADP	posp	Rel=Cont	9	case	9:case	_
-11	βe	βe	ADV	adv	_	9	advmod	9:advmod	_
-12	nderorɨβamo	orɨβ	NOUN	n	Case=Tra|Number=Sing|Person=2|Rel=Cont	1	advcl	1:advcl	_
-13	,	_	PUNCT	punct	_	1	punct	1:punct	_
-14	sekomemwã	ekomemwã	NOUN	n	Rel=NCont	15	obj	15:obj	_
-15	potareʔɨma	potar	VERB	v	Polarity=Neg|VerbForm=Ger	1	advcl	1:advcl	_
-16	?	?	PUNCT	punct	_	1	punct	1:punct	_
-
 # sent_id = 5000
 # text = ʃemoajumarangatu , ʃemoɨrõetékatuaβo , ajpó tekópɨsasu
 # text_eng = That new law bothers me a lot, repugnating me. Anchieta Teatro 21-23 p 6
@@ -2391,27 +2406,11 @@
 1	ʃerekó	ekó	NOUN	n	Number=Sing|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
 2	iporangete	porang	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
 
-# sent_id = 6836490
+# sent_id = 68366489
 # text = naipotari aβá sejtɨka
 # text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a lancem fora.
 1	naipotari	potar	VERB	v	Number=Sing|Person=13|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
 3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
-
-# sent_id = 68366491
-# text = n'ajpotari aβá imombɨka
-# text_eng = I don't want that men destroy it. (Teatro 37, p 8)
-1	n'ajpotari	potar	VERB	vt	Person=13|Polarity=Neg	0	root	0:root	_
-2	aβá	aβá	NOUN	n	_	3	nsubj	3:nsubj	_
-3	imombɨka	mombɨk	NOUN	v	Case=Ref|Rel=NCont|Voice=Cau	1	obl	1:obl	_
-
-# sent_id = 68366492
-# text = Ajpotákatu teɲe opabĩ taβa mondɨka
-# text_eng = I want in vain to destroy al villages. (Teatro 37, p 8)
-1	Ajpotákatu	potar	VERB	vt	Intens=Yes|Person=13	0	root	0:root	_
-2	teɲe	teɲe	ADV	adv	_	1	advmod	1:advmod	_
-3	opabĩ	opabĩ	PART	pcl	_	4	nmod	4:nmod	_
-4	taβa	taβa	NOUN	n	_	5	nmod	5:nmod	_
-5	mondɨka	mondɨk	NOUN	n	Case=Ref	1	obl	1:obl	_
 
