@@ -940,6 +940,42 @@
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 444328
+# text = Seté jakatupe ɨβɨá imoperéperéβi , imouwɨsɨrɨka ?
+# text_eng = Were they causing wound thorugh all his body?  Book 3 chapter 7
+1	Seté	eté	NOUN	n	_	4	nmod	4:nmod	_
+2	jakatupe	jakatu	ADP	posp	Int=Yes	1	case	1:case	_
+3	ɨβɨá	ɨβɨá	PART	pcl	_	4	dep	4:dep	_
+4	imoperéperéβi	peréβ	NOUN	n	OblTop=Yes|Red=Dis|Rel=NCont|Voice=Cau	0	root	0:root	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	imouwɨsɨrɨka	owɨsɨrɨk	VERB	vi	Rel=NCont|VerbForm=Ger|Voice=Cau	4	advcl	4:advcl	_
+7	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 444329
+# text = Seté jakatu .
+# text_eng = Through all his body.     Book 3 chapter 7
+1	Seté	eté	NOUN	n	Rel=NCont	0	root	0:root	_
+2	jakatu	jakatu	ADP	posp	Intens=Yes	1	case	1:case	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 444330
+# text = ɨβɨ rupi βépe suwɨ sɨrɨki ?
+# text_eng = Even through the floor did his blood flow?     Book 3 chapter 7
+1	ɨβɨ	ɨβɨ	NOUN	n	_	5	obl	5:obl	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	1:case	_
+3	βépe	βe	ADV	adv	Int=Yes	1	advmod	1:advmod	_
+4	suwɨ	uwɨ	NOUN	n	Rel=NCont	5	nmod	5:nmod	_
+5	sɨrɨki	_	NOUN	n	OblTop=Yes	0	root	0:root	_
+6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+# sent_id = 444331
+# text = ɨβɨ rupi βé .
+# text_eng = Through the floor indeed.        Book 3 chapter 7
+1	ɨβɨ	ɨβɨ	NOUN	n	_	0	root	0:root	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	1:case	_
+3	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 2331
 # text = Marãpe ɨβɨá jandéjara rereków , inupãnupã ré ?
 # text_eng = How was our lord treated after his flogging?   book 3 chap 8
