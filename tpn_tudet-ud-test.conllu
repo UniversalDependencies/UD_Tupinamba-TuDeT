@@ -940,6 +940,19 @@
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ojaβo	ja	VERB	v	VerbForm=Ger	0	root	_	_
 
+# sent_id = 444324
+# text = Ojaoβok serã ɨβɨá ikatupe ɲẽ imoingóβo inupãnupã janondé ?
+# text_eng = Did they then undress him before continuously hitting him? Book 3 chapter 7
+1	Ojaoβok	aoβok	VERB	vt	Person=33	0	root	0:root	_
+2	serã	serã	ADV	adv	_	1	discourse	1:discourse	_
+3	ɨβɨá	ɨβɨá	PART	pcl	_	1	dep	1:dep	_
+4	ikatupe	katu	NOUN	n	Rel=NCont	6	nmod	6:nmod	_
+5	ɲẽ	ɲẽ	PART	pcl	_	4	discourse	4:discourse	_
+6	imoingóβo	moingó	VERB	_	Rel=NCont|VerbForm=Ger|Voice=Caus	1	advcl	1:advcl	_
+7	inupãnupã	nupã	NOUN	n	Aspect=Iter|Rel=NCont	1	obl	1:obl	_
+8	janondé	janondé	ADP	posp	_	7	case	7:case	_
+9	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
 # sent_id = 444325
 # text = Ojaoβok , ita okɨtá resé ipopwá , imoʔama .
 # text_eng = They undressed him, making him stand, tying his hans on a column. Book 3 chapter 7
