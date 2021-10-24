@@ -969,7 +969,7 @@
 # text = Setápe inupãnupãsara ?
 # text_eng = His killers, were they many? Book 3 chapter 7
 1	Setápe	etá	NOUN	n	Int=Yes|Rel=NCont	0	root	0:root	_
-2	inupãnupãsara	nupã	NOUN	n	Aspect=Iter|Nmzr=Ag|Red=Di|Rel=NCont	1	appos	1:appos	_
+2	inupãnupãsara	nupã	NOUN	n	Aspect=Iter|Nomzr=Ag|Red=Di|Rel=NCont	1	appos	1:appos	_
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 444327
