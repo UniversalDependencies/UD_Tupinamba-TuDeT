@@ -948,7 +948,7 @@
 3	ɨβɨá	ɨβɨá	PART	pcl	_	1	dep	1:dep	_
 4	ikatupe	katu	NOUN	n	Rel=NCont	6	nmod	6:nmod	_
 5	ɲẽ	ɲẽ	PART	pcl	_	4	discourse	4:discourse	_
-6	imoingóβo	moingó	VERB	_	Rel=NCont|VerbForm=Ger|Voice=Caus	1	advcl	1:advcl	_
+6	imoingóβo	moingó	VERB	_	Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
 7	inupãnupã	nupã	NOUN	n	Aspect=Iter|Rel=NCont	1	obl	1:obl	_
 8	janondé	janondé	ADP	posp	_	7	case	7:case	_
 9	?	?	PUNCT	punct	_	1	punct	1:punct	_
@@ -979,7 +979,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
 4	ojoporuporwaβo	_	VERB	v	Aspect=Iter|Person=3|Red=Di|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
-5	okaneʔõneʔõnamo	kaneʔõ	NOUN	n	Case=Trans|Red=Di	4	acl	4:acl	_
+5	okaneʔõneʔõnamo	kaneʔõ	NOUN	n	Case=Tra|Red=Di	4	acl	4:acl	_
 
 # sent_id = 444328
 # text = Seté jakatupe ɨβɨá imoperéperéβi , imouwɨsɨrɨka ?
