@@ -954,7 +954,7 @@
 9	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 444325
-# text = Ojaoβok , ita okɨtá resé ipopwá , imoʔama .
+# text = Ojaoβok , ita okɨtá resé ipopwá , imoʔama
 # text_eng = They undressed him, making him stand, tying his hans on a column. Book 3 chapter 7
 1	Ojaoβok	aoβok	VERB	vt	Person=33	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
