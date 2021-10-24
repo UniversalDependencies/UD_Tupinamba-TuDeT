@@ -969,7 +969,7 @@
 # text = Setápe inupãnupãsara ?
 # text_eng = His killers, were they many? Book 3 chapter 7
 1	Setápe	etá	NOUN	n	Int=Yes|Rel=NCont	0	root	0:root	_
-2	inupãnupãsara	nupã	NOUN	n	Aspect=Iter|Nmzr=Ag|Red=Dis|Rel=NCont	1	appos	1:appos	_
+2	inupãnupãsara	nupã	NOUN	n	Aspect=Iter|Nmzr=Ag|Red=Di|Rel=NCont	1	appos	1:appos	_
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 444327
@@ -978,8 +978,8 @@
 1	Setá	etá	NOUN	n	Rel=NCont	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
-4	ojoporuporwaβo	_	VERB	v	Aspect=Iter|Person=3|Red=Dis|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
-5	okaneʔõneʔõnamo	kaneʔõ	NOUN	n	Case=Trans|Red=Dis	4	acl	4:acl	_
+4	ojoporuporwaβo	_	VERB	v	Aspect=Iter|Person=3|Red=Di|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
+5	okaneʔõneʔõnamo	kaneʔõ	NOUN	n	Case=Trans|Red=Di	4	acl	4:acl	_
 
 # sent_id = 444328
 # text = Seté jakatupe ɨβɨá imoperéperéβi , imouwɨsɨrɨka ?
@@ -987,7 +987,7 @@
 1	Seté	eté	NOUN	n	_	4	nmod	4:nmod	_
 2	jakatupe	jakatu	ADP	posp	Int=Yes	1	case	1:case	_
 3	ɨβɨá	ɨβɨá	PART	pcl	_	4	dep	4:dep	_
-4	imoperéperéβi	peréβ	NOUN	n	Aspect=Iter|OblTop=Yes|Red=Dis|Rel=NCont|Voice=Cau	0	root	0:root	_
+4	imoperéperéβi	peréβ	NOUN	n	Aspect=Iter|OblTop=Yes|Red=Di|Rel=NCont|Voice=Cau	0	root	0:root	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	imouwɨsɨrɨka	owɨsɨrɨk	VERB	vi	Rel=NCont|VerbForm=Ger|Voice=Cau	4	advcl	4:advcl	_
 7	?	?	PUNCT	punct	_	4	punct	4:punct	_
