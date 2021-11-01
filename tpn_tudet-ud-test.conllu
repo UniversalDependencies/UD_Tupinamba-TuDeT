@@ -58,7 +58,7 @@
 15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	39:advcl	_
 16	,	,	PUNCT	punct	_	15	punct	15:punct	_
 17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	18:nummod	_
-18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	_	39	obl	39:obl	_
+18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	39:obl	_
 19	,	,	PUNCT	punct	_	18	punct	18:punct	_
 20	Reis	rei	NOUN	n	_	18	appos	18:appos	_
 21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	20:amod	_
@@ -67,7 +67,7 @@
 24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	25:nmod	_
 25	kotɨ	kotɨ	NOUN	n	_	27	obl	27:obl	_
 26	swi	swi	ADP	pos	_	25	case	25:case	_
-27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	_	18	acl	18:acl	_
+27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	18	acl	18:acl	_
 28	,	,	PUNCT	punct	_	27	punct	27:punct	_
 29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	27:obl	_
 30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	29:nmod	_
@@ -1290,7 +1290,7 @@
 1	Ojepoej	ej	VERB	v	Incorp=Yes|Person=3|Reflex=Yes	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	teʔɨja	eʔɨj	NOUN	n	Case=Ref|Rel=Hum	4	nmod	4:nmod	_
-4	remiepjákamo	epjak	NOUN	n	Case=Tra|Nom=Pass|Rel=Cont	1	obl	1:obl	_
+4	remiepjákamo	epjak	NOUN	n	Case=Tra|Nomzr=Pass|Rel=Cont	1	obl	1:obl	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2356
