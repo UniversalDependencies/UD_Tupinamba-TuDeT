@@ -13,7 +13,7 @@
 7	sɨkeme	sɨk	NOUN	n	Mood=Sub	19	advcl	19:advcl	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	Tupã	PROPN	propn	_	10	nmod	10:nmod	_
-10	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	13	nmod	13:nmod	_
+10	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	13	nmod	13:nmod	_
 11	osɨ	sɨ	NOUN	n	Reflex=Yes	10	obl	10:obl	_
 12	swi	swi	ADP	posp	_	11	case	11:case	_
 13-14	iʔariré	_	_	_	_	_	_	_	_
@@ -29,7 +29,7 @@
 # text = Ã tekó aʔereme moreroka kwe βɨá Iesus nongi seramo
 # text_eng =Eis que era lei, então, batizar: puseram como nome dele aquele de JESUS  Catálogo January 1
 1	Ã	ã	PART	pcl	_	2	discourse	2:discourse	_
-2	tekó	ekó	NOUN	n	Rel=Abs	0	root	0:root	_
+2	tekó	ekó	NOUN	n	Rel=Hum	0	root	0:root	_
 3	aʔereme	aʔereme	ADV	adv	_	2	advmod	2:advmod	_
 4	moreroka	erok	NOUN	n	Case=Ref|Voice=Cau	2	xcomp	2:xcomp	_
 5	kwe	kwe	DET	dem	_	7	nmod	7:nmod	_
@@ -54,11 +54,11 @@
 11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	14:nmod	_
 12	swi	swi	ADP	posp	_	11	case	11:case	_
 13	Tupã	Tupã	NOUN	n	_	14	nmod	14:nmod	_
-14	taʔɨra	aʔɨr	NOUN	n	Rel=Abs	15	nmod	15:nmod	_
+14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	15:nmod	_
 15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	39:advcl	_
 16	,	,	PUNCT	punct	_	15	punct	15:punct	_
 17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	18:nummod	_
-18	moruβiʃaβa	moruβiʃaβ	NOUN	Case=Ref	_	39	obl	39:obl	_
+18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	_	39	obl	39:obl	_
 19	,	,	PUNCT	punct	_	18	punct	18:punct	_
 20	Reis	rei	NOUN	n	_	18	appos	18:appos	_
 21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	20:amod	_
@@ -67,7 +67,7 @@
 24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	25:nmod	_
 25	kotɨ	kotɨ	NOUN	n	_	27	obl	27:obl	_
 26	swi	swi	ADP	pos	_	25	case	25:case	_
-27	ourɨβaʔe	ur	NOUN	Nomzr=Rel|Person=3	_	18	acl	18:acl	_
+27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	_	18	acl	18:acl	_
 28	,	,	PUNCT	punct	_	27	punct	27:punct	_
 29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	27:obl	_
 30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	29:nmod	_
@@ -89,7 +89,7 @@
 46	mirra	mirra	NOUN	n	_	43	conj	43:conj	_
 47	,	,	PUNCT	punct	_	46	punct	46:punct	_
 48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	46:appos	_
-49	toʔo	oʔo	NOUN	n	Rel=Abs	48	nmod	48:nmod	_
+49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	48:nmod	_
 50	swi	swi	ADP	posp	_	49	case	49:case	_
 
 # sent_id = 4444444
@@ -106,7 +106,7 @@
 9	sekó	ekó	NOUN	n	Rel=NCont	10	nmod	10:nmod	_
 10	kwapaβa	kwaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	parataxis	5:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	toʔo	oʔo	NOUN	n	Rel=Abs	14	nmod	14:nmod	_
+12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	14:nmod	_
 13	swi	swi	ADP	posp	_	12	case	12:case	_
 14	mirra	mirra	NOUN	n	_	17	nsubj	17:nsubj	_
 15	moroesé	_	NOUN	n	Rel=Hum	16	obj	16:obj	_
@@ -170,7 +170,7 @@
 16	okɨpe	ok	NOUN	n	_	14	obl	14:obl	_
 17	,	,	PUNCT	punct	_	14	punct	14:punct	_
 18	Tupã	Tupã	PROPN	propn	_	19	nmod	19:nmod	_
-19	tuβape	uβ	NOUN	n	Case=Dat|Rel=Abs	20	obl	20:obl	_
+19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	20:obl	_
 20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
 21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
 22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
@@ -254,9 +254,9 @@
 11	oréamotareʔɨmbara	_	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	5:obl	_
 12	swi	swi	ADP	posp	Rel=Cont	11	obl	11:obl	_
 13	.	.	PUNCT	punct	_	11	punct	11:punct	_
-14	Tuβa	uβa	NOUN	n	Rel=Abs	19	nmod	19:nmod	_
+14	Tuβa	uβa	NOUN	n	Rel=NCont	19	nmod	19:nmod	_
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
-16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	14	conj	14:conj	_
+16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	14	conj	14:conj	_
 17	,	,	PUNCT	punct	_	16	punct	16:punct	_
 18	EspíritoSanto	_	PROPN	_	_	14	conj	14:conj	_
 19	rera	er	NOUN	n	Rel=Cont	5	parataxis	5:parataxis	_
@@ -297,7 +297,7 @@
 # text_eng = (By) saying may god remove evil words awaz from my mouth. Book 1 chap 2
 1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person=33	6	ccomp	6:ccomp	_
 2	Tupã	Tupã	PROPN	propn	_	1	obl	1:obl	_
-3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	_	_	1	obl	1:obl	_
+3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	n	_	1	obl	1:obl	_
 4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	1:obl	_
 5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
 6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
@@ -316,7 +316,7 @@
 # text_eng = (by) saying, may god keep me apart from the evil acting, which comes from people's hearts. Book 1 chap 2
 1	Taʃepeʔa	_	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	10:ccomp	_
 2	Tupã	Tupã	PROPN	propn	_	1	nsubj	1:nsubj	_
-3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Abs	1	obl	1:obl	_
+3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	1:obl	_
 4	swi	swi	ADP	posp	Rel=Cont	3	case	3:case	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	_
 6	asé	asé	PRON	pro	PronType=Prs	7	nmod	7:nmod	_
@@ -336,11 +336,11 @@
 
 # sent_id = 14765
 # text = SantíssimaTrindade Tuβa , Taʔɨra , EspíritoSanto mosapɨr aβá , ojepé Tupã mombewaβo ɲẽ
-# text_eng = Proclaiming in fact the holy trinity, fatherm son, holy ghost, three persons, one god. Book 1 chap 2
+# text_eng = Proclaiming in fact the holy trinity, father, son, holy ghost, three persons, one god. Book 1 chap 2
 1	SantíssimaTrindade	SantíssimaTrindade	PROPN	propn	_	12	obj	12:obj	_
-2	Tuβa	uβa	NOUN	n	Case=Ref|Rel=Abs	1	appos	1:appos	_
+2	Tuβa	uβa	NOUN	n	Case=Ref|Rel=NCont	1	appos	1:appos	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Abs	1	appos	1:appos	_
+4	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	1	appos	1:appos	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	EspíritoSanto	EspíritoSanto	PROPN	_	_	1	appos	1:appos	_
 7	mosapɨr	mosapɨr	NUM	num	NumType=Card	8	nummod	8:nummod	_
@@ -697,7 +697,7 @@
 # text = Tupã Tuβa raʔɨreté ojepéβaʔeramo sekóreme
 # text_eng = For being the real son which is the unique one of god the father. Book 1 chap 3
 1	Tupã	Tupã	PROPN	propn	_	3	nmod	3:nmod	_
-2	Tuβa	uβa	NOUN	n	Rel=Abs	1	appos	1:appos	_
+2	Tuβa	uβa	NOUN	n	Rel=Hum	1	appos	1:appos	_
 3	raʔɨreté	aʔɨr	NOUN	n	Rel=Cont	5	nmod	5:nmod	_
 4	ojepéβaʔeramo	ojepé	NOUN	n	Case=Tra	3	acl	3:acl	_
 5	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	0:root	_
@@ -747,7 +747,7 @@
 # sent_id = 57
 # text = Natuβitepe apɨaβetéramo ojkóβo ?
 # text_eng = Doens't he have a father being real god? Book 1 chap 3
-1	Natuβitepe	úβ	NOUN	n	Int=Yes|Polarity=Neg|Rel=Abs	0	root	0:root	_
+1	Natuβitepe	úβ	NOUN	n	Int=Yes|Polarity=Neg|Rel=NCont	0	root	0:root	_
 2	apɨaβetéramo	apɨaβ	NOUN	n	Case=Tra|Intens=Yes	3	obl	3:obl	_
 3	ojkóβo	ikó	VERB	v	Person=3|VerbForm=Ger	1	advcl	1:advcl	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
@@ -755,7 +755,7 @@
 # sent_id = 58
 # text = Natuβi , oɲemoɲang e osɨ iatõjmbɨreʔɨma rɨgepe
 # text_eng = He doesn't have a father, in fact he made himself in the womb of his mother
-1	Natuβi	uβ	NOUN	n	Polarity=Neg|Rel=Abs	0	root	0:root	_
+1	Natuβi	uβ	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	oɲemoɲang	moɲang	VERB	v	Person=3|Reflex=Yes	1	parataxis	1:parataxis	_
 4	e	e	PART	pcl	_	3	discourse	3:discourse	_
@@ -789,7 +789,7 @@
 # text = Tekoangaipaβokáramo jandéjara JesusCristo rekóreme
 # text_eng = For being our lord JC the one who pulls out /rips the sins.  book 3-3
 1-3	Tekoangaipaβokáramo	_	_	_	_	_	_	_	_
-1	teko	eko	NOUN	n	Rel=Abs	3	nmod	3:nmod	_
+1	teko	eko	NOUN	n	Rel=Hum	3	nmod	3:nmod	_
 2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	1:nmod	_
 3	okáramo	okar	NOUN	n	Case=Tra	5	nsubj	5:nsubj	_
 4-5	jandéjara	_	_	_	_	_	_	_	_
@@ -808,7 +808,7 @@
 2	ojkóβo	ojkó	VERB	vi	Number=Sing|Person=3|VerbForm=Ger	6	advcl	6:advcl	_
 3	pe	pe	PART	pcl	_	2	discourse	2:discourse	_
 4-5	tekoangaipaβa	_	_	_	_	_	_	_	_
-4	teko	eko	NOUN	n	Rel=Abs	6	nmod	6:nmod	_
+4	teko	eko	NOUN	n	Rel=Hum	6	nmod	6:nmod	_
 5	angaipaβa	angaipaβ	NOUN	n	Case=Ref	4	nmod	4:nmod	_
 6	ʔóki	ʔok	NOUN	n	_	1	dep	1:dep	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
@@ -819,7 +819,7 @@
 1	Seʔõawera	eʔõ	NOUN	n	Rel=NCont|Tense=Past	0	root	_	_
 2	resépe	esé	ADP	posp	_	1	case	_	_
 3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
-4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	3	dep	_	_
+4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Hum	3	dep	_	_
 5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomzr=Circ	1	dep	_	_
 6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
@@ -1289,8 +1289,8 @@
 # text_eng = He washed his own hands, as seen by the crowd. Book 3 chap 8
 1	Ojepoej	ej	VERB	v	Incorp=Yes|Person=3|Reflex=Yes	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	teʔɨja	eʔɨj	NOUN	n	Case=Ref|Rel=Abs	4	nmod	4:nmod	_
-4	remiepjákamo	epjak	NOUN	Case=Tra|Nom=Pass|Rel=Cont	_	1	obl	1:obl	_
+3	teʔɨja	eʔɨj	NOUN	n	Case=Ref|Rel=Hum	4	nmod	4:nmod	_
+4	remiepjákamo	epjak	NOUN	n	Case=Tra|Nom=Pass|Rel=Cont	1	obl	1:obl	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2356
@@ -1365,7 +1365,7 @@
 # sent_id = 1003
 # text = Turusukatupe aʔe cruz erimbaʔe ?
 # text_eng = Was the cross then very big? book 3-chap 9
-1	Turusukatupe	eburusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
+1	Turusukatupe	eburusu	NOUN	n	Intens=Yes|Rel=NCont	3	nmod	3:nmod	_
 2	aʔe	aʔe	DET	dem	_	3	nmod	3:nmod	_
 3	cruz	cruz	NOUN	n	_	0	root	0:root	_
 4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	3:advmod	_
@@ -1374,7 +1374,7 @@
 # sent_id = 1004
 # text = Turusukatu , ndʔeʔiteʔe seroʔaroʔa serasóβo iposɨja swi
 # text_eng =  It was very big, for this reason he kept on falling while carrying it, from its wheight   book 3-chap 9
-1	Turusukatu	(eb)urusu	NOUN	n	Intens=Yes|Rel=Abs	0	root	0:root	_
+1	Turusukatu	(eb)urusu	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ndʔeʔiteʔe	ndʔeʔiteʔe	ADV	v	_	1	parataxis	1:parataxis	gloss_eng=Neg-say-for.no.reason
 4	seroʔaroʔa	ʔar	NOUN	n	Aspect=Iter|Rel=NCont	3	advcl	3:advcl	_
@@ -1474,18 +1474,18 @@
 
 # sent_id = 1014
 # text = Ojukaawera repɨramo amõ apɨaβa toβajara marana ri tekoara irã akwé taβusu Jerusalém ʔiaβa pora mombeβawama kwapa ɲẽ ajpó iʔew
-# text_eng = He said this futurely knowing of the smashing (to come) of the of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9
+# text_eng = He said this futurely knowing of the smashing (to come) of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9
 1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	2:nmod	_
 2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	15:nmod	_
 3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	15	nmod	15:nmod	_
-5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Abs	4	conj	4:conj	_
+5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Hum	4	conj	4:conj	_
 6	marana	marana	NOUN	n	_	8	nmod	8:nmod	_
 7	ri	ri	ADP	posp	_	6	case	6:case	_
-8	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	5	conj	5:conj	_
+8	tekoara	eko	NOUN	n	Case=Ref|Rel=Hum	5	conj	5:conj	_
 9	irã	irã	ADV	adv	_	16	advmod	16:advmod	_
 10	akwé	akwé(j)	DET	dem	_	11	nmod	11:nmod	_
-11	taβusu	aβa	NOUN	n	Rel=Abs	14	nmod	14:nmod	_
+11	taβusu	aβa	NOUN	n	Rel=Cont	14	nmod	14:nmod	_
 12	Jerusalém	Jerusalém	PROPN	_	_	11	appos	11:appos	_
 13	ʔiaβa	ʔi	NOUN	n	_	12	amod	12:amod	_
 14	pora	por	NOUN	n	Case=Ref	8	appos	8:appos	_
@@ -1602,7 +1602,7 @@
 1	Ikatupe	ikatupe	NOUN	n	Rel=NCont	3	nmod	3:nmod	_
 2	ɲẽpe	ɲẽ	PART	pcl	_	1	discourse	1:discourse	_
 3	seków	ekó	NOUN	n	Rel=NCont	0	root	0:root	_
-4	teʔɨjpe	teʔɨjpe	NOUN	n	Case=Loc|Rel=Abs	3	obl	3:obl	_
+4	teʔɨjpe	teʔɨjpe	NOUN	n	Case=Loc|Rel=NCont	3	obl	3:obl	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 1026
@@ -2155,7 +2155,7 @@
 3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
 4	marana	maran	NOUN	n	Case=Ref	6	obl	6:obl	_
 5	ri	ri	ADP	posp	_	4	case	4:case	_
-6	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	1	obl	1:obl	_
+6	tekoara	eko	NOUN	n	Case=Ref|Rel=Hum	1	obl	1:obl	_
 7	aʔe	aʔe	DET	dem	_	9	nmod	9:nmod	_
 8	mokõj	mokõj	NUM	num	NumType=Card	9	nummod	9:nummod	_
 9	mondá	mondá	NOUN	n	Case=Ref	10	nmod	10:nmod	_
@@ -2200,7 +2200,7 @@
 2	aʔe	_	DET	dem	_	5	nmod	5:nmod	_
 3	marana	marana	NOUN	n	_	5	nmod	5:nmod	_
 4	ri	ri	ADP	posp	_	3	case	3:case	_
-5	tekoara	eko	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Abs	6	nmod	6:nmod	_
+5	tekoara	eko	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Hum	6	nmod	6:nmod	_
 6	so	so	NOUN	n	_	0	root	0:root	_
 7	re	re	ADP	posp	_	6	case	6:case	_
 8	,	,	PUNCT	punct	_	6	punct	6:punct	_
@@ -2374,7 +2374,7 @@
 3	ʃemoɨrõetékatuaβo	moɨrõetékatuaβo	VERB	v	Intens=Yes|Number=Sing|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ajpó	ajpó	DET	dem	_	6	nmod	6:nmod	_
-6	tekópɨsasu	ekópɨsasu	NOUN	n	Rel=Abs	0	root	0:root	_
+6	tekópɨsasu	ekópɨsasu	NOUN	n	Rel=Hum	0	root	0:root	_
 
 # sent_id = 5001
 # text = Aβá serã oweru , ʃeretama momoʃɨaβo ?
