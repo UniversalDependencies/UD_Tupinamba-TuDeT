@@ -1290,7 +1290,7 @@
 1	Ojepoej	ej	VERB	v	Incorp=Yes|Person=3|Reflex=Yes	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	teʔɨja	eʔɨj	NOUN	n	Case=Ref|Rel=Hum	4	nmod	4:nmod	_
-4	remiepjákamo	epjak	NOUN	n	Case=Tra|Nomzr=Pass|Rel=Cont	1	obl	1:obl	_
+4	remiepjákamo	epjak	NOUN	n	Case=Tra|Nomzr=Pas|Rel=Cont	1	obl	1:obl	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 2356
