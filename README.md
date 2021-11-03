@@ -1,7 +1,7 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is a work in progress and the treebank is being updated on a regular basis.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is work-in-progress and the treebank is being updated on a regular basis.
 
 
 
