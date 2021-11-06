@@ -6,7 +6,7 @@
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
 1	Mokõj	mokõj	NUM	num	_	2	nmod	_	_
 2	ojoirundɨk	ojoirundɨk	NUM	num	_	6	nummod	_	_
-3	,	_	PUNCT	punct	_	2	punct	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
 4	oito	oito	NUM	num	_	2	appos	_	_
 5	,	,	PUNCT	punct	_	2	punct	_	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
@@ -109,7 +109,7 @@
 12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	_	_
 13	swi	swi	ADP	posp	_	12	case	_	_
 14	mirra	mirra	NOUN	n	_	17	nsubj	_	_
-15	moroesé	_	NOUN	n	Rel=Hum	16	obj	_	_
+15	moroesé	moroesé	NOUN	n	Rel=Hum	16	obj	_	_
 16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	_	_
 17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	_	_
 
@@ -149,17 +149,17 @@
 7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	_	_
 
 # sent_id = 888888
-# text = ʃepó ʃepɨ aβá pó ipɨ ʔara omembɨrawera kwaβiré , SantaMaria omembɨra Iesus rerasow Tupã okɨpe , Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
+# text = ʃepó ʃepɨ aβá po ipɨ ʔara omembɨrawera kwaβiré , SantaMaria omembɨra Iesus rerasow Tupã okɨpe , Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
 # text_eng = Saint Mary took her son to the house of god, after forty days had passed form his birth, in order to present him to god the father, according to the law of the jews. Catálogo 2 February
-1	ʃepó	_	NOUN	n	Number=Sing|Person=1	6	nmod	_	_
-2	ʃepɨ	_	NOUN	n	Number=Sing|Person=1	1	conj	_	_
-3	aβá	_	NOUN	n	_	4	nmod	_	_
-4	pó	_	NOUN	n	_	1	conj	_	_
-5	ipɨ	_	NOUN	n	Rel=NCont	1	conj	_	_
+1	ʃepó	po	NOUN	n	Number=Sing|Person=1	6	nmod	_	_
+2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	_	_
+3	aβá	aβá	NOUN	n	_	4	nmod	_	_
+4	po	po	NOUN	n	_	1	conj	_	_
+5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	_	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	_	_
 7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	_	_
 8-9	kwaβiré	_	_	_	_	_	_	_	_
-8	kwaβ	kwaβ	NOUN	n	_	6	obl	_	_
+8	kwaβ	kwab	NOUN	n	_	6	obl	_	_
 9	iré	iré	ADP	posp	_	8	case	_	_
 10	,	,	PUNCT	punct	_	6	punct	_	_
 11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
@@ -197,7 +197,7 @@
 # text_eng = What is the sign of the christians? Book 1 chap 2
 1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	_	_
 2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	_	_
-3	jekwapaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
+3	jekwapaβa	kwab	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 2
@@ -216,7 +216,7 @@
 # sent_id = 4
 # text = iʔárɨβo omanõmo jandéjara jandérepɨmeʔengawera resé , Aɲanga ratá swi jandépɨsɨrõ resé βé
 # text_eng = By dying on it our lord for our rescue, for our liberation from the fire of the devil also. Book 1 chap 2
-1	iʔárɨβo	_	ADP	posp	Rel=NCont	2	case	_	_
+1	iʔárɨβo	ʔar	ADP	posp	Rel=NCont	2	case	_	_
 2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	_	_
 4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	_	_
@@ -242,11 +242,11 @@
 # text = SantaCruz raʔangaβa resé , orépɨsɨrõ jepé , Tupã oréjar , oréamotareʔɨmbara swi . Tuβa , Taʔɨra , EspíritoSanto rera pupé eʔi
 # text_eng = They say, by the sign of the holy cross, free us, God, our lord, from our lord. In the name of the father, of the son, of the holy ghost. Book 1 chap 2
 1	SantaCruz	cruz	NOUN	n	_	2	nmod	_	_
-2	raʔangaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	_	_
+2	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	_	_
 3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
-5	orépɨsɨrõ	_	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	_	_
-6	jepé	_	PRON	_	_	5	nsubj	_	_
+5	orépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	_	_
+6	jepé	jepé	PRON	_	_	5	nsubj	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	Tupã	Tupã	PROPN	propn	_	5	nsubj	_	_
 9	oréjar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	_	_
@@ -258,7 +258,7 @@
 15	,	,	PUNCT	punct	_	14	punct	_	_
 16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	14	conj	_	_
 17	,	,	PUNCT	punct	_	16	punct	_	_
-18	EspíritoSanto	_	PROPN	_	_	14	conj	_	_
+18	EspíritoSanto	EspíritoSanto	PROPN	_	_	14	conj	_	_
 19	rera	er	NOUN	n	Rel=Cont	5	parataxis	_	_
 20	pupé	pupé	ADP	posp	Rel=Cont	19	case	_	_
 21	eʔi	ʔi	VERB	v	Person=3	0	root	_	_
@@ -268,7 +268,7 @@
 # text_eng = Why do we put the crossing of the face on the forehead? Book 1 chap 2
 1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	5	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	5	nsubj	_	_
-3	osɨβápe	_	NOUN	n	Case=Loc|Int=Yes	4	obl	_	_
+3	osɨβápe	sɨβá	NOUN	n	Case=Loc|Int=Yes	4	obl	_	_
 4	joβasaβa	joβasaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	nmod	_	_
 5	moini	moin	NOUN	n	OblTop=Yes|Voice=Cau	0	root	_	_
 6	?	?	PUNCT	punct	_	5	punct	_	_
@@ -314,13 +314,13 @@
 # sent_id = 1235234535
 # text = Taʃepeʔa Tupã tekoangajpaβa swi , asé ɲɨʔã swi osembaʔe  ojaβo
 # text_eng = (by) saying, may god keep me apart from the evil acting, which comes from people's hearts. Book 1 chap 2
-1	Taʃepeʔa	_	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	_	_
+1	Taʃepeʔa	peʔa	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	nsubj	_	_
-3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	_	_
+3	tekoangajpaβa	ekoangajpab	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	_	_
 4	swi	swi	ADP	posp	Rel=Cont	3	case	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	asé	asé	PRON	pro	PronType=Prs	7	nmod	_	_
-7	ɲɨʔã	_	NOUN	n	_	9	nmod	_	_
+7	ɲɨʔã	ɲɨʔã	NOUN	n	_	9	nmod	_	_
 8	swi	swi	ADP	posp	Rel=Cont	7	case	_	_
 9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	_	_
 10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	_	_
@@ -348,7 +348,7 @@
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	ojepé	ojepé	NUM	num	NumType=Card	11	nummod	_	_
 11	Tupã	Tupã	PROPN	propn	_	1	appos	_	_
-12	mombewaβo	_	VERB	v	VerbForm=Ger	0	root	_	_
+12	mombewaβo	mombeʔu	VERB	v	VerbForm=Ger	0	root	_	_
 13	ɲẽ	ɲẽ	PART	pcl	_	12	discourse	_	_
 
 # sent_id = 15
@@ -367,7 +367,7 @@
 3	jaβiʔõ	jaβiʔõ	DET	_	_	2	nmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	kwépe	kwépe	ADV	adv	_	7	advmod	_	_
-6	marãtekó	_	NOUN	n	_	7	nmod	_	_
+6	marãtekó	marãtekó	NOUN	n	_	7	nmod	_	_
 7	omoʔangekoaíme	_	NOUN	n	Mood=Sub|Reflex=Yes|Voice=Cau	2	parataxis	_	_
 
 # sent_id = 1719728
@@ -465,7 +465,7 @@
 # sent_id = 28
 # text = Ojerokɨ .
 # text_eng = We bow ourselves.
-1	Ojerokɨ	_	VERB	vt	Person=33|Reflex=Yes|VerbForm=Ger	0	root	_	_
+1	Ojerokɨ	jerokɨ	VERB	vt	Person=33|Reflex=Yes|VerbForm=Ger	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 29
