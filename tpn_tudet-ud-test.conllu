@@ -827,9 +827,9 @@
 # text_eng = From the devil, from the sin, from evil things also (Araújo, Book 1 chapt. 4, 23v)
 1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	0:root	_
 2	swi	swi	ADP	posp	_	1	case	1:case	_
-3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Ref|Rel=HUM	1	parataxis	1:parataxis	_
+3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Ref|Rel=Hum	1	parataxis	1:parataxis	_
 4	swi	swi	ADP	posp	_	3	case	3:case	_
-5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Arg	1	parataxis	1:parataxis	_
+5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Ref	1	parataxis	1:parataxis	_
 6	swi	swi	ADP	posp	_	5	case	5:case	_
 7	βe	βe	ADV	adv	_	5	advmod	5:advmod	_
 
