@@ -768,7 +768,7 @@
 # text_eng =  (Araújo, Book 1 chapt. 4, 23v)
 # text_por = São os anjos nossos guardiães?
 1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
-2	rarõanamotepe	arõ	NOUN	n	Case=Tra|Foc=Yes|Int=Yes|Rel=Cont	4	obl	4:obl	_
+2	rarõanamotepe	arõ	NOUN	n	Case=Tra|Int=Yes|Rel=Cont	4	obl	4:obl	_
 3	karaiβeβé	karaiβeβé	NOUN	n	_	4	nsubj	4:nsubj	_
 4	reków	ikó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
