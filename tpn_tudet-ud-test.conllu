@@ -780,7 +780,7 @@
 1	Asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
 2	rarõanamo	arõ	NOUN	n	Case=Tras|Rel=Cont	0	root	0:root	_
 
-# sent_id = 401
+# sent_id = 402
 # text = Ojaβiʔõpe asé sereków ?
 # text_eng =  Do we have each his own? (Araújo, Book 1 chapt. 4, 23v)
 # text_por = A gente os tem cada um o seu próprio (anjo da guarda)? 
@@ -788,7 +788,7 @@
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
 3	sereków	ikó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 
-# sent_id = 402
+# sent_id = 403
 # text = Maʔerama resépe Tupã imeʔeŋi aséβe ?
 # text_eng = Why will God give it to us? (Araújo, Book 1 chapt. 4, 23v)
 # text_por =  
