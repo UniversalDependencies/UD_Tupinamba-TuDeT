@@ -821,7 +821,7 @@
 1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	2:nmod	_
 2	swipe	swi	ADP	posp	Int=Yes	4	obl	4:obl	_
 3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
-4	rarõw?	arõ	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
+4	rarõw	arõ	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 407
