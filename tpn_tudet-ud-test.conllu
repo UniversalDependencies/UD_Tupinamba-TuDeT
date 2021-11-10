@@ -782,9 +782,9 @@
 
 # sent_id = 402
 # text = Ojaβiʔõpe asé sereków ?
-# text_eng =  Do we have each his own? (Araújo, Book 1 chapt. 4, 23v)
+# text_eng =  Do we have each his own? (Araújo, Book 1 chapt. 4, 23v).    add PronType=Tot
 # text_por = A gente os tem cada um o seu próprio (anjo da guarda)? 
-1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|PronType=Tot|Reflex=Yes	3	obj	3:obj	_
+1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Reflex=Yes	3	obj	3:obj	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
 3	sereków	ikó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
