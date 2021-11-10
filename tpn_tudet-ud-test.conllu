@@ -847,7 +847,7 @@
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 411
-# text = Karaiβeβe ʃeraroã ʃepeʔá maʔeaiβa swi kori Tupã remimomotara rupi ʃemoingóβo , eʔi
+# text = Karaiβeβe ʃeraroã ʃepeʔá jepe maʔeaiβa swi kori Tupã remimomotara rupi ʃemoingóβo , eʔi
 # text_eng = Oh guar angel, my protector, guard me from evil things today, making me according the will of God (Araújo, Book 1 chapt. 4, 23v)
 1	Karaiβeβe	karaiβeβe	NOUN	n	_	3	vocative	3:vocative	_
 2	ʃeraroã	aroã	NOUN	n	Rel=Cont	1	appos	1:appos	_
