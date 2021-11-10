@@ -763,6 +763,114 @@
 6	iatõjmbɨreʔɨma	_	NOUN	n	Case=Ref|Dev=Pass|Polarity=Neg	7	nmod	_	_
 7	rɨgepe	rɨge	NOUN	n	Case=Loc	3	obl	_	_
 
+# sent_id = 400
+# text = Ase rarõanamotepe karaiβeβé reków ?
+# text_eng =  (Araújo, Book 1 chapt. 4, 23v)
+# text_por = São os anjos nossos guardiães?
+1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
+2	rarõanamotepe	arõ	NOUN	n	Case=Tras|Foc=Yes|Inte=Yes|Rel=Cont	4	obl	4:obl	_
+3	karaiβeβé	karaiβeβé	NOUN	n	_	4	nsubj	4:nsubj	_
+4	reków	ikó	NOUN	n	Rel=Cont|OblTop=Yes	0	root	0:root	_
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 401
+# text = Asé rarõanamo
+# text_eng = Are the angels our protectors? (Araújo, Book 1 chapt. 4, 23v)
+# text_por = São os anjos nossos guardiães?
+1	Asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+2	rarõanamo	arõ	NOUN	n	Case=Tras|Rel=Cont	0	root	0:root	_
+
+# sent_id = 401
+# text = Ojaβiʔõpe asé sereków ?
+# text_eng =  Do we have each his own? (Araújo, Book 1 chapt. 4, 23v)
+# text_por = A gente os tem cada um o seu próprio (anjo da guarda)? 
+1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Prontyp=Tot|Reflex=Yes	3	obj	3:obj	_
+2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
+3	sereków	ikó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
+
+# text = Maʔerama resépe Tupã imeʔeŋi aséβe ?
+# text_eng = Why will God give it to us? (Araújo, Book 1 chapt. 4, 23v)
+# text_por =  
+1	Maʔerama	maʔe	PRON	pro	PronType=Int|Tense=Fut	2	nmod	2:nmod	_
+2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	4	advmod	4:advmod	_
+3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	4:nmod	_
+4	imeʔeŋi	meʔeŋ	NOUN	n	OblTop=Yes|Rel=Ncont	0	root	0:root	_
+5	aséβe	asé	PRON	pro	_	4	obl	4:obl	_
+6	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 404
+# text = Asé sumarã swi
+# text_eng =  For our protection      (Araújo, Book 1 chapt. 4, 23v)
+1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
+2	sumarã	sumarã	NOUN	n	_	0	root	0:root	_
+3	swi	swi	ADP	posp	_	2	obl	2:obl	_
+
+# sent_id = 405
+# text = asé rarõawama resé
+# text_eng = To guard us / for our protection (Araújo, Book 1 chapt. 4, 23v)
+# text_por = 
+1	asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
+2	rarõawama	arõ	NOUN	n	Rel=Cont|Tense=Fut	3	nmod	3:nmod	_
+3	resé	esé	ADP	posp	Rel=Cont	0	root	0:root	_
+
+# sent_id = 406
+# text = Maʔemaʔe swipe asé rarõw ?
+# text_eng = From what do we protect us       (Araújo, Book 1 chapt. 4, 23v)
+1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	2:nmod	_
+2	swipe	swi	ADP	posp	Int=Yes	4	advmod	4:advmod	_
+3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
+4	rarõw?	arõ	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 407
+# text = Aɲanga swi tekoangajpaβa swi maʔeaiβa swi βe
+# text_eng = From the devil, from the sin, from evil things also (Araújo, Book 1 chapt. 4, 23v)
+1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	0:root	_
+2	swi	swi	ADP	posp	_	1	case	1:case	_
+3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Arg|Rel=HUM	1	parataxis	1:parataxis	_
+4	swi	swi	ADP	posp	_	3	case	3:case	_
+5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Arg	1	parataxis	1:parataxis	_
+6	swi	swi	ADP	posp	_	5	case	5:case	_
+7	βe	βe	ADV	adv	_	5	advmod	5:advmod	_
+
+# sent_id = 409
+# text = Marã eʔipe asé karaiβeβe oarõana mongetábo ?
+# text_eng = What do we sa, when we talk to the guard angel? (Araújo, Book 1 chapt. 4, 23v)
+1	Marã	marã	PRON	pro	_	2	obj	2:obj	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
+3	asé	asé	PRON	pro	PronType=Prs	4	nmod	4:nmod	_
+4	karaiβeβe	karaiβeβe	NOUN	_	_	6	obj	6:obj	_
+5	oarõana	arõan	NOUN	n	Case=Arg|Reflex=Yes	4	appos	4:appos	_
+6	mongetábo	mongetábo	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
+7	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 411
+# text = Karaiβeβe ʃeraroã ʃepeʔá maʔeaiβa swi kori Tupã remimomotara rupi ʃemoingóβo , eʔi
+# text_eng = Oh guar angel, my protector, guard me from evil things today, making me according the will of God (Araújo, Book 1 chapt. 4, 23v)
+1	Karaiβeβe	karaiβeβe	NOUN	n	_	3	vocative	3:vocative	_
+2	ʃeraroã	aroã	NOUN	n	Rel=Cont	1	appos	1:appos	_
+3	ʃepeʔá	peʔa	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
+4	jepe	jepe	NOUN	n	_	3	nsubj	3:nsubj	_
+5	maʔeaiβa	maʔeaiβ	NOUN	n	Case=Arg	3	obj	3:obj	_
+6	swi	swi	ADP	posp	_	5	case	5:case	_
+7	kori	kori	ADV	adv	_	3	advmod	3:advmod	_
+8	Tupã	Tupã	NOUN	n	_	9	nmod	9:nmod	_
+9	remimomotara	emimomotar	NOUN	n	Case=Arg|Dev=Pass|Rel=Cont	11	obl	11:obl	_
+10	rupi	upi	ADP	posp	Rel=NCont	9	case	9:case	_
+11	ʃemoingóβo	moingó	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	3	advcl	3:advcl	_
+12	,	,	PUNCT	punct	_	3	punct	3:punct	_
+13	eʔi	ʔi	VERB	v	Number=Sing|Person=3	3	parataxis	3:parataxis	_
+
+# sent_id = 414
+# text = Aβaaβape asé resé Tupã mongetasaramo seków ?
+# text_eng =     (Araújo, Book 1 chapt. 4, 23v)
+1	Aβaaβape	aβa	NOUN	n	Int=Yes	0	root	0:root	_
+2	asé	asé	PRON	pro	PronType=Prs	5	obl	5:obl	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	Tupã	Tupã	PROPN	propn	_	5	nmod	5:nmod	_
+5	mongetasaramo	mongeta	NOUN	n	Case=Tra|Nmzr=Ag	6	nsubj	6:nsubj	_
+6	seków?	ekó	VERB	v	OblTop=Yes|Rel=NCont	1	cop	1:cop	_
+
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
 # text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
