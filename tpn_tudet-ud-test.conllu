@@ -827,7 +827,7 @@
 # text_eng = From the devil, from the sin, from evil things also (Araújo, Book 1 chapt. 4, 23v)
 1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	0:root	_
 2	swi	swi	ADP	posp	_	1	case	1:case	_
-3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Arg|Rel=HUM	1	parataxis	1:parataxis	_
+3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Ref|Rel=HUM	1	parataxis	1:parataxis	_
 4	swi	swi	ADP	posp	_	3	case	3:case	_
 5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Arg	1	parataxis	1:parataxis	_
 6	swi	swi	ADP	posp	_	5	case	5:case	_
@@ -839,8 +839,8 @@
 1	Marã	marã	PRON	pro	_	2	obj	2:obj	_
 2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
 3	asé	asé	PRON	pro	PronType=Prs	4	nmod	4:nmod	_
-4	karaiβeβe	karaiβeβe	NOUN	_	_	6	obj	6:obj	_
-5	oarõana	arõan	NOUN	n	Case=Arg|Reflex=Yes	4	appos	4:appos	_
+4	karaiβeβe	karaiβeβe	NOUN	n	_	6	obj	6:obj	_
+5	oarõana	arõan	NOUN	n	Case=Ref|Reflex=Yes	4	appos	4:appos	_
 6	mongetábo	mongetábo	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
@@ -851,11 +851,11 @@
 2	ʃeraroã	aroã	NOUN	n	Rel=Cont	1	appos	1:appos	_
 3	ʃepeʔá	peʔa	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
 4	jepe	jepe	NOUN	n	_	3	nsubj	3:nsubj	_
-5	maʔeaiβa	maʔeaiβ	NOUN	n	Case=Arg	3	obj	3:obj	_
+5	maʔeaiβa	maʔeaiβ	NOUN	n	Case=Ref	3	obj	3:obj	_
 6	swi	swi	ADP	posp	_	5	case	5:case	_
 7	kori	kori	ADV	adv	_	3	advmod	3:advmod	_
 8	Tupã	Tupã	NOUN	n	_	9	nmod	9:nmod	_
-9	remimomotara	emimomotar	NOUN	n	Case=Arg|Dev=Pass|Rel=Cont	11	obl	11:obl	_
+9	remimomotara	emimomotar	NOUN	n	Case=Ref|Dev=Pass|Rel=Cont	11	obl	11:obl	_
 10	rupi	upi	ADP	posp	Rel=NCont	9	case	9:case	_
 11	ʃemoingóβo	moingó	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	3	advcl	3:advcl	_
 12	,	,	PUNCT	punct	_	3	punct	3:punct	_
