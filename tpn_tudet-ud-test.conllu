@@ -787,7 +787,7 @@
 1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|PronType=Tot|Reflex=Yes	3	obj	3:obj	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
 3	sereków	ikó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 403
 # text = Maʔerama resépe Tupã imeʔeŋi aséβe ?
