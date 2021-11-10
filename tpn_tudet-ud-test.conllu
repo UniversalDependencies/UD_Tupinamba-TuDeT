@@ -2461,6 +2461,6 @@
 # text_por = não quero que os homens a façam cessar.
 1	naipotari	potar	VERB	vt	Number=Sing|Person=13|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
-3	imomɨka	momɨka	VERB	v	Rel=NCont|VerForm=Ger	1	obl	1:obl	_
+3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
