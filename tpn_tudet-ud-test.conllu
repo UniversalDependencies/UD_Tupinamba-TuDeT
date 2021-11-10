@@ -818,7 +818,7 @@
 # text = Maʔemaʔe swipe asé rarõw ?
 # text_eng = From what do we protect us       (Araújo, Book 1 chapt. 4, 23v)
 1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	2:nmod	_
-2	swipe	swi	ADP	posp	Int=Yes	4	advmod	4:advmod	_
+2	swipe	swi	ADP	posp	Int=Yes	4	obl	4:obl	_
 3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
 4	rarõw?	arõ	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
@@ -870,7 +870,7 @@
 3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
 4	Tupã	Tupã	PROPN	propn	_	5	nmod	5:nmod	_
 5	mongetasaramo	mongeta	NOUN	n	Case=Tra|Nmzr=Ag	6	nsubj	6:nsubj	_
-6	seków?	ekó	VERB	v	OblTop=Yes|Rel=NCont	1	cop	1:cop	_
+6	seków?	ekó	NOUN	n	OblTop=Yes|Rel=NCont	1	cop	1:cop	_
 
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
