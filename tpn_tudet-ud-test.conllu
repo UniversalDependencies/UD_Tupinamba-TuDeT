@@ -778,7 +778,7 @@
 # text_eng = Are the angels our protectors? (Araújo, Book 1 chapt. 4, 23v)
 # text_por = São os anjos nossos guardiães?
 1	Asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
-2	rarõanamo	arõ	NOUN	n	Case=Tras|Rel=Cont	0	root	0:root	_
+2	rarõanamo	arõ	NOUN	n	Case=Tra|Rel=Cont	0	root	0:root	_
 
 # sent_id = 402
 # text = Ojaβiʔõpe asé sereków ?
