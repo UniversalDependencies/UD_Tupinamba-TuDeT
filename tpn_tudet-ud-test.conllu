@@ -2595,3 +2595,16 @@
 5	mojeβɨjeβɨra	jeβɨr	VERB	v	Red=Di|Reflex=Yes|VerbForm=Ger|Voice=Cau	2	advcl	2:advcl	_
 6	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 
+# text = Ajpó sawsukatupɨra, ajpó aɲẽ jamomeʔu ajpó imomoraŋɨpɨra
+# text_eng = This is what must be liked, this really we assert, this must be celebrated.    (Teatro, 42, p.8)
+1	Ajpó	ajpó	DET	dem	_	2	nsubj	2:nsubj	_
+2	sawsukatupɨra	awsub	NOUN	n	Intens=Yes|Nomzr=Pas|Rel=NCont	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	ajpó	ajpó	DET	dem	_	6	nsubj	6:nsubj	_
+5	aɲẽ	aɲẽ	PART	prcl	_	6	discourse	6:discourse	_
+6	jamomeʔu	ʔu	VERB	_	Clusivity=In|Voice=Cau	2	conj	2:conj	_
+7	ajpó	ajpó	DET	dem	_	8	nsubj	8:nsubj	_
+8	imomoraŋɨpɨra	momoraŋ	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	2	conj	2:conj	_
+9	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
