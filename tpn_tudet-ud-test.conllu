@@ -2575,3 +2575,13 @@
 3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 01813628
+# text = Aipotákatu tenhẽ opaβĩ taβa mondɨka .
+# text_eng = I want for nor reason destroy all villages. (Teatro 37, p 8)
+1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person=13	0	root	0:root	_
+2	tenhẽ	tenhẽ	PART	prcl	_	1	discourse	1:discourse	_
+3	opaβĩ	opaβĩ	PRON	pro	_	4	nmod	4:nmod	_
+4	taβa	tab	NOUN	n	Case=Ref	5	obj	5:obj	_
+5	mondɨka	mondɨk	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
