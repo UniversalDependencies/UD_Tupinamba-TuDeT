@@ -2596,7 +2596,7 @@
 6	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 9577444355776
-# text = Ajpó sawsukatupɨra , ajpó aɲẽ jamomeʔu ajpó imomoraŋɨpɨra
+# text = Ajpó sawsukatupɨra , ajpó aɲẽ jamomeʔu ajpó imomoraŋɨpɨra .
 # text_eng = This is what must be liked, this really we assert, this must be celebrated.    (Teatro, 42, p.8)
 1	Ajpó	ajpó	DET	dem	_	2	nsubj	2:nsubj	_
 2	sawsukatupɨra	awsub	NOUN	n	Intens=Yes|Nomzr=Pas|Rel=NCont	0	root	0:root	_
