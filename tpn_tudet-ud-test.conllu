@@ -2586,7 +2586,7 @@
 6	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 9577664355776
-# text = Maʔeeté kaʔuwasu, kawĩ mojeβɨjeβɨra .
+# text = Maʔeeté kaʔuwasu , kawĩ mojeβɨjeβɨra .
 # text_eng = It is good to be really drunk, vomiting beer      (Teatro 42, p 8)
 1	Maʔeeté	maʔe	NOUN	n	Intens=Yes	2	nsubj	2:nsubj	_
 2	kaʔuwasu	kaʔu	NOUN	n	_	0	root	0:root	_
