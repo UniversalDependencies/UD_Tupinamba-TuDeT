@@ -2615,7 +2615,7 @@
 1	Serapuan	apwan	VERB	v	_	0	root	0:root	_
 2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
 3	mosakara	mosakar	NOUN	Case=Ref	_	1	nsubj	1:nsubj	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ikawĩwasuβaʔe	_	NOUN	n	Nomzr=Rel|Rel=NCont	3	appos	3:appos	_
 6	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
