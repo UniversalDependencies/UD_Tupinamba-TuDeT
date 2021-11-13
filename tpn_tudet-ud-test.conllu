@@ -2619,3 +2619,25 @@
 5	ikawĩwasuβaʔe	_	NOUN	n	Nomzr=Rel|Rel=NCont	3	appos	3:appos	_
 6	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 8284547276
+# text = Moraseja e ikatu , jewaka , jemopɨraŋa , samongɨ , jetɨmãwaŋa , jemoúna , petɨmu , karaímoɲaŋa
+# text_eng =
+# text_por =  dança é que é boa, enfeitar-se, pintar-se de vermelho, untar as penas, tingir-se as pernas com urucu , pintar-se de preto, fumar, ficar fazendo feitiços
+1	Moraseja	morasej	NOUN	n	Case=Ref	3	nsubj	3:nsubj	_
+2	e	e	PART	prcl	_	3	parataxis	3:parataxis	_
+3	ikatu	katu	NOUN	n	Rel=NCont	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	jewaka	wak	NOUN	n	Reflex=Yes	3	dep	3:dep	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	jemopɨraŋa	pɨraŋ	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	5:conj	_
+8	,	,	PUNCT	punct	_	5	punct	5:punct	_
+9	samongɨ	amongɨ	NOUN	n	Rel=NCont	5	conj	5:conj	_
+10	,	,	PUNCT	punct	_	5	punct	5:punct	_
+11	jetɨmãwaŋa	_	NOUN	n	Case=Ref|Reflex=Yes	5	conj	5:conj	_
+12	,	,	PUNCT	punct	_	5	punct	5:punct	_
+13	jemoúna	_	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	5:conj	_
+14	,	,	PUNCT	punct	_	5	punct	5:punct	_
+15	petɨmu	_	NOUN	n	_	5	conj	5:conj	_
+16	,	,	PUNCT	punct	_	5	punct	5:punct	_
+17	karaímoɲaŋa	karaímoɲaŋ	NOUN	n	Case=Ref	5	conj	5:conj	_
+
