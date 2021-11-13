@@ -2641,3 +2641,28 @@
 16	,	,	PUNCT	punct	_	5	punct	5:punct	_
 17	karaímoɲaŋa	karaímoɲaŋ	NOUN	n	Case=Ref	5	conj	5:conj	_
 
+# sent_id = 63723984
+# text = Jemoɨrõ, morapiti, joʔu, tapuja rara, awasá, moropotara, maɲana, sɨwarajɨ, najpotari aβá sejara
+# text_eng =
+# text_por = Enraivecer-se , trucidar gente , comer um ao outro , prender tapuias , a mancebia , o desejo sensual , a alcovitice , a prostituição - não quero que ninguém os deixe .
+1	Jemoɨrõ	moɨrõ	NOUN	n	Reflex=Yes	20	nmod	20:nmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	morapiti	apiti	NOUN	n	_	1	conj	1:conj	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	joʔu	ʔu	NOUN	n	_	1	conj	1:conj	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	tapuja	tapuja	NOUN	n	Case=Ref	8	nmod	8:nmod	_
+8	rara	ar	NOUN	n	Case=Ref|Rel=Cont	1	conj	1:conj	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	awasá	awasá	NOUN	n	_	1	conj	1:conj	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	moropotara	potar	NOUN	n	Case=Ref	1	conj	1:conj	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
+14	maɲana	maɲana	NOUN	n	Case=Ref	1	conj	1:conj	_
+15	,	,	PUNCT	punct	_	14	punct	14:punct	_
+16	sɨwarajɨ	sɨwarajɨ	NOUN	n	_	1	conj	1:conj	_
+17	,	,	PUNCT	punct	_	16	punct	16:punct	_
+18	najpotari	potar	VERB	v	Person=13|Polarity=Neg	0	root	0:root	_
+19	aβá	aβá	NOUN	n	_	20	nmod	20:nmod	_
+20	sejara	ejar	NOUN	n	Case=Ref|Rel=NCont	18	obl	18:obl	_
+
