@@ -2621,7 +2621,7 @@
 
 # sent_id = 8284547276
 # text = Moraseja e ikatu , jewaka , jemopɨraŋa , samongɨ , jetɨmãwaŋa , jemoúna , petɨmu , karaímoɲaŋa
-# text_eng =
+# text_eng = (Teatro, 52, p. 8)
 # text_por =  dança é que é boa, enfeitar-se, pintar-se de vermelho, untar as penas, tingir-se as pernas com urucu , pintar-se de preto, fumar, ficar fazendo feitiços
 1	Moraseja	morasej	NOUN	n	Case=Ref	3	nsubj	3:nsubj	_
 2	e	e	PART	prcl	_	3	parataxis	3:parataxis	_
