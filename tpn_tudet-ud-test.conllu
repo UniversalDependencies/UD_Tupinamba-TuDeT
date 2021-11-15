@@ -2693,7 +2693,7 @@
 21	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 23847652
-# text = Ojkoβé ʃepɨtɨβõanameté , ʃepɨri marãtekoara , ʃeirunamo okajβaʔe tuβiʃákatu Aimbiré , apɨaβa moaŋaipapara .
+# text = Ojkoβé ʃepɨtɨβõanameté , ʃepɨri marãtekoara , ʃeirunamo okajβaʔe , tuβiʃákatu Aimbiré , apɨaβa moaŋaipapara .
 # text_eng = (Teatro, 68, p 10)
 # text_por = O grande chefe Aimberé vive, o que será meu verdadeiro auxiliar, o que trabalha junto de mim, o que arde comigo, o pervertedor dos índios
 1	Ojkoβé	ikoβé	VERB	vi	Number=Sing|Person=3	0	root	0:root	_
