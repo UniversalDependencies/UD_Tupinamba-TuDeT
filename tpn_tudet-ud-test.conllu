@@ -2736,3 +2736,12 @@
 6	amɨrĩ	amɨrĩ	NOUN	noun	_	5	nmod	5:nmod	_
 7	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 54823748
+# text = Aʔé ko iʃupé βiã
+# text_eng =         (Teatro, 74, p. 10)
+# text_por = eis que diria a ele
+1	Aʔé	ʔe	VERB	v	Number=Sing|Person=1	0	root	0:root	_
+2	ko	ko	PART	prcl	_	1	discourse	1:discourse	_
+3	iʃupé	supé	ADP	posp	Rel=NCont	1	iobj	1:iobj	_
+4	βiã	βiã	PART	prcl	_	1	discourse	1:discourse	_
+
