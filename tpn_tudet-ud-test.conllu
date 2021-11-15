@@ -2724,11 +2724,15 @@
 6	!	!	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 19837637
-# text = ʃemoajute inema mã !
+# text = ʃemendwera ipó reʔĩ , Pirakaʔẽ amɨrĩ!
 # text_eng =         (Teatro, 74, p. 10)
 # text_por =       
-1	ʃemoajute	moaju	NOUN	n	Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
-2	inema	nem	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
-3	mã	mã	PART	prcl	_	1	discourse	1:discourse	_
-4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Pas	0	root	0:root	_
+2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
+3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	1:discourse	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5-6	Pirakaʔẽamɨrĩ	_	_	_	_	_	_	_	_
+5	Pirakaʔẽ	Pirakaʔẽ	PROPN	propn	_	1	appos	1:appos	_
+6	amɨrĩ	amɨrĩ	noun	noun	_	5	nmod	5:nmod	_
+7	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
