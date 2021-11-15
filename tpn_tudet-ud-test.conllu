@@ -2723,3 +2723,12 @@
 5	ri	ri	PART	prcl	_	3	discourse	3:discourse	_
 6	!	!	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id 19837637
+# text = ʃemoajute inema mã !
+# text_eng =         (Teatro, 74, p. 10)
+# text_por =       
+1	ʃemoajute	moaju	NOUN	n	Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
+2	inema	nem	NOUN	n	Case=ref|Rel=NCont	1	nsubj	1:nsubj	_
+3	mã	mã	PART	prcl	_	1	discourse	1:discourse	_
+4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
