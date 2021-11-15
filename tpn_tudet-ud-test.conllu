@@ -2724,7 +2724,7 @@
 6	!	!	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 19837637
-# text = ʃemendwera ipó reʔĩ , Pirakaʔẽ amɨrĩ !
+# text = ʃemendwera ipó reʔĩ , Pirakaʔẽamɨrĩ !
 # text_eng =         (Teatro, 74, p. 10)
 # text_por =       
 1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	0:root	_
