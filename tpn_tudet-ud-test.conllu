@@ -2724,10 +2724,10 @@
 6	!	!	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 19837637
-# text = ʃemendwera ipó reʔĩ , Pirakaʔẽ amɨrĩ!
+# text = ʃemendwera ipó reʔĩ , Pirakaʔẽ amɨrĩ !
 # text_eng =         (Teatro, 74, p. 10)
 # text_por =       
-1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Pas	0	root	0:root	_
+1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	0:root	_
 2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
 3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	1:discourse	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
