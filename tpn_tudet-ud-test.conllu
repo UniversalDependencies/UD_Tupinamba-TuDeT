@@ -2763,7 +2763,7 @@
 # text_eng = Oh, where is he? (Teatro, 84, p. 12)
 # text_por = Eh, onde ele está?
 1	To	to	INTJ	intj	_	5	discourse	5:discourse	_
-2	!	!	PUNCT	punct	_	1	discourse	1:discourse	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
 3	Mamõpe	mamõ	ADV	adv	Int=Yes	5	advmod	5:advmod	_
 4	ahẽ	ahẽ	NOUN	n	_	5	nmod	5:nmod	_
 5	reków	ikó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
