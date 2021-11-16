@@ -2758,6 +2758,26 @@
 7	ʃereminuʔune	_	NOUN	n	Dev=Pass|Number=Sing|Person=2|Rel=Cont|Tense=Fut	4	obj	4:obj	_
 8	!	!	PUNCT	punct	_	4	punct	4:punct	_
 
+# sent_id = 787878788
+# text = ʃe ɲõ aʔupakatune . Kweiseβé , nakó airumõ . Tasóne , wɨ ! Takaʔune !
+# text_eng =         (Teatro, 79, p. 12)
+# text_por = Eu somente beberei tudo. Eis que o ajunto há dias. Ó, hei de ir! Vou beber cauim!
+1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	ɲõ	ɲõ	ADV	adv	_	3	advmod	3:advmod	_
+3	aʔupakatune	ʔu	VERB	v	Aspect=Comp|Intens=Yes|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
+4	.	.	PUNCT	punct	_	3	punct	3:punct	_
+5	Kweiseβé	kweise	ADV	adv	_	8	advmod	8:advmod	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	nakó	nakó	PART	prcl	_	8	discourse	8:discourse	_
+8	airumõ	irumõ	VERB	vt	Person=13	3	parataxis	3:parataxis	_
+9	.	.	PUNCT	punct	_	8	punct	8:punct	_
+10	Tasóne	asó	VERB	v	Mood=Per|Number=Sing|Person=1	3	parataxis	3:parataxis	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	wɨ	wɨ	INTJ	intj	_	10	discourse	10:discourse	_
+13	!	!	PUNCT	punct	_	10	punct	10:punct	_
+14	Takaʔune	kaʔu	VERB	v	Mood=Per|Number=Sing|Person=1|Tense=Fut	3	parataxis	3:parataxis	_
+15	!	!	PUNCT	punct	_	14	punct	14:punct	_
+
 # sent_id = 1849999
 # text = To ! Mamõpe ahẽ reków ?
 # text_eng = Oh, where is he? (Teatro, 84, p. 12)
