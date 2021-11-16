@@ -2764,7 +2764,7 @@
 # text_por = Eu somente beberei tudo. Eis que o ajunto há dias. Ó, hei de ir! Vou beber cauim!
 1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ɲõ	ɲõ	ADV	adv	_	3	advmod	3:advmod	_
-3	aʔupakatune	ʔu	VERB	v	Aspect=Com|Intens=Yes|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
+3	aʔupakatune	ʔu	VERB	v	Aspect=Compl|Intens=Yes|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
 4	.	.	PUNCT	punct	_	3	punct	3:punct	_
 5	Kweiseβé	kweise	ADV	adv	_	8	advmod	8:advmod	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
