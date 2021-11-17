@@ -122,7 +122,7 @@
 4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	Cristãos	Cristão	NOUN	n	_	7	obl	_	_
-7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	_
+7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	_	tupã-ʔar-a
 
 # sent_id = 66666666
@@ -295,7 +295,7 @@
 # sent_id = 1034634563
 # text = t'ojpeʔa Tupã ɲeʔẽmemwã ʃejuru swi ojaβo
 # text_eng = (By) saying may god remove evil words awaz from my mouth. Book 1 chap 2
-1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person[obj]=3|Person[psor]=3	6	ccomp	_	_
+1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=3	6	ccomp	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	obl	_	_
 3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	n	_	1	obl	_	_
 4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	_	_
@@ -393,7 +393,7 @@
 # sent_id = 19437563
 # text = Osoβasápe asé oemiʔurama ?
 # text_eng = Do we bless what we are going to eat?
-1	Osoβasápe	oβasá	VERB	vt	Int=Yes|Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osoβasápe	oβasá	VERB	vt	Int=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
 3	oemiʔurama	emiʔu	NOUN	n	Case=Ref|Dev=Pass|Reflex=Yes|Tense=Fut	1	obl	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
@@ -401,7 +401,7 @@
 # sent_id = 20735
 # text = Osoβasaβ
 # text_eng = The do make the sign of the cross
-1	Osoβasaβ	Osoβasaβ	VERB	vt	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osoβasaβ	Osoβasaβ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 
 # sent_id = 213134
 # text = Marãnamope ?
@@ -456,7 +456,7 @@
 # sent_id = 27
 # text = Ojerokɨpe asé Cruz supé ?
 # text_eng = Do we bow to the cross? Book 1 chap 2
-1	Ojerokɨpe	_	VERB	vt	Person[obj]=3|Person[psor]=3|Reflex=Yes|VerbForm=Ger	0	root	_	_
+1	Ojerokɨpe	_	VERB	vt	Person[obj]=3|Person[subj]=3|Reflex=Yes|VerbForm=Ger	0	root	_	_
 2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
 3	Cruz	cruz	NOUN	n	_	1	obl	_	_
 4	supé	supé	ADP	posp	Rel=Cont	3	case	_	_
@@ -465,7 +465,7 @@
 # sent_id = 28
 # text = Ojerokɨ .
 # text_eng = We bow ourselves.
-1	Ojerokɨ	jerokɨ	VERB	vt	Person[obj]=3|Person[psor]=3|Reflex=Yes|VerbForm=Ger	0	root	_	_
+1	Ojerokɨ	jerokɨ	VERB	vt	Person[obj]=3|Person[subj]=3|Reflex=Yes|VerbForm=Ger	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 29
@@ -524,7 +524,7 @@
 # sent_id = 35
 # text = Ojerokɨpe asé jandéjara raʔangaβa supé , SantaMaria raʔangaβa supé , santos ɨβakɨpendwara raʔangaβa supé βé ?
 # text_eng = Do we bow to the image of our lord, to the image of holy Mary, also to the image of the saints that are in heaven? Book 1 chap 2
-1	Ojerokɨpe	jerokɨ	VERB	vt	Int=Yes|Person[obj]=3|Person[psor]=3|Voice=Mid	0	root	_	_
+1	Ojerokɨpe	jerokɨ	VERB	vt	Int=Yes|Person[obj]=3|Person[subj]=3|Voice=Mid	0	root	_	_
 2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	_	_
 4	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
@@ -544,7 +544,7 @@
 # sent_id = 36
 # text = Ojerokɨ .
 # text_eng = We bow! Book 1 chap 2
-1	Ojerokɨ	jerokɨ	VERB	vt	Person[obj]=3|Person[psor]=3|VerbForm=Ger	0	root	_	_
+1	Ojerokɨ	jerokɨ	VERB	vt	Person[obj]=3|Person[subj]=3|VerbForm=Ger	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 37
@@ -578,7 +578,7 @@
 9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	_	_
 10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	_	_
 11	asé	asé	PRON	pro	PronType=Prs	12	obl	_	_
-12	ojmoeté	eté	VERB	vt	Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	_
+12	ojmoeté	eté	VERB	vt	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 13	?	?	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = 40
@@ -957,7 +957,7 @@
 # sent_id = 12
 # text = Ojpotakatupe oeʔõawera resé asé maʔendwara ?
 # text_port = Did he really want people to remember his death?book 3-9
-1	Ojpotakatupe	potar	VERB	vt	Int=Yes|Intens=Yes|Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojpotakatupe	potar	VERB	vt	Int=Yes|Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	oeʔõawera	eʔõa	NOUN	n	Case=Ref|Reflex=Yes	5	obl	_	_
 3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
 4	asé	asé	PRON	pro	Case=Ref	5	nmod	_	_
@@ -967,7 +967,7 @@
 # sent_id = 14
 # text = Ojpotakatu , Sesé omaʔendwaramo é asé Tupã rawsúβi opɨʔape seko aβɨpotareʔɨma
 # text_port = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
-1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Sesé	esé	ADP	posp	Rel=NCont	4	case	_	_
 4	omaʔendwaramo	maʔendwar	NOUN	n	Case=Tra|Reflex=Yes	8	xcomp	_	_
@@ -1054,7 +1054,7 @@
 # sent_id = 444324
 # text = Ojaoβok serã ɨβɨá ikatupe ɲẽ imoingóβo inupãnupã janondé ?
 # text_eng = Did they then undress him before continuously hitting him? Book 3 chapter 7
-1	Ojaoβok	aoβok	VERB	vt	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaoβok	aoβok	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	serã	serã	ADV	adv	_	1	discourse	_	_
 3	ɨβɨá	ɨβɨá	PART	pcl	_	1	dep	_	_
 4	ikatupe	katu	NOUN	n	Rel=NCont	6	nmod	_	_
@@ -1067,7 +1067,7 @@
 # sent_id = 444325
 # text = Ojaoβok , ita okɨtá resé ipopwá , imoʔama
 # text_eng = They undressed him, making him stand, tying his hans on a column. Book 3 chapter 7
-1	Ojaoβok	aoβok	VERB	vt	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaoβok	aoβok	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ita	ita	NOUN	n	_	4	nmod	_	_
 4	okɨtá	okɨtá	NOUN	n	_	6	obl	_	_
@@ -1175,7 +1175,7 @@
 # text = mbaʔepe oɲonoŋ iakanga ʔárɨβo ?
 # text_eng = What did the place through his head ?  book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pro	_	2	obl	_	_
-2	oɲonoŋ	noŋ	VERB	VT	Person[obj]=3|Person[psor]=3	0	root	_	_
+2	oɲonoŋ	noŋ	VERB	VT	Person[obj]=3|Person[subj]=3	0	root	_	_
 3	iakanga	akaŋ	NOUN	N	Rel=NCont	2	obl	_	_
 4	ʔárɨβo	ár	ADP	posp	Case=Per	3	case	_	_
 5	?	?	PUNCT	punct	_	2	punct	_	_
@@ -1213,7 +1213,7 @@
 # text = mbaʔepe ojmeʔeŋ iʔekatwápe ?
 # text_eng = What did they give to/in his right hand? book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pron	_	2	obl	_	_
-2	ojmeʔeŋ	meʔeŋ	VERB	vt	Person[obj]=3|Person[psor]=3	0	root	_	_
+2	ojmeʔeŋ	meʔeŋ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 3	iʔekatwápe	ʔekatuaβ	NOUN	n	Rel=NCont	2	obl	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
 
@@ -1318,7 +1318,7 @@
 5	okárɨpe	ok	NOUN	N	Case=All	4	appos	_	_
 6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	3	advcl	_	_
 7	,	,	PUNCT	punct	_	3	punct	_	_
-8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plur|Person[obj]=3|Person[psor]=2	3	parataxis	_	_
+8	tapejkwaβ	kwaβ	VERB	vt	Mood=Perm|Number=Plur|Person[obj]=3|Person[subj]=2	3	parataxis	_	_
 9	sekopwera	ekó	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	_	_
 10	amõ	amõ	PRON	pro	PronType=Ind	9	nmod	_	_
 11	iʃé	iʃé	PRON	pro	PronType=Prs	12	nsubj	_	_
@@ -1347,7 +1347,7 @@
 3	ɲẽ	ɲẽ	PART	pcl	_	1	discourse	_	_
 4	sesé	sesé	ADP	posp	Rel=NCont	1	obl	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
-6	ejmojarukar	mojar	VERB	Mood=Imp|Number=Sing|Person[obj]=3|Person[psor]=2|Voice=Cau	_	9	dep	_	_
+6	ejmojarukar	mojar	VERB	Mood=Imp|Number=Sing|Person[obj]=3|Person[subj]=2|Voice=Cau	_	9	dep	_	_
 7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	6	obl	_	_
 8	resé	esé	ADP	posp	Rel=Cont	7	case	_	_
 9	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	_	_
@@ -1364,7 +1364,7 @@
 # sent_id = 2352
 # text = Osapjápe Pilatos iɲeʔenga aʔéreme koʔɨté ?
 # text_eng = Did Pilatos then finally obey their words? Book 3 chap 8
-1	Osapjápe	apjár	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osapjápe	apjár	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	Pilatos	Pilatos	PROPN	propn	_	1	obl	_	_
 3	iɲeʔenga	ɲeʔeng	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
 4	aʔéreme	aʔéreme	ADV	adv	_	1	advmod	_	_
@@ -1374,7 +1374,7 @@
 # sent_id = 2353
 # text = Osapjar , judeus swi osɨkɨjéβo ɲẽ , ʃekwaukámo ʃeruβiʃaβa supémo ojaβo
 # text_eng = He did obey, saying: they would make my Emperor aware of me. Book 3 chap 8
-1	Osapjar	apjar	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osapjar	apjar	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	judeus	judeus	NOUN	n	_	5	obl	_	_
 4	swi	swi	ADP	posp	Rel=Cont	3	case	_	_
@@ -1440,7 +1440,7 @@
 # sent_id = 2359
 # text = Ojmeʔeŋ ipópekatu , pereko potasaβo e , perekó ijukáβo ojaβo
 # text_eng = He gave him right in their hands, saying you may have him by your will, you may have him to kill him.  Book 3 chap 8
-1	Ojmeʔeŋ	meʔeŋ	VERB	vt	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojmeʔeŋ	meʔeŋ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	ipópekatu	po	NOUN	n	Case=Loc|Intens=Yes|Rel=NCont	1	obl	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	pereko	eko	NOUN	n	Number=Plur|Person=2	10	ccomp	_	_
@@ -1570,7 +1570,7 @@
 5	aéte	aéte	PART	pcl	_	4	discourse	_	_
 6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	_	_
 7	eʔi	ʔi	VERB	v	Person=3	6	parataxis	_	_
-8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person[obj]=3|Person[psor]=2	9	obl	_	_
+8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person[obj]=3|Person[subj]=2	9	obl	_	_
 9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=2	7	dep	_	_
 10	eʔi	ʔi	VERB	v	Person=3	9	advcl	_	_
 
@@ -1609,7 +1609,7 @@
 # sent_id = 1015
 # text = Osoβasɨpe amõ kuɲã ?
 # text_eng = Did any woman wash his face? book 3-chap 9
-1	Osoβasɨpe	oβasɨ	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osoβasɨpe	oβasɨ	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
 3	kuɲã	kuɲã	NOUN	n	Case=Ref	1	obj	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
@@ -1617,7 +1617,7 @@
 # sent_id = 1016
 # text = Osoβasɨβ aotinga pupé , aʔe resé soβá raʔangaβa jári
 # text_eng = She washed his face wih a white fabric, the image of his face satyed on it. book 3-chap 9
-1	Osoβasɨβ	oβasɨ	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osoβasɨβ	oβasɨ	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	aotinga	aotiŋ	NOUN	n	Case=Ref	1	obl	_	_
 3	pupé	pupé	ADP	posp	Rel=Cont	2	case	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1652,7 +1652,7 @@
 # sent_id = 1019
 # text = Ojaoβok raɲẽpe ɨβɨá ?
 # text_eng = Were his clothes tore apart before ?  book 3-chap 9 
-1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	raɲẽpe	raɲẽ	ADV	adv	_	1	advmod	_	_
 3	ɨβɨá	ɨβɨá	PART	prcl	_	1	obl	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
@@ -1660,12 +1660,12 @@
 # sent_id = 1020
 # text = Ojaoβok
 # text_eng = They tore his clothes. book 3-chap 9
-1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaoβok	aoβok	VERB	v	Incorp=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 
 # sent_id = 1021
 # text = Ojaratã serã iaoβa inupãsawera imoperépereβawera resé ?
 # text_eng = Did his clothes stick hard to his whips, to his wounds ? book 3-chap 9
-1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	serã	serã	ADV	adv	_	1	advmod	_	_
 3	iaoβa	aoβ	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
 4	inupãsawera	_	NOUN	_	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Past	1	obl	_	gloss_port=RELNC-beat-NOMZR-PAST-REF
@@ -1676,7 +1676,7 @@
 # sent_id = 1022
 # text = Ojaratã , nd'eʔi teʔe aʔéreme judeus sekɨjatãmo ipira βe reru , suwɨ mosɨrɨka iʃwi
 # text_eng = It stick hard, that's why the jews then pulled it hard, ripping his skin, making him bleed     book 3-chap 9
-1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	nd'eʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	_	_
 4	teʔe	_	ADV	adv	_	3	advmod	_	_
@@ -1704,7 +1704,7 @@
 # text = ijukasarama ojmojaʔok ojoupé
 # text_eng = Those who would kill him divided them among themselves.     book 3-chap 9
 1	ijukasarama	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Fut	2	nsubj	_	gloss_port=RELNCONT-matar-NOMZR-REF
-2	ojmojaʔok	moja'ok	VERB	v	Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	gloss_port=3-RELNCONT-CAUS-SEPARATE
+2	ojmojaʔok	moja'ok	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	gloss_port=3-RELNCONT-CAUS-SEPARATE
 3	ojoupé	joupé	ADP	posp	Reflex=Yes	2	obl	_	_
 
 # sent_id = 1025
@@ -1742,7 +1742,7 @@
 # sent_id = 1028
 # text = Ojpɨsó ɨβɨrajoasaβa ʔárɨβo , itapɨwá pupé ipó kutuka , imojá
 # text_eng = They extenden him on along the cross, nailing his hands with nails, piercing them  book 3-chap 9
-1	Ojpɨsó	pɨsó	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Ojpɨsó	pɨsó	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
 3	ʔárɨβo	_	NOUN	n	Case=Per	2	case	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1836,7 +1836,7 @@
 # text = Aβáaβápe ojmoʔam iirũnamo amõ aé cruz resé ?
 # text_eng = Who did they lift with him in other crosses? 3-chap 9 
 1	Aβáaβápe	aβá	PRON	pron	_	2	obl	_	_
-2	ojmoʔam	ʔam	VERB	v	Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	_
+2	ojmoʔam	ʔam	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 3	iirũnamo	irũnamo	ADP	posp	_	2	obj	_	_
 4	amõ	amõ	PRON	pro	PronType=Ind	6	nmod	_	_
 5	aé	aé	PART	pcl	_	4	discourse	_	_
@@ -2049,7 +2049,7 @@
 # sent_id = 77
 # text = Ojmongetá βépe paʔi Jesus oguβa ?
 # text_eng =  Did Jesus speake to his fahter?  Book 3 chap 10
-1	Ojmongetá	mongetá	VERB	v	Person[obj]=3|Person[psor]=3|Rel=NCont	0	root	_	_
+1	Ojmongetá	mongetá	VERB	v	Person[obj]=3|Person[subj]=3|Rel=NCont	0	root	_	_
 2	βépe	βé	ADV	adv	Int=Yes	1	advmod	_	_
 3	paʔi	paʔi	NOUN	n	_	4	nmod	_	_
 4	Jesus	Jesus	PROPN	propn	_	1	obl	_	_
@@ -2059,7 +2059,7 @@
 # sent_id = 78
 # text = Ojmongetá βé , osapukaja oasẽngatúramo , marãnamopjã ʃepeʔa jepé , ʃeruβɨwé , ojaβo
 # text_eng = He did it also, yellling lourd       Book 3 chap 10
-1	Ojmongetá	mongetá	VERB	v	Person[obj]=3|Person[psor]=3|Rel=NCont	0	root	_	_
+1	Ojmongetá	mongetá	VERB	v	Person[obj]=3|Person[subj]=3|Rel=NCont	0	root	_	_
 2	βé	βé	ADV	adv	_	1	advcl	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	osapukaja	_	VERB	vi	Person=3|VerbForm=Ger	1	advcl	_	_
@@ -2100,14 +2100,14 @@
 # sent_id = 81
 # text = Ojmoʔɨʔupe ɨβɨá ?
 # text_eng = Did someone made him drink  Book 3 chap 10
-1	Ojmoʔɨʔupe	ʔu	VERB	vt	Incorp=Yes|Int=Yes|Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	_
+1	Ojmoʔɨʔupe	ʔu	VERB	vt	Incorp=Yes|Int=Yes|Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 2	ɨβɨá	ɨβɨá	PART	pcl	_	1	obl	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 82
 # text = Ojmoʔɨʔu
 # text_eng =  The made him drink Book 3 chap 10
-1	Ojmoʔɨʔu	ʔu	VERB	vt	Incorp=Yes|Person[obj]=3|Person[psor]=3|Voice=Cau	0	root	_	_
+1	Ojmoʔɨʔu	ʔu	VERB	vt	Incorp=Yes|Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 
 # sent_id = 83
 # text = mbaʔe pupépe ?
@@ -2405,7 +2405,7 @@
 # sent_id = 109
 # text = Osokendaβ aʔe karamemwã itawasu pupé
 # text_eng = They closed the box with a big stone. Book 3 chap 11
-1	Osokendaβ	okendaβ	VERB	v	Person[obj]=3|Person[psor]=3	0	root	_	_
+1	Osokendaβ	okendaβ	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	aʔe	aʔe	DET	dem	_	3	nmod	_	_
 3	karamemwã	karamemwã	NOUN	n	_	1	obl	_	_
 4	itawasu	itawasu	NOUN	n	_	1	obl	_	_
@@ -2438,7 +2438,7 @@
 # text = Eresawsupe Tupã nderuβa , ndesɨ , nderemirekó , ndemena , nderaʔɨra , ndembaʔe katupaβẽ ndesawsuβa sosé ?
 # text_eng = Do you love more than you love your father, your mother, your wife, your husband, your child, and the multitude of you things?  Araujo Book 6 chap 12
 # text_po = Amas a deus masi do que amas teu pai, tua mãe, tua esposa, teu marido, todas as tuas coisas ?
-1	Eresawsupe	awsuβ	VERB	vt	Int=Yes|Number=Sing|Person[obj]=3|Person[psor]=2	0	root	_	_
+1	Eresawsupe	awsuβ	VERB	vt	Int=Yes|Number=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	obl	_	_
 3	nderuβa	uβ	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=Cont	15	nmod	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
@@ -2460,7 +2460,7 @@
 # text = Eresawsupe nderapiʃara ndejoawsuβa jabé , sekokatu resé , imbaʔekatu resé βé nderorɨβamo , sekomemwã potareʔɨma ?
 # text_eng = Do you love your neighbour as you love yourself, for his wellbeing, for his many possessions as well, rejoicing (yourself), without wanting that he is not well?  Araujo Book 6 chap 12
 # text_po = Amas teu próximo como amas a ti mesmo, por estar bem, por ele ter coisas boas também, alegrando-te, não querendo que esteja mal?
-1	Eresawsupe	awsuβ	VERB	vt	Int=Yes|Number=Sing|Person[obj]=3|Person[psor]=2	0	root	_	_
+1	Eresawsupe	awsuβ	VERB	vt	Int=Yes|Number=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	nderapiʃara	apiʃar	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	obl	_	_
 3	ndejoawsuβa	awsuβ	NOUN	n	Case=Ref|Number=Sing|Person=2|Reflex=Yes	1	advcl	_	_
 4	jabé	jabé	ADV	adv	_	3	advmod	_	_
@@ -2562,7 +2562,7 @@
 # text = naipotari aβá sejtɨka
 # text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a lancem fora.
-1	naipotari	potar	VERB	v	Number=Sing|Person[obj]=3|Person[psor]=1|Polarity=Neg	0	root	0:root	_
+1	naipotari	potar	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
 3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
 
@@ -2570,7 +2570,7 @@
 # text = naipotari aβá imomɨka .
 # text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a façam cessar.
-1	naipotari	potar	VERB	vt	Number=Sing|Person[obj]=3|Person[psor]=1|Polarity=Neg	0	root	0:root	_
+1	naipotari	potar	VERB	vt	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
 2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
 3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
@@ -2578,7 +2578,7 @@
 # sent_id = 01813628
 # text = Aipotákatu tenhẽ opaβĩ taβa mondɨka .
 # text_eng = I want for nor reason destroy all villages. (Teatro 37, p 8)
-1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[psor]=1	0	root	0:root	_
+1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	0:root	_
 2	tenhẽ	tenhẽ	PART	prcl	_	1	discourse	1:discourse	_
 3	opaβĩ	opaβĩ	PRON	pro	_	4	nmod	4:nmod	_
 4	taβa	tab	NOUN	n	Case=Ref	5	obj	5:obj	_
@@ -2662,7 +2662,7 @@
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
 16	sɨwarajɨ	sɨwarajɨ	NOUN	n	_	1	conj	1:conj	_
 17	,	,	PUNCT	punct	_	16	punct	16:punct	_
-18	najpotari	potar	VERB	v	Person[obj]=3|Person[psor]=1|Polarity=Neg	0	root	0:root	_
+18	najpotari	potar	VERB	v	Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
 19	aβá	aβá	NOUN	n	_	20	nmod	20:nmod	_
 20	sejara	ejar	NOUN	n	Case=Ref|Rel=NCont	18	obl	18:obl	_
 
@@ -2672,7 +2672,7 @@
 # text_por = Por causa disso, visito os aposentos dos índios, dizendo: - "que acreditem em mim". Vêm em vão para me afastar os ditos "padres", hoje, proclamando a lei de Deus.
 1	Angari	angari	ADV	adv	_	3	advmod	3:advmod	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ajosuβ	suβ	VERB	v	Person[obj]=3|Person[psor]=1	0	root	0:root	_
+3	ajosuβ	suβ	VERB	v	Person[obj]=3|Person[subj]=1	0	root	0:root	_
 4	aβá	aβá	NOUN	n	_	5	nmod	5:nmod	_
 5	kotɨ	kotɨ	NOUN	n	_	3	obl	3:obl	_
 6	,	,	PUNCT	punct	_	3	punct	3:punct	_
@@ -2769,7 +2769,7 @@
 5	Kweiseβé	kweise	ADV	adv	_	8	advmod	8:advmod	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	nakó	nakó	PART	prcl	_	8	discourse	8:discourse	_
-8	airumõ	irumõ	VERB	vt	Person[obj]=3|Person[psor]=1	3	parataxis	3:parataxis	_
+8	airumõ	irumõ	VERB	vt	Person[obj]=3|Person[subj]=1	3	parataxis	3:parataxis	_
 9	.	.	PUNCT	punct	_	8	punct	8:punct	_
 10	Tasóne	asó	VERB	v	Mood=Perm|Number=Sing|Person=1	3	parataxis	3:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
