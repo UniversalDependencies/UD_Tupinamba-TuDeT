@@ -23,7 +23,7 @@
 16	judeus	judeu	NOUN	n	_	17	nmod	17:nmod	_
 17	ekomoɲangáβo	ekomoɲang	NOUN	n	_	19	obl	19:obl	_
 18	iʔapira	ʔapir	NOUN	n	Case=Ref|Rel=NCont	19	obj	19:obj	_
-19	mondoki	mondok	NOUN	n	NFoc=Yes	0	root	0:root	_
+19	mondoki	mondok	NOUN	n	OblTop=Yes	0	root	0:root	_
 
 # sent_id = 2222222
 # text = Ã tekó aʔereme moreroka kwe βɨá Iesus nongi seramo
@@ -35,7 +35,7 @@
 5	kwe	kwe	DET	dem	_	7	nmod	7:nmod	_
 6	βɨá	βɨá	PART	_	_	8	nsubj	8:nsubj	_
 7	Iesus	Iesus	PROPN	propn	_	8	obj	8:obj	_
-8	nongi	nong	NOUN	n	NFoc=Yes	2	parataxis	2:parataxis	_
+8	nongi	nong	NOUN	n	OblTop=Yes	2	parataxis	2:parataxis	_
 9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	8:obl	_
 
 # sent_id = 33333333
@@ -132,7 +132,7 @@
 2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	_	_
-5	potɨrõw	potɨr	NOUN	n	NFoc=Yes	0	root	_	_
+5	potɨrõw	potɨr	NOUN	n	OblTop=Yes	0	root	_	_
 6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	5	advcl	_	_
@@ -165,7 +165,7 @@
 11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
 12	omembɨra	membɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	_	_
 13	Iesus	Iesus	PROPN	propn	_	12	appos	_	_
-14	rerasow	so	NOUN	n	NFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+14	rerasow	so	NOUN	n	OblTop=Yes|Rel=NCont|Voice=Com	0	root	_	_
 15	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
 16	okɨpe	ok	NOUN	n	_	14	obl	_	_
 17	,	,	PUNCT	punct	_	14	punct	_	_
@@ -190,7 +190,7 @@
 # text_eng = She was actually teaching people. Catálogo 2 February
 1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	_	3:advcl
 2	ã	ã	PART	pcl	_	3	discourse	_	_
-3	sekóû	ekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+3	sekóû	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
@@ -270,7 +270,7 @@
 2	asé	asé	PRON	pro	PronType=Prs	5	nsubj	_	_
 3	osɨβápe	sɨβá	NOUN	n	Case=Loc|Int=Yes	4	obl	_	_
 4	joβasaβa	joβasaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	nmod	_	_
-5	moini	moin	NOUN	n	NFoc=Yes|Voice=Cau	0	root	_	_
+5	moini	moin	NOUN	n	OblTop=Yes|Voice=Cau	0	root	_	_
 6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 812347
@@ -289,7 +289,7 @@
 1	Marãnamope	marãnamo	ADV	_	_	4	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	_	_
 3	ojurupe	juru	NOUN	n	Case=Loc|Reflex=Yes	4	obl	_	_
-4	saʔãngino	aʔãng	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+4	saʔãngino	aʔãng	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1034634563
@@ -308,7 +308,7 @@
 1	Marãnamope	marãnamo	ADV	adv	Int=Yes	4	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	_	_
 3	opotiʔape	potiʔ	NOUN	n	Case=Loc|Reflex=Yes	4	obl	_	_
-4	imoíni	moín	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+4	imoíni	moín	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1235234535
@@ -331,7 +331,7 @@
 1	Marãnamo	marãnamo	ADV	adv	_	4	advmod	_	_
 2	βépe	βe	ADV	adv	Int=Yes	4	advmod	_	_
 3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	_	_
-4	joβasáβi	joβasáβ	NOUN	n	NFoc=Yes	0	root	_	_
+4	joβasáβi	joβasáβ	NOUN	n	OblTop=Yes	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 14765
@@ -356,7 +356,7 @@
 # text_eng = When do poeple make the sign of the cross? Book 1 chap 2
 1	Marãnemetepe	Marãneme	ADV	adv	Int=Yes	3	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
-3	joβasáβine	joβasáβ	NOUN	n	Emph=Yes|NFoc=Yes	0	root	_	_
+3	joβasáβine	joβasáβ	NOUN	n	Emph=Yes|OblTop=Yes	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 163964
@@ -422,7 +422,7 @@
 # text_eng = Why will we make the cign of the cross more and more? Book 1 chap 2
 1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	3	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
-3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|NFoc=Yes|Red=Di|Tense=Fut	0	root	_	_
+3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|OblTop=Yes|Red=Di|Tense=Fut	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 24
@@ -476,7 +476,7 @@
 3	supé	supé	ADP	posp	Rel=NCont	2	case	_	_
 4	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	_	_
 5	asé	asé	PRON	pro	PronType=Prs	6	nsubj	_	_
-6	jerokɨw	jerokɨ	NOUN	n	NFoc=Yes|Reflex=Yes	0	root	_	_
+6	jerokɨw	jerokɨ	NOUN	n	OblTop=Yes|Reflex=Yes	0	root	_	_
 7	?	?	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 30
@@ -556,7 +556,7 @@
 4	jaβépe	jaβé	SCONJ	sconj	Int=Yes	7	advcl	_	_
 5	asé	asé	PRON	pro	PronType=Prs	7	nsubj	_	_
 6	saʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	7	obj	_	_
-7	moetéw	eté	NOUN	n	NFoc=Yes|Voice=Cau	0	root	_	_
+7	moetéw	eté	NOUN	n	OblTop=Yes|Voice=Cau	0	root	_	_
 8	?	?	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 38
@@ -656,7 +656,7 @@
 3	Cristãos	Cristão	NOUN	n	_	6	nsubj	_	_
 4	ajpó	ajpó	DET	dem	_	5	nmod	_	_
 5	owerama	er	NOUN	n	Case=Ref|Reflex=Yes|Tense=Fut	6	obj	_	_
-6	rári	ar	NOUN	n	NFoc=Yes|Rel=Cont	0	root	_	_
+6	rári	ar	NOUN	n	OblTop=Yes|Rel=Cont	0	root	_	_
 7	?	?	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 48
@@ -689,7 +689,7 @@
 1	Marãnamope	marãnamo	ADV	adv	Int=Yes	4	advmod	_	_
 2	asé	asé	PRON	pro	PronType=Prs	4	nsubj	_	_
 3	Tupãeté	Tupã	NOUN	n	_	4	obj	_	_
-4	iʔew	ʔi	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+4	iʔew	ʔi	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 5	iʃupé	supé	ADP	posp	Rel=NCont	4	obl	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -708,7 +708,7 @@
 1	Aʔepe	aʔe	DET	dem	Int=Yes	4	nsubj	_	_
 2	marã	marã	ADV	adv	Int=Yes	4	advmod	_	_
 3	apɨ́aβetéramo	apɨ́aβ	NOUN	n	Case=Tra|Intens=Yes	4	obl	_	_
-4	seków	ekó	NOUN	n	NFoc=Yes	0	root	_	_
+4	seków	ekó	NOUN	n	OblTop=Yes	0	root	_	_
 5	jandé	jandé	PRON	pron	Clusivity=In|Number=Sing|Person=1	4	dep	_	_
 6	jaβé	jaβé	ADV	adv	_	5	obl	_	_
 7	?	?	PUNCT	punct	_	4	punct	_	_
@@ -770,7 +770,7 @@
 1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
 2	rarõanamotepe	arõ	NOUN	n	Case=Tra|Int=Yes|Rel=Cont	4	obl	4:obl	_
 3	karaiβeβé	karaiβeβé	NOUN	n	_	4	nsubj	4:nsubj	_
-4	reków	ikó	NOUN	n	NFoc=Yes|Rel=Cont	0	root	0:root	_
+4	reków	ikó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 401
@@ -786,7 +786,7 @@
 # text_por = A gente os tem cada um o seu próprio (anjo da guarda)? 
 1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Reflex=Yes	3	obj	3:obj	_
 2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
-3	sereków	ikó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	0:root	_
+3	sereków	ikó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 403
@@ -796,7 +796,7 @@
 1	Maʔerama	maʔe	PRON	pro	PronType=Int|Tense=Fut	2	nmod	2:nmod	_
 2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	4	obl	4:obl	_
 3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	4:nmod	_
-4	imeʔeŋi	meʔeŋ	NOUN	n	NFoc=Yes|Rel=NCont	0	root	0:root	_
+4	imeʔeŋi	meʔeŋ	NOUN	n	OblTop=Yes|Rel=NCont	0	root	0:root	_
 5	aséβe	asé	PRON	pro	_	4	obl	4:obl	_
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
@@ -821,7 +821,7 @@
 1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	2:nmod	_
 2	swipe	swi	ADP	posp	Int=Yes	4	obl	4:obl	_
 3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
-4	rarõw	arõ	NOUN	n	NFoc=Yes|Rel=Cont	0	root	0:root	_
+4	rarõw	arõ	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 5	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 407
@@ -871,7 +871,7 @@
 3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
 4	Tupã	Tupã	PROPN	propn	_	5	nmod	5:nmod	_
 5	mongetasaramo	mongeta	NOUN	n	Case=Tra|Nomzr=Ag	1	nsubj	1:nsubj	_
-6	seków	ikó	AUX	aux	NFoc=Yes|Rel=NCont	5	aux	5:aux	_
+6	seków	ikó	AUX	aux	OblTop=Yes|Rel=NCont	5	aux	5:aux	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 43456
@@ -998,7 +998,7 @@
 # text = Mamõpe iʃow ombaʔeʔupaβiré ?
 # text_eng = Where did he go after eating everything?book 3-13
 1	Mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	_	_
-2	iʃow	so	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+2	iʃow	so	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 3-5	ombaʔeʔupaβiré	_	_	_	_	_	_	_	_
 3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	_	_
 4	ʔupaβ	ʔupaβ	VERB	v	Aspect=Compl	2	obl	_	_
@@ -1098,7 +1098,7 @@
 1	Seté	eté	NOUN	n	_	4	nmod	_	_
 2	jakatupe	jakatu	ADP	posp	Int=Yes	1	case	_	_
 3	ɨβɨá	ɨβɨá	PART	pcl	_	4	dep	_	_
-4	imoperéperéβi	peréβ	NOUN	n	Aspect=Iter|NFoc=Yes|Red=Di|Rel=NCont|Voice=Cau	0	root	_	_
+4	imoperéperéβi	peréβ	NOUN	n	Aspect=Iter|OblTop=Yes|Red=Di|Rel=NCont|Voice=Cau	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	imouwɨsɨrɨka	owɨsɨrɨk	VERB	vi	Rel=NCont|VerbForm=Ger|Voice=Cau	4	advcl	_	_
 7	?	?	PUNCT	punct	_	4	punct	_	_
@@ -1117,7 +1117,7 @@
 2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
 3	βépe	βe	ADV	adv	Int=Yes	1	advmod	_	_
 4	suwɨ	uwɨ	NOUN	n	Rel=NCont	5	nmod	_	_
-5	sɨrɨki	_	NOUN	n	NFoc=Yes	0	root	_	_
+5	sɨrɨki	_	NOUN	n	OblTop=Yes	0	root	_	_
 6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 444331
@@ -1134,7 +1134,7 @@
 1	Marãpe	marã	ADV	adv	_	4	advmod	_	_
 2	ɨβɨá	ɨβɨá	PART	pcl	_	3	dep	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	_	_
-4	rereków	_	NOUN	N	NFoc=Yes|Rel=Cont	0	root	_	_
+4	rereków	_	NOUN	N	OblTop=Yes|Rel=Cont	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	inupãnupã	nupã	NOUN	_	Aspect=Iter|Rel=NCont	4	obl	_	_
 7	ré	ré	PART	pcl	_	6	case	_	_
@@ -1233,7 +1233,7 @@
 # text = Marãpe sereków aʔe takwara meʔengiré ?
 # text_eng = How was he treated after given a scepter ? book 3 chap 8
 1	Marãpe	marãpe	ADV	adv	_	2	advmod	_	_
-2	sereków	erekó	NOUN	n	NFoc=Yes|Reflex=Yes	0	root	_	_
+2	sereków	erekó	NOUN	n	OblTop=Yes|Reflex=Yes	0	root	_	_
 3	aʔe	aʔe	DET	dem	_	4	nmod	_	_
 4	takwara	takwara	NOUN	n	Case=Ref	5	obj	_	_
 5-6	meʔengiré	_	_	_	_	_	_	_	_
@@ -1261,7 +1261,7 @@
 # text_eng = Where to did Pilatos exit with him
 1	Mamõpe	Mamõ	ADV	adv	_	3	obl	_	_
 2	Pilatos	Pilatos	PROPN	propn	_	3	nsubj	_	_
-3	senosemi	sem	NOUN	n	NFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+3	senosemi	sem	NOUN	n	OblTop=Yes|Rel=NCont|Voice=Com	0	root	_	_
 4	aʔéreme	aʔéreme	ADV	_	_	3	advmod	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -1335,7 +1335,7 @@
 # text_eng = How did the jews act afterwards? Book 3 chap 8
 1	Marãpe	Marãpe	ADV	adv	_	3	advmod	_	_
 2	judeus	judeus	NOUN	n	_	3	nsubj	_	_
-3	reków	ekó	NOUN	n	NFoc=Yes|Rel=Cont	0	root	_	_
+3	reków	ekó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	_	_
 4	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -1391,7 +1391,7 @@
 # text_eng = How did Pilatos act afterwards? Book 3 chap 8
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	_	_
 2	Pilatos	Pilatos	PROPN	propn	_	3	nsubj	_	_
-3	reków	ekó	NOUN	n	NFoc=Yes|Rel=Cont	0	root	_	_
+3	reków	ekó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	_	_
 4	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -1432,7 +1432,7 @@
 # text_eng = How did they treat our Lord afterwards?
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	_	_
 2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	_	_
-3	rereków	erekó	NOUN	n	NFoc=Yes	0	root	_	_
+3	rereków	erekó	NOUN	n	OblTop=Yes	0	root	_	_
 4	aʔe	aʔe	DET	dem	_	3	obl	_	_
 5	rojré	rojré	ADP	posp	_	4	case	_	_
 6	?	?	PUNCT	punct	_	3	punct	_	_
@@ -1580,7 +1580,7 @@
 1	Marã	marã	ADV	adv	_	2	advmod	_	_
 2	ojaβope	ojaβope	VERB	v	Person=3|VerbForm=Ger	4	advcl	_	_
 3	ajpó	ajpó	DET	dem	_	4	nmod	_	_
-4	iʔew	iʔe	NOUN	n	NFoc=Yes	0	root	_	_
+4	iʔew	iʔe	NOUN	n	OblTop=Yes	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1014
@@ -1604,7 +1604,7 @@
 16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	_	_
 17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	_	_
 18	ajpó	ajpó	DET	dem	_	19	obj	_	_
-19	iʔew	iʔe	NOUN	n	NFoc=Yes	0	root	_	_
+19	iʔew	iʔe	NOUN	n	OblTop=Yes	0	root	_	_
 
 # sent_id = 1015
 # text = Osoβasɨpe amõ kuɲã ?
@@ -1633,7 +1633,7 @@
 1	Mamõpe	mamõpe	ADV	adv	_	4	advmod	_	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	dep	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Rel=Cont	4	nmod	_	_
-4	reroβasẽmi	oβasem	NOUN	n	NFoc=Yes|Rel=Cont	0	root	_	_
+4	reroβasẽmi	oβasem	NOUN	n	OblTop=Yes|Rel=Cont	0	root	_	_
 5	koʔɨté	koʔɨté	ADV	adv	_	4	advmod	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -1697,7 +1697,7 @@
 1	iaowérape	aoβ	NOUN	Case=Ref|Rel=NCont|Tense=Past	_	4	dep	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
 3	marã	marã	ADV	adv	_	4	advmod	_	_
-4	sereków	erekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+4	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1024
@@ -1734,7 +1734,7 @@
 # text_eng = How did they treat him after tzhat?      book 3-chap 9
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	_	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	nsubj	_	_
-3	sereków	erekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+3	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 4	aʔe	aʔe	DET	dem	_	3	obl	_	_
 5	riré	_	ADP	posp	_	4	case	_	_
 6	?	?	PUNCT	punct	_	3	punct	_	_
@@ -1776,7 +1776,7 @@
 # text_eng = How did they treat him, wanting his arrival (at the place where he would be crucified) book 3-chap 9
 1	Marãpe	marãpe	ADV	adv	_	3	advmod	_	_
 2	ɨβɨá	ɨβɨá	PART	prcl	_	3	nsubj	_	_
-3	sereków	erekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+3	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 4	imondɨka	mondɨk	NOUN	n	Case=Ref|Rel=NCont	5	obj	_	_
 5	potá	potár	VERB	v	VerbForm=Ger	3	dep	_	_
 6	?	?	PUNCT	punct	_	3	punct	_	_
@@ -1787,7 +1787,7 @@
 1	Opa	opa	PART	pcl	_	2	nmod	_	_
 2	sama	sama	NOUN	n	_	4	obj	_	_
 3	pupé	pupé	ADP	posp	Rel=Cont	2	case	_	_
-4	iapɨtĩw	apɨtĩ	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+4	iapɨtĩw	apɨtĩ	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	sekɨjsekɨjetéβo	ekɨj	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger	4	advcl	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
@@ -1803,7 +1803,7 @@
 2	rameʔĩpe	rameʔĩ	ADV	adv	_	5	advcl	_	_
 3	ɨβɨá	ɨβɨá	PART	prcl	_	5	nsubj	_	_
 4	ipɨ	pɨ	NOUN	n	Rel=NCont	5	obj	_	_
-5	rereków	erekó	NOUN	n	NFoc=Yes|Rel=Cont	0	root	_	_
+5	rereków	erekó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	itapɨwá	itapɨwá	NOUN	_	_	9	obl	_	_
 8	pupé	pupé	ADP	posp	Rel=Cont	7	case	_	_
@@ -1822,7 +1822,7 @@
 1	Aʔejβépe	aʔejβé	ADV	_	_	4	advmod	_	_
 2	ɨβɨa	_	PART	pcl	_	4	nsubj	_	_
 3	cruz	cruz	NOUN	n	_	4	obj	_	_
-4	moʔãmi	ʔam	NOUN	n	NFoc=Yes|Voice=Cau	0	root	_	_
+4	moʔãmi	ʔam	NOUN	n	OblTop=Yes|Voice=Cau	0	root	_	_
 5	iatɨkáβo	atɨk	VERB	v	Rel=NCont	4	advcl	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -2122,7 +2122,7 @@
 1	Mbaʔepɨʔauwpjara	mbaʔepɨʔauwpjara	NOUN	Case=Ref	_	6	obj	_	_
 2	kawiajasɨ	kawiajasɨ	NOUN	n	_	4	obj	_	_
 3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
-4	imonani	monan	NOUN	n	NFoc=Yes|Rel=NCont	1	acl	_	_
+4	imonani	monan	NOUN	n	OblTop=Yes|Rel=NCont	1	acl	_	_
 5	ipupé	pupé	ADP	posp	Rel=NCont	4	case	_	_
 6	seʔɨma	eʔɨm	VERB	v	Rel=NCont|VerbForm=Ger	0	root	_	_
 
@@ -2171,7 +2171,7 @@
 # text = Marãpe seków aʔeriré ?
 # text_eng = How did he act after that?    Book 3 chap 10
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advcl	_	_
-2	seków	ekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+2	seków	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 3-4	aʔeriré	_	_	_	_	_	_	_	_
 3	aʔe	aʔe	DET	dem	_	2	obl	_	_
 4	riré	riré	ADP	posp	_	3	case	_	_
@@ -2282,7 +2282,7 @@
 2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	_	_
 3	reʔõmbwera	ram	NOUN	n	Case=Ref|Tense=Past	5	obj	_	_
 4	marã	marã	ADV	adv	_	5	advmod	_	_
-5	sereków	ekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+5	sereków	ekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 99
@@ -2291,7 +2291,7 @@
 1	Itamina	itamina	NOUN	n	_	4	obl	_	_
 2	pupé	pupé	ADP	posp	Rel=Cont	1	case	_	_
 3	iɨké	ɨké	NOUN	n	Rel=NCont	4	obj	_	_
-4	kutúki	kutúk	NOUN	n	NFoc=Yes	0	root	_	_
+4	kutúki	kutúk	NOUN	n	OblTop=Yes	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	iɲɨʔã	ɲɨʔã	NOUN	n	Rel=NCont	7	obj	_	_
 7	momboka	mombok	VERB	v	_	4	xcomp	_	_
@@ -2339,7 +2339,7 @@
 # text_eng = Becasue of what did they go (there)? Book 3 chap 11
 1	mbaʔe	mbaʔe	NOUN	n	_	3	obl	_	_
 2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	1	case	_	_
-3	iʃów	_	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+3	iʃów	_	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 103
@@ -2355,7 +2355,7 @@
 # text = Marãpe sereków itɨmɨ janondé ?
 # text_eng = What did they do with him before burying? Book 3 chap 11
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
-2	sereków	erekó	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+2	sereków	erekó	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 3	itɨmɨ	tɨm	NOUN	n	Rel=NCont	2	obl	_	_
 4	janondé	janondé	ADP	posp	_	3	case	_	_
 5	?	?	PUNCT	punct	_	2	punct	_	_
@@ -2365,7 +2365,7 @@
 # text_eng = They covered him with a white cloth, putting him in a stone box box with no person buried (in it). Book 3 chap 11
 1	Aotinga	Aoting	NOUN	n	Case=Ref	3	obl	_	_
 2	pupé	pupé	ADP	posp	_	1	case	_	_
-3	iɲuβãni	ɲuβãn	NOUN	n	NFoc=Yes|Rel=NCont|Tense=Past	0	root	_	_
+3	iɲuβãni	ɲuβãn	NOUN	n	OblTop=Yes|Rel=NCont|Tense=Past	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	itakaramemwã	itakaramemwã	NOUN	n	_	9	obl	_	_
 6	aβá	aβá	NOUN	n	_	7	nmod	_	_
@@ -2394,7 +2394,7 @@
 # text = Marãpe seków ipupé imondeβ iré iʃuí osóβo ?
 # text_eng = What did they do going from there after puttin him in it? Book 3 chap 11
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
-2	seków	_	NOUN	n	NFoc=Yes|Rel=NCont	0	root	_	_
+2	seków	_	NOUN	n	OblTop=Yes|Rel=NCont	0	root	_	_
 3	ipupé	pupé	ADP	posp	Rel=Cont	4	case	_	_
 4	imondeβ	mondeβ	NOUN	n	Rel=NCont	7	advcl	_	_
 5	iré	riré	ADP	posp	_	4	case	_	_
@@ -2786,6 +2786,6 @@
 2	!	!	PUNCT	punct	_	1	punct	1:punct	_
 3	Mamõpe	mamõ	ADV	adv	Int=Yes	5	advmod	5:advmod	_
 4	ahẽ	ahẽ	NOUN	n	_	5	nmod	5:nmod	_
-5	reków	ikó	NOUN	n	NFoc=Yes|Rel=Cont	0	root	0:root	_
+5	reków	ikó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
