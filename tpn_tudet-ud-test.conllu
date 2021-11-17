@@ -2789,12 +2789,3 @@
 5	reków	ikó	NOUN	n	OblTop=Yes|Rel=Cont	0	root	0:root	_
 6	?	?	PUNCT	punct	_	5	punct	5:punct	_
 
-# sent_id = 565656565
-# text = Erekepe ipó ejupa ?
-# text_eng = were you really lying sleeping? (Teatro, 85, p. 12)
-# text=por = Você estava realmente dormindo?
-1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	0:root	_
-2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-3	ejupa	jub	AUX	aux	Corf=YesNumber=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
-
