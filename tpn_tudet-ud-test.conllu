@@ -1570,7 +1570,7 @@
 5	aéte	aéte	PART	pcl	_	4	discourse	_	_
 6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	_	_
 7	eʔi	ʔi	VERB	v	Person=3	6	parataxis	_	_
-8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person[obj]=3|Person[subj]=2	9	obl	_	_
+8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=2	9	obl	_	_
 9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=2	7	dep	_	_
 10	eʔi	ʔi	VERB	v	Person=3	9	advcl	_	_
 
