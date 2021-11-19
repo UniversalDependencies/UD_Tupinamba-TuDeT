@@ -2880,7 +2880,7 @@
 6	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 1231145678666
-# text = Opaβĩ tekoaíβa mondeβikatu opɨʔape .
+# text = Ndaʔei teʔe , nderatãŋatu resé wijekoka , wijeroβjá .
 # text_eng =    (Teatro, 99, p. 14)
 # text_por = Por isso mesmo em tua grande força apóio-me, confio.
 1	Ndaʔei	ʔi	AUX	aux	Number=Sing|Person[subj]=1|Polarity=Neg	6	aux	6:aux	_
