@@ -2859,3 +2859,11 @@
 8	repjakápe	epjak	VERB	v	Case=Loc|Rel=Cont|VerbFomr=Ger	3	advcl	3:advcl	_
 9	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 234875600
+# text = ʃeapɨsɨkatu sekoápe .
+# text_eng =    (Teatro, 96, p. 12)
+# text_por = Eu fiquei muito satisfeito na morada deles
+1	ʃeapɨsɨkatu	apɨsɨk	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1	0	root	0:root	_
+2	sekoápe	ekoab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	1	obl	1:obl	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
