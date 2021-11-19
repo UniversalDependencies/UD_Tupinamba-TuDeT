@@ -2851,7 +2851,7 @@
 1	Te	te	PART	prcl	_	3	discourse	3:discourse	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
 3	ʃeresemõ	esemõ	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
-4	torɨβa	orɨb	NOUN	n	Case=Ref|Rel=Abs	3	nsubj	3:nsubj	_
+4	torɨβa	orɨb	NOUN	n	Case=Ref|Rel=Hum	3	nsubj	3:nsubj	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	_
 6-7	sekópoʃɨ	_	_	_	_	_	_	_	_
 6	sekó	ikó	NOUN	n	Rel=NCont	8	obj	8:obj	_
@@ -2873,7 +2873,7 @@
 # text_por = Colocaram bem todos os seus vícios em seus corações.
 1	Opaβĩ	Opaβĩ	PRON	pron	PronType=Tot	2	nmod	2:nmod	_
 2-3	tekoaíβa	_	_	_	_	_	_	_	_
-2	teko	ikó	NOUN	n	Rel=Abs	4	obj	4:obj	_
+2	teko	ikó	NOUN	n	Rel=Hum	4	obj	4:obj	_
 3	aíβa	aib	NOUN	n	Case=ref	2	nmod	2:nmod	_
 4	mondeβikatu	mondeb	VERB	v	Intens=Yes|Voice=Cau	0	root	0:root	_
 5	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Rel=Corf	4	obl	4:obl	_
