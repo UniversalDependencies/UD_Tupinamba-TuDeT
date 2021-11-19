@@ -2798,7 +2798,7 @@
 3	ejupa	jub	AUX	aux	Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 565656565
+# sent_id = 5656562135
 # text = Erekepe ipó ejupa ?
 # text_eng = were you really lying sleeping? (Teatro, 85, p. 12)
 # text=por = Você estava realmente dormindo?
@@ -2807,7 +2807,7 @@
 3	ejupa	jub	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 564456565
+# sent_id = 564499956565
 # text = Erimã e . Taβa supa , ɨβɨtɨrɨpe ʃesów , janeβojá rerosupa .
 # text_eng = No way! I went to the mountains to visit vilages and to meet our subjects (Teatro, 86, p. 12)
 # text=por = De modo algum. Fui à serra para visitar aldeias, para encontrar-me com nossos súditos.
@@ -2824,7 +2824,7 @@
 11	rerosupa	sub	VERB	v	VerbForm=Ger|Voice=Com	8	advcl	8:advcl	_
 12	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
-# sent_id = 564456565
+# sent_id = 564333456565
 # text = Sorɨkatu ʃerepjaka , ʃeajuβan ʃemomɨtáβo koʔarapukuj okawaβo , oporaseja , ojewaka , Tupã rekó momuruwabo
 # text_eng = They were very happy to see me, they hug me, making me stay, drinking beer all day, dancing, preening myself, curson god's law (Teatro, 89, p. 12)
 # text=por = Estavam muito felizes ao ver-me' abraçaram-me, fazendo-me ficar, o dia todo bebendo cauim, dançando, enfeitando-se, desafiando a lei de Deus.
@@ -2844,7 +2844,7 @@
 14	rekó	ikó	NOUN	n	Rel=Cont	15	obj	15:obj	_
 15	momuruwabo	muru	VERB	v	VerbForm=Ger|Voice=Cau	5	conj	5:conj	_
 
-# sent_id = 17643526
+# sent_id = 1764443526
 # text =  Te , ʃeresemõ torɨβa , sekópoʃɨ repjakápe .       (Teatro, 94, p. 12)
 # text_eng =  
 # text_por = Ah, sobra-me alegria ao ver sua vida ruim.
