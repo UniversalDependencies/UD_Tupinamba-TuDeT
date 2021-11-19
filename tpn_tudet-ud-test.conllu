@@ -2828,7 +2828,7 @@
 # text = Sorɨkatu ʃerepjaka , ʃeajuβan ʃemomɨtáβo koʔarapukuj okawaβo , oporaseja , ojewaka , Tupã rekó momuruwabo
 # text_eng = They were very happy to see me, they hug me, making me stay, drinking beer all day, dancing, preening myself, curson god's law (Teatro, 89, p. 12)
 # text=por = Estavam muito felizes ao ver-me' abraçaram-me, fazendo-me ficar, o dia todo bebendo cauim, dançando, enfeitando-se, desafiando a lei de Deus.
-1	Sorɨkatu	orɨβ	NOUN	n	Inten=Yes|Rel=NCont|VerbForm=Ger	0	root	0:root	_
+1	Sorɨkatu	orɨβ	NOUN	n	Intens=Yes|Rel=NCont|VerbForm=Ger	0	root	0:root	_
 2	ʃerepjaka	epjak	VERB	v	Number=Sing|Person[psor]=1|Rel=Cont|VerbForm=Ger	1	advcl	1:advcl	_
 3	,	,	PUNCT	_	_	1	punct	1:punct	_
 4	ʃeajuβan	ajuβan	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	1:parataxis	_
