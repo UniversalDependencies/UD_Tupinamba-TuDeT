@@ -2856,7 +2856,7 @@
 6-7	sekópoʃɨ	_	_	_	_	_	_	_	_
 6	sekó	ikó	NOUN	n	Rel=NCont	8	obj	8:obj	_
 7	poʃɨ	poʃɨ	NOUN	n	_	6	nmod	6:nmod	_
-8	repjakápe	epjak	VERB	v	Case=Loc|Rel=Cont|VerbFomr=Ger	3	advcl	3:advcl	_
+8	repjakápe	epjak	VERB	v	Case=Loc|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
 9	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 234875600
