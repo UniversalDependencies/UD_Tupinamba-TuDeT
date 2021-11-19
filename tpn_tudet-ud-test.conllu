@@ -2795,7 +2795,7 @@
 # text=por = Você estava realmente dormindo?
 1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	0:root	_
 2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-3	ejupa	jub	AUX	aux	Corf=YesNumber=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
+3	ejupa	jub	AUX	aux	Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 564456565
@@ -2829,7 +2829,7 @@
 8	,	,	PUNCT	punct	_	5	punct	5:punct	_
 9	oporaseja	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	5	conj	5:conj	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	ojewaka	jewak	VERB	v	Corf=Yes|Person=3|Reflex=Yes|VerbForm=Ger	5	conj	5:conj	_
+11	ojewaka	jewak	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	5	conj	5:conj	_
 12	,	,	PUNCT	punct	_	11	punct	11:punct	_
 13	Tupã	Tupã	PROPN	propn	_	14	nmod	14:nmod	_
 14	rekó	ikó	NOUN	n	Rel=Cont	15	obj	15:obj	_
