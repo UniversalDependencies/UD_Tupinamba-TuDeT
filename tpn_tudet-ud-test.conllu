@@ -2845,8 +2845,8 @@
 15	momuruwabo	muru	VERB	v	VerbForm=Ger|Voice=Cau	5	conj	5:conj	_
 
 # sent_id = 1764443526
-# text =  Te , ʃeresemõ torɨβa , sekópoʃɨ repjakápe .       (Teatro, 94, p. 12)
-# text_eng =  
+# text =  Te , ʃeresemõ torɨβa , sekópoʃɨ repjakápe .
+# text_eng =         (Teatro, 94, p. 12)
 # text_por = Ah, sobra-me alegria ao ver sua vida ruim.
 1	Te	te	PART	prcl	_	3	discourse	3:discourse	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
