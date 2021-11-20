@@ -2893,3 +2893,18 @@
 8	wijeroβjá	eroβjar	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	6	conj	6:conj	_
 9	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
+# sent_id = 999999499921
+# text = Jori , esenõj aŋá kwejβo nderemimoawjé . Aβápe eremoaŋajpá ?
+# text_eng =    (Teatro, 102, p. 14)
+# text_por = Vem, nomeia pois os que derrotaste por aí. A quem fizeste pecar ?
+1	Jori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	esenõj	enõj	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Rel=NCont	1	parataxis	1:parataxis	_
+4	aŋá	_	ADV	n	_	3	discourse	3:discourse	_
+5	kwejβo	kwejβo	ADV	adv	_	3	advmod	3:advmod	_
+6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[posr]=2|Rel=NCont|Voice=Cau	3	obj	3:obj	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+8	Aβápe	aβá	PRON	punct	Int=Yes	9	obj	9:obj	_
+9	eremoaŋajpá	aŋajpab	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	3:parataxis	_
+10	?	?	PUNCT	punct	_	9	punct	9:punct	_
+
