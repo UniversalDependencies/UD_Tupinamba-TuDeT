@@ -2909,7 +2909,7 @@
 10	?	?	PUNCT	punct	_	9	punct	9:punct	_
 
 # sent_id = 44466655566712345
-# text = Maratawáme tekwara oweroβjá ʃeɲeʔeŋa , opá 'ʔɨpaʔũmenwara , opá Paraíβɨwara ʃepópe oʔaŋa meʔeŋa .
+# text = Maratawáme tekwara oweroβjá ʃeɲeʔeŋa , opá ʔɨpaʔũmenwara , opá Paraíβɨwara ʃepópe oʔaŋa meʔeŋa .
 # text_eng =      (Teatro, 105, p. 14)
 # text_por = Os que moram em Maratauá acreditam em minhas palavras, todos os que estão na ilha, todos os habitantes do Paraíba em minhas mãos entregando suas almas.
 1	Maratawáme	Maratau	PROPN	propn	_	2	nmod	2:nmod	_
