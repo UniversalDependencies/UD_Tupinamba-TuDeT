@@ -2914,7 +2914,7 @@
 # text_por = Os que moram em Maratauá acreditam em minhas palavras, todos os que estão na ilha, todos os habitantes do Paraíba em minhas mãos entregando suas almas.
 1	Maratawáme	Maratau	PROPN	propn	_	2	nmod	2:nmod	_
 2	tekwara	ikó	NOUN	n	Case=Ref|Rel=Abs|Nomzr=CCirc	3	nsubj	3:nsubj	_
-3	oweroβjá	eroβjár	VERB	v	Case=Ref|Corf=Yes|Person	0	root	0:root	_
+3	oweroβjá	eroβjár	VERB	v	Case=Ref|Corf=Yes|Person=3	0	root	0:root	_
 4	ʃeɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	3	obj	3:obj	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	punct
 6	opá	opá	PRON	pron	_	7	nmod	7:nmod	_
