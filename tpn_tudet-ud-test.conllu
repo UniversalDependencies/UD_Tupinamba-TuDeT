@@ -2927,3 +2927,18 @@
 13	meʔeŋa	meʔeŋ	VERB	v	VerbForm=Ger	3	advcl	3:advcl	_
 14	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
+# sent_id = 908978776756
+# text = Kwejsé , rakó , amõ kaɲemi , owejɨpa Maweápe .
+# text_eng =   (Teatro, 110, p. 14)
+# text_por = Ontem, é certo, alguns sumiram, descendo para Magueá
+1	Kwejsé	kwejsé	ADV	adv	_	6	advmod	6:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	rakó	rakó	PART	prcl	_	6	discourse	6:discourse	_
+4	,	,	PUNCT	punct	_	6	punct	6:punct	_
+5	amõ	amõ	PRON	pron	_	6	nsubj	6:nsubj	_
+6	kaɲemi	kaɲem	NOUN	n	NonFoc=Yes	0	root	0:root	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	owejɨpa	wejɨb	VERB	v	Person[subj]=3|VerbForm=Ger	6	advcl	6:advcl	_
+9	Maweápe	Maweá	PROPN	propn	Case=Loc	8	obl	8:obl	_
+10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
