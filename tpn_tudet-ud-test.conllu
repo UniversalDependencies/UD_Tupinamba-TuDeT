@@ -2902,7 +2902,7 @@
 3	esenõj	enõj	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Rel=NCont	1	parataxis	1:parataxis	_
 4	aŋá	_	ADV	n	_	3	discourse	3:discourse	_
 5	kwejβo	kwejβo	ADV	adv	_	3	advmod	3:advmod	_
-6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[posr]=2|Rel=NCont|Voice=Cau	3	obj	3:obj	_
+6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[psor]=2|Rel=NCont|Voice=Cau	3	obj	3:obj	_
 7	.	.	PUNCT	punct	_	3	punct	3:punct	_
 8	Aβápe	aβá	PRON	punct	Int=Yes	9	obj	9:obj	_
 9	eremoaŋajpá	aŋajpab	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	3:parataxis	_
