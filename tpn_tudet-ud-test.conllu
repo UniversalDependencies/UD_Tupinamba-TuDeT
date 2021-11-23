@@ -2962,7 +2962,7 @@
 # text = Aʔe re , opɨtáβaʔe resé aβaré rekóaʔuβi , iké serupotá ɲẽ .
 # text_eng =     (Teatro, 115, p. 14)
 # text_por = Depois disso, com os que ficam os padres estão, sem resultado, querendo trazê-los aqui
-1	Aʔe	aʔe	PRON	pron	PronType=Dem	7	advmod	7:advmod	_
+1	Aʔe	aʔe	PRON	pron	PronType=Dem	7	obl	7:obl	_
 2	re	re	ADP	posp	_	1	case	1:case	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
 4	opɨtáβaʔe	pɨtá	NOUN	n	Nomzr=Rel|Person=3	7	obl	7:obl	_
