@@ -2959,7 +2959,7 @@
 11	.	.	PUNCT	punct	_	9	punct	9:punct	_
 
 # sent_id = 88881882883
-# text = Aʔe re , opɨtáβaʔe resé aβaré rekó aʔuβi , iké serupotá ɲẽ .
+# text = Aʔe re , opɨtáβaʔe resé aβaré rekóaʔuβi , iké serupotá ɲẽ .
 # text_eng =     (Teatro, 115, p. 14)
 # text_por = Depois disso, com os que ficam os padres estão, sem resultado, querendo trazê-los aqui
 1	Aʔe	aʔe	PRON	pron	PronType=Dem	7	advmod	7:advmod	_
