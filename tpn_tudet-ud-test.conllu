@@ -3003,7 +3003,7 @@
 # text_por = Usaste feitiço para que não viessem?
 1	Mosaŋape	posaŋ	NOUN	n	Int=Yes|Rel=Hum	2	obl	2:obl	_
 2	erejpuru	puru	VERB	v	Person=23	0	root	0:root	_
-3	tureʔɨmawama	ur	NOUN	n	Case=Re|Priv=Yes|Rel=NCont|Tense=Past	2	obl	2:obl	_
+3	tureʔɨmawama	ur	NOUN	n	Case=Ref|Priv=Yes|Rel=NCont|Tense=Past	2	obl	2:obl	_
 4	ri	ri	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
