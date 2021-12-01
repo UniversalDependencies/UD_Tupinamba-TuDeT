@@ -2991,7 +2991,7 @@
 # text_eng =    (Teatro, 119, p. 14)
 # text_por = Frustrei-os; ouviram-me as palavras todas.
 1	Amoramwé	_	VERB	vt	Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
-2	;	;	PUNCT	punct	_	1	parataxis	1:parataxis	_
+2	;	;	PUNCT	punct	_	1	punct	1:punct	_
 3	opá	opá	PRON	pro	_	4	nmod	4:nmod	_
 4	ʃeɲeʔeŋ	ɲeʔeŋ	NOUN	n	Number=Sing|Person[psor]=1	5	obj	5:obj	_
 5	enuβi	enub	NOUN	n	NonFoc=Yes	1	parataxis	1:parataxis	_
