@@ -3019,3 +3019,10 @@
 5	Maweá	Maweá	PROPN	propn	_	4	appos	4:appos	_
 6	swi	swi	ADP	posp	_	4	case	4:case	_
 
+# sent_id = 09090900909
+# text = Aʔereme aputu
+# text_eng = Then I rested (Teatro, 125, p.14)
+# text_por = Então eu descansei
+1	Aʔereme	aʔereme	ADV	adv	_	2	advmod	2:advmod	_
+2	aputuʔu	putuʔu	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
+
