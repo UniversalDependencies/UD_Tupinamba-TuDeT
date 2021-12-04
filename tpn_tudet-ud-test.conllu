@@ -3007,3 +3007,15 @@
 4	ri	ri	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 355311142 
+# text = Tapujpéwajβĩ aru amõ Maweá swi
+# text_eng = I have brought old Tapuja slave-women from Maweá (Teatro, 123, p.14)
+# text_por = Trouxe escravas tapuias velhas de além de Magueá
+1-2	Tapujpéwajβĩ	_	_	_	_	_	_	_	_
+1	Tapujpé	tapujper	NOUN	n	_	3	obj	3:obj	_
+2	wajβĩ	wajβĩ	NOUN	n	_	1	nmod	1:nmod	_
+3	aru	eru	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
+4	amõ	amõ	ADV	adv	_	3	obl	3:obl	_
+5	Maweá	Maweá	PROPN	propn	_	4	appos	4:appos	_
+6	swi	swi	ADP	posp	_	4	case	4:case	_
+
