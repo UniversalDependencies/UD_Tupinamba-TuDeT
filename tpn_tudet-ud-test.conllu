@@ -3026,3 +3026,25 @@
 1	Aʔereme	aʔereme	ADV	adv	_	2	advmod	2:advmod	_
 2	aputuʔu	putuʔu	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
 
+#
+# text = Aʔe , rakó , iaŋaipá , ojemopajepajéβo , apɨaβa moʔemoʔebo Tupana rekó rejá , ʃenhõ ʃemomaʔetéβo .
+# text_eng =   (Teatro, 126, p.15)
+# text_por = Elas, de fato, são más, ficando a fazer pajelança, ficando a ensinar os homens a deixar a lei de Deus, a honrar somente a mim.
+1	Aʔe	aʔe	PRON	pron	PronType=Prs	5	nsubj	5:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	rakó	rakó	PART	prcl	Evident=Fh	5	discourse	5:discourse	_
+4	,	,	PUNCT	punct	_	5	punct	5:punct	_
+5	iaŋajpá	aŋajpáb	NOUN	n	Rel=NCont	0	root	0:root	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	ojemopajepajéβo	mopaje	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	apɨaβa	apɨab	NOUN	n	Case=Ref	10	iobj	10:iobj	_
+10	moʔemoʔebo	_	VERB	v	_	7	parataxis	7:parataxis	_
+11	Tupana	Tupana	PROPN	propn	_	12	nmod	12:nmod	_
+12	rekó	ikó	NOUN	n	Rel=Cont	13	nmod	13:nmod	_
+13	rejá	ejár	NOUN	n	Rel=Cont|VerbForm=Ger	10	obj	10:obj	_
+14	,	,	PUNCT	punct	_	10	punct	10:punct	_
+15	ʃenhõ	_	PART	prcl	Number=Sing|Person=1|PronType=Prs	16	obj	16:obj	_
+16	ʃemomaʔetéβo	momaʔeté	VERB	v	Number=Sing|Person=1|VerbForm=Ger|Voice=Cau	10	parataxis	10:parataxis	_
+17	.	.	PUNCT	punct	_	16	punct	16:punct	_
+
