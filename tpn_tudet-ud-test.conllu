@@ -3065,7 +3065,7 @@
 9	oporasej	porasej	VERB	v	Person[subj]=3	6	parataxis	6:parataxis	_
 10	pɨsaré	pɨsaré	ADV	adv	_	9	advmod	9:advmod	_
 11	,	,	PUNCT	punct	_	9	punct	9:punct	_
-12	ojemopajéangaípa	mopajé	VERB	v	Person=3|Reflex=Yes|Voice=Caus	9	advcl	9:advcl	_
+12	ojemopajéangaípa	mopajé	VERB	v	Person=3|Reflex=Yes|Voice=Cau	9	advcl	9:advcl	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	tatápe	tatá	NOUN	n	Case=Loc|Rel=NCont	15	nmod	15:nmod	_
 15	osó	so	NOUN	n	Corf=Yes	12	obl	12:obl	_
