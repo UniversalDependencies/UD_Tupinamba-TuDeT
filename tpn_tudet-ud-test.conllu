@@ -3028,7 +3028,7 @@
 
 # sent_id = 81818182838
 # text = Aʔe , rakó , iaŋajpá , ojemopajepajéβo , apɨaβa moʔemoʔebo Tupana rekó rejá , ʃenhõ ʃemomaʔetéβo .
-# text_eng =   (Teatro, 126, p.15)
+# text_eng =   (Teatro, 126, p.16)
 # text_por = Elas, de fato, são más, ficando a fazer pajelança, ficando a ensinar os homens a deixar a lei de Deus, a honrar somente a mim.
 1	Aʔe	aʔe	PRON	pron	PronType=Prs	5	nsubj	5:nsubj	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -3050,7 +3050,7 @@
 
 # sent_id = 7675747372
 # text = Tapujpepoʃɨ morɨpa , tupotareʔɨmi iké ; oporasej pɨsaré , ojemopajéangaípa , tatápe osó janoné .
-# text_eng =         (Teatro, 126, p. 16)
+# text_eng =         (Teatro, 131, p. 16)
 # text_por = Divertzindo-se com as escravas tapuias, não quiseram vir aqui; dançaram a noite toda, fazendo feitiçarias, antes de irem para o fogo.
 1-2	Tapujpepoʃɨ	_	_	_	_	_	_	_	_
 1	Tapujpe	tapujper	NOUN	n	_	3	obj	3:obj	_
@@ -3071,4 +3071,20 @@
 15	osó	so	NOUN	n	Corf=Yes	12	obl	12:obl	_
 16	janoné	janoné	ADP	posp	_	15	case	15:case	_
 17	.	,	PUNCT	punct	_	9	punct	9:punct	_
+
+# sent_id = 76733347372
+# text = Erĩ , awjé . ʃemoorɨkatu jepé , inã tekó momewaβo .
+# text_eng =         (Teatro, 136, p. 16)
+# text_por = Bem, basta. Tu me alegras muito, narrando os fatos assim.
+1	Erĩ	erĩ	INTJ	intj	_	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	awjé	awjé	INTJ	intj	_	1	parataxis	1:parataxis	_
+4	.	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ʃemoorɨkatu	orɨb	NOUN	n	Intense=Yes|Number=Sing|Person[psor]=1|Voice=Cau	1	parataxis	1:parataxis	_
+6	jepé	jepé	PRON	pron	_	5	obl	5:obl	_
+7	,	,	PUNCT	punct	_	5	punct	5:punct	_
+8	inã	inã	ADV	adv	_	10	advmod	10:advmod	_
+9	tekó	ikó	NOUN	n	Rel=Abs	10	obj	10:obj	_
+10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
+11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
