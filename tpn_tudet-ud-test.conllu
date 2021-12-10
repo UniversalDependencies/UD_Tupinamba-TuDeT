@@ -3084,7 +3084,7 @@
 6	jepé	jepé	PRON	pron	_	5	obl	5:obl	_
 7	,	,	PUNCT	punct	_	5	punct	5:punct	_
 8	inã	inã	ADV	adv	_	10	advmod	10:advmod	_
-9	tekó	ikó	NOUN	n	Rel=Abs	10	obj	10:obj	_
+9	tekó	ikó	NOUN	n	Rel=Hum	10	obj	10:obj	_
 10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
 11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
