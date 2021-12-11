@@ -3162,3 +3162,21 @@
 7	tatápe	atá	NOUN	n	Case=Loc|Rel=Hum	6	obl	6:obl	_
 8	oupa	jub	AUX	aux	Person=3|VerbForm=Ger	6	aux	6:aux	_
 
+# sent_id = 000333444
+# text = Mokoɲõ , Tupã rawsupa , ko taβa pupé seków , ojepɨsɨrõmo okupa .
+# text_eng =  (Teatro, 154, p. 18)
+# text_port = Poucos, amando a Deus, nesta aldeia moram, estando a salvar-se.
+1	Mokoɲõ	mokoɲõ	PRON	pron	_	9	nsubj	9:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	Tupã	Tupã	NOUN	n	_	4	obj	4:obj	_
+4	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	9	advcl	9:advcl	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	ko	ko	DET	dem	_	7	nmod	7:nmod	_
+7	taβa	tab	NOUN	n	Case=Ref	9	obl	9:obl	_
+8	pupé	pupé	ADP	posp	_	7	case	7:case	_
+9	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	9:advcl	_
+12	okupa	kub	VERB	v	Person=3|VerbForm=Ger	11	aux	11:aux	_
+13	.	.	PUNCT	punct	_	11	punct	11:punct	_
+
