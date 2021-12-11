@@ -3115,6 +3115,6 @@
 7	iTupã	Tupã	NOUN	n	Rel=NCont	8	nmod	8:nmod	_
 8	osɨβaʔepwera	sɨk	NOUN	n	Case=Ref|Nomzr=Rel|Tense=Past	3	appos	3:appos	_
 9	opakatu	opab	PRON	propn	Intens=Yes	10	obj	10:obj	_
-10	jamombá mombá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
+10  jamombá mombá VERB  v Clusivity=In|Number=Plur|Person[subj]=1 0 root  0:root  _
 11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
