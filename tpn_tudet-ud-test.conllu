@@ -3102,3 +3102,19 @@
 8	ʃeremiaramo	emiar	NOUN	n	Case=Tra|Number=Sing|Person[psor]=1	9	obl	9:obl	_
 9	ipeʔaβo	peʔa	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 
+# sent_id = 22247372
+# text = Maʔene , Tupinambá , Paraguasupenarwera , iTupã osɨβaʔepwera opakatu jamombá .
+# text_eng =  (Teatro, 142, p. 16)
+# text_port = Olha, o s tupinambás que estavam no Paraguaçu, que esfregavam seu Deus20, todos arrasamos
+1	Maʔene	maʔe	INTJ	intj	_	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	Tupinambá	Tupinambá	PROPN	propn	_	10	dislocated	10:dislocated	_
+4	,	_	PUNCT	punct	_	3	punct	3:punct	_
+5	Paraguasupenarwera	Paraguasu	NOUN	n	Case=Loc|Case=Ref|Tense=Past	3	appos	3:appos	_
+6	,	_	PUNCT	punct	_	3	punct	3:punct	_
+7	iTupã	Tupã	NOUN	n	Rel=NCont	8	nmod	8:nmod	_
+8	osɨβaʔepwera	sɨk	NOUN	n	Case=Ref|Nomzr=Rel|Tense=Past	3	appos	3:appos	_
+9	opakatu	opab	PRON	propn	Intens=Yes	10	obj	10:obj	_
+10	jamombá	_	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
+11	.	_	PUNCT	punct	_	10	punct	10:punct	_
+
