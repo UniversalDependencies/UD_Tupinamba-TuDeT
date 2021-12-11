@@ -3118,3 +3118,34 @@
 10	jamombá	mombá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
+# sent_id = 21234372
+# text = Nitɨβetéi semɨrwera
+# text_eng =  (Teatro, 146, p. 16)
+# text_port = Não há mutiso restos deles
+1	Nitɨβetéi	tɨb	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	0	root	0:root	_
+2	semɨrwera	emɨr	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	nsubj	1:nsubj	_
+
+# sent_id = 21234372
+# text = Jaʔupá Mosupɨroka , jekeí , Watapɨtɨβa , ɲeterõja , Paraíβa , Wajajó , Karijóoka , Pakukaja , Arasatɨβa .
+# text_eng =  (Teatro, 147, p. 16)
+# text_port = Comemos toda a Moçupiroca, Jequeí, Guatapitiba, Niterói, Paraíba, Guajajó, Carioca, Pacucaia, Araçatiba
+1	Jaʔupá	ʔu	VERB	v	Aspect=Compl|Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
+2	Mosupɨroka	Mosupɨroka	PROPN	_	_	1	obj	1:obj	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	jekeí	jekeí	PROPN	propn	_	1	conj	1:conj	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	Watapɨtɨβa	Watapɨtɨβa	PROPN	propn	_	1	conj	1:conj	_
+7	,	,	PUNCT	punct	_	1	punct	1:punct	_
+8	ɲeterõja	ɲeterõja	PROPN	propn	_	1	conj	1:conj	_
+9	,	,	PUNCT	punct	_	1	punct	1:punct	_
+10	Paraíβa	Paraíβa	PROPN	propn	_	1	conj	1:conj	_
+11	,	,	PUNCT	punct	_	1	punct	1:punct	_
+12	Wajajó	Wajajó	PROPN	propn	_	1	conj	1:conj	_
+13	,	,	PUNCT	punct	_	1	punct	1:punct	_
+14	Karijóoka	Karijóoka	PROPN	propn	_	1	conj	1:conj	_
+15	,	,	PUNCT	punct	_	1	punct	1:punct	_
+16	Pakukaja	Pakukaja	PROPN	propn	_	1	conj	1:conj	_
+17	,	,	PUNCT	punct	_	1	punct	1:punct	_
+18	Arasatɨβa	Arasatɨβa	PROPN	propn	_	1	conj	1:conj	_
+19	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
