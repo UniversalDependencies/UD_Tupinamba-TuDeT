@@ -3180,3 +3180,14 @@
 12	okupa	kub	AUX	aux	Person=3|VerbForm=Ger	11	aux	11:aux	_
 13	.	.	PUNCT	punct	_	11	punct	11:punct	_
 
+# sent_id = 8782222231
+# text = Ko Temiminó poʃɨ janerekó oweroɨrõ
+# text_eng = (Teatro, 157, p. 18)
+# text_port = Esses temiminós malvados nossa lei detestam
+1	Ko	ko	DET	dem	_	2	nmod	2:nmod	_
+2-3	temiminópoʃɨ	_	_	_	_	_	_	_	_
+2	Temiminó	Temiminó	PROPN	propn	_	5	obl	5:obl	_
+3	poʃɨ	poʃɨ	NOUN	n	_	2	nmod	2:nmod	_
+4	janerekó	ikó	NOUN	n	Clusivity=In|Number=Sing|Person[psor]=1|Rel=Cont	5	obl	5:obl	_
+5	oweroɨrõ	eroɨrõ	VERB	vt	Number=Sing|Person[subj]=3	0	root	0:root	_
+
