@@ -3177,6 +3177,6 @@
 9	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
 11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	9:advcl	_
-12	okupa	kub	VERB	v	Person=3|VerbForm=Ger	11	aux	11:aux	_
+12	okupa	kub	AUX	aux	Person=3|VerbForm=Ger	11	aux	11:aux	_
 13	.	.	PUNCT	punct	_	11	punct	11:punct	_
 
