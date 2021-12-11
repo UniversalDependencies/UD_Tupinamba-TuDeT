@@ -3149,3 +3149,16 @@
 18	Arasatɨβa	Arasatɨβa	PROPN	propn	_	1	conj	1:conj	_
 19	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 10237372
+# text = Opá umã tamũja sów, okaja tatápe oupa
+# text_eng =  (Teatro, 152, p. 18)
+# text_port = Já todos os tamoios foram, estando a queimar no fogo.
+1	Opá	opá	PRON	pron	_	3	nmod	3:nmod	_
+2	umã	umã	ADV	adv	_	4	advmod	4:advmod	_
+3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Abs	4	nsubj	4:nsubj	_
+4	sów	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	okaja	kaj	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
+7	tatápe	atá	NOUN	n	Case=Loc|Rel=Abs	6	obl	6:obl	_
+8	oupa	jub	AUX	aux	Person=3|VerbForm=Ger	6	aux	6:aux	_
+
