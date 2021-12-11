@@ -3088,3 +3088,17 @@
 10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
 11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
+# sent_id = 1111347372
+# text = Ajepɨk aɲe sesé , ianamakatu riré , ʃeremiaramo ipeʔaβo
+# text_eng =         (Teatro, 139, p. 16)
+# text_por = Vingo-me deles, na verdade, após tornar-se boa sua nação, como minhas presas afastando-os.
+1	Ajepɨk	jepɨk	VERB	vi	Number=Sing|Person[subj]=1|Reflex=Yes	0	root	0:root	_
+2	aɲe	aɲe	ADV	adv	_	1	advmod	1:advmod	_
+3	sesé	esé	ADP	posp	Rel=NCont	1	obl	1:obl	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ianamakatu	anam	NOUN	n	Intens=Yes|Rel=NCont	1	obl	1:obl	_
+6	riré	riré	ADP	posp	_	5	case	5:case	_
+7	,	,	PUNCT	punct	_	5	punct	5:punct	_
+8	ʃeremiaramo	emiar	NOUN	n	Case=Tra|Number=Sing|Person[psor]=1	9	obl	9:obl	_
+9	ipeʔaβo	peʔa	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
+
