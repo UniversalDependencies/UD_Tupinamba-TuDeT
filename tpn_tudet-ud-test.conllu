@@ -3181,7 +3181,7 @@
 13	.	.	PUNCT	punct	_	11	punct	11:punct	_
 
 # sent_id = 8782222231
-# text = Ko Temiminó poʃɨ janerekó oweroɨrõ
+# text = Ko Temiminópoʃɨ janerekó oweroɨrõ
 # text_eng = (Teatro, 157, p. 18)
 # text_port = Esses temiminós malvados nossa lei detestam
 1	Ko	ko	DET	dem	_	2	nmod	2:nmod	_
