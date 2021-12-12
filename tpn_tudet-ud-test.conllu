@@ -3289,7 +3289,7 @@
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 3333019
-# text = Ndeputuẽ! Nasatãŋatuj maíra!
+# text = Ndeputuẽ ! Nasatãŋatuj maíra !
 # text_eng = (Teatro, 175 p.18)
 # text_por = Sossega. Não é muito forte o maíra!
 1	Ndeputuẽ	putuẽ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
