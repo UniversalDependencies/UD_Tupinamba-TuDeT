@@ -3191,3 +3191,32 @@
 4	janerekó	ikó	NOUN	n	Clusivity=In|Number=Sing|Person[psor]=1|Rel=Cont	5	obl	5:obl	_
 5	oweroɨrõ	eroɨrõ	VERB	vt	Number=Sing|Person[subj]=3	0	root	0:root	_
 
+# sent_id = 8782111131
+# text = Ejori saʔaŋa , rõ , totupãɲeʔeŋaβɨ , tokaʔu , tomondarõ , toporepeɲan ojkóβo , tojpuru tekó poʃɨ , tosó ko taβa swi .
+# text_eng = (Teatro, 159, p. 18)
+# text_port = Vem para prová-los, pois, para que transgridam a palavra de Deus, para que bebam cauim, para que roubem, para que estejam atacando gente, para que pratiquem a lei má, para que vão para fora desta aldeia.
+1	Ejori	ur	VERB	v	_	0	root	0:root	_
+2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont	1	xcomp	1:xcomp	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+4	rõ	rõ	PART	prcl	_	1	discourse	1:discourse	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+6	totupãɲeʔeŋaβɨ	_	VERB	v	_	1	xcomp	1:xcomp	_
+7	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+8	tokaʔu	kaʔu	VERB	vt	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
+9	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+10	tomondarõ	_	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
+11	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+12	toporepeɲan	_	VERB	v	Animacy=Hum|Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
+13	ojkóβo	_	AUX	aux	_	12	aux	12:aux	_
+14	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+15	tojpuru	_	VERB	vt	Mood=Perm|Person=33	1	xcomp	1:xcomp	_
+16-17	tekópoʃɨ	_	_	_	_	_	_	_	_
+16	tekó	ikó	NOUN	n	Rel=NCont	15	obj	15:obj	_
+17	poʃɨ	poʃɨ	NOUN	n	_	16	nmod	16:nmod	_
+18	,	,	PUNCT	punct	_	1	punct	1:punct	punct
+19	tosó	so	VERB	vi	Mood=Perm	1	xcomp	1:xcomp	_
+20	ko	ko	DET	dem	_	21	det	21:det	_
+21	taβa	tab	NOUN	n	Case=Ref	18	obl	18:obl	_
+22	swi	swi	ADP	posp	_	20	case	20:case	_
+23	.	.	PUNCT	punct	_	1	punct	1:punct	punct
+
