@@ -3196,7 +3196,7 @@
 # text_eng = (Teatro, 159, p. 18)
 # text_port = Vem para prová-los, pois, para que transgridam a palavra de Deus, para que bebam cauim, para que roubem, para que estejam atacando gente, para que pratiquem a lei má, para que vão para fora desta aldeia.
 1	Ejori	ur	VERB	v	_	0	root	0:root	_
-2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont	1	xcomp	1:xcomp	_
+2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont|VerbForm=Ger	1	xcomp	1:xcomp	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	punct
 4	rõ	rõ	PART	prcl	_	1	discourse	1:discourse	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	punct
@@ -3207,7 +3207,7 @@
 10	tomondarõ	_	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
 11	,	,	PUNCT	punct	_	1	punct	1:punct	punct
 12	toporepeɲan	_	VERB	v	Animacy=Hum|Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
-13	ojkóβo	_	AUX	aux	_	12	aux	12:aux	_
+13	ojkóβo	ikó	AUX	aux	Person[subj]=3|VerbForm=Ger	12	aux	12:aux	_
 14	,	,	PUNCT	punct	_	1	punct	1:punct	punct
 15	tojpuru	_	VERB	vt	Mood=Perm|Person=33	1	xcomp	1:xcomp	_
 16-17	tekópoʃɨ	_	_	_	_	_	_	_	_
