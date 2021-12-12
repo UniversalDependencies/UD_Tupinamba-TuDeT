@@ -3284,7 +3284,7 @@
 3	kaʔe	kaʔe	NOUN	n	_	2	nmod	2:nmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5-6	janérapiʃamiʃɨra	_	_	_	_	_	_	_	_
-5	janérapiʃa	apiʃa	NOUN	n	Clusivity=In|Nukber=Plur|Person[psor]=1	2|Rel=Cont	appos	2:appos	_
+5	janérapiʃa	apiʃa	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1	2|Rel=Cont	appos	2:appos	_
 6	miʃɨra	miʃɨra	NOUN	n	Case=Ref	5	nmod	5:nmod	_
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
