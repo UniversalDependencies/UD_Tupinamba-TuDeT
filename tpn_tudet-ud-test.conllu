@@ -3216,7 +3216,7 @@
 18	,	,	PUNCT	punct	_	1	punct	1:punct	punct
 19	tosó	so	VERB	vi	Mood=Perm	1	xcomp	1:xcomp	_
 20	ko	ko	DET	dem	_	21	det	21:det	_
-21	taβa	tab	NOUN	n	Case=Ref	18	obl	18:obl	_
-22	swi	swi	ADP	posp	_	20	case	20:case	_
+21	taβa	tab	NOUN	n	Case=Ref	19	obl	19:obl	_
+22	swi	swi	ADP	posp	_	21	case	21:case	_
 23	.	.	PUNCT	punct	_	1	punct	1:punct	punct
 
