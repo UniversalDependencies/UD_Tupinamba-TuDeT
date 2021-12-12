@@ -3288,3 +3288,13 @@
 6	miʃɨra	miʃɨra	NOUN	n	Case=Ref	5	nmod	5:nmod	_
 7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
+# sent_id = 3333019
+# text = Ndeputuẽ! Nasatãŋatuj maíra!
+# text_eng = (Teatro, 175 p.18)
+# text_por = Sossega. Não é muito forte o maíra!
+1	Ndeputuẽ	putuẽ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	Nasatãŋatuj	atã	VERB	v	Intens=Yes|Polarity=Neg|Rel=NCont	1	parataxis	1:parataxis	_
+4	maíra	maíra	NOUN	n	_	3	nsubj	3:nsubj	_
+5	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
