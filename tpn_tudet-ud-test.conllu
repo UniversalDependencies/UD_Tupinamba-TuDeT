@@ -3319,7 +3319,7 @@
 # text = Iʃé aé sapɨsarwera , sekoβéaβa resé .
 # text_eng = (Teatro, 177 p.20)
 # text_por = Eu mesmo sou quem o queimou, no tempo em que ele vivia.
-1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1PronType=Prs	0	root	0:root	_
+1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 2	aé	aé	PART	prcl	_	1	discourse	1:discourse	_
 3	sapɨsarwera	apɨsar	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	appos	1:appos	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -3337,7 +3337,7 @@
 4	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	koʔɨ	koʔɨ	ADV	adv	_	1	advmod	1:advmod	_
-7	opá	opá	PRON	pron	Prontype=Tot	8	nmod	8:nmod	_
+7	opá	opá	PRON	pron	PronType=Tot	8	nmod	8:nmod	_
 8	nerawsuparwera	awsub	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=NCont|Tense=Past	9	obl	9:obl	_
 9	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
 10	neswí	swi	ADP	posp	Number=Sing|Person=2	9	obl	9:obl	_
