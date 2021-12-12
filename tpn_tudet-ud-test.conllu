@@ -3271,6 +3271,20 @@
 # text = Umã ?
 # text_eng = Which (one)? (Teatro, 172, p. 18)
 # text_por = Qual?
-1	umã	umã	PRON	pron	PronType=Int	0	root	0:root	_
+1	Umã	umã	PRON	pron	PronType=Int	0	root	0:root	_
 2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0234001001221
+# text = Akó Rorekaʔe , janérapiʃamiʃɨra ?
+# text_eng = Which (one)? (Teatro, 172, p. 18)
+# text_por = Aquele Lourenço tostado, nosso companheiro assado.
+1	Akó	akó	DET	dem	_	2	det	2:det	_
+2-3	Rorekaʔe	_	_	_	_	_	_	_	_
+2	Rore	_	PROPN	propn	_	0	root	0:root	_
+3	kaʔe	kaʔe	NOUN	n	_	2	nmod	2:nmod	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5-6	janérapiʃamiʃɨra	_	_	_	_	_	_	_	_
+5	janérapiʃa	apiʃa	NOUN	n	Clusivity=In|Nukber=Plur|Person[psor]=1	2|Rel=Cont	appos	2:appos	_
+6	miʃɨra	miʃɨra	NOUN	n	Case=Ref	5	nmod	5:nmod	_
+7	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
