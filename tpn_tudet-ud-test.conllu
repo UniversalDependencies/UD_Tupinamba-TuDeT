@@ -3267,3 +3267,10 @@
 7	ojkóβaʔe	ikó	NOUN	_	_	1	appos	1:appos	_
 8	.	.	PUNCT	_	_	7	punct	7:punct	_
 
+# sent_id = 001001001221
+# text = Umã ?
+# text_eng = Which (one)? (Teatro, 172, p. 18)
+# text_por = Qual?
+1	umã	umã	PRON	pron	PronType=Int	0	root	0:root	_
+2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
