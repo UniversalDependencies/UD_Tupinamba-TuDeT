@@ -2949,7 +2949,7 @@
 1	Aβaré	aβaré	NOUN	n	_	2	nmod	2:nmod	_
 2	owerasóápe	so	NOUN	n	Case=Loc|Corf=Yes|Nomzr=Circ|Voice=Com	4	obl	4:obl	_
 3	,	,	PUNCT	punct	_	4	punct	4:punct	_
-4	nasawsuβi	awsub	VERB	v	Person=33|Polarity=Neg	0	root	0:root	_
+4	nasawsuβi	awsub	VERB	v	Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	0:root	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	iɲewasemi	wasem	NOUN	v	NonFoc=Yes|Reflex=Yes|Rel=NCont	4	parataxis	4:parataxis	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
@@ -3002,7 +3002,7 @@
 # text_eng =  Did you use poison for them not to come? (Teatro, 121, p. 14)
 # text_por = Usaste feitiço para que não viessem?
 1	Mosaŋape	posaŋ	NOUN	n	Int=Yes|Rel=Hum	2	obl	2:obl	_
-2	erejpuru	puru	VERB	v	Person=23	0	root	0:root	_
+2	erejpuru	puru	VERB	v	Person[obj]=3|Person[subj]=2	0	root	0:root	_
 3	tureʔɨmawama	ur	NOUN	n	Case=Ref|Priv=Yes|Rel=NCont|Tense=Past	2	obl	2:obl	_
 4	ri	ri	ADP	posp	_	3	case	3:case	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
@@ -3209,7 +3209,7 @@
 12	toporepeɲan	epeɲan	VERB	v	Animacy=Hum|Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
 13	ojkóβo	ikó	AUX	aux	Person[subj]=3|VerbForm=Ger	12	aux	12:aux	_
 14	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-15	tojpuru	puru	VERB	vt	Mood=Perm|Person=33	1	xcomp	1:xcomp	_
+15	tojpuru	puru	VERB	vt	Mood=Perm|Person[obj]=3|Person[subj]=3	1	xcomp	1:xcomp	_
 16-17	tekópoʃɨ	_	_	_	_	_	_	_	_
 16	tekó	ikó	NOUN	n	Rel=NCont	15	obj	15:obj	_
 17	poʃɨ	poʃɨ	NOUN	n	_	16	nmod	16:nmod	_
