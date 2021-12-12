@@ -3306,3 +3306,12 @@
 4	maíra	maíra	NOUN	n	_	3	nsubj	3:nsubj	_
 5	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 3332019
+# text = Kori βe timokaɲẽ !
+# text_eng = (Teatro, 176 p.18)
+# text_por = Hoje mesmo havemos de fazê-lo sumir!
+1	Kori	kori	ADV	adv	_	3	advmod	3:advmod	_
+2	βe	βe	PART	prcl	_	1	discourse	1:discourse	_
+3	timokaɲẽ	kaɲ	NOUN	n	Mood=Perm|Rel=NCont|Voice=Cau	0	root	0:root	_
+4	!	!	PUNCT	punct	_	3	punct	3:punct	_
+
