@@ -3342,3 +3342,15 @@
 9	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
 10	neswí	swi	ADP	posp	Number=Sing|Person=2	9	obl	9:obl	_
 
+# sent_id = 1110112113
+# text = Imaranirũ aβé Bastião, uʔuβorwera
+# text_eng = (Teatro, 182 p.20)
+# text_por = Seu companheiro de guerra também é Bastião, o flechado. 
+1-2	Imaranirũ	_	_	_	_	_	_	_	_
+1	Imaran	marãn	NOUN	n	Rel=NCont	2	nmod	2:nmod	_
+2	irũ	irũ	NOUN	n	_	0	root	0:root	_
+3	aβé	aβé	ADV	adv	_	2	advmod	2:advmod	_
+4	Bastião	Bastião	PROPN	propn	_	2	appos	2:appos	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	uʔuβorwera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	4	conj	4:conj	_
+
