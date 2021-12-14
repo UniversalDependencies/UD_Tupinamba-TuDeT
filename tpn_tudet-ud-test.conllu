@@ -3354,3 +3354,24 @@
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	uʔuβorwera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	4	conj	4:conj	_
 
+# sent_id = 44342410999
+# text = Akó ʃeremiɨβõmbúera ?
+# text_eng = (Teatro, 184, p. 20)
+# text_por = Esse é o que eu flechei?
+1	Akó	akó	DET	dem	_	2	det	2:det	_
+2	ʃeremiɨβõmbúera	ɨβõ	NOUN	n	Case=Ref|Dev=Pass|Number=Sing|Person[psor]=1|Rel=NCont|Tense=Past	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 44342410999
+# text = Erĩ , ʃerorɨ sesé . Tojepun ʃemaranwera !
+# text_eng = (Teatro, 185, p. 20)
+# text_por = Ó! Eu estou feliz por causa disso. Que recrudesça minha maldade!
+1	Erĩ	erĩ	PART	prcl	_	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	ʃerorɨ	orɨb	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
+4	sesé	esé	ADP	posp	Rel=NCont	3	obl	3:obl	_
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+6	Tojepun	pun	VERB	v	Mood=Perm|Person=3|Reflex=Yes	3	parataxis	3:parataxis	_
+7	ʃemaranwera	maran	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont|Tense=Past	6	nsubj	6:nsubj	_
+8	!	!	PUNCT	punct	_	6	punct	6:punct	_
+
