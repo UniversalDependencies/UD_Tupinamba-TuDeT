@@ -3400,7 +3400,7 @@
 4	maranápe	maran	NOUN	n	Case=Loc	1	obl	1:obl	_
 
 # sent_id = 0000022283
-# text = Karaíβa , ipó , nojkóaŋaipápɨrɨbi
+# text = Karaíβa ipó nojkóaŋaipápɨrɨbi
 # text_eng = (Teatro, 22)
 1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	3:obl	_
 2	ipó	ipó	PART	prcl	_	3	discourse	3:discourse	_
@@ -3416,7 +3416,7 @@
 4	Temiminõ	Temiminõ	PROPN	_	_	5	obl	5:obl	_
 5	nowari	jar	VERB	v	Person[subj]=3|Polarity=Neg	0	root	0:root	_
 6	Tupã	Tupã	PROPN	propn	_	7	nmod	7:nmod	_
-7	reko	iko	NOUN	n	Rel=Cont	5	obl	5:obl	_
+7	rekó	ikó	NOUN	n	Rel=Cont	5	obl	5:obl	_
 8	,	,	PUNCT	punct	_	5	punct	5:punct	_
 9	nosawsuβi	awsub	VERB	_	Person[obj]=3|Person[subj]=3|Polarity=Neg	5	parataxis	5:parataxis	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
