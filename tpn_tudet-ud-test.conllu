@@ -3519,7 +3519,7 @@
 1	Ajpó	ajpó	PRON	pron	PronType=Dem	4	dep	4:dep	_
 2	ɲe	ɲe	PART	prcl	_	4	discourse	4:discourse	_
 3	pipó	pipó	X	_	_	4	discourse	4:discourse	_
-4	ereiko	iko	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
+4	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	Sarawai	Sarawai	PRON	_	_	4	vocative	4:vocative	_
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
