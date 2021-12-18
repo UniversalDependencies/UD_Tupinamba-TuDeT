@@ -3471,7 +3471,7 @@
 4	takwáne	kwab	VERB	v	_	1	parataxis	1:parataxis	_
 
 # sent_id = 000002229
-# text = ʃeporoitɨka jaβé , apɨaba eresepeɲãne
+# text = ʃeporoitɨka jaβé , apɨaβa eresepeɲãne
 # text_eng = (Teatro, 22)
 # Assim como eu derroto as pessoas, os índios atacarás.
 1	ʃeporoitɨka	itɨk	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	0	root	0:root	_
@@ -3495,7 +3495,7 @@
 # text_eng = (Teatro, 22)
 # text_por = Nosso espião vá primeiro, adiante de nós, para visitar o interior de todas as ocas.
 1	janemaɲana	maɲan	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	3	obl	3:obl	_
-2	raɲe	raɲe	NOUN	n	_	3	advmod	3:advmod	_
+2	raɲe	raɲe	ADV	adv	_	3	advmod	3:advmod	_
 3	tosó	só	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=3	0	root	0:root	_
 4	janerenoné	enoné	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	obl	3:obl	_
 5	,	,	PUNCT	punct	_	3	punct	3:punct	_
