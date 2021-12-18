@@ -3376,7 +3376,7 @@
 8	!	!	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 0000022281
-# text = Karaíβa nasetáj , São Sebastião aʔe , omondɨk tatá sesé , imondɨja
+# text = Karaíβa nasetáj , São Sebastião aʔe omondɨk tatá sesé , imondɨja
 # text_eng = (Teatro, 22)
 # text_por = Os cristãos não eram muitos; São Sebastião, porém, ateou fogo nelas, espantando-os
 1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	2:nsubj	_
@@ -3429,12 +3429,12 @@
 1	Ekwãj	kwãj	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
 2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	obj	3:obj	_
 3	moʔa	ʔar	VERB	v	Voice=Cau	1	advcl	1:advcl	_
-4	janéjusana	jusan	NOUN	n	Case=ref|Clusivity=In|Number=Sing|Person=1	3	obl	3:obl	_
+4	janéjusana	jusan	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1	3	obl	3:obl	_
 5	pupé	pupé	ADP	posp	_	4	case	4:case	_
 6	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 000002226
-# text = Iʔaŋa toʔá tawjé , o moɲaŋara rejá , rõ obɨʔa janéresé
+# text = Iʔaŋa toʔá tawjé , omoɲaŋara rejá , rõ obɨʔa janeresé
 # text_eng = (Teatro, 22)
 # text_por = Que suas almas caiam logo, deixando seu criador, apegando-se, pois, a nós.
 1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obl	2:obl	_
@@ -3446,27 +3446,27 @@
 7	,	,	PUNCT	punct	_	2	punct	2:punct	_
 8	rõ	rõ	PART	prcl	_	9	discourse	9:discourse	_
 9	obɨʔa	bɨʔar	VERB	v	Person[subj]=3|VerbForm=Ger	2	advcl	2:advcl	_
-10	janéresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	9	obl	9:obl	_
+10	janeresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	9	obl	9:obl	_
 
 # sent_id = 000002227
 # text = tasó saʔaŋa teɲe ; eʔi e tipó ʃerapiáne
 # text_eng = (Teatro, 22)
 # Hei de ir para tentá-los; tempo virá em que me obedecerão
 1	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
-2	saʔaŋa	aʔa	VERB	_	Rel=Ncont|VerbForm=Ger	1	advcl	1:advcl	_
+2	saʔaŋa	aʔa	VERB	_	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 3	teɲe	teɲe	PART	prcl	_	1	discourse	1:discourse	_
 4	;	;	PUNCT	punct	_	1	punct	1:punct	_
 5	eʔi	ʔi	AUX	v	Person=3	8	aux	8:aux	_
 6	e	e	PART	prcl	_	8	discourse	8:discourse	_
 7	tipó	?	X	_	_	8	dep	8:dep	_
-8	ʃerapiáne	apiá	NOUN	n	Number=Sing|Person=1|Rel=Cont|Tens=Fut	1	parataxis	1:parataxis	_
+8	ʃerapiáne	apiá	NOUN	n	Number=Sing|Person=1|Rel=Cont|Tense=Fut	1	parataxis	1:parataxis	_
 
 # sent_id = 000002228
 # text = Eamé , ʃeraɲe takwáne
 # text_eng = (Teatro, 22)
 # Espera, eu hei de ir primeiro.
-1	Eambé	amé	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
+1	Eamé	amé	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ʃeraɲe	aɲe	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	4	dislocated	4:dislocated	_
-4	takwáne	_	VERB	_	_	1	parataxis	1:parataxis	_
+3	ʃeraɲe	aɲe	PART	prcl	Number=Sing|Person[psor]=1|Rel=Cont	4	dislocated	4:dislocated	_
+4	takwáne	kwab	VERB	v	_	1	parataxis	1:parataxis	_
 
