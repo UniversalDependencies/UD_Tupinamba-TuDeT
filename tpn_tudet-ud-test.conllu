@@ -3470,3 +3470,13 @@
 3	ʃeraɲe	raɲe	PART	prcl	Number=Sing|Person=1	4	dislocated	4:dislocated	_
 4	takwáne	kwab	VERB	v	_	1	parataxis	1:parataxis	_
 
+# sent_id = 000002229
+# text = ʃeporoitɨka jabé , apɨaba eresepeɲãne
+# text_eng = (Teatro, 22)
+# Assim como eu derroto as pessoas, os índios atacarás.
+1	ʃeporoitɨka	itɨk	NOUN	n	Case=Ref|Number=Sing|Person[pros]=1	0	root	0:root	_
+2	jaβé	jaβé	ADV	adv	_	1	advmod	1:advmod	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	obl	5:obl	_
+5	eresepeɲãne	epeɲã	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut	1	parataxis	1:parataxis	_
+
