@@ -3513,7 +3513,7 @@
 3	!	!	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 0000022213
-# text = Ajpó ɲe pʔipó ereikó , Sarawai , maɲanaíβa ?
+# text = Ajpó ɲe pipó ereikó , Sarawai , maɲanaíβa ?
 # text_eng = (Teatro, 24)
 # text_por = Fazes isso, porventura, Sarauaia, espião maldoso?
 1	Ajpó	ajpó	PRON	pron	PronType=Dem	4	dep	4:dep	_
