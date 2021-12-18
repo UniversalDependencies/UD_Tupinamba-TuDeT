@@ -3467,6 +3467,6 @@
 # Espera, eu hei de ir primeiro.
 1	Eamé	amé	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ʃeraɲe	raɲe	PART	prcl	Number=Sing|Person[psor]=1	4	dislocated	4:dislocated	_
+3	ʃeraɲe	raɲe	PART	prcl	Number=Sing|Person=1	4	dislocated	4:dislocated	_
 4	takwáne	kwab	VERB	v	_	1	parataxis	1:parataxis	_
 
