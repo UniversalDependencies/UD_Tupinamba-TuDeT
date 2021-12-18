@@ -3504,3 +3504,27 @@
 8	ɨbɨ̃ja	ɨbɨ̃j	NOUN	n	Case=Ref	9	obj	9:obj	_
 9	supa	sub	VERB	v	VerbForm=Ger	3	advcl	3:advcl	_
 
+# sent_id = 0000022212
+# text = Awjé ipó !
+# text_eng = Well done! (Teatro, 24)
+# text_por = Muito bem!
+1	Awjé	awjé	INTJ	intj	_	2	discourse	2:discourse	_
+2	ipó	ipó	ADV	adv	_	0	root	0:root	_
+3	!	!	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 0000022213
+# text = Aipó ɲe pʔipó ereikó , Sarauai , maɲanaíβa ?
+# text_eng = (Teatro, 24)
+# text_por = Fazes isso, porventura, Sarauaia, espião maldoso?
+1	Ajpó	ajpó	PRON	pron	PronType=Dem	4	dep	4:dep	_
+2	ɲe	ɲe	PART	prcl	_	4	discourse	4:discourse	_
+3	pipó	pipó	X	_	_	4	discourse	4:discourse	_
+4	ereiko	iko	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	Sarawai	Sarawai	PRON	_	_	4	vocative	4:vocative	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8-9	maɲanaíβa	_	_	_	_	_	_	_	_
+8	maɲan	maɲan	NOUN	n	_	_	_	_	_
+9	aíβa	aíβa	NOUN	n	Case=Ref	8	nmod	8:nmod	_
+10	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
