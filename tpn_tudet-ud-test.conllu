@@ -3376,7 +3376,7 @@
 8	!	!	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 0000022281
-# text = Karaíba nasetáj ; São Sebastião , aʔe , omondɨk tatá sesé , imondɨja
+# text = Karaíβa nasetáj ; São Sebastião , aʔe , omondɨk tatá sesé , imondɨja
 # text_eng = (Teatro, 22)
 # text_por = Os cristãos não eram muitos; São Sebastião, porém, ateou fogo nelas, espantando-os
 1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	2:nsubj	_
@@ -3407,7 +3407,7 @@
 3	nojkóaŋaipápɨrɨbi	ikóaŋaipáb	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
 
 # sent_id = 000002224
-# text = Awjé , kó Temiminõ nowari Tupã rekó , nosawsuβi , nomotɨβi
+# text = Awjé , ko Temiminõ nowari Tupã rekó , nosawsuβi , nomotɨβi
 # text_eng = (Teatro, 22)
 # text_por = Enfim, esses temiminós não tomam a lei de Deus, não a amam, não a acatam
 1	Awjé	awjé	INTJ	intj	_	5	discourse	5:discourse	_
