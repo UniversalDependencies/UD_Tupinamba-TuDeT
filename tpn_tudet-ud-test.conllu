@@ -3628,3 +3628,20 @@
 8	ɲe	ɲe	PART	prcl	_	9	discourse	9:discourse	_
 9	ajekotɨá	kotɨá	VERB	v	Number=Sing|Person[subj]=1|Reflex=Yes	1	parataxis	1:parataxis	_
 
+# sent_id = 0000022221
+# text = tarasó kó ɨgaporaja ;
+# text_eng = (Teatro, 24)
+# text_por = Hei de levar esta vasilha
+1	tarasó	erasó	VERB	v	Mood=Perm|Nuber=Sing|Person[subj]=1|Voice=Com	0	root	_	_
+2	ko	ko	DET	dem	_	3	det	_	_
+3	ɨgaporaja	ɨgaporaj	NOUN	n	Case=Ref	1	obj	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0000022222
+# text = ʃepotaba kauĩ rá
+# text_eng = (Teatro, 24)
+# text_por = O que eu quero é tomar cauim
+1	ʃepotaβa	potab	NOUN	n	Case=Ref|Nomzr=Circ|Number=Sing|Person[psor]=1	0	root	0:root	_
+2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	1:nsubj	_
+3	rá	rá	PART	prcl	_	1	discourse	1:discourse	_
+
