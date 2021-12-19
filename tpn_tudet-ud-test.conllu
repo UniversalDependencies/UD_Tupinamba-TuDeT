@@ -3496,7 +3496,7 @@
 # sent_id = 0000022211
 # text = janemaɲana raɲe tosó janerenoné , opá ok ɨbɨ̃ja supa
 # text_eng = (Teatro, 22)
-# text_por = Nosso espião vá primeiro, adiante de nós, para visitar o interior de todas as ocas.
+# text_por = Nosso espião vá primeiro, adiante de nós, visitando o interior de todas as casa.
 1	janemaɲana	maɲan	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	3	obl	3:obl	_
 2	raɲe	raɲe	ADV	adv	_	3	advmod	3:advmod	_
 3	tosó	só	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=3	0	root	0:root	_
