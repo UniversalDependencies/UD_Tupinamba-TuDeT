@@ -3582,3 +3582,16 @@
 6	iré	riré	ADP	posp	_	5	case	5:case	_
 7	tereju	jur	VERB	v	Mood=Perm|Number=Sing|Person[subj]=2	1	parataxis	1:parataxis	_
 
+# sent_id = 0000022218
+# text = tasó kori , nerejápe , apɨaba pɨsɨka pa
+# text_eng = (Teatro, 24)
+# text_por = Hei de ir hoje, ao deixar-te, para apanhar os índios todos
+1	tasó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
+2	kori	kori	ADV	adv	_	1	advmod	1:advmod	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	nerejápe	ejar	VERB	v	Case=Loc|Number=Sing|Person[subj]=2|VerbForm=Ger	1	advcl	1:advcl	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	apɨaβa	apɨab	NOUN	n	Case=Ref	7	obj	7:obj	_
+7	pɨsɨka	pɨsɨk	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
+8	pa	pa	PART	prcl	_	7	dep	7:dep	_
+
