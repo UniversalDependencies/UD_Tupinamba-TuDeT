@@ -3595,3 +3595,22 @@
 7	pɨsɨka	pɨsɨk	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
 8	pa	pa	PART	prcl	_	7	dep	7:dep	_
 
+# text_por = Mesmo porque, em meu coração, assim quero as coisas
+# sent_id = 0000022219
+# text = jé tasóne ʃemonoápe . Memetiʃé , ʃepɨʔape , emonã tekó potá 
+# text_eng = (Teatro, 24)
+# text_por = Está bem, hei de ir para onde me mandam. Eu pois, em meu coração, assim quero as coisas
+1	jé	je	PART	prcl	_	2	discourse	2:discourse	_
+2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	_
+3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Nuber=Sing|Person=1	2	obl	2:obl	_
+4	.	.	PUNCT	punct	_	2	punct	2:punct	_
+5-6	Memetiʃé	_	_	_	_	_	_	_	_
+5	Meme	_	ADV	adv	_	6	discourse	6:discourse	_
+6	iʃé	iʃé	PRON	pron	Nuber=Sing|Person=1|PronType=Prs	12	dislocated	12:dislocated	_
+7	,	,	PUNCT	punct	_	12	punct	12:punct	_
+8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Nuber=Sing|Person[psor]=1	12	obl	12:obl	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	emonã	_	ADV	adv	_	12	advmod	12:advmod	_
+11	teko	ko	NOUN	dem	_	12	obj	12:obj	_
+12	potá	potar	VERB	v	VerbForm=Ger	_	_	_	_
+
