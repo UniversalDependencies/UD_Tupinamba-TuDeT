@@ -3399,12 +3399,15 @@
 3	aβá	aβá	NOUN	n	_	1	obl	1:obl	_
 4	maranápe	maran	NOUN	n	Case=Loc	1	obl	1:obl	_
 
-# sent_id = 0000022283
-# text = Karaíβa ipó nojkóaŋaipápɨrɨbi
+# sent_id = 3
+# text = Karaíba , ipó , nojkóaŋaipápɨrɨβi
 # text_eng = (Teatro, 22)
 1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	3:obl	_
-2	ipó	ipó	PART	prcl	_	3	discourse	3:discourse	_
-3	nojkóaŋaipápɨrɨbi	ikóaŋaipáb	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
+2	ipó	ipó	PART	_	_	3	discourse	3:discourse	_
+3-5	nojkóaŋaipápɨrɨβi	_	_	_	_	_	_	_	_
+3	nojkó	ikó	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
+4	aŋaip	aŋaipab	NOUN	n	_	3	nmod	3:nmod	_
+5	pɨrɨb	pɨrɨb	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
 
 # sent_id = 000002224
 # text = Awjé , ko Temiminõ nowari Tupã rekó , nosawsuβi , nomotɨβi
