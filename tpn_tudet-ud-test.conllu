@@ -3400,7 +3400,7 @@
 4	maranápe	maran	NOUN	n	Case=Loc	1	obl	1:obl	_
 
 # sent_id = 000002223
-# text = Karaíβa , ipó , nojkóaŋaipápɨrɨβi
+# text = Karaíβa ipó nojkóaŋaipápɨrɨβi
 # text_eng = (Teatro, 22)
 1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	3:obl	_
 2	ipó	ipó	PART	_	_	3	discourse	3:discourse	_
