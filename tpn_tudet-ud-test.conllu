@@ -3528,3 +3528,31 @@
 9	aíβa	aíβa	NOUN	n	Case=Ref	8	nmod	8:nmod	_
 10	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
+# sent_id = 0000022214
+# text = Oikó βe ʃetaɨgaɨβa
+# text_eng = (Teatro, 24)
+# text_por = Minha coragem ainda existe
+1	Oiko	ikó	VERB	v	Person[subj]=3	0	root	0:root	_
+2	βe	βe	ADV	adv	Case=Ref|Number=Sing|Person[psor]=1	1	advmod	1:advmod	_
+3	ʃetaɨgaɨβa	aɨgaɨb	NOUN	n	Case=Ref|Number=Sing|Person[pros]=1	1	obl	1:obl	_
+
+# sent_id = 0000022215
+# text = Eneʔĩ ! tasó mamõ , iʃé , Sarawaiorɨβa , iʃé , Sarawaiusu !
+# text_eng = (Teatro, 24)
+# text_por = Eia, hei de ir longe, eu, o alegre Sarauaia,
+1	Eneʔĩ	eneʔĩ	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
+4	mamõ	mamõ	ADV	adv	_	3	advmod	3:advmod	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	iʃé	iʃé	PRON	pron	Nuber=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8-9	Sarawaiorɨβa	_	_	_	_	_	_	_	_
+8	Sarawai	Sarawaia	PROPN	propn	_	6	appos	6:appos	_
+9	orɨβa	orɨb	NOUN	n	_	8	nmod	8:nmod	_
+10	,	,	PUNCT	punct	_	8	punct	8:punct	_
+11	iʃé	iʃé	PRON	pron	Nuber=Sing|Person=1|PronType=Prs	13	dep	13:dep	_
+12	,	,	PUNCT	punct	_	11	punct	11:punct	_
+13	Sarawaiusu	Sarawaia	PROPN	propn	Aug=Yes	3	parataxis	3:parataxis	_
+14	!	!	PUNCT	punct	_	13	punct	13:punct	_
+
