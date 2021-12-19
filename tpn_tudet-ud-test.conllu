@@ -3565,7 +3565,7 @@
 # text_por = Quais as novidades?
 1-2	Marãpipó	_	_	_	_	_	_	_	_
 1	Marã	marã	PRON	pron	Int=Yes	0	root	0:root	_
-2	pipó	pipó	X	_	_	_	_	_	_
+2	pipó	pipó	X	_	_	1	discourse	1:discourse	_
 3	moranduβa	porandub	NOUN	n	Case=Ref	1	nsubj	1:nsubj	_
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
