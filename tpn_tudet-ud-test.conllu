@@ -3743,12 +3743,12 @@
 # text = Sajkatupe ?
 # text_eng = (Teatro, 26)
 # text_por = Estava bem azedo?
-1	Sajkatupe	aj	NOUN	n	Int=Yes|Intens=Yes|Rel=NCont	0	root	root:0	_
+1	Sajkatupe	aj	NOUN	n	Int=Yes|Intens=Yes|Rel=NCont	0	root	0:root	_
 2	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022233
 # text = Sajkatu
 # text_eng = (Teatro, 26)
 # text_por =
-1	Sajkatu	ak	NOUN	n	Intens=Yes|Rel=NCont	0	root	root:0	_
+1	Sajkatu	ak	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
 
