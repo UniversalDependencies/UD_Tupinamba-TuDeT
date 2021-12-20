@@ -3638,12 +3638,12 @@
 4	;	;	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0000022222
-# text = ʃepotaba kauĩ rá
+# text = ʃepotaβa kauĩ ra
 # text_eng = (Teatro, 24)
 # text_por = O que eu quero é tomar cauim
 1	ʃepotaβa	potab	NOUN	n	Case=Ref|Nomzr=Circ|Number=Sing|Person[psor]=1	0	root	0:root	_
 2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	1:nsubj	_
-3	rá	rá	PART	prcl	_	1	discourse	1:discourse	_
+3	ra	ra	PART	prcl	_	1	discourse	1:discourse	_
 
 # sent_id = 0000022223
 # text = Neʔĩ ! Teresó tawjé ! Neapwan !
@@ -3674,7 +3674,7 @@
 5-6	ruriré	_	_	_	_	_	_	_	_
 5	rur	rur	NOUN	n	Rel=Cont	8	advcl	8:advcl	_
 6	iré	iré	ADP	posp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	_	_	_	_
+7	,	,	PUNCT	punct	_	8	obj	8:obj	_
 8	jamombá	mombá	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1	1	parataxis	1:parataxis	_
 9	taβa	tab	NOUN	n	Case=Ref	8	obj	8:obj	_
 10	jandune	jandu	ADV	adv	Tense=Fut	8	advmod	8:advmod	_
