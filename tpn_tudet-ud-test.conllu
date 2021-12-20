@@ -3724,7 +3724,7 @@
 # text_eng = (Teatro, 26) 
 # text_por = Alegra-te: já transborda o cauim; são muitas as grandes igaçabas; já chamam uns aos outros os malditos
 1	nerorɨ	orɨb	NOUN	n	_	0	root	0:root	_
-2	;	;	PUNCT	punct	1	punct	1:punct	_
+2	;	;	PUNCT	punct	_	1	punct	1:punct	_
 3	tɨnɨsẽ	ɨnɨsẽ	NOUN	n	_	1	parataxis	1:parataxis	_
 4	umã	umã	ADV	adv	_	3	advmod	3:advmod	_
 5	kawĩ	kawĩ	NOUN	n	_	3	nsubj	3:nsubj	_
