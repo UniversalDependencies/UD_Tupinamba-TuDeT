@@ -3597,10 +3597,10 @@
 
 # text_por = Mesmo porque, em meu coração, assim quero as coisas
 # sent_id = 0000022219
-# text = jé tasóne ʃemonoápe . Memetiʃé , ʃepɨʔape , emonã tekó potá
+# text = je tasóne ʃemonoápe . Memetiʃé , ʃepɨʔape , emonã tekó potá
 # text_eng = (Teatro, 24)
 # text_por = Está bem, hei de ir para onde me mandam. Eu pois, em meu coração, assim quero as coisas
-1	jé	je	PART	prcl	_	2	discourse	2:discourse	_
+1	je	je	PART	prcl	_	2	discourse	2:discourse	_
 2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	_
 3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Number=Sing|Person=1	2	obl	2:obl	_
 4	.	.	PUNCT	punct	_	2	punct	2:punct	_
@@ -3611,7 +3611,7 @@
 8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	12	obl	12:obl	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	emonã	_	ADV	adv	_	12	advmod	12:advmod	_
-11	teko	ko	NOUN	dem	_	12	obj	12:obj	_
+11	tekó	ikó	NOUN	dem	_	12	obj	12:obj	_
 12	potá	potar	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
 
 # sent_id = 0000022220
@@ -3629,7 +3629,7 @@
 9	ajekotɨá	kotɨá	VERB	v	Number=Sing|Person[subj]=1|Reflex=Yes	1	parataxis	1:parataxis	_
 
 # sent_id = 0000022221
-# text = tarasó kó ɨgaporaja ;
+# text = tarasó ko ɨgaporaja ;
 # text_eng = (Teatro, 24)
 # text_por = Hei de levar esta vasilha
 1	tarasó	erasó	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Voice=Com	0	root	_	_
@@ -3674,7 +3674,7 @@
 5-6	ruriré	_	_	_	_	_	_	_	_
 5	rur	rur	NOUN	n	Rel=Cont	8	advcl	8:advcl	_
 6	iré	iré	ADP	posp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	8	obj	8:obj	_
+7	,	,	PUNCT	punct	_	8	punct	8:punct	_
 8	jamombá	mombá	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1	1	parataxis	1:parataxis	_
 9	taβa	tab	NOUN	n	Case=Ref	8	obj	8:obj	_
 10	jandune	jandu	ADV	adv	Tense=Fut	8	advmod	8:advmod	_
