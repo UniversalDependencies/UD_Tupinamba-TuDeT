@@ -3583,7 +3583,7 @@
 7	tereju	jur	VERB	v	Mood=Perm|Number=Sing|Person[subj]=2	1	parataxis	1:parataxis	_
 
 # sent_id = 0000022218
-# text = tasó kori , nerejápe , apɨaba pɨsɨka pa
+# text = tasó kori , nerejápe , apɨaβa pɨsɨka pa
 # text_eng = (Teatro, 24)
 # text_por = Hei de ir hoje, ao deixar-te, para apanhar os índios todos
 1	tasó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
@@ -3612,7 +3612,7 @@
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	emonã	_	ADV	adv	_	12	advmod	12:advmod	_
 11	teko	ko	NOUN	dem	_	12	obj	12:obj	_
-12	potá	potar	VERB	v	VerbForm=Ger	_	_	_	_
+12	potá	potar	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
 
 # sent_id = 0000022220
 # text = ʃerapiʃá sarawaia , apɨaba ʃepokwá , sesé ɲe ajekotɨá
