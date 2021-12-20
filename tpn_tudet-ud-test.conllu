@@ -3645,3 +3645,37 @@
 2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	1:nsubj	_
 3	rá	rá	PART	prcl	_	1	discourse	1:discourse	_
 
+# sent_id = 0000022223
+# text = Neʔĩ ! Teresó tawjé ! Neapwan !
+# text_eng = (Teatro, 24)
+# text_por = Eia, que vás logo! Apressa-te!
+1	Neʔĩ	neʔĩ	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	3	punct	3:punct	_
+3	Teresó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=2	0	root	0:root	_
+4	tawjé	tawjé	ADV	adv	_	3	advmod	3:advmod	_
+5	!	!	PUNCT	punct	_	3	punct	3:punct	_
+6	Neapwan	apwan	NOUN	n	Number=Sing|Person[psor]=2	3	parataxis	3:parataxis	_
+7	!	!	PUNCT	punct	_	6	punct	6:punct	_
+
+# sent_id = 0000022224
+# text = Aɲãŋatune
+# text_eng = I shall run a lot (Teatro, 24)
+# text_por = Correrei muito
+1	Aɲãŋatune	ɲãn	VERB	vi	Intens=Yes|Number=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+
+# sent_id = 0000022225
+# text = jajebɨjebɨ raɲe ; Sarauaja ruriré , jamombá taba jandune
+# text_eng = (Teatro, 26)
+# text_por = Vamos dar uma volta, primeiro; após vir Sarawaia, destruiremos a aldeia, como de costume
+1	jajebɨjebɨ	jebɨr	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|Red=Di	0	root	0:root	_
+2	raɲe	raɲe	ADV	adv	_	1	advmod	1:advmod	_
+3	;	;	PUNCT	punct	_	1	punct	1:punct	_
+4	Sarawaja	Sarawaja	PROPN	propn	_	5	nmod	5:nmod	_
+5-6	ruriré	_	_	_	_	_	_	_	_
+5	rur	rur	NOUN	n	Rel=Cont	8	advcl	8:advcl	_
+6	iré	iré	ADP	posp	_	5	case	5:case	_
+7	,	,	PUNCT	punct	_	_	_	_	_
+8	jamombá	mombá	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1	1	parataxis	1:parataxis	_
+9	taβa	tab	NOUN	n	Case=Ref	8	obj	8:obj	_
+10	jandune	jandu	ADV	adv	Tense=Fut	8	advmod	8:advmod	_
+
