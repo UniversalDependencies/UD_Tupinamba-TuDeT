@@ -3602,7 +3602,7 @@
 # text_por = Está bem, hei de ir para onde me mandam. Eu pois, em meu coração, assim quero as coisas
 1	jé	je	PART	prcl	_	2	discourse	2:discourse	_
 2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	_
-3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Nuber=Sing|Person=1	2	obl	2:obl	_
+3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Number=Sing|Person=1	2	obl	2:obl	_
 4	.	.	PUNCT	punct	_	2	punct	2:punct	_
 5-6	Memetiʃé	_	_	_	_	_	_	_	_
 5	Meme	_	ADV	adv	_	6	discourse	6:discourse	_
@@ -3632,7 +3632,7 @@
 # text = tarasó kó ɨgaporaja ;
 # text_eng = (Teatro, 24)
 # text_por = Hei de levar esta vasilha
-1	tarasó	erasó	VERB	v	Mood=Perm|Nuber=Sing|Person[subj]=1|Voice=Com	0	root	_	_
+1	tarasó	erasó	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Voice=Com	0	root	_	_
 2	ko	ko	DET	dem	_	3	det	_	_
 3	ɨgaporaja	ɨgaporaj	NOUN	n	Case=Ref	1	obj	_	_
 4	;	;	PUNCT	punct	_	1	punct	_	_
