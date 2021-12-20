@@ -3685,15 +3685,15 @@
 # text_por = Voando já veio o maldito?
 1	Ke	ke	ADV	adv	_	3	advmod	_	_
 2	muru	muru	NOUN	n	_	3	nsubj	_	_
-3	ruri	ur	NOUN	n	NoFoc=Yes|Rel=Cont	0	root	_	_
-4	oβéβo	βeβé	VERB	vi	Person3|VerbForm=Ger	3	advcl	_	_
+3	ruri	ur	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
+4	oβéβo	βeβé	VERB	vi	Person[subj]=3|VerbForm=Ger	3	advcl	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0000022227
 # text = Irõ , niateʔɨmaŋáj !
 # text_eng = (Teatro, 26)
 # text_por = Portanto, não é preguiçoso
-1	Irõ	irõ	ADV	_	_	3	advmod	3:advmod	_
+1	Irõ	irõ	ADV	adv	_	3	advmod	3:advmod	_
 2	,	,	PUNCT	punct	_	3	punct	3:punct	_
 3-4	niateʔɨmaŋáj	_	_	_	_	_	_	_	_
 3	niateʔɨm	ateʔɨm	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
@@ -3710,28 +3710,28 @@
 4	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022229
-# text = Eẽ , janémoetéβo apɨaba ɲemosaraj
+# text = Eẽ , janémoetéβo apɨaβa ɲemosaraj
 # text_eng = (Teatro, 26)
 # text_por = Sim, os homens celebram para nos honrar
 1	Eẽ	eẽ	PART	prcl	_	5	discourse	5:discourse	_
 2	,	,	PUNCT	_	_	5	punct	5:punct	_
-3	janémoetéβo	moeté	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|VerbForm=Cau|Voice=Cau	5	advcl	5:advcl	_
+3	janémoetéβo	moeté	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
 4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
 5	jemosaraj	jemosaraj	VERB	v	Reflex=Yes	0	root	0:root	_
 
 # sent_id = 0000022231
-# text = nerorɨ : tɨnɨsẽ umã kawĩ ; setá ɲẽ ɨgasabusu ; ojoenõj umã muru imoapɨawama ri
+# text = nerorɨ : tɨnɨsẽ umã kawĩ ; setá ɲẽ ɨgasaβusu ; ojoenõj umã muru imoapɨawama ri
 # text_eng = (Teatro, 26) 
 # text_por = Alegra-te: já transborda o cauim; são muitas as grandes igaçabas; já chamam uns aos outros os malditos
 1	nerorɨ	orɨb	NOUN	n	_	0	root	0:root	_
-2	::_	PUNCT	punct	_	1	punct	1:punct	_
+2	: :	PUNCT	punct	_	1	punct	1:punct	_
 3	tɨnɨsẽ	ɨnɨsẽ	NOUN	n	_	1	parataxis	1:parataxis	_
 4	umã	umã	ADV	adv	_	3	advmod	3:advmod	_
 5	kawĩ	kawĩ	NOUN	n	_	3	nsubj	3:nsubj	_
 6	;	;	PUNCT	punct	_	3	punct	3:punct	_
 7	setá	etá	NOUN	noun	_	1	parataxis	1:parataxis	_
 8	ɲẽ	ɲẽ	PART	prcl	_	7	discourse	7:discourse	_
-9	ɨgasabusu	ɨgasab	NOUN	n	Augm=Yes|Case=Ref	7	nsubj	7:nsubj	_
+9	ɨgasaβusu	ɨgasab	NOUN	n	Augm=Yes|Case=Ref	7	nsubj	7:nsubj	_
 10	;	;	PUNCT	punct	_	7	punct	7:punct	_
 11	ojoenõj	enõj	VERB	v	Person=3|Voice=Rcp	1	parataxis	1:parataxis	_
 12	umã	umã	ADV	adv	_	11	advmod	11:advmod	_
