@@ -3759,7 +3759,7 @@
 1	Oɲeɨɲaŋ	jeɨɲaŋ	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
 2	umã	umã	ADV	adv	_	1	advmod	1:advmod	_
 3	sesé	esé	ADP	posp	Rel=NCont	1	case	1:case	_
-4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	1:obl:subj	_
+4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	1:obl	_
 5	kawara	kaʔu	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	4:nmod	_
 6	,	,	PUNCT	punct	_	4	punct	4:punct	_
 7	ko	ko	DET	dem	_	8	det	8:det	_
