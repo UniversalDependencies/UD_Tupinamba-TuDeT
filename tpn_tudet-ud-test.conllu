@@ -3753,7 +3753,7 @@
 1	Sajkatu	ak	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
 
 # sent_id = 0000022234
-# text = Oɲeɨɲaŋ umã sesé kunumĩetá kawara , ko taba moaŋajpapara , wajbĩ tujβaʔe aβé , kuɲãmuku imoreʔɨmara
+# text = Oɲeɨɲaŋ umã sesé kunumĩetá kawara , ko taβa moaŋajpapara , wajbĩ tujβaʔe aβé , kuɲãmuku imoreʔɨmara
 # text_eng = (Teatro, 26)
 # text_por = Já se juntaram por causa disso muitos moços bebedores de cauim, os que fazem pecar essa aldeia, as velhas e os velhos também, as moças que dão de beber às pessoas
 1	Oɲeɨɲaŋ	jeɨɲaŋ	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
@@ -3761,7 +3761,7 @@
 3	sesé	esé	ADP	posp	Rel=NCont	1	case	1:case	_
 4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	1:obl	_
 5	kawara	kaʔu	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	4:nmod	_
-6	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	,	,	PUNCT	punct	_	4	punct	4:punct	_
 7	ko	ko	DET	dem	_	8	det	8:det	_
 8	taβa	tab	NOUN	n	Case=Ref	9	nmod	9:nmod	_
 9	moaŋajpapara	moaŋajpab	NOUN	b	Case=Ref|Nomzr=Ag	4	appos	4:appos	_
