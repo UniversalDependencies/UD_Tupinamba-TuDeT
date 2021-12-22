@@ -2509,3 +2509,57 @@
 6	taβa	tab	NOUN	n	Case=Ref	7	nmod	7:nmod	_
 7	rarõaneté	arõan	NOUN	n	Intens=Yes|Rel=Cont	1	appos	1:appos	_
 
+# sent_id = 0000022237
+# text = Ke abá reków aɲe ʃerenopuʔãpuʔama
+# text_eng = (Teatro, 28)
+# text_por = Aqui uns homens estão, na verdade, me ameaçando
+1	Ke	ke	ADV	adv	_	3	advmod	3:advmod	_
+2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
+3	reków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+4	aɲe	aɲe	ADV	adv	_	3	advmod	3:advmod	_
+5	ʃerenopuʔãpuʔama	enopuʔãm	NOUN	n	Aspect=Iter|Number=Sing|Person[psor]=1|Red=Di|VerbForm=Ger	3	advcl	3:advcl	_
+
+# sent_id = 0000022238
+# text = Kaj ! Rorekaʔepiã ?
+# text_eng = (Teatro, 28)
+# text_por = Ai! Por acaso é o Lourenço tostado? (Teatro, 28)
+1	Kaj	kaj	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	3	punct	3:punct	_
+3-5	Rorekaʔe	_	_	_	_	_	_	_	_
+3	Rore	Rorens	PROPN	propn	_	0	root	0:root	_
+4	kaʔe	kaʔe	NOUN	n	_	3	nmod	3:nmod	_
+5	piã	jã	PART	prcl	Int=Yes	3	discourse	3:discourse	_
+6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 0000022239
+# text = aʔe ! Bastião abé !
+# text_eng = (Teatro, 28)
+# text_por = É ele! E Bastião também!
+1	aʔe	aʔe	PRON	pron	PronType=Dem	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	Bastião	Bastião	PROPN	propn	_	1	conj	1:conj	_
+4	abé	abé	ADV	adv	_	1	cc	1:cc	_
+5	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0000022240
+# text = aʔepe ke amoaé ?
+# text_eng = (Teatro, 28)
+# text_por = E o outro, aqui?
+1	aʔepe	aʔe	PART	prcl	Int=Yes	3	discourse	3:discourse	_
+2	ke	ke	ADV	adv	_	3	advmod	3:advmod	_
+3	amoaé	amoaé	PRON	pron	PronType=Dem	_	_	_	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 0000022241
+# text = Karaíbebé serã , kó taba rarõaneté
+# text_eng = (Teatro, 28)
+# text_por = Talvez seja o anjo, guardião verdadeiro desta aldeia
+1-2	Karaíbebé	_	_	_	_	_	_	_	_
+1	Karaí	Karaíb	NOUN	n	_	0	root	0:root	_
+2	bebé	bebé	NOUN	n	_	1	nmod	1:nmod	_
+3	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ko	ko	DET	dem	_	6	nmod	6:nmod	_
+6	taβa	tab	NOUN	n	Case=Ref	7	nmod	7:nmod	_
+7	rarõaneté	arõan	NOUN	n	Intens=Yes|Rel=Cont	1	appos	1:appos	_
+
