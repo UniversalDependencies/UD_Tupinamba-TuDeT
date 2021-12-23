@@ -2592,9 +2592,32 @@
 
 # sent_id = 0000022245
 # text = Eiori , tiʃepeɲan , imosɨkɨjékɨjéβo
+# text_eng = (Teatro, 28)
+# text_por = Vem, para que os ataquemos, ficando a amendrontá-los.
 1	Eiori	ur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	tiʃepeɲan	epeɲan	NOUN	n	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
 5	imosɨkɨjékɨjéβo	sɨkɨjé	VERB	v	Aspect=Iter|Red=Di|Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
+
+# sent_id = 0000022246
+# text = jamongwá moʃɨ ruʔuba , iʃupé iaiemoitɨamo
+# text_eng = (Teatro, 28)
+# text_por = Fazemos passar as flechas dos malditos, diante delas esquivando-nos.
+1	jamongwá	mongwá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
+2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	nmod	3:nmod	_
+3	ruʔuba	uʔub	NOUN	n	Case=Ref|Rel=Cont	1	obj	1:obj	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	iʃupé	supé	PRON	pron	Case=Dat|PronType=Prs|Rel=NCont	6	obl	6:obl	_
+6	iaiemoitɨamo	iemoitɨ	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
+
+# sent_id = 47
+# text = Ke turi jané nupãmo !
+# text_eng = (Teatro, 28)
+# text_por = Aqui vêm para nos castigar!
+1	Ke	ke	ADV	adv	_	2	advmod	2:advmod	_
+2	turi	ur	noun	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+3	jané	jané	PRON	pron	Clusivity=In|Number=Plur|Person=1	4	obj	4:obj	_
+4	nupãmo	nupã	VERB	vt	VerbForm=Ger	2	advcl	2:advcl	_
+5	!	!	PUNCT	punct	_	2	punct	2:punct	_
 
