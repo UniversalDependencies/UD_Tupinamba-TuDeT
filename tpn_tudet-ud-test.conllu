@@ -3836,11 +3836,11 @@
 # text_por = E o outro, aqui?
 1	aʔepe	aʔe	PART	prcl	Int=Yes	3	discourse	3:discourse	_
 2	ke	ke	ADV	adv	_	3	advmod	3:advmod	_
-3	amoaé	amoaé	PRON	pron	PronType=Dem	_	_	_	_
+3	amoaé	amoaé	PRON	pron	PronType=Dem	0	root	0:root	_
 4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 0000022241
-# text = Karaíβeβé serã , kó taβa rarõaneté
+# text = Karaíβeβé serã , ko taβa rarõaneté
 # text_eng = (Teatro, 28)
 # text_por = Talvez seja o anjo, guardião verdadeiro desta aldeia
 1-2	Karaíβeβé	_	_	_	_	_	_	_	_
@@ -3862,10 +3862,10 @@
 4	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022243
-# text = Iabaeté sepjaka iʃéβo
+# text = Iaβaeté sepjaka iʃéβo
 # text_eng = (Teatro, 28)
 # text_por = Para mim é terrível vê-los
-1	Iabaeté	abaeté	NOUN	n	Rel=NCont	0	root	0:root	_
+1	Iaβaeté	abaeté	NOUN	n	Rel=NCont	0	root	0:root	_
 2	sepiaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
 3	iʃéβo	iʃé	PRON	pron	Case=Dat|PronType=Prs	1	obl	1:obl	_
 
