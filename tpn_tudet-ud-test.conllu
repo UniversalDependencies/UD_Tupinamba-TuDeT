@@ -2563,4 +2563,38 @@
 6	taβa	tab	NOUN	n	Case=Ref	7	nmod	7:nmod	_
 7	rarõaneté	arõan	NOUN	n	Intens=Yes|Rel=Cont	1	appos	1:appos	_
 
+# sent_id = 0000022242
+# text = ʃerejtɨk korine mã !
+# text_eng = (Teatro, 28)
+# text_por = Ah, vencer-me-ão hoje!
+1	ʃerejtɨk	_	NOUN	n	Nuber=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
+2	korine	kori	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
+3	mã	_	PART	prcl	_	1	discourse	1:discourse	_
+4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0000022243
+# text = Iabaeté sepjaka iʃéβo
+# text_eng = (Teatro, 28)
+# text_por = Para mim é terrível vê-los
+1	Iabaeté	abaeté	NOUN	n	Rel=NCont	0	root	0:root	_
+2	sepiaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
+3	iʃéβo	iʃé	PRON	pron	Case=Dat|PronType=Prs	1	obl	1:obl	_
+
+# sent_id = 0000022244
+# text = Aani ʃo ! nepɨatã !
+# text_eng = (Teatro, 28)
+# text_por = Não! Sê corajoso!
+1	Aani	aani	ADV	adv	Polarity=Neg	4	discourse	4:discourse	_
+2	ʃo	ʃo	INTJ	intj	_	1	discourse	1:discourse	_
+3	!	!	PUNCT	punct	_	4	punct	4:punct	_
+4	nepɨatã	pɨatã	NOUN	n	Number=Sing|Person=1	_	_	_	_
+5	!	!	PUNCT	punct	_	4	punct	4:punct	_
+
+# sent_id = 0000022245
+# text = Eiori , tiʃepeɲã , imosɨkɨjékɨjéβo
+1	Eiori	ur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	tiʃepeɲan	epeɲan	NOUN	n	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	imosɨkɨjékɨjéβo	sɨkɨjé	VERB	v	Aspect=Iter|Red=Di|Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
 
