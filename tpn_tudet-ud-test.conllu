@@ -2601,12 +2601,12 @@
 5	imosɨkɨjékɨjéβo	sɨkɨjé	VERB	v	Aspect=Iter|Red=Di|Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
 
 # sent_id = 0000022246
-# text = jamongwá moʃɨ ruʔuba , iʃupé iaiemoitɨamo
+# text = jamongwá moʃɨ ruʔuβa , iʃupé iaiemoitɨamo
 # text_eng = (Teatro, 28)
 # text_por = Fazemos passar as flechas dos malditos, diante delas esquivando-nos.
 1	jamongwá	mongwá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
 2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	nmod	3:nmod	_
-3	ruʔuba	uʔub	NOUN	n	Case=Ref|Rel=Cont	1	obj	1:obj	_
+3	ruʔuβa	uʔub	NOUN	n	Case=Ref|Rel=Cont	1	obj	1:obj	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
 5	iʃupé	supé	PRON	pron	Case=Dat|PronType=Prs|Rel=NCont	6	obl	6:obl	_
 6	iaiemoitɨamo	iemoitɨ	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
@@ -2622,22 +2622,46 @@
 5	!	!	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 0000022248
-# text = Arɨrɨi , opá ʃeuba iesɨi , oiemoatãmo
+# text = Arɨrɨi , opá ʃeuβa iesɨi , oiemoatãmo
 # text_eng = (Teatro, 28)
 # text_por = Tremo, as minhas coxas adormeceram completamente imobilizando-se
 1	Arɨrɨi	rɨrɨ	VERB	v	Number=Sing|Person=1	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	opá	opá	PRON	proPronType=Tot	_	4	nmod	4:nmod	_
-4	ʃeuba	ub	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	5	nsubj	5:nsubj	_
+4	ʃeuβa	ub	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	5	nsubj	5:nsubj	_
 5	iesɨi	iesɨ	NOUN	_	Nuber=Sing|Person=1	1	parataxis	1:parataxis	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	oiemoatãmo	_	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	5	advcl	5:advcl	_
 
 # sent_id = 0000022249
-# text = Abápe ne ?
+# text = Aβápe ne ?
 # text_eng = Who are you? (Teatro, 28)
 # text_por = Quem é você?
-1	Abápe	abá	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
-2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	?	?	PUNCT	punct	_	1	punct	_	_
+1	Aβápe	aβá	PRON	pron	Int=Yes|PronType=Int	0	root	0:root	_
+2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
+3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0000022250
+# text = Waiʃará kawara iʃé , moitiniŋusu , jawara , morwara , moroapɨara , anɨráwasuβeβé , aɲaŋa morapitiara
+# text_eng =  (Teatro, 28)
+# text_por = Guaixará bebedor de cauim eu sou, grande cascavel, onça, comedor de gente, queimador de gente morcegão voador, diabo assassino.
+1	Waiʃará	Waiʃará	PROPN	propn	_	0	root	0:root	_
+2	kawara	kawar	NOUN	n	Case=Ref	1	nmod	1:nmod	_
+3	iʃé	iʃé	PRON	pron	Nuber=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	moitiniŋusu	moitiniŋusu	NOUN	n	Augm=Yes	1	appos	1:appos	_
+6	,	,	PUNCT	punct	_	1	punct	1:punct	_
+7	jawara	jawar	NOUN	n	Case=Yes	1	appos	1:appos	_
+8	,	,	PUNCT	punct	_	1	punct	1:punct	_
+9	morwara	porwar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
+10	,	,	PUNCT	punct	_	1	punct	1:punct	_
+11	moroapɨara	moroapɨar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
+12	,	,	PUNCT	punct	_	1	punct	1:punct	_
+13-15	andɨráwasubebé	_	_	_	_	_	_	_	_
+13	anɨrá	anɨrá	NOUN	n	_	1	appos	1:appos	_
+14	wasu	wasu	NOUN	n	_	13	nmod	13:nmod	_
+15	βeβé	βeβé	NOUN	n	_	13	nmod	13:nmod	_
+16	,	,	PUNCT	punct	_	1	punct	1:punct	_
+17	aɲaŋa	aɲaŋa	NOUN	n	_	1	appos	1:appos	_
+18	morapitiara	porapitiar	NOUN	n	Case=Ref|Hum=Yes	17	nmod	17:nmod	_
 
