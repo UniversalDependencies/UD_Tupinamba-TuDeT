@@ -3946,7 +3946,7 @@
 10	,	,	PUNCT	punct	_	1	punct	1:punct	_
 11	moroapɨara	moroapɨar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
 12	,	,	PUNCT	punct	_	1	punct	1:punct	_
-13-15	anɨráwasubebé	_	_	_	_	_	_	_	_
+13-15	anɨráwasuβeβé	_	_	_	_	_	_	_	_
 13	anɨrá	anɨrá	NOUN	n	_	1	appos	1:appos	_
 14	wasu	wasu	NOUN	n	_	13	nmod	13:nmod	_
 15	βeβé	βeβé	NOUN	n	_	13	nmod	13:nmod	_
@@ -3975,7 +3975,7 @@
 7	,	,	PUNCT	punct	_	5	punct	5:punct	_
 8	sukuriju	sukuri	NOUN	n	Augm=Yes	1	parataxis	1:parataxis	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10  tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
+10	tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
 12-13	tamanduáatɨrabebó	_	_	_	_	_	_	_	_
 12	tamanwá	_	NOUN	n	_	1	parataxis	1:parataxis	_
