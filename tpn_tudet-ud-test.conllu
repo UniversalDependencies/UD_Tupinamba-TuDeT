@@ -3963,7 +3963,7 @@
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022252
-# text = ʃejɨβoja , ʃesokó , ʃetamũjusu Aimbiré , sukuriju , tawató , tamanwáatɨrabebó ; ʃeaɲaŋa moropé !
+# text = ʃejɨβoja , ʃesokó , ʃetamũjusu Aimbiré , sukuriju , tawató , tamanwáatɨraβeβó ; ʃeaɲaŋa moropé !
 # text_eng = (Teatro, 30)
 # text_por =
 1	ʃejɨβoja	jɨβoj	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
@@ -3977,9 +3977,9 @@
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
 10	tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12-13	tamanduáatɨrabebó	_	_	_	_	_	_	_	_
+12-13	tamanwáatɨraβeβó	_	_	_	_	_	_	_	_
 12	tamanwá	_	NOUN	n	_	1	parataxis	1:parataxis	_
-13	atɨrabebó	_	NOUN	n	_	12	nmod	12:nmod	_
+13	atɨraβeβó	_	NOUN	n	_	12	nmod	12:nmod	_
 14	;	;	PUNCT	punct	_	12	punct	12:punct	_
 15	ʃeaɲaŋa	aɲaŋa	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
 16	moropé	moropé	NOUN	n	Hum=Yes	15	nmod	15:nmod	_
