@@ -3918,7 +3918,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	opá	opá	PRON	proPronType=Tot	_	4	nmod	4:nmod	_
 4	ʃeuβa	ub	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	5	nsubj	5:nsubj	_
-5	iesɨi	iesɨ	NOUN	_	Nuber=Sing|Person=1	1	parataxis	1:parataxis	_
+5	iesɨi	iesɨ	NOUN	_	Number=Sing|Person=1	1	parataxis	1:parataxis	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	oiemoatãmo	_	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	5	advcl	5:advcl	_
 
@@ -3936,7 +3936,7 @@
 # text_por = Guaixará bebedor de cauim eu sou, grande cascavel, onça, comedor de gente, queimador de gente morcegão voador, diabo assassino.
 1	Waiʃará	Waiʃará	PROPN	propn	_	0	root	0:root	_
 2	kawara	kawar	NOUN	n	Case=Ref	1	nmod	1:nmod	_
-3	iʃé	iʃé	PRON	pron	Nuber=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
+3	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
 5	moitiniŋusu	moitiniŋusu	NOUN	n	Augm=Yes	1	appos	1:appos	_
 6	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -3992,7 +3992,7 @@
 1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	2:obl	_
 2	peseká	ekár	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	0:root	_
 3	kó	ko	DET	dem	_	4	nmod	4:nmod	_
-4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Nuber=Sing|Person=1	2	obl	2:obl	_
+4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Number=Sing|Person=1	2	obl	2:obl	_
 5	pupé	pupé	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
