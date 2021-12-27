@@ -3799,7 +3799,7 @@
 9	retama	etam	NOUN	n	Case=Ref|Rel=Cont	7	obl	7:obl	_
 
 # sent_id = 0000022237
-# text = Ke abá reków aɲe ʃerenopuʔãpuʔama
+# text = Ke aβá reków aɲe ʃerenopuʔãpuʔama
 # text_eng = (Teatro, 28)
 # text_por = Aqui uns homens estão, na verdade, me ameaçando
 1	Ke	ke	ADV	adv	_	3	advmod	3:advmod	_
@@ -3814,7 +3814,7 @@
 # text_por = Ai! Por acaso é o Lourenço tostado? (Teatro, 28)
 1	Kaj	kaj	INTJ	intj	_	3	discourse	3:discourse	_
 2	!	!	PUNCT	punct	_	3	punct	3:punct	_
-3-5	Rorekaʔe	_	_	_	_	_	_	_	_
+3-5	Rorekaʔepiã	_	_	_	_	_	_	_	_
 3	Rore	Rorens	PROPN	propn	_	0	root	0:root	_
 4	kaʔe	kaʔe	NOUN	n	_	3	nmod	3:nmod	_
 5	piã	jã	PART	prcl	Int=Yes	3	discourse	3:discourse	_
@@ -3866,7 +3866,7 @@
 # text_eng = (Teatro, 28)
 # text_por = Para mim é terrível vê-los
 1	Iaβaeté	abaeté	NOUN	n	Rel=NCont	0	root	0:root	_
-2	sepiaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
+2	sepjaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
 3	iʃéβo	iʃé	PRON	pron	Case=Dat|PronType=Prs	1	obl	1:obl	_
 
 # sent_id = 0000022244
