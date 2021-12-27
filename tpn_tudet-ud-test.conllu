@@ -3905,7 +3905,7 @@
 # text_eng = (Teatro, 28)
 # text_por = Aqui vêm para nos castigar!
 1	Ke	ke	ADV	adv	_	2	advmod	2:advmod	_
-2	turi	ur	noun	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 3	jané	jané	PRON	pron	Clusivity=In|Number=Plur|Person=1	4	obj	4:obj	_
 4	nupãmo	nupã	VERB	vt	VerbForm=Ger	2	advcl	2:advcl	_
 5	!	!	PUNCT	punct	_	2	punct	2:punct	_
@@ -3991,8 +3991,9 @@
 # text_por = Que é que procurais nesta minha terra?
 1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	2:obl	_
 2	peseká	ekár	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	0:root	_
-3	ko	ko	DET	dem	_	4	nmod	4:nmod	_
+3	kó	ko	DET	dem	_	4	nmod	4:nmod	_
 4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Nuber=Sing|Person=1	2	obl	2:obl	_
 5	pupé	pupé	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
 
