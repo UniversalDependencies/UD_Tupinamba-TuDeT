@@ -4007,6 +4007,6 @@
 5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
 6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
 7	,	,	PUNCT	punct	_	8	punct	8:punct	_
-8	oréputupá	putupab VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
+8	oréputupá	putupab	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
 9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
 
