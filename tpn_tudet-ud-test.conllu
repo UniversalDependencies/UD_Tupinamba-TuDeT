@@ -3965,7 +3965,8 @@
 # sent_id = 0000022252
 # text = ʃejɨβoja , ʃesokó , ʃetamũjusu Aimbiré , sukuriju , tawató , tamanwáatɨraβeβó ; ʃeaɲaŋa moropé !
 # text_eng = (Teatro, 30)
-# text_por =
+# text_por = Eu sou uma jibóia, eu sou um socó, eu sou o grande tamoio Aimbirê, sucuriju, gavião, tamanduá topetudo;
+eu sou um diabo esquentador de [gente!
 1	ʃejɨβoja	jɨβoj	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ʃesokó	ko	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
@@ -4000,13 +4001,13 @@
 # text = Apɨaba rawsupa ɲe , orérapiara potá , oréputupá sesé
 # text_eng = (Teatro, 30)
 # text_por = Amando os homens, querendo que nos obedeçam, nós nos preocupamos com eles
-1	apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	2:obj	_
+1	Apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	2:obj	_
 2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	8	advcl	8:advcl	_
 3	ɲe	ɲe	PART	prcl	_	2	discourse	2:discourse	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	orérapiara	_	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
+5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
 6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
 7	,	,	PUNCT	punct	_	8	punct	8:punct	_
-8	oréputupá	_	NOUN	n	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
+8	oréputupá	putupab	NOUN	n	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
 9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
 
