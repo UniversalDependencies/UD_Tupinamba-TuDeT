@@ -3440,7 +3440,7 @@
 # text = Iʔaŋa toʔá tawjé , omoɲaŋara rejá , rõ obɨʔa janeresé
 # text_eng = (Teatro, 22)
 # text_por = Que suas almas caiam logo, deixando seu criador, apegando-se, pois, a nós.
-1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obl	2:obl	_
+1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obl:subj	2:obl:subj	_
 2	toʔá	ʔa(r)	VERB	v	Mood=Perm|Person[subj]=3	0	root	0:root	_
 3	tawjé	tawjé	ADV	adv	_	2	advmod	2:advmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
