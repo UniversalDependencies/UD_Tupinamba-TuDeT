@@ -116,14 +116,14 @@
 # sent_id = 55555
 # text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoeté ojemotupana
 # text_eng = The christians honour Saint Sebastian's day, of his death, making it (a) holy(day)     Catálogo January 20
-1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	_	_
-2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl	_	_
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	_	_
-5	,	,	PUNCT	punct	_	4	punct	_	_
-6	Cristãos	Cristão	NOUN	n	_	7	obl	_	_
-7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
-8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	_	tupã-ʔar-a
+1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	2:nmod	_
+2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl:obj	7:obl:obj	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	2:appos	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	Cristãos	Cristão	NOUN	n	_	7	obl:subj	7:obl:subj	_
+7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	0:root	_
+8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	7:advcl	tupã-ʔar-a
 
 # sent_id = 66666666
 # text = Jandéjara mombeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
@@ -293,11 +293,11 @@
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1034634563
-# text = t'ojpeʔa Tupã ɲeʔẽmemwã ʃejuru swi ojaβo
-# text_eng = (By) saying may god remove evil words awaz from my mouth. Book 1 chap 2
-1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=3	6	ccomp	_	_
-2	Tupã	Tupã	PROPN	propn	_	1	obl	_	_
-3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	n	_	1	obl	_	_
+# text = tojpeʔa Tupã ɲeʔẽmemwã ʃejuru swi ojaβo
+# text_eng = (By) saying may god remove evil words away from my mouth. Book 1 chap 2
+1	tojpeʔa	peʔa	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=3	6	ccomp	_	_
+2	Tupã	Tupã	PROPN	propn	_	1	obl:subj	_	_
+3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	n	_	1	obl:obj	_	_
 4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	_	_
 5	swi	swi	ADP	posp	Rel=Cont	4	case	_	_
 6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
@@ -394,7 +394,7 @@
 # text = Osoβasápe asé oemiʔurama ?
 # text_eng = Do we bless what we are going to eat?
 1	Osoβasápe	oβasá	VERB	vt	Int=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
-2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
+2	asé	asé	PRON	pro	PronType=Prs	1	obl:subj	_	_
 3	oemiʔurama	emiʔu	NOUN	n	Case=Ref|Dev=Pass|Reflex=Yes|Tense=Fut	1	obl	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -457,7 +457,7 @@
 # text = Ojerokɨpe asé Cruz supé ?
 # text_eng = Do we bow to the cross? Book 1 chap 2
 1	Ojerokɨpe	_	VERB	vt	Person[obj]=3|Person[subj]=3|Reflex=Yes|VerbForm=Ger	0	root	_	_
-2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
+2	asé	asé	PRON	pro	PronType=Prs	1	obl:subj	_	_
 3	Cruz	cruz	NOUN	n	_	1	obl	_	_
 4	supé	supé	ADP	posp	Rel=Cont	3	case	_	_
 5	?	?	PUNCT	punct	_	1	punct	_	_
@@ -525,7 +525,7 @@
 # text = Ojerokɨpe asé jandéjara raʔangaβa supé , SantaMaria raʔangaβa supé , santos ɨβakɨpendwara raʔangaβa supé βé ?
 # text_eng = Do we bow to the image of our lord, to the image of holy Mary, also to the image of the saints that are in heaven? Book 1 chap 2
 1	Ojerokɨpe	jerokɨ	VERB	vt	Int=Yes|Person[obj]=3|Person[subj]=3|Voice=Mid	0	root	_	_
-2	asé	asé	PRON	pro	PronType=Prs	1	obl	_	_
+2	asé	asé	PRON	pro	PronType=Prs	1	obl:subj	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	_	_
 4	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
 5	supé	supé	ADP	posp	_	4	case	_	_
@@ -568,7 +568,7 @@
 # text = Marã itá ɲẽpe , kojpó ɨβɨrá , ɲauʔuma imoɲangɨmbɨra ɲẽpe asé ojmoeté ?
 # text_eng = How do people in fact honor metal or wood, something made of clay?  Book 1 chap 2 (why marã at the beginning?)
 1	Marã	marã	ADV	adv	Int=Yes	12	advmod	_	_
-2	itá	itá	NOUN	n	_	12	obl	_	_
+2	itá	itá	NOUN	n	_	12	obl:obj	_	_
 3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	kojpó	kojpó	CCONJ	cc	ConjType=Disj	2	cc	_	_
@@ -577,7 +577,7 @@
 8	ɲauʔuma	ɲauʔum	NOUN	n	Case=Ref	2	conj	_	_
 9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	_	_
 10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	_	_
-11	asé	asé	PRON	pro	PronType=Prs	12	obl	_	_
+11	asé	asé	PRON	pro	PronType=Prs	12	obl:subj	_	_
 12	ojmoeté	eté	VERB	vt	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 13	?	?	PUNCT	punct	_	12	punct	_	_
 
@@ -956,7 +956,7 @@
 
 # sent_id = 12
 # text = Ojpotakatupe oeʔõawera resé asé maʔendwara ?
-# text_port = Did he really want people to remember his death?book 3-9
+# text_port = Did he really want people to remember his death? book 3-9
 1	Ojpotakatupe	potar	VERB	vt	Int=Yes|Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	oeʔõawera	eʔõa	NOUN	n	Case=Ref|Reflex=Yes	5	obl	_	_
 3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
@@ -1173,7 +1173,7 @@
 
 # sent_id = 2336
 # text = mbaʔepe oɲonoŋ iakanga ʔárɨβo ?
-# text_eng = What did the place through his head ?  book 3 chap 8
+# text_eng = What did they place through his head ?  book 3 chap 8
 1	mbaʔepe	mbaʔe	PRON	pro	_	2	obl	_	_
 2	oɲonoŋ	noŋ	VERB	VT	Person[obj]=3|Person[subj]=3	0	root	_	_
 3	iakanga	akaŋ	NOUN	N	Rel=NCont	2	obl	_	_
@@ -1212,7 +1212,7 @@
 # sent_id = 2340
 # text = mbaʔepe ojmeʔeŋ iʔekatwápe ?
 # text_eng = What did they give to/in his right hand? book 3 chap 8
-1	mbaʔepe	mbaʔe	PRON	pron	_	2	obl	_	_
+1	mbaʔepe	mbaʔe	PRON	pron	_	2	obl:obj	_	_
 2	ojmeʔeŋ	meʔeŋ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
 3	iʔekatwápe	ʔekatuaβ	NOUN	n	Rel=NCont	2	obl	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
@@ -1365,8 +1365,8 @@
 # text = Osapjápe Pilatos iɲeʔenga aʔéreme koʔɨté ?
 # text_eng = Did Pilatos then finally obey their words? Book 3 chap 8
 1	Osapjápe	apjár	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
-2	Pilatos	Pilatos	PROPN	propn	_	1	obl	_	_
-3	iɲeʔenga	ɲeʔeng	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
+2	Pilatos	Pilatos	PROPN	propn	_	1	obl:subj	_	_
+3	iɲeʔenga	ɲeʔeng	NOUN	n	Case=Ref|Rel=NCont	1	obl:obj	_	_
 4	aʔéreme	aʔéreme	ADV	adv	_	1	advmod	_	_
 5	koʔɨté	koʔɨté	ADV	adv	_	1	advmod	_	_
 6	?	?	PUNCT	punct	_	1	punct	_	_
@@ -1667,18 +1667,18 @@
 # text_eng = Did his clothes stick hard to his whips, to his wounds ? book 3-chap 9
 1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	serã	serã	ADV	adv	_	1	advmod	_	_
-3	iaoβa	aoβ	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
+3	iaoβa	aoβ	NOUN	n	Case=Ref|Rel=NCont	1	obl:subj	_	_
 4	inupãsawera	_	NOUN	_	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Past	1	obl	_	gloss_port=RELNC-beat-NOMZR-PAST-REF
 5	imoperépereβawera	_	NOUN	_	Case=Ref|Nomzr=Circ|Red=Di|Rel=NCont|Tense=Past	4	appos	_	gloss_port=RELNC-wound.RED-NOMZR-PAST-REF
 6	resé	esé	ADP	posp	Rel=Cont	5	case	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 1022
-# text = Ojaratã , nd'eʔi teʔe aʔéreme judeus sekɨjatãmo ipira βe reru , suwɨ mosɨrɨka iʃwi
+# text = Ojaratã , neʔi teʔe aʔéreme judeus sekɨjatãmo ipira βe reru , suwɨ mosɨrɨka iʃwi
 # text_eng = It stick hard, that's why the jews then pulled it hard, ripping his skin, making him bleed     book 3-chap 9
 1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	nd'eʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	_	_
+3	neʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	_	_
 4	teʔe	_	ADV	adv	_	3	advmod	_	_
 5	aʔéreme	_	ADV	_	_	7	advmod	_	_
 6	judeus	judeus	NOUN	n	_	7	nsubj	_	_
@@ -1741,14 +1741,14 @@
 
 # sent_id = 1028
 # text = Ojpɨsó ɨβɨrajoasaβa ʔárɨβo , itapɨwá pupé ipó kutuka , imojá
-# text_eng = They extenden him on along the cross, nailing his hands with nails, piercing them  book 3-chap 9
+# text_eng = They laid him on along the cross, nailing his hands with nails, piercing them  book 3-chap 9
 1	Ojpɨsó	pɨsó	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
-3	ʔárɨβo	_	NOUN	n	Case=Per	2	case	_	_
+3	ʔárɨβo	ʔar	NOUN	n	Case=Per	2	case	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	itapɨwá	itapɨwá	NOUN	n	_	1	obl	_	_
 6	pupé	pupé	ADP	posp	Rel=Cont	5	case	_	_
-7	ipó	_	DET	dem	_	8	nsubj	_	_
+7	ipó	ipó	DET	dem	_	8	nsubj	_	_
 8	kutuka	kutuk	VERB	v	VerbForm=Ger	1	conj	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	imojá	mojár	VERB	v	VerbForm=Ger	1	dep	_	_
@@ -1835,7 +1835,7 @@
 # sent_id = 1037
 # text = Aβáaβápe ojmoʔam iirũnamo amõ aé cruz resé ?
 # text_eng = Who did they lift with him in other crosses? 3-chap 9 
-1	Aβáaβápe	aβá	PRON	pron	_	2	obl	_	_
+1	Aβáaβápe	aβá	PRON	pron	Number=Plur	2	obl:obj	_	_
 2	ojmoʔam	ʔam	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 3	iirũnamo	irũnamo	ADP	posp	_	2	obj	_	_
 4	amõ	amõ	PRON	pro	PronType=Ind	6	nmod	_	_
