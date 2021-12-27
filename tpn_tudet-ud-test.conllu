@@ -3997,7 +3997,7 @@
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 0000022254
-# text = Apɨaba rawsupa ɲe , orérapiara potá , oréputupá sesé
+# text = Apɨaβa rawsupa ɲe , orérapiara potá , oréputupá sesé
 # text_eng = (Teatro, 30)
 # text_por = Amando os homens, querendo que nos obedeçam, nós nos preocupamos com eles
 1	Apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	2:obj	_
@@ -4007,6 +4007,6 @@
 5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
 6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
 7	,	,	PUNCT	punct	_	8	punct	8:punct	_
-8	oréputupá	putupab	NOUN	n	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
+8	oréputupá	putupab	 VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
 9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
 
