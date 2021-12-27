@@ -4010,3 +4010,16 @@
 8	oréputupá	putupab	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
 9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
 
+# sent_id = 0000022255
+# text = Omaʔe , nipó , asé opɨʔa pupé sawsuβi
+# text_eng = (Teatro, 30)
+# text_por = Suas próprias coisas, na verdade, a gente ama em seu coração
+1	Omaʔe	maʔe	NOUN	n	Corf=Yes	8	obj	8:obj	_
+2	,	,	PUNCT	punct	_	8	punct	8:punct	_
+3	nipó	nipó	ADV	adv	_	8	advmod	8:advmod	_
+4	,	,	PUNCT	punct	_	8	punct	8:punct	_
+5	asé	asé	PRON	pron	PronType=Prs	8	nsubj	8:nsubj	_
+6	opɨʔa	pɨʔa	NOUN	n	Corf=Yes	8	obl	8:obl	_
+7	pupé	pupé	ADP	posp	_	6	case	6:case	_
+8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+
