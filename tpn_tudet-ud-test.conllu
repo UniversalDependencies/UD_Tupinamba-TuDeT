@@ -3940,13 +3940,13 @@
 4	,	,	PUNCT	punct	_	1	punct	1:punct	_
 5	moitiniŋusu	moitiniŋusu	NOUN	n	Augm=Yes	1	appos	1:appos	_
 6	,	,	PUNCT	punct	_	1	punct	1:punct	_
-7	jawara	jawar	NOUN	n	Case=Yes	1	appos	1:appos	_
+7	jawara	jawar	NOUN	n	Case=Ref	1	appos	1:appos	_
 8	,	,	PUNCT	punct	_	1	punct	1:punct	_
 9	morwara	porwar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
 10	,	,	PUNCT	punct	_	1	punct	1:punct	_
 11	moroapɨara	moroapɨar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
 12	,	,	PUNCT	punct	_	1	punct	1:punct	_
-13-15	andɨráwasubebé	_	_	_	_	_	_	_	_
+13-15	anɨráwasubebé	_	_	_	_	_	_	_	_
 13	anɨrá	anɨrá	NOUN	n	_	1	appos	1:appos	_
 14	wasu	wasu	NOUN	n	_	13	nmod	13:nmod	_
 15	βeβé	βeβé	NOUN	n	_	13	nmod	13:nmod	_
@@ -3959,7 +3959,7 @@
 # text_eng = Is it this one? (Teatro, 30)
 # text_por = É este?
 1	aʔepe	aʔe	PRON	dem	Int=Yes	0	root	0:root	_
-2	iko	ko	PRON	dem	PronType=Dem	1	nsubj	1:nsubj	_
+2	ikó	ko	PRON	dem	PronType=Dem	1	nsubj	1:nsubj	_
 3	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022252
@@ -3967,15 +3967,15 @@
 # text_eng = (Teatro, 30)
 # text_por =
 1	ʃejɨβoja	jɨβoj	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	,	,	PUNCT	punct	Number=Sing|Person=1	1	punct	1:punct	_
-3	ʃesoko	ko	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ʃesokó	ko	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
 4	,	,	PUNCT	punct	_	3	punct	3:punct	_
 5	ʃetamũjusu	tamũj	NOUN	n	Augm=Yes|Number=Sing|Person=1	1	parataxis	1:parataxis	_
 6	Aimbiré	Aimbiré	PROPN	propn	_	5	appos	5:appos	_
 7	,	,	PUNCT	punct	_	5	punct	5:punct	_
 8	sukuriju	sukuri	NOUN	n	Augm=Yes	1	parataxis	1:parataxis	_
 9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
+10  tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
 12-13	tamanduáatɨrabebó	_	_	_	_	_	_	_	_
 12	tamanwá	_	NOUN	n	_	1	parataxis	1:parataxis	_
@@ -3995,5 +3995,4 @@
 4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Number=Sing|Person=1	2	obl	2:obl	_
 5	pupé	pupé	ADP	posp	_	4	case	4:case	_
 6	?	?	PUNCT	punct	_	2	punct	2:punct	_
-
 
