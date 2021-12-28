@@ -4080,5 +4080,17 @@
 1	Iaŋaipá	aŋaipá(b)	NOUN	n	Rel=NCont	0	root	0:root	_
 2	;	;	PUNCT	punct	_	1	punct	1:punct	_
 
-
+# sent_id = 61
+# text = Tupã osawsupeʔa , sesé ojerobiábebuja
+# text_eng =  God (Teatro, 30)
+# text_por = Deus deixou de amá-los, n'Ele confiando fracamente.
+1	Tupã	Tupã	PROPN	propn	_	2	obl:subj	2:obl:subj	_
+2-3	osawsupeʔa	_	_	_	_	_	_	_	_
+2	osawsu	awsub	VERB	v	Person[obj]=3|Person=3	0	root	0:root	_
+3	peʔa	peʔa	VERB	v	_	2	dep	2:dep	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	sesé	esé	ADP	posp	Rel=NCont	6	obl	6:obl	_
+6-7	ojerobiábebuia	_	_	_	_	_	_	_	_
+6	ojerobiá	_	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
+7	bebuia	bebuia	NOUN	n	_	6	advmod	6:advmod	_
 
