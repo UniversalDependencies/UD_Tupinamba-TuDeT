@@ -4051,3 +4051,34 @@
 8	seté	eté	NOUN	n	Rel=NCont	7	conj	7:conj	_
 9	moɲaŋi	moɲaŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
 
+# sent_id = 0000022258
+# text = Tupã ? Te nipó , aɲe
+# text_eng = (Teatro, 30)
+# text_por = Deus? Ah, por certo é verdade...
+1	Tupã	Tupã	PROPN	propn	_	0	root	0:root	_
+2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+3	Te	te	INTJ	intj	_	1	discourse	1:discourse	_
+4	nipó	nipó	ADV	adv	_	3	goeswith	3:goeswith	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	aɲe	aɲe	PART	prcl	_	1	discourse	1:discourse	_
+
+# sent_id = 0000022259
+# text = Sekóte ipoʃɨeté , sekó aʔe ni poraŋi
+# text_eng =  Their lives are very bad, their deeds also are not nice (Teatro, 30)
+# text_por = Mas sua vida é muito má, seus atos não são belos.
+1	Sekóte	ikó	NOUN	n	Rel=NCont	2	nsubj	2:nsubj	_
+2	ipoʃɨeté	poʃɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	seko	ikó	NOUN	dem	_	6	nsubj	6:nsubj	_
+5	aʔe	ʔ	PART	prcl	_	6	discourse	6:discourse	_
+6	niporaŋi	poraŋ	NOUN	n	Polarity=Neg|rel=NCont	2	parataxis	2:parataxis	_
+
+# sent_id = 0000022260
+# text = Iaŋaipá ;
+# text_eng =  They are sinners (Teatro, 30)
+# text_por = Eles são pecadores
+1	Iaŋaipá	aŋaipá(b)	NOUN	n	Rel=NCont	0	root	0:root	_
+2	;	;	PUNCT	punct	_	1	punct	1:punct	_
+
+
+
