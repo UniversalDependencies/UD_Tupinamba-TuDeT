@@ -4094,3 +4094,20 @@
 6	ojerobiá	_	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
 7	bebuia	bebuia	NOUN	n	_	6	advmod	6:advmod	_
 
+# sent_id = 0000022262
+# text = ɨgasápe kawituja , aʔe ré iamomotá , ojojá waibĩ rekuia
+# (Teatro, 30)
+# Nas igaçabas o cauim transbordante, além disso, os atrai, e, igualmente, as cuias das velhas
+1	ɨgasápe	ɨgasáb	NOUN	n	Case=Loc|Nomzr=Circ	3	obl	3:obl	_
+2-3	kawituja	_	_	_	_	_	_	_	_
+2	kawi	kawi	NOUN	n	_	3	nmod	3:nmod	_
+3	tuja	tuja	NOUN	n	_	7	obl:subj	7:obl:subj	_
+4	,	,	PUNCT	punct	_	7	punct	7:punct	_
+5	aʔe	aʔe	DET	dem	_	7	advmod	7:advmod	_
+6	ré	ré	ADP	posp	_	5	goeswith	5:goeswith	_
+7	iamomotá	momotá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	ojojá	ojojá	ADV	adv	_	7	advmod	7:advmod	_
+10	waibĩ	waibĩ	NOUN	n	_	11	nmod	11:nmod	_
+11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	7:conj	_
+
