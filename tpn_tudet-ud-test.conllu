@@ -4086,7 +4086,7 @@
 # text_por = Deus deixou de amá-los, n'Ele confiando fracamente.
 1	Tupã	Tupã	PROPN	propn	_	2	obl:subj	2:obl:subj	_
 2-3	osawsupeʔa	_	_	_	_	_	_	_	_
-2	osawsu	awsub	VERB	v	Person[obj]=3|Person=3	0	root	0:root	_
+2	osawsu	awsub	VERB	v	Person[obj]=3|Person[subj]=3	0	root	0:root	_
 3	peʔa	peʔa	VERB	v	_	2	dep	2:dep	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5	sesé	esé	ADP	posp	Rel=NCont	6	obl	6:obl	_
