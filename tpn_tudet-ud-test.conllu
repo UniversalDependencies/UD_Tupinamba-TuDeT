@@ -4037,3 +4037,17 @@
 8	meʔeŋaʔubi	meʔeŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
 9	?	?	PUNCT	punct	_	8	punct	8:punct	_
 
+# sent_id = 57
+# text = Tupã aé , o karaíba pupé , iʔaŋa seté moɲaŋi
+# text_eng = (Teatro, 30)
+# text_por = O próprio Deus, com sua santidade, suas almas e seus corpos fez
+1	Tupã	Tupã	PROPN	propn	_	9	nsubj	9:nsubj	_
+2	aé	aé	PART	prcl	_	9	discourse	9:discourse	_
+3	,	,	PUNCT	punct	_	9	punct	9:punct	_
+4	okaraíba	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	9:obl	_
+5	pupé	pupé	ADP	posp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	9	punct	9:punct	_
+7	iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	9	obj	9:obj	_
+8	seté	eté	NOUN	n	Rel=NCont	7	conj	7:conj	_
+9	moɲaŋi	moɲaŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
+
