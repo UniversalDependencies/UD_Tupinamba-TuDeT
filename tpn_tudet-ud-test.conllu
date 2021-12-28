@@ -4023,3 +4023,17 @@
 7	pupé	pupé	ADP	posp	_	6	case	6:case	_
 8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 
+# sent_id = 0000022256
+# text = Abátepe , erimaʔe , pe maʔerama resé apɨaba meʔeŋaʔubi ?
+# text_eng = Who gave you the men as your things? (Teatro, 30)
+# text_por = Mas quem entrgou os índios como coisas vossas ?
+1	Abátepe	_	PRON	pron	Int=Yes|PronType=Int	8	nsubj	8:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	erimaʔe	erimaʔe	ADV	adv	_	8	advmod	8:advmod	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	pemaʔerama	maʔe	NOUN	n	Case=Ref|Number=Plur|Person[psor]=2|Tense=Fut	8	obl	8:obl	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	apɨaβa	apɨab	NOUN	n	Case=Ref	8	obj	8:obj	_
+8	meʔeŋaʔubi	meʔeŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
+9	?	?	PUNCT	punct	_	8	punct	8:punct	_
+
