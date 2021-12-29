@@ -4111,7 +4111,7 @@
 10	waibĩ	waibĩ	NOUN	n	_	11	nmod	11:nmod	_
 11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	7:conj	_
 
-# sent_id = 63
+# sent_id = 0000022263
 # text = Ojmoapɨ abá kuiaβa ; ʔaŋa e semimotara
 # text_eng = (Teatro, 32)
 # text_por = Esvaziam os homens as cuias· sombra é o que eles desejam
@@ -4123,7 +4123,7 @@
 6	e	e	PART	prcl	_	7	discourse	_	_
 7	semimotara	emimotar	NOUN	n	Case=Ref|Dev=Pass|Rel=NCont	1	parataxis	_	_
 
-# sent_id = 64
+# sent_id = 0000022264
 # text = Moraseja reroβjara ipɨʔa jajporakar ; nomoetéj omoɲaŋara
 # text_eng = (Teatro, 32)
 # text_por = A crença na dança enche seus corações; não honram seu criador.
@@ -4134,4 +4134,14 @@
 5	;	;	PUNCT	punct	_	4	punct	4:punct	_
 6	nomoetéj	moeté	VERB	v	Polarity=Neg|Person[subj]=3|Voice=Cau	4	parataxis	4:parataxis	_
 7	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	6:obj	_
+
+# sent_id = 0000022265
+# text = Nosaʔaŋitepe akó ɲemoʔe koʔarapukuj ?
+# text_eng = (Teatro, 32)
+# text_por = Mas não tentam esses aprender sempre?
+1	Nosaʔaŋitepe	aʔaŋ	VERB	v	Int=Yes|Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	0:root	_
+2	akó	akó	DET	dem	_	1	obl:subj	1:obl:subj	_
+3	ɲemoʔe	jemoʔe	NOUN	n	Reflex=Yes	1	obl:obj	1:obl:obj	_
+4	koʔarapukui	koʔarapukuj	ADV	adv	_	1	advmod	1:advmod	_
+5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
