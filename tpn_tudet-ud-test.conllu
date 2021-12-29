@@ -4111,3 +4111,27 @@
 10	waibĩ	waibĩ	NOUN	n	_	11	nmod	11:nmod	_
 11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	7:conj	_
 
+# sent_id = 63
+# text = Ojmoapɨ abá kuiaβa ; ʔaŋa e semimotara
+# text_eng = (Teatro, 32)
+# text_por = Esvaziam os homens as cuias· sombra é o que eles desejam
+1	Ojmoapɨ	moapɨ	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+2	aβá	aβá	NOUN	n	_	1	obl:subj	_	_
+3	kuiaβa	aβá	NOUN	n	Case=Ref	1	obl:obj	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+5	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	7	nsubj	_	_
+6	e	e	PART	prcl	_	7	discourse	_	_
+7	semimotara	emimotar	NOUN	n	Case=Ref|Dev=Pass|Rel=NCont	1	parataxis	_	_
+
+# sent_id = 64
+# text = Moraseja reroβjara ipɨʔa jajporakar ; nomoetéj omoɲaŋara
+# text_eng = (Teatro, 32)
+# text_por = A crença na dança enche seus corações; não honram seu criador.
+1	Moraseja	porasej	NOUN	n	Case=Ref|Rel=Hum	2	nmod	2:nmod	_
+2	reroβiara	eroβjar	NOUN	n	Case=Ref|Rel=Cont	4	obl:subj	4:obl:subj	_
+3	ipɨʔa	pɨʔa	NOUN	n	Rel=NCont	4	obl:obj	4:obl:obj	_
+4	jajporaká	porakar	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
+5	;	;	PUNCT	punct	_	4	punct	4:punct	_
+6	nomoetéj	moeté	VERB	v	Polarity=Neg|Person[subj]=3|Voice=Cau	4	parataxis	4:parataxis	_
+7	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	6:obj	_
+
