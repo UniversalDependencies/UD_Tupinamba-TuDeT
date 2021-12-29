@@ -4145,3 +4145,24 @@
 4	koʔarapukui	koʔarapukuj	ADV	adv	_	1	advmod	1:advmod	_
 5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 0000022266
+# text = Osó meémo mamõ ?
+# text_eng = (Teatro, 32)
+# text_por = Teriam ido longe? 
+1	Osó	so	VERB	v	Person[subj]=3	0	root	0:root	_
+2	meémo	meémo	PART	prcl	Mood=Cnd	1	dep	1:dep	_
+3	mamõ	mamõ	ADV	adv	_	1	advmod	1:advmod	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0000022267
+# text = Aɲe ijurupe , ɲõ Tupã rerobjara ruj
+# text_eng = (Teatro, 32)
+# text_por = É verdade. Somente nas suas bocas está a crença em Deus
+1	Aɲe	_	PART	prcl	_	7	discourse	7:discourse	_
+2	ijurupe	uru	NOUN	n	Case=Loc|Rel=NCont	7	obl	7:obl	_
+3	ɲõ	ɲõ	ADV	adv	_	7	advmod	7:advmod	_
+4	,	,	PUNCT	punct	_	7	punct	7:punct	_
+5	Tupã	Tupã	PROPN	propn	_	6	nmod	6:nmod	_
+6	rerobjara	erobjar	NOUN	n	Case=Ref|Rel=Cont	7	nsubj	7:nsubj	_
+7	ruj	(j)ub	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
+
