@@ -127,7 +127,7 @@
 
 # sent_id = 66666666
 # text = Jandéjara mombeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
-# text_eng = Those who believed him worked together shooting arrows at him, killing him, for announcing our lord   Catálogo 20 January
+# text_eng = Those who did not believe him worked together shooting arrows at him, killing him, for announcing our lord   Catálogo 20 January
 1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
 2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
