@@ -138,13 +138,13 @@
 7	,	,	PUNCT	punct	_	6	punct	6:punct	_
 8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	6	conj	6:conj	_
 
-# sent_id = 7777
-# text = Tupã mombeʔu sɨkɨijéʔyma , sauwsuβa resé seʔõuw
+# sent_id = 777777
+# text = Tupã momeʔu sɨkɨijéʔɨma , sauwsuβa resé seʔõuw
 # text_eng =    Catálogo 20 January
 # text=por = 
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
-2	mombeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
-3	sɨkɨijéʔyma	sɨkɨijé	NOUN	n	Case=Ref|Polarity=Neg	7	xcomp	7:xcomp	_
+2	momeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
+3	sɨkɨijéʔɨma	sɨkɨijé	NOUN	n	Case=Ref|Priv=Yes	7	xcomp	7:xcomp	_
 4	,	,	PUNCT	punct	_	7	punct	7:punct	_
 5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	7:obl	_
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
@@ -4241,7 +4241,7 @@
 1	Ejori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
 2	oreresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
 3	nememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
-4	moŋetáβo	moŋet	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
+4	moŋetáβo	moŋet	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
 7	tawjé	tawjé	ADV	adv	_	6	advmod	6:advmod	_
