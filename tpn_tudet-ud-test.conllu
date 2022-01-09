@@ -4143,7 +4143,7 @@
 1	Nosaʔaŋitepe	aʔaŋ	VERB	v	Int=Yes|Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	0:root	_
 2	akó	akó	DET	dem	_	1	obl:subj	1:obl:subj	_
 3	ɲemoʔe	jemoʔe	NOUN	n	Reflex=Yes	1	obl:obj	1:obl:obj	_
-4	koʔarapukui	koʔarapukuj	ADV	adv	_	1	advmod	1:advmod	_
+4	koʔarapukuj	koʔarapukuj	ADV	adv	_	1	advmod	1:advmod	_
 5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022266
@@ -4168,7 +4168,7 @@
 7	ruj	(j)ub	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
 
 # sent_id = 0000022268
-# text = Neʔi teʔe , opɨʔa pupé , ojemoŋetáŋetáβo , Tupã momburukatuaβo , Sesapɨsóaʔupe é Tupã ʃerepjaka ? , oʔiaβo
+# text = Neʔi teʔe , opɨʔa pupé , ojemoŋetáŋetáβo , Tupã momburukatuaβo , Sesapɨsóaʔupe e Tupã ʃerepjaka ? oʔiaβo
 # text_eng = (teatro, 32)
 # text_por = Por isso mesmo é que, em seus corações, ficando a rezar, desafiam muito a Deus, dizendo: "- tem Deus vista aguda para me ver?"
 1	Neʔi	ʔi	VERB	v	Person=3|Polarity=Neg	0	root	0:root	_
@@ -4177,17 +4177,16 @@
 4	opɨʔa	pɨʔa	NOUN	n	Corf=Yes|Person=3	7	obl	7:obl	_
 5	pupé	pupé	ADP	posp	_	4	obl	4:obl	_
 6	,	,	PUNCT	punct	_	4	punct	4:punct	_
-7	ojemoŋetáŋetáβo	_	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
+7	ojemoŋetáŋetáβo	_	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	Tupã	PROPN	propn	_	10	obj	10:obj	_
-10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Caus	7	parataxis	7:parataxis	_
+10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Cau	7	parataxis	7:parataxis	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
 12	Sesapɨsóaʔupe	esapɨsó	NOUN	n	Int=Yes|Rel=NCont	18	parataxis	18:parataxis	_
 13	e	e	PART	prcl	_	12	discourse	12:discourse	_
 14	Tupã	Tupã	PROPN	propn	_	12	nsubj	12:nsubj	_
 15	ʃerepjaka	epják	NOUN	n	Case=Ref|Number=Sing|Person=1|Rel=Cont	12	xcomp	12:xcomp	_
 16	?	?	PUNCT	punct	_	12	punct	12:punct	_
-17	,	,	PUNCT	punct	_	12	punct	12:punct	_
 18	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	7:advcl	_
 
 # sent_id = 0000022269
@@ -4196,7 +4195,7 @@
 # text_por = Será que isto é um guabiru4o ou um sarigüê fedorento?
 1	wabiru	wabiru	NOUN	n	_	0	root	0:root	_
 2	ruãpe	ko	PART	dem	Int=Yes	1	discourse	1:discourse	_
-3	iko	ko	DET	dem	_	1	nmod	1:nmod	_
+3	ikó	ko	DET	dem	_	1	nmod	1:nmod	_
 4	konipó	konipó	CCONJ	cc	_	5	cc	5:cc	_
 5-6	sarigweinema	_	_	_	_	_	_	_	_
 5	sarigwe	sarigwe	NOUN	n	_	1	conj	1:conj	_
@@ -4217,7 +4216,7 @@
 7	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 902
-# text = Orémoíŋoβé íepé , ndememβɨra moɲɨrõmo , inõŋatwaβo , orérarõmo , oréʔaŋa pɨsɨrõmo .
+# text = Orémoíŋoβé íepé , ndememɨra moɲɨrõmo , inõŋatwaβo , orérarõmo , oréʔaŋa pɨsɨrõmo .
 # text_eng = (Poemas, 82)
 # text_por = Faze-nos tu viver, aplacando teu filho, fazendo-o manso, guardando-nos, salvando nossa alma.
 1	Orémoíŋoβé	rémoíŋoβé	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
@@ -4235,7 +4234,7 @@
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 903
-# text = Ejori , oreresé , nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
+# text = Ejori oreresé nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
 1	Ejori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
@@ -4252,7 +4251,7 @@
 11	,	,	PUNCT	punct	_	6	punct	6:punct	_
 12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
-14	imomoʃɨaβo	imomoʃɨa	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
+14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
 16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
 17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	14	conj	14:conj	_
