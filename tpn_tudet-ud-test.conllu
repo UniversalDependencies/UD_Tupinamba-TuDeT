@@ -4250,11 +4250,11 @@
 9	rawsu	awsub	NOUN	n	Rel=Cont	10	obj	10:obj	_
 10	peʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	6:advcl	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	10	conj	10:conj	_
+12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
 16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
-17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
+17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
 18	.	.	PUNCT	punct	_	17	punct	17:punct	_
 
