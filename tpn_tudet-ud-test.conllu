@@ -139,13 +139,13 @@
 8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	6	conj	6:conj	_
 
 # sent_id = 7777
-# text = Tupã mombeʔu sɨkɨijéʔyma, sauwsuβa resé seʔõuw
+# text = Tupã mombeʔu sɨkɨijéʔyma , sauwsuβa resé seʔõuw
 # text_eng =    Catálogo 20 January
 # text=por = 
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
 2	mombeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
 3	sɨkɨijéʔyma	sɨkɨijé	NOUN	n	Case=Ref|Polarity=Neg	7	xcomp	7:xcomp	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+4	,	,	PUNCT	punct	_	7	punct	7:punct	_
 5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	7:obl	_
 6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
 7	seʔõuw	eʔõ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
@@ -153,30 +153,30 @@
 # sent_id = 888888
 # text = ʃepó ʃepɨ aβá po ipɨ ʔara omembɨrawera kwaβiré , SantaMaria omembɨra Iesus rerasow Tupã okɨpe , Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
 # text_eng = Saint Mary took her son to the house of god, after forty days had passed form his birth, in order to present him to god the father, according to the law of the jews. Catálogo 2 February
-1	ʃepó	po	NOUN	n	Number=Sing|Person=1	6	nmod	_	_
-2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	_	_
-3	aβá	aβá	NOUN	n	_	4	nmod	_	_
-4	po	po	NOUN	n	_	1	conj	_	_
-5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	_	_
-6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	_	_
-7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	_	_
+1	ʃepó	po	NOUN	n	Number=Sing|Person=1	6	nummod	6:nummod	_
+2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	1:conj	_
+3	aβá	aβá	NOUN	n	_	4	nummod	4:nummod	_
+4	po	po	NOUN	n	_	1	conj	1:conj	_
+5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	1:conj	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	14:advcl	_
+7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	6:dep	_
 8-9	kwaβiré	_	_	_	_	_	_	_	_
-8	kwaβ	kwab	NOUN	n	_	6	obl	_	_
-9	iré	iré	ADP	posp	_	8	case	_	_
-10	,	,	PUNCT	punct	_	6	punct	_	_
-11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
-12	omembɨra	membɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	_	_
-13	Iesus	Iesus	PROPN	propn	_	12	appos	_	_
-14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
-15	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
-16	okɨpe	ok	NOUN	n	_	14	obl	_	_
-17	,	,	PUNCT	punct	_	14	punct	_	_
-18	Tupã	Tupã	PROPN	propn	_	19	nmod	_	_
-19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	_	_
-20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	_	_
-21	judeus	judeu	NOUN	n	_	22	nmod	_	_
-22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	_	_
-23	rupi	upi	ADP	posp	Rel=Cont	22	case	_	_
+8	kwaβ	kwab	NOUN	n	_	6	obl	6:obl	_
+9	iré	iré	ADP	posp	_	8	case	8:case	_
+10	,	,	PUNCT	punct	_	6	punct	6:punct	_
+11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	14:nsubj	_
+12	omembɨra	membɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	14:obj	_
+13	Iesus	Iesus	PROPN	propn	_	12	appos	12:appos	_
+14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	0:root	_
+15	Tupã	Tupã	NOUN	n	_	16	nmod	16:nmod	_
+16	okɨpe	ok	NOUN	n	_	14	obl	14:obl	_
+17	,	,	PUNCT	punct	_	14	punct	14:punct	_
+18	Tupã	Tupã	PROPN	propn	_	19	nmod	19:nmod	_
+19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	20:obl	_
+20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
+21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
+22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
+23	rupi	upi	ADP	posp	Rel=Cont	22	case	22:case	_
 
 # sent_id = 999999
 # text = Mokõj pɨkasuaʔɨra iʃɨ owerasó jetanongaβamo
