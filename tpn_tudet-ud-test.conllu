@@ -129,14 +129,14 @@
 # sent_id = 66666666
 # text = Jandéjara mombeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
 # text_eng = Those who did not believe him worked together shooting arrows at him, killing him, for announcing our lord   Catálogo 20 January
-1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
-2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	_	_
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	_	_
-5	potɨrõw	potɨr	NOUN	n	NonFoc=Yes	0	root	_	_
-6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	_	_
-7	,	,	PUNCT	punct	_	5	punct	_	_
-8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	5	advcl	_	_
+1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	2:nmod	_
+2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	5:advcl	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	5:nsubj	_
+5	potɨrõw	potɨr	NOUN	n	NonFoc=Yes	0	root	0:root	_
+6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	5:advcl	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	6	conj	6:conj	_
 
 # sent_id = 7777
 # text = Tupã mombeʔu sɨkɨijéʔyma , sauwsuβa resé seʔõuw
@@ -4025,7 +4025,7 @@
 8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 
 # sent_id = 0000022256
-# text = Abátepe , erimaʔe , pemaʔerama resé apɨaba meʔeŋaʔubi ?
+# text = Abátepe , erimaʔe , pemaʔerama resé apɨaβa meʔeŋaʔubi ?
 # text_eng = Who gave you the men as your things? (Teatro, 30)
 # text_por = Mas quem entrgou os índios como coisas vossas ?
 1	Abátepe	_	PRON	pron	Int=Yes|PronType=Int	8	nsubj	8:nsubj	_
@@ -4093,7 +4093,7 @@
 5	sesé	esé	ADP	posp	Rel=NCont	6	obl	6:obl	_
 6-7	ojeroβjaβeβuja	_	_	_	_	_	_	_	_
 6	ojeroβia	eroβiar	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
-7	βeβuja	βeβuja	ADV	adv	Case=Ref	6	advmod	6:advmod	_
+7	βeβuja	βeβuja	ADV	adv	_	6	advmod	6:advmod	_
 
 # sent_id = 0000022262
 # text = ɨgasápe kawituja , aʔe ré iamomotá , ojojá waibĩ rekuia
@@ -4113,12 +4113,12 @@
 11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	7:conj	_
 
 # sent_id = 0000022263
-# text = Ojmoapɨ abá kuiaβa ; ʔaŋa e semimotara
+# text = Ojmoapɨ aβá kujaβa ; ʔaŋa e semimotara
 # text_eng = (Teatro, 32)
 # text_por = Esvaziam os homens as cuias· sombra é o que eles desejam
 1	Ojmoapɨ	moapɨ	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 2	aβá	aβá	NOUN	n	_	1	obl:subj	_	_
-3	kuiaβa	aβá	NOUN	n	Case=Ref	1	obl:obj	_	_
+3	kujaβa	aβá	NOUN	n	Case=Ref	1	obl:obj	_	_
 4	;	;	PUNCT	punct	_	1	punct	_	_
 5	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	7	nsubj	_	_
 6	e	e	PART	prcl	_	7	discourse	_	_
@@ -4129,11 +4129,11 @@
 # text_eng = (Teatro, 32)
 # text_por = A crença na dança enche seus corações; não honram seu criador.
 1	Moraseja	porasej	NOUN	n	Case=Ref|Rel=Hum	2	nmod	2:nmod	_
-2	reroβiara	eroβjar	NOUN	n	Case=Ref|Rel=Cont	4	obl:subj	4:obl:subj	_
+2	reroβjara	eroβjar	NOUN	n	Case=Ref|Rel=Cont	4	obl:subj	4:obl:subj	_
 3	ipɨʔa	pɨʔa	NOUN	n	Rel=NCont	4	obl:obj	4:obl:obj	_
-4	jajporaká	porakar	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
+4	jajporakar	porakar	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
 5	;	;	PUNCT	punct	_	4	punct	4:punct	_
-6	nomoetéj	moeté	VERB	v	Polarity=Neg|Person[subj]=3|Voice=Cau	4	parataxis	4:parataxis	_
+6	nomoetéj	moeté	VERB	v	Person[subj]=3|Polarity=Neg|Voice=Cau	4	parataxis	4:parataxis	_
 7	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	6:obj	_
 
 # sent_id = 0000022265
