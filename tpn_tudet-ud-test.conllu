@@ -4239,8 +4239,8 @@
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
 1	Eíori	Eíur	VERB	vi	Mood=Imp	0	root	0:root	_
-2	oreresé	esé	NUM	num	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
-3	nememɨra	memβɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
+2	oreresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
+3	nememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
 4	moŋetáβo	moŋet	VERB	v	VerbForm=Cau	1	advcl	1:advcl	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
