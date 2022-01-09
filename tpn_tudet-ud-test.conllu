@@ -4250,8 +4250,8 @@
 8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	9	nmod	9:nmod	_
 9	rawsu	awsub	NOUN	n	Rel=Cont	10	obj	10:obj	_
 10	peʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	6:advcl	_
-11	,	,	PUNCT	punct	_	6	punct	6:punct	_
-12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	10	conj	10:conj	_
 13	,	,	PUNCT	punct	_	12	punct	12:punct	_
 14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
