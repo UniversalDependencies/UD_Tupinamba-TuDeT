@@ -4025,7 +4025,7 @@
 8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 
 # sent_id = 0000022256
-# text = Abátepe , erimaʔe , pe maʔerama resé apɨaba meʔeŋaʔubi ?
+# text = Abátepe , erimaʔe , pemaʔerama resé apɨaba meʔeŋaʔubi ?
 # text_eng = Who gave you the men as your things? (Teatro, 30)
 # text_por = Mas quem entrgou os índios como coisas vossas ?
 1	Abátepe	_	PRON	pron	Int=Yes|PronType=Int	8	nsubj	8:nsubj	_
@@ -4039,13 +4039,13 @@
 9	?	?	PUNCT	punct	_	8	punct	8:punct	_
 
 # sent_id = 0000022257
-# text = Tupã aé , o karaíba pupé , iʔaŋa seté moɲaŋi
+# text = Tupã aé , okaraíβa pupé , iʔaŋa seté moɲaŋi
 # text_eng = (Teatro, 30)
 # text_por = O próprio Deus, com sua santidade, suas almas e seus corpos fez
 1	Tupã	Tupã	PROPN	propn	_	9	nsubj	9:nsubj	_
 2	aé	aé	PART	prcl	_	9	discourse	9:discourse	_
 3	,	,	PUNCT	punct	_	9	punct	9:punct	_
-4	okaraíba	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	9:obl	_
+4	okaraíβa	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	9:obl	_
 5	pupé	pupé	ADP	posp	_	4	case	4:case	_
 6	,	,	PUNCT	punct	_	9	punct	9:punct	_
 7	iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	9	obj	9:obj	_
@@ -4064,15 +4064,15 @@
 6	aɲe	aɲe	PART	prcl	_	1	discourse	1:discourse	_
 
 # sent_id = 0000022259
-# text = Sekóte ipoʃɨeté , sekó aʔe ni poraŋi
+# text = Sekóte ipoʃɨeté , sekó aʔe niporaŋi
 # text_eng =  Their lives are very bad, their deeds also are not nice (Teatro, 30)
 # text_por = Mas sua vida é muito má, seus atos não são belos.
 1	Sekóte	ikó	NOUN	n	Rel=NCont	2	nsubj	2:nsubj	_
 2	ipoʃɨeté	poʃɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	seko	ikó	NOUN	dem	_	6	nsubj	6:nsubj	_
+4	sekó	ikó	NOUN	dem	_	6	nsubj	6:nsubj	_
 5	aʔe	ʔ	PART	prcl	_	6	discourse	6:discourse	_
-6	niporaŋi	poraŋ	NOUN	n	Polarity=Neg|rel=NCont	2	parataxis	2:parataxis	_
+6	niporaŋi	poraŋ	NOUN	n	Polarity=Neg|Rel=NCont	2	parataxis	2:parataxis	_
 
 # sent_id = 0000022260
 # text = Iaŋaipá ;
@@ -4082,18 +4082,18 @@
 2	;	;	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0000022261
-# text = Tupã osawsupeʔa , sesé ojerobiábebuja
+# text = Tupã osawsupeʔa , sesé ojeroβjaβeβuja
 # text_eng =  God (Teatro, 30)
-# text_por = Deus deixou de amá-los, n'Ele confiando fracamente.
+# text_por = Deus deixou de amá-los, tendo pouca confiança neles.
 1	Tupã	Tupã	PROPN	propn	_	2	obl:subj	2:obl:subj	_
 2-3	osawsupeʔa	_	_	_	_	_	_	_	_
 2	osawsu	awsub	VERB	v	Person[obj]=3|Person[subj]=3	0	root	0:root	_
 3	peʔa	peʔa	VERB	v	_	2	dep	2:dep	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5	sesé	esé	ADP	posp	Rel=NCont	6	obl	6:obl	_
-6-7	ojerobiábebuia	_	_	_	_	_	_	_	_
-6	ojerobiá	_	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
-7	bebuia	bebuia	NOUN	n	_	6	advmod	6:advmod	_
+6-7	ojeroβjaβeβuja	_	_	_	_	_	_	_	_
+6	ojeroβia	eroβiar	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
+7	βeβuja	βeβuja	ADV	adv	Case=Ref	6	advmod	6:advmod	_
 
 # sent_id = 0000022262
 # text = ɨgasápe kawituja , aʔe ré iamomotá , ojojá waibĩ rekuia
@@ -4235,7 +4235,7 @@
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 903
-# text = Eíori , oré resé , ndememβɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
+# text = Eíori , oréresé , ndememβɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
 1	Eíori	Eíur	VERB	vi	Mood=Imp	0	root	0:root	_
