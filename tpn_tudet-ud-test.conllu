@@ -199,10 +199,10 @@
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
 # text_eng = What is the sign of the christians? Book 1 chap 2
-1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	_	_
-2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	_	_
-3	jekwapaβa	kwab	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
-4	?	?	PUNCT	punct	_	3	punct	_	_
+1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
+2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	3:nmod	_
+3	jekwapaβa	kwab	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 2
 # text = Santa Cruz .
@@ -4249,7 +4249,7 @@
 7	tawjé	tawjé	ADV	adv	_	6	advmod	6:advmod	_
 8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	10	obj	10:obj	_
 9-10	rawsupeʔaβo	_	_	_	_	_	_	_	_
-9	rawsu	awsub	NOUN	n	Rel=Cont	10	dep	10:dep	_
+9	rawsu	awsub	NOUN	n	Rel=Cont	10	goeswith	10:goeswith	_
 10	peʔaβo	peʔa	VERB	v	VerbForm=Ger	6	xcomp	6:xcomp	_
 11	,	,	PUNCT	punct	_	6	punct	6:punct	_
 12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
@@ -4258,5 +4258,4 @@
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
 16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
 17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
-18	.	.	PUNCT	punct	_	17	punct	17:punct	_
 
