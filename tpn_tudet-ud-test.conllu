@@ -1,8 +1,8 @@
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
-# document_reference = Araujo_1618[1952] [begin 00]
+# document_reference = Araujo_1618[1952] [begin 00.book.sentence]
 # document_reference = Teatro_2006 [begin 44-]
 # document_reference = Poemas () [begin 99-]
-# sent_id = 11111
+# sent_id = 00.01
 # text = Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra osɨ swi iʔariré , judeus ekomoɲangáβo iʔapira mondoki
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
 1	Mokõj	mokõj	NUM	num	_	2	nmod	2:nmod	_
@@ -26,7 +26,7 @@
 18	iʔapira	ʔapir	NOUN	n	Case=Ref|Rel=NCont	19	obj	19:obj	_
 19	mondoki	mondok	NOUN	n	NonFoc=Yes	0	root	0:root	_
 
-# sent_id = 2222222
+# sent_id = 00.02
 # text = Ã tekó aʔereme moreroka kwe βɨá Iesus nongi seramo
 # text_eng =Eis que era lei, então, batizar: puseram como nome dele aquele de JESUS  Catálogo January 1
 1	Ã	ã	PART	pcl	_	2	discourse	2:discourse	_
@@ -39,7 +39,7 @@
 8	nongi	nong	NOUN	n	NonFoc=Yes	2	parataxis	2:parataxis	_
 9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	8:obl	_
 
-# sent_id = 33333333
+# sent_id = 00.03
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk'eme , apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré , mosapɨr moruβiʃaβa , Reis ʔiaβa , kwarasɨ sembaβa kotɨ swi ourɨβaʔe , jasɨtatá serekoarama resé , Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa , ɨsɨkatã sɨapwanɨβaʔe , mirra , mosanga toʔo swi
 # text_eng = Three chiefs, said to be king, who came from the orient through the guardian star that god had made new as indicator of the path, brought him as offering: gold, incense and myhrr, after god's son was born from his mother's womb, when the thirteenth day came  Catálogo January 6
 1	Opa	opa	PRON	pro	_	3	nmod	3:nmod	_
@@ -93,7 +93,7 @@
 49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	48:nmod	_
 50	swi	swi	ADP	posp	_	49	case	49:case	_
 
-# sent_id = 4444444
+# sent_id = 00.04
 # text = Itajuβa moruβiʃaβa Rejamo sekó mombewaβa , ɨsɨkatãsɨapwana Tupanamo sekó kwapaβa , toʔo swi mirra moroesé seʔõawama mombewaβa
 # text_eng = Gold was a way of announcing his being a chief as a king, the incense was a way of recogninzing him to be god, the pulp myrrh was a way of announcing he would die for the people.  Catálogo January 6
 1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
