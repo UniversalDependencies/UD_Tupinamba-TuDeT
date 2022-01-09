@@ -4177,12 +4177,12 @@
 4	opɨʔa	pɨʔa	NOUN	n	Corf=Yes|Person=3	7	obl	7:obl	_
 5	pupé	pupé	ADP	posp	_	4	obl	4:obl	_
 6	,	,	PUNCT	punct	_	4	punct	4:punct	_
-7	ojemoŋetáŋetáβo	_	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
+7	ojemoŋetáŋetáβo	_	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger	_	_	_	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	Tupã	PROPN	propn	_	10	obj	10:obj	_
-10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Cau	7	parataxis	7:parataxis	_
+10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Cau	7	conj	7:conj	_
 11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	Sesapɨsóaʔupe	esapɨsó	NOUN	n	Int=Yes|Rel=NCont	18	parataxis	18:parataxis	_
+12	Sesapɨsóaʔupe	esapɨsó	NOUN	n	Int=Yes|Rel=NCont	17	ccomp	17:ccomp	_
 13	e	e	PART	prcl	_	12	discourse	12:discourse	_
 14	Tupã	Tupã	PROPN	propn	_	12	nsubj	12:nsubj	_
 15	ʃerepjaka	epják	NOUN	n	Case=Ref|Number=Sing|Person=1|Rel=Cont	12	xcomp	12:xcomp	_
