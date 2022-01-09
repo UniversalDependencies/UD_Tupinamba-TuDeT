@@ -189,11 +189,12 @@
 5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	4:obl	_
 
 # sent_id = 101010101010
-# text = oporomboʔeβo ã sekóû
+# text = oporomboʔeβo ã seków
 # text_eng = She was actually teaching people. Catálogo 2 February
-1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	_	3:advcl
-2	ã	ã	PART	pcl	_	3	discourse	_	_
-3	sekóû	ekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+# text_por =
+1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	3:advcl	3:advcl
+2	ã	ã	PART	pcl	_	3	discourse	3:discourse	_
+3	seków	ekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
 
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
