@@ -141,7 +141,7 @@
 # sent_id = 777777
 # text = Tupã momeʔu sɨkɨijéʔɨma , sauwsuβa resé seʔõuw
 # text_eng =    Catálogo 20 January
-# text=por = 
+# text_por = 
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
 2	momeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
 3	sɨkɨijéʔɨma	sɨkɨijé	NOUN	n	Case=Ref|Priv=Yes	7	xcomp	7:xcomp	_
@@ -181,11 +181,12 @@
 # sent_id = 999999
 # text = Mokõj pɨkasuaʔɨra iʃɨ owerasó jetanongaβamo
 # text_eng = His mother brought two small pigeons as offering. Catálogo 2 February
-1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
-2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	_	_
-3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	_	_
-4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	_	_
-5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	_	_
+# text_por =
+1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
+2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	4:obl	_
+3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	4:obl	_
+4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	0:root	_
+5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	4:obl	_
 
 # sent_id = 101010101010
 # text = oporomboʔeβo ã sekóû
