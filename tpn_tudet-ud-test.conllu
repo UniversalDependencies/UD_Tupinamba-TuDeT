@@ -4204,6 +4204,31 @@
 6	nema	nem	NOUN	n	_	5	nmod	5:nmod	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 44471
+# text = Pɨsaré serã ereikó ariɲama mokaɲema , apɨaβa monɨaβó ?
+# text_eng = (Teatro, 32)
+# text_por = Será que a noite toda ages para fazer sumir as galinhas, os índios empobrecendo?
+1	Pɨsaré	pɨsaré	ADV	propn	_	3	advmod	3:advmod	_
+2	serã	serã	ADV	adv	_	3	advmod	3:advmod	_
+3	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
+4	ariɲama	ariɲama	NOUN	n	_	5	obl	5:obl	_
+5	mokaɲema	mokaɲem	NOUN	n	_	3	advmod	3:advmod	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	apɨaβa	apɨaβ	NOUN	n	Case=Ref	8	obj	8:obj	_
+8	monɨaβó	_	NOUN	n	_	3	advcl	3:advcl	_
+9	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 44472
+# text = Iʔaŋa ʔupotá é , pɨsaré nakeraŋái
+# text_eng = (Teatro, 32)
+# text_por = Querendo devorar suas almas, a noite toda não dormi
+1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obj	2:obj	_
+2	ʔupotá	ʔupotar	VERB	v	VerbForm=Ger	6	advcl	6:advcl	_
+3	é	é	PART	pcl	_	2	discourse	2:discourse	_
+4	,	,	PUNCT	punct	_	6	punct	6:punct	_
+5	pɨsaré	pɨsaré	ADV	adv	_	6	advmod	6:advmod	_
+6	nakeraŋái	nakeraŋá	NOUN	n	NonFoc=Yes	0	root	0:root	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
