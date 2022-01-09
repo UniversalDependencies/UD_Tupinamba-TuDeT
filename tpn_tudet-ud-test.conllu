@@ -4203,3 +4203,58 @@
 6	nema	nem	NOUN	n	_	5	nmod	5:nmod	_
 7	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
+# sent_id = 901
+# text = Tupã sɨporaŋeté , oropaβ oromanõmo .
+# text_eng = (Poemas, 82)
+# text_por = Mãe de Deus muito bela, morrendo, chegamos ao fim.
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
+2-3	sɨporaŋeté	_	_	_	_	_	_	_	_
+2	sɨ	sɨ	NOUN	n	_	0	root	0:root	_
+3	poraŋeté	poraŋ	NOUN	n	Intens=Yes	2	nmod	2:nmod	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	oropaβ	paβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	2	parataxis	2:parataxis	_
+6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	4	advcl	4:advcl	_
+7	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+# sent_id = 902
+# text = Orémoíŋoβé íepé , ndememβɨra moɲɨrõmo , inõŋatwaβo , orérarõmo , oréʔaŋa pɨsɨrõmo .
+# text_eng = (Poemas, 82)
+# text_por = Faze-nos tu viver, aplacando teu filho, fazendo-o manso, guardando-nos, salvando nossa alma.
+1	Orémoíŋoβé	rémoíŋoβé	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
+2	íepé	íepé	PRON	pron	_	1	obl	1:obl	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	ndememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	5	obj	5:obj	_
+5	moɲɨrõmo	moɲɨrõ	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	inõŋatwaβo	nõŋatu	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	5:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	orérarõmo	rérarõ	VERB	V	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	7	parataxis	7:parataxis	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	oréʔaŋa	réʔaŋ	NOUN	n	Case=Ref|Corf=Yes	12	obj	12:obj	_
+12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	9	advcl	9:advcl	_
+13	.	.	PUNCT	punct	_	12	punct	12:punct	_
+
+# sent_id = 903
+# text = Eíori , oré resé , ndememβɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
+# text_eng = (Poemas, 82)
+# text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
+1	Eíori	Eíur	VERB	vi	Mood=Imp	0	root	0:root	_
+2	oréresé	esé	NUM	num	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
+3	ndememβɨra	memβɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
+4	moŋetáβo	moŋet	VERB	v	VerbForm=Cau	1	advcl	1:advcl	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
+7	tawjé	tawjé	ADV	adv	_	6	advmod	6:advmod	_
+8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	10	obj	10:obj	_
+9-10	rawsupeʔaβo	_	_	_	_	_	_	_	_
+9	rawsu	awsub	NOUN	n	Rel=Cont	10	dep	10:dep	_
+10	peʔaβo	peʔa	VERB	v	VerbForm=Ger	6	xcomp	6:xcomp	_
+11	,	,	PUNCT	punct	_	6	punct	6:punct	_
+12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
+14	imomoʃɨaβo	imomoʃɨa	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
+15	,	,	PUNCT	punct	_	14	punct	14:punct	_
+16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
+17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	14	conj	14:conj	_
+18	.	.	PUNCT	punct	_	17	punct	17:punct	_
+
