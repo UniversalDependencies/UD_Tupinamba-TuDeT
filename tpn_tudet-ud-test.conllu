@@ -4229,10 +4229,10 @@
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	inõŋatwaβo	nõŋatu	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	5:advcl	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	orérarõmo	rérarõ	VERB	V	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	7	parataxis	7:parataxis	_
+9	orérarõmo	rérarõ	VERB	V	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	5	advcl	5:advcl	_
 10	,	,	PUNCT	punct	_	9	punct	9:punct	_
 11	oréʔaŋa	réʔaŋ	NOUN	n	Case=Ref|Corf=Yes	12	obj	12:obj	_
-12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	9	advcl	9:advcl	_
+12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 9903
