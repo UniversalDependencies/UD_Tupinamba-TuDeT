@@ -4257,6 +4257,5 @@
 15	,	,	PUNCT	punct	_	14	punct	14:punct	_
 16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
 17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
-18	,	,	PUNCT	punct	_	17	punct	17:punct	_
-
+18	.	.	PUNCT	punct	_	17	punct	17:punct	_
 
