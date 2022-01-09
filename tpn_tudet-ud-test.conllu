@@ -4247,13 +4247,14 @@
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
 7	tawjé	tawjé	ADV	adv	_	6	advmod	6:advmod	_
-8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	9	obj	9:obj	_
-9	rawsupeʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	6:advcl	_
-10	,	,	PUNCT	punct	_	6	punct	6:punct	_
-11	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
-12	,	,	PUNCT	punct	_	11	punct	11:punct	_
-13	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	11	conj	11:conj	_
-14	,	,	PUNCT	punct	_	13	punct	13:punct	_
-15	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	16	obj	16:obj	_
-16	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	11	conj	11:conj	_
+8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	9	nmod	9:nmod	_
+9	rawsu	awsub	NOUN	n	Rel=Cont	10	obj	10:obj	_
+10	peʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	6:advcl	_
+11	,	,	PUNCT	punct	_	6	punct	6:punct	_
+12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
+13	,	,	PUNCT	punct	_	12	punct	12:punct	_
+14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
+15	,	,	PUNCT	punct	_	14	punct	14:punct	_
+16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
+17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
 
