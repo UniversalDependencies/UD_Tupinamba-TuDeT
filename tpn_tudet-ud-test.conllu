@@ -96,23 +96,23 @@
 # sent_id = 4444444
 # text = Itajuβa moruβiʃaβa Rejamo sekó mombewaβa , ɨsɨkatãsɨapwana Tupanamo sekó kwapaβa , toʔo swi mirra moroesé seʔõawama mombewaβa
 # text_eng = Gold was a way of announcing his being a chief as a king, the incense was a way of recogninzing him to be god, the pulp myrrh was a way of announcing he would die for the people.  Catálogo January 6
-1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	_	_
-2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	_	_
-3	Rejamo	rei	NOUN	n	Case=Tra	2	obl	_	_
-4	sekó	ekó	NOUN	n	Rel=NCont	5	nmod	_	_
-5	mombewaβa	mombeú	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
-6	,	,	PUNCT	punct	_	5	punct	_	_
-7	ɨsɨkatãsɨapwana	_	NOUN	_	Case=Ref	10	nsubj	_	_
-8	Tupanamo	Tupã	NOUN	n	Case=Tra	9	obl	_	_
-9	sekó	ekó	NOUN	n	Rel=NCont	10	nmod	_	_
-10	kwapaβa	kwaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	parataxis	_	_
-11	,	,	PUNCT	punct	_	10	punct	_	_
-12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	_	_
-13	swi	swi	ADP	posp	_	12	case	_	_
-14	mirra	mirra	NOUN	n	_	17	nsubj	_	_
-15	moroesé	moroesé	NOUN	n	Rel=Hum	16	obj	_	_
-16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	_	_
-17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	_	_
+1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
+2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	4:nmod	_
+3	Rejamo	rei	NOUN	n	Case=Tra	2	obl	2:obl	_
+4	sekó	ekó	NOUN	n	Rel=NCont	5	nmod	5:nmod	_
+5	mombewaβa	mombeú	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	ɨsɨkatãsɨapwana	_	NOUN	_	Case=Ref	10	nsubj	10:nsubj	_
+8	Tupanamo	Tupã	NOUN	n	Case=Tra	10	obl	10:obl	_
+9	sekó	ekó	NOUN	n	Rel=NCont	10	nmod	10:nmod	_
+10	kwapaβa	kwaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	parataxis	5:parataxis	_
+11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	14:nmod	_
+13	swi	swi	ADP	posp	_	12	case	12:case	_
+14	mirra	mirra	NOUN	n	_	17	nsubj	17:nsubj	_
+15	moroesé	moroesé	NOUN	n	Rel=Hum	16	obj	16:obj	_
+16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	17:nmod	_
+17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	10:parataxis	_
 
 # sent_id = 55555
 # text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoeté ojemotupana
@@ -4213,7 +4213,7 @@
 3	poraŋeté	poraŋ	NOUN	n	Intens=Yes	2	nmod	2:nmod	_
 4	,	,	PUNCT	punct	_	2	punct	2:punct	_
 5	oropaβ	paβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	2	parataxis	2:parataxis	_
-6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	4	advcl	4:advcl	_
+6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	5	advcl	5:advcl	_
 7	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 902
@@ -4235,12 +4235,12 @@
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 903
-# text = Eíori , oréresé , ndememβɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
+# text = Eíori , oreresé , nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
 1	Eíori	Eíur	VERB	vi	Mood=Imp	0	root	0:root	_
-2	oréresé	esé	NUM	num	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
-3	ndememβɨra	memβɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
+2	oreresé	esé	NUM	num	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
+3	nememɨra	memβɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
 4	moŋetáβo	moŋet	VERB	v	VerbForm=Cau	1	advcl	1:advcl	_
 5	,	,	PUNCT	punct	_	1	punct	1:punct	_
 6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
