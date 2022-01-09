@@ -207,9 +207,9 @@
 # sent_id = 2
 # text = Santa Cruz .
 # text_eng = The holy cross. book 1 chap 2
-1	Santa	santa	NOUN	n	_	2	nmod	_	_
-2	Cruz	cruz	NOUN	n	_	0	root	_	_
-3	.	.	PUNCT	punct	_	2	punct	_	_
+1	Santa	santa	NOUN	n	_	2	nmod	2:nmod	_
+2	Cruz	cruz	NOUN	n	_	0	root	0:root	_
+3	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 3
 # text = Marãnamope ?
@@ -4237,7 +4237,7 @@
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
 # sent_id = 903
-# text = Ejori oreresé nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
+# text = Ejori oreresé nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsupeʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
 1	Ejori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
