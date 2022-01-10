@@ -4229,6 +4229,29 @@
 5	pɨsaré	pɨsaré	ADV	adv	_	6	advmod	6:advmod	_
 6	nakeraŋái	nakeraŋá	NOUN	n	NonFoc=Yes	0	root	0:root	_
 
+# sent_id = 44474
+# text = Awjé ! Ajeʔeŋ , Sarawaj !
+# text_eng = (Teatro, 32)
+# text_por = Basta! Falo eu, Sarauaia!
+1	Awjé	awjé	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	3	punct	3:punct	_
+3	Ajeʔeŋ	Aɲeʔeŋ	VERB	vi	Number=Sing|Person[subj]=1	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	Sarawaj	Sarawaj	PROPN	propn	_	3	vocative	3:vocative	_
+6	!	!	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 44476
+# text = ʃerenõi umẽ jepé iʃupé , naʃejukáj !
+# text_eng = (Teatro, 32)
+# text_por = Não digas meu nome para ele, senão me mata
+1	ʃerenõi	renõi	NOUN	n	Number=Sing|Person=1|Rel=Cont	0	root	0:root	_
+2	umẽ	umẽ	PART	prcl	Polarity=Neg	1	advmod	1:advmod	_
+3	jepé	jepé	PRON	pron	_	1	nsubj	1:nsubj	_
+4	iʃupé	supé	ADP	posp	Rel=NCont	1	obl	1:obl	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	naʃejukáj	juká	NOUN	n	Number=Sing|Person=1|Polarity=Neg	1	parataxis	1:parataxis	_
+7	!	!	PUNCT	punct	_	6	punct	6:punct	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
