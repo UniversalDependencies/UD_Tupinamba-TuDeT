@@ -219,7 +219,8 @@
 
 # sent_id = 4
 # text = iʔárɨβo omanõmo jandéjara jandérepɨmeʔengawera resé , Aɲanga ratá swi jandépɨsɨrõ resé βé
-# text_eng = By dying on it our lord for our rescue, for our liberation from the fire of the devil also. Book 1 chap 2
+# text_eng = By dying on it our lord for our rescue, for our liberation from the fire of the devil also. (Book 1 chap 2)
+# text_por = 
 1	iʔárɨβo	ʔar	ADP	posp	Case=Per|Rel=NCont	2	case	_	_
 2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	_	_
 3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	_	_
