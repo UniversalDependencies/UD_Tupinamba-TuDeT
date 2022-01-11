@@ -4312,17 +4312,17 @@
 6	!	!	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 0044.82
-# text = Tajɨβõne ! Ejepeʔa ! Ekuá ké swi raá !
+# text = Tajɨβõne ! Ejepeʔa ! Ekwá ké swi raá !
 # text_eng = (Teatro, )
 # text_por = Hei de flechá-lo. Afasta-te! Vai-te daqui já!
 1	Tajɨβõne	ɨβõ	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Tense=Fut	0	root	0:root	_
 2	!	!	PUNCT	punct	_	1	punct	1:punct	_
 3	Ejepeʔa	Ejepeʔ	VERB	n	Mood=Imp|Number=Sing|Person=2|Reflex=Yes	1	parataxis	1:parataxis	_
 4	!	!	PUNCT	punct	_	3	punct	3:punct	_
-5	Ekwá	Ekwá	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
+5	Ekwá	kwá	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 6	ké	ké	ADV	n	_	5	obl	5:obl	_
 7	swi	swi	ADP	posp	Rel=Cont	5	case	5:case	_
-8	raá	raá	PART	v	Rel=Cont|VerbForm=Ger	5	discourse	5:discourse	_
+8	raá	raá	PART	v	_	5	discourse	5:discourse	_
 9	!	!	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 0044.84
@@ -4338,7 +4338,7 @@
 # text = Pɨsaré kó ikereʔɨmi , apɨaβa poβupoβu .
 # text_eng = (Teatro, 34)
 # text_por = Eis que a noite toda ele não dormiu, para ficar perturbando os índios.
-1	Pɨsaré	pɨsaré	ADVERB	adv	_	3	advmod	_	_
+1	Pɨsaré	pɨsaré	ADV	adv	_	3	advmod	_	_
 2	kó	ko	DET	dem	_	3	discourse	_	_
 3	ikereʔɨmi	ker	NOUN	n	NonFoc=Yes|Priv=Yes|Rel=NCont	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
@@ -4350,9 +4350,9 @@
 # text = Ajpó eré supikatu .
 # text_eng = (Teatro, 34)
 # text_por = Isso dizes com razão!
-1	ajpó	ajpó	DET	dem	_	2	obj	_	_
+1	Ajpó	ajpó	DET	dem	_	2	obj	_	_
 2	eré	ʔi	VERB	v	Number=Sing|Person=2	0	root	_	_
-3	supikatu	upikatu	NOUN	n	Rel=NCont	2	advmod	_	_
+3	supikatu	upikatu	ADV	adv	_	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 9901
