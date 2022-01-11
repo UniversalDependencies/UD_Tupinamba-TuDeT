@@ -4268,7 +4268,7 @@
 6	tojkóne	ikó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
 7	!	!	PUNCT	punct	_	6	punct	6:punct	_
 
-# sent_id = 44478
+# sent_id = 0044.78
 # text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciarei. Esconde-te, fica quieto. Hoje mesmo hei de te mandar embora.
@@ -4284,7 +4284,7 @@
 10	toromonóne	oromonó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
 11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
-# sent_id = 44479
+# sent_id = 0044.79
 # text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciaremos. Esconde-te, fica quieto. Hoje mesmo te mandaremos embora.
@@ -4300,7 +4300,7 @@
 10	toromonóne	oromonó	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
 11	.	,	PUNCT	punct	_	10	punct	10:punct	_
 
-# sent_id = 44481
+# sent_id = 0044.81
 # text = Ajemiŋatupe ká ; awjeté naʃerepjaki !
 # text_eng = (Teatro, 34)
 # text_por = Hei de me esconder bem; ainda bem que não me viu
@@ -4310,6 +4310,29 @@
 4	awjeté	awjeté	NOUN	n	Intens=Yes	5	discourse	5:discourse	_
 5	naʃerepjaki	epjak	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Rel=Cont	1	parataxis	1:parataxis	_
 6	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+# sent_id = 0044.82
+# text = Tajɨβõne ! Ejepeʔa ! Ekuá ké swi raá !
+# text_eng = (Teatro, )
+# text_por = Hei de flechá-lo. Afasta-te! Vai-te daqui já!
+1	Tajɨβõne	ɨβõ	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Tense=Fut	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	Ejepeʔa	Ejepeʔ	VERB	n	Mood=Imp|Number=Sing|Person=2|Reflex=Yes	1	parataxis	1:parataxis	_
+4	!	!	PUNCT	punct	_	3	punct	3:punct	_
+5	Ekwá	Ekwá	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
+6	ké	ké	ADV	n	_	5	obl	5:obl	_
+7	swi	swi	ADP	posp	Rel=Cont	5	case	5:case	_
+8	raá	raá	PART	v	Rel=Cont|VerbForm=Ger	5	discourse	5:discourse	_
+9	!	!	PUNCT	punct	_	5	punct	5:punct	_
+
+# sent_id = 0044.84
+# text = Okerĩ , neremomaki !
+# text_eng = (Teatro, 34)
+# text_por = Ele dorme. Não o acordes!
+1	Okerĩ	kerĩ	VERB	v	Person[subj]=3	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	neremomaki	pak	NOUN	n	Number=Sing|Person=2|Rel=Cont|Voice=Cau	1	parataxis	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
