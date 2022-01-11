@@ -1,7 +1,10 @@
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
-# document_reference = Araujo_1618[1952] [begin 00.book.sentence]
-# document_reference = Teatro_2006 [begin 44-]
-# document_reference = Poemas () [begin 99-]
+# document_reference = Araujo_1618[1952] [begin 0011.book.sentence]
+# document_reference = Teatro_2006 [begin 0044.-]
+# document_reference = Poemas () [begin 0099.-]
+# document_reference = Figueira () [begin 00.22-]
+# document_reference = Anchieta (Arte, ) [begin 00.33-]
+# document_reference = Bettendorf () [begin 00.88-]
 # sent_id = 00.01
 # text = Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra osɨ swi iʔariré , judeus ekomoɲangáβo iʔapira mondoki
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
