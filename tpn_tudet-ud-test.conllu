@@ -4334,6 +4334,27 @@
 3	neremomaki	pak	NOUN	n	Number=Sing|Person=2|Rel=Cont|Voice=Cau	1	parataxis	_	_
 4	!	!	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0044.85
+# text = Pɨsaré kó ikereʔɨmi , apɨaβa poβupoβu .
+# text_eng = (Teatro, 34)
+# text_por = Eis que a noite toda ele não dormiu, para ficar perturbando os índios.
+1	Pɨsaré	pɨsaré	ADVERB	adv	_	3	advmod	_	_
+2	kó	ko	DET	dem	_	3	discourse	_	_
+3	ikereʔɨmi	ker	NOUN	n	NonFoc=Yes|Priv=Yes|Rel=NCont	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	apɨaβa	apɨaβ	NOUN	n	Case=Ref	6	obj	_	_
+6	poβupoβu	poβupoβu	VERB	v	Aspect=Iter	3	advcl	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0044.86
+# text = Ajpó eré supikatu .
+# text_eng = (Teatro, 34)
+# text_por = Isso dizes com razão!
+1	ajpó	ajpó	DET	dem	_	2	obj	_	_
+2	eré	ʔi	VERB	v	Number=Sing|Person=2	0	root	_	_
+3	supikatu	upikatu	NOUN	n	Rel=NCont	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
