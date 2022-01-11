@@ -4281,7 +4281,7 @@
 11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 44479
-# text = noromomeʔui ʃóne. Eɲemi , nekɨriri . Kori é toromonóne .
+# text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciaremos. Esconde-te, fica quieto. Hoje mesmo te mandaremos embora.
 1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	0:root	_
@@ -4297,7 +4297,7 @@
 11	.	,	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 44481
-# text = Ajemiŋatupe ká ; awjeté na ʃerepjaki !
+# text = Ajemiŋatupe ká ; awjeté naʃerepjaki !
 # text_eng = (Teatro, 34)
 # text_por = Hei de me esconder bem; ainda bem que não me viu
 1	Ajemiŋatupe	mim	VERB	v	Intens=Yes|Number=Sing|Person=1|Reflex=Yes|Rel=NCont	0	root	0:root	_
