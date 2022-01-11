@@ -8,278 +8,278 @@
 # sent_id = 00.01
 # text = Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra osɨ swi iʔariré , judeus ekomoɲangáβo iʔapira mondoki
 # text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
-1	Mokõj	mokõj	NUM	num	_	2	nmod	2:nmod	_
-2	ojoirundɨk	ojoirundɨk	NUM	num	_	6	nummod	6:nummod	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	oito	oito	NUM	num	_	2	appos	2:appos	_
-5	,	,	PUNCT	punct	_	2	punct	2:punct	_
-6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	7:nmod	_
-7	sɨkeme	sɨk	NOUN	n	Mood=Sub	19	advcl	19:advcl	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	Tupã	Tupã	PROPN	propn	_	10	nmod	10:nmod	_
-10	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	13	nmod	13:nmod	_
-11	osɨ	sɨ	NOUN	n	Reflex=Yes	10	obl	10:obl	_
-12	swi	swi	ADP	posp	_	11	case	11:case	_
+1	Mokõj	mokõj	NUM	num	_	2	nmod	_	_
+2	ojoirundɨk	ojoirundɨk	NUM	num	_	6	nummod	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	oito	oito	NUM	num	_	2	appos	_	_
+5	,	,	PUNCT	punct	_	2	punct	_	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
+7	sɨkeme	sɨk	NOUN	n	Mood=Sub	19	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	Tupã	Tupã	PROPN	propn	_	10	nmod	_	_
+10	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	13	nmod	_	_
+11	osɨ	sɨ	NOUN	n	Reflex=Yes	10	obl	_	_
+12	swi	swi	ADP	posp	_	11	case	_	_
 13-14	iʔariré	_	_	_	_	_	_	_	_
-13	iʔar	ʔar	NOUN	n	_	19	advcl	19:advcl	_
-14	iré	iré	ADP	posp	_	13	case	13:case	_
-15	,	,	PUNCT	punct	_	13	punct	13:punct	_
-16	judeus	judeu	NOUN	n	_	17	nmod	17:nmod	_
-17	ekomoɲangáβo	ekomoɲang	NOUN	n	_	19	obl	19:obl	_
-18	iʔapira	ʔapir	NOUN	n	Case=Ref|Rel=NCont	19	obj	19:obj	_
-19	mondoki	mondok	NOUN	n	NonFoc=Yes	0	root	0:root	_
+13	iʔar	ʔar	NOUN	n	_	19	advcl	_	_
+14	iré	iré	ADP	posp	_	13	case	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
+16	judeus	judeu	NOUN	n	_	17	nmod	_	_
+17	ekomoɲangáβo	ekomoɲang	NOUN	n	_	19	obl	_	_
+18	iʔapira	ʔapir	NOUN	n	Case=Ref|Rel=NCont	19	obj	_	_
+19	mondoki	mondok	NOUN	n	NonFoc=Yes	0	root	_	_
 
 # sent_id = 00.02
 # text = Ã tekó aʔereme moreroka kwe βɨá Iesus nongi seramo
 # text_eng =Eis que era lei, então, batizar: puseram como nome dele aquele de JESUS  Catálogo January 1
-1	Ã	ã	PART	pcl	_	2	discourse	2:discourse	_
-2	tekó	ekó	NOUN	n	Rel=Hum	0	root	0:root	_
-3	aʔereme	aʔereme	ADV	adv	_	2	advmod	2:advmod	_
-4	moreroka	erok	NOUN	n	Case=Ref|Voice=Cau	2	xcomp	2:xcomp	_
-5	kwe	kwe	DET	dem	_	7	nmod	7:nmod	_
-6	βɨá	βɨá	PART	_	_	8	nsubj	8:nsubj	_
-7	Iesus	Iesus	PROPN	propn	_	8	obj	8:obj	_
-8	nongi	nong	NOUN	n	NonFoc=Yes	2	parataxis	2:parataxis	_
-9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	8:obl	_
+1	Ã	ã	PART	pcl	_	2	discourse	_	_
+2	tekó	ekó	NOUN	n	Rel=Hum	0	root	_	_
+3	aʔereme	aʔereme	ADV	adv	_	2	advmod	_	_
+4	moreroka	erok	NOUN	n	Case=Ref|Voice=Cau	2	xcomp	_	_
+5	kwe	kwe	DET	dem	_	7	nmod	_	_
+6	βɨá	βɨá	PART	_	_	8	nsubj	_	_
+7	Iesus	Iesus	PROPN	propn	_	8	obj	_	_
+8	nongi	nong	NOUN	n	NonFoc=Yes	2	parataxis	_	_
+9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	_	_
 
 # sent_id = 00.03
 # text = Opa ko mbo mosapɨr mɨsã ʔara sɨk'eme , apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré , mosapɨr moruβiʃaβa , Reis ʔiaβa , kwarasɨ sembaβa kotɨ swi ourɨβaʔe , jasɨtatá serekoarama resé , Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa , ɨsɨkatã sɨapwanɨβaʔe , mirra , mosanga toʔo swi
 # text_eng = Three chiefs, said to be king, who came from the orient through the guardian star that god had made new as indicator of the path, brought him as offering: gold, incense and myhrr, after god's son was born from his mother's womb, when the thirteenth day came  Catálogo January 6
-1	Opa	opa	PRON	pro	_	3	nmod	3:nmod	_
-2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
-3	mbo	po	NOUN	n	_	6	nummod	6:nummod	_
-4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
-5	mɨsã	pɨsã	NOUN	n	_	3	dep	3:dep	_
-6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	7:nmod	_
-7	sɨk'eme	sɨk	NOUN	n	_	39	advcl	39:advcl	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	14:obl	_
-10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	11:nmod	_
-11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	14:nmod	_
-12	swi	swi	ADP	posp	_	11	case	11:case	_
-13	Tupã	Tupã	NOUN	n	_	14	nmod	14:nmod	_
-14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	15:nmod	_
-15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	39:advcl	_
-16	,	,	PUNCT	punct	_	15	punct	15:punct	_
-17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	18:nummod	_
-18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	39:obl	_
-19	,	,	PUNCT	punct	_	18	punct	18:punct	_
-20	Reis	rei	NOUN	n	_	18	appos	18:appos	_
-21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	20:amod	_
-22	,	,	PUNCT	punct	_	20	punct	20:punct	_
-23	kwarasɨ	kwarasɨ	NOUN	n	_	24	nmod	24:nmod	_
-24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	25:nmod	_
-25	kotɨ	kotɨ	NOUN	n	_	27	obl	27:obl	_
-26	swi	swi	ADP	pos	_	25	case	25:case	_
-27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	18	acl	18:acl	_
-28	,	,	PUNCT	punct	_	27	punct	27:punct	_
-29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	27:obl	_
-30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	29:nmod	_
-31	resé	esé	ADP	posp	Rel=Cont	30	case	30:case	_
-32	,	,	PUNCT	punct	_	31	punct	31:punct	_
-33	Tupã	Tupã	NOUN	n	_	34	nmod	34:nmod	_
-34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	29:appos	_
-35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	34:obl	_
-36	pe	pe	NOUN	n	_	37	nmod	37:nmod	_
-37	jaramo	jar	NOUN	n	Case=Tra	34	obl	34:obl	_
-38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	34:obl	_
-39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
-40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	39:obl	_
-41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	39:obj	_
-42	,	,	PUNCT	punct	_	41	punct	41:punct	_
-43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	41:conj	_
-44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	43:nmod	_
-45	,	,	PUNCT	punct	_	43	punct	43:punct	_
-46	mirra	mirra	NOUN	n	_	43	conj	43:conj	_
-47	,	,	PUNCT	punct	_	46	punct	46:punct	_
-48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	46:appos	_
-49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	48:nmod	_
-50	swi	swi	ADP	posp	_	49	case	49:case	_
+1	Opa	opa	PRON	pro	_	3	nmod	_	_
+2	ko	ko	DET	dem	_	3	nmod	_	_
+3	mbo	po	NOUN	n	_	6	nummod	_	_
+4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	_	_
+5	mɨsã	pɨsã	NOUN	n	_	3	dep	_	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
+7	sɨk'eme	sɨk	NOUN	n	_	39	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	_	_
+10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	_	_
+11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	_	_
+12	swi	swi	ADP	posp	_	11	case	_	_
+13	Tupã	Tupã	NOUN	n	_	14	nmod	_	_
+14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	_	_
+15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	_	_
+18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	_	_
+19	,	,	PUNCT	punct	_	18	punct	_	_
+20	Reis	rei	NOUN	n	_	18	appos	_	_
+21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	_	_
+22	,	,	PUNCT	punct	_	20	punct	_	_
+23	kwarasɨ	kwarasɨ	NOUN	n	_	24	nmod	_	_
+24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	_	_
+25	kotɨ	kotɨ	NOUN	n	_	27	obl	_	_
+26	swi	swi	ADP	pos	_	25	case	_	_
+27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	18	acl	_	_
+28	,	,	PUNCT	punct	_	27	punct	_	_
+29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	_	_
+30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	_	_
+31	resé	esé	ADP	posp	Rel=Cont	30	case	_	_
+32	,	,	PUNCT	punct	_	31	punct	_	_
+33	Tupã	Tupã	NOUN	n	_	34	nmod	_	_
+34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	_	_
+35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	_	_
+36	pe	pe	NOUN	n	_	37	nmod	_	_
+37	jaramo	jar	NOUN	n	Case=Tra	34	obl	_	_
+38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	_	_
+39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
+41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	_	_
+42	,	,	PUNCT	punct	_	41	punct	_	_
+43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	_	_
+44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	_	_
+45	,	,	PUNCT	punct	_	43	punct	_	_
+46	mirra	mirra	NOUN	n	_	43	conj	_	_
+47	,	,	PUNCT	punct	_	46	punct	_	_
+48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	_	_
+49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	_	_
+50	swi	swi	ADP	posp	_	49	case	_	_
 
 # sent_id = 00.04
 # text = Itajuβa moruβiʃaβa Rejamo sekó mombewaβa , ɨsɨkatãsɨapwana Tupanamo sekó kwapaβa , toʔo swi mirra moroesé seʔõawama mombewaβa
 # text_eng = Gold was a way of announcing his being a chief as a king, the incense was a way of recogninzing him to be god, the pulp myrrh was a way of announcing he would die for the people.  Catálogo January 6
-1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
-2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	4:nmod	_
-3	Rejamo	rei	NOUN	n	Case=Tra	2	obl	2:obl	_
-4	sekó	ekó	NOUN	n	Rel=NCont	5	nmod	5:nmod	_
-5	mombewaβa	mombeú	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	ɨsɨkatãsɨapwana	_	NOUN	_	Case=Ref	10	nsubj	10:nsubj	_
-8	Tupanamo	Tupã	NOUN	n	Case=Tra	10	obl	10:obl	_
-9	sekó	ekó	NOUN	n	Rel=NCont	10	nmod	10:nmod	_
-10	kwapaβa	kwaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	parataxis	5:parataxis	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	14:nmod	_
-13	swi	swi	ADP	posp	_	12	case	12:case	_
-14	mirra	mirra	NOUN	n	_	17	nsubj	17:nsubj	_
-15	moroesé	moroesé	NOUN	n	Rel=Hum	16	obj	16:obj	_
-16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	17:nmod	_
-17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	10:parataxis	_
+1	Itajuβa	itajuβ	NOUN	n	Case=Ref	5	nsubj	_	_
+2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	_	_
+3	Rejamo	rei	NOUN	n	Case=Tra	2	obl	_	_
+4	sekó	ekó	NOUN	n	Rel=NCont	5	nmod	_	_
+5	mombewaβa	mombeú	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ɨsɨkatãsɨapwana	_	NOUN	_	Case=Ref	10	nsubj	_	_
+8	Tupanamo	Tupã	NOUN	n	Case=Tra	10	obl	_	_
+9	sekó	ekó	NOUN	n	Rel=NCont	10	nmod	_	_
+10	kwapaβa	kwaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	toʔo	oʔo	NOUN	n	Rel=Hum	14	nmod	_	_
+13	swi	swi	ADP	posp	_	12	case	_	_
+14	mirra	mirra	NOUN	n	_	17	nsubj	_	_
+15	moroesé	moroesé	NOUN	n	Rel=Hum	16	obj	_	_
+16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	_	_
+17	mombewaβa	mombeú	NOUN	n	Case=Ref	10	parataxis	_	_
 
 # sent_id = 55555
 # text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoeté ojemotupana
 # text_eng = The christians honour Saint Sebastian's day, of his death, making it (a) holy(day)     Catálogo January 20
-1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	2:nmod	_
-2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl:obj	7:obl:obj	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	2:appos	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	Cristãos	Cristão	NOUN	n	_	7	obl:subj	7:obl:subj	_
-7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	0:root	_
-8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	7:advcl	tupã-ʔar-a
+1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	_	_
+2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl:obj	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Cristãos	Cristão	NOUN	n	_	7	obl:subj	_	_
+7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	_	tupã-ʔar-a
 
 # sent_id = 66666666
 # text = Jandéjara mombeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
 # text_eng = Those who did not believe him worked together shooting arrows at him, killing him, for announcing our lord   Catálogo 20 January
-1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	2:nmod	_
-2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	5:advcl	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	5:nsubj	_
-5	potɨrõw	potɨr	NOUN	n	NonFoc=Yes	0	root	0:root	_
-6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	5:advcl	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	6	conj	6:conj	_
+1	Jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	mombeʔureme	mombeʔu	NOUN	n	Mood=Sub	5	advcl	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	serobβjasareʔɨma	erobβja	NOUN	n	Case=Ref|Nomzr=Ag|Polarity=Neg|Rel=NCont	5	nsubj	_	_
+5	potɨrõw	potɨr	NOUN	n	NonFoc=Yes	0	root	_	_
+6	ijɨβõijjɨβõmo	ɨβõ	VERB	v	_	5	advcl	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	ijukáβo	juká	VERB	vt	Rel=NCont|VerbForm=Ger	6	conj	_	_
 
 # sent_id = 777777
 # text = Tupã momeʔu sɨkɨijéʔɨma , sauwsuβa resé seʔõuw
 # text_eng =    Catálogo 20 January
 # text_por = 
-1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
-2	momeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
-3	sɨkɨijéʔɨma	sɨkɨijé	NOUN	n	Case=Ref|Priv=Yes	7	xcomp	7:xcomp	_
-4	,	,	PUNCT	punct	_	7	punct	7:punct	_
-5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	7:obl	_
-6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
-7	seʔõuw	eʔõ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
+2	momeʔu	mombeʔu	NOUN	n	_	3	nsubj	_	_
+3	sɨkɨijéʔɨma	sɨkɨijé	NOUN	n	Case=Ref|Priv=Yes	7	xcomp	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	_	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	_	_
+7	seʔõuw	eʔõ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 888888
 # text = ʃepó ʃepɨ aβá po ipɨ ʔara omembɨrawera kwaβiré , SantaMaria omembɨra Iesus rerasow Tupã okɨpe , Tupã tuβape ikwaβeʔenga judeus rekomoɲangaβa rupi
 # text_eng = Saint Mary took her son to the house of god, after forty days had passed form his birth, in order to present him to god the father, according to the law of the jews. Catálogo 2 February
-1	ʃepó	po	NOUN	n	Number=Sing|Person=1	6	nummod	6:nummod	_
-2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	1:conj	_
-3	aβá	aβá	NOUN	n	_	4	nummod	4:nummod	_
-4	po	po	NOUN	n	_	1	conj	1:conj	_
-5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	1:conj	_
-6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	14:advcl	_
-7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	6:dep	_
+1	ʃepó	po	NOUN	n	Number=Sing|Person=1	6	nummod	_	_
+2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	_	_
+3	aβá	aβá	NOUN	n	_	4	nummod	_	_
+4	po	po	NOUN	n	_	1	conj	_	_
+5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	_	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	_	_
+7	omembɨrawera	membɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	_	_
 8-9	kwaβiré	_	_	_	_	_	_	_	_
-8	kwaβ	kwab	NOUN	n	_	6	obl	6:obl	_
-9	iré	iré	ADP	posp	_	8	case	8:case	_
-10	,	,	PUNCT	punct	_	6	punct	6:punct	_
-11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	14:nsubj	_
-12	omembɨra	membɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	14:obj	_
-13	Iesus	Iesus	PROPN	propn	_	12	appos	12:appos	_
-14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	0:root	_
-15	Tupã	Tupã	NOUN	n	_	16	nmod	16:nmod	_
-16	okɨpe	ok	NOUN	n	_	14	obl	14:obl	_
-17	,	,	PUNCT	punct	_	14	punct	14:punct	_
-18	Tupã	Tupã	PROPN	propn	_	19	nmod	19:nmod	_
-19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	20:obl	_
-20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	14:advcl	_
-21	judeus	judeu	NOUN	n	_	22	nmod	22:nmod	_
-22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	20:advcl	_
-23	rupi	upi	ADP	posp	Rel=Cont	22	case	22:case	_
+8	kwaβ	kwab	NOUN	n	_	6	obl	_	_
+9	iré	iré	ADP	posp	_	8	case	_	_
+10	,	,	PUNCT	punct	_	6	punct	_	_
+11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
+12	omembɨra	membɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	_	_
+13	Iesus	Iesus	PROPN	propn	_	12	appos	_	_
+14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+15	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
+16	okɨpe	ok	NOUN	n	_	14	obl	_	_
+17	,	,	PUNCT	punct	_	14	punct	_	_
+18	Tupã	Tupã	PROPN	propn	_	19	nmod	_	_
+19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	_	_
+20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	_	_
+21	judeus	judeu	NOUN	n	_	22	nmod	_	_
+22	rekomoɲangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	_	_
+23	rupi	upi	ADP	posp	Rel=Cont	22	case	_	_
 
 # sent_id = 999999
 # text = Mokõj pɨkasuaʔɨra iʃɨ owerasó jetanongaβamo
 # text_eng = His mother brought two small pigeons as offering. Catálogo 2 February
 # text_por =
-1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
-2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	4:obl	_
-3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	4:obl	_
-4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	0:root	_
-5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	4:obl	_
+1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
+2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	_	_
+3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	_	_
+4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	_	_
 
 # sent_id = 101010101010
 # text = oporomboʔeβo ã seków
 # text_eng = She was actually teaching people. Catálogo 2 February
 # text_por =
-1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	3:advcl	3:advcl
-2	ã	ã	PART	pcl	_	3	discourse	3:discourse	_
-3	seków	ekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+1	oporomboʔeβo	mboʔe	VERB	v	Animacy=Hum|Incorp=Yes|Person=3|VerbForm=Ger	3	advcl	_	3:advcl
+2	ã	ã	PART	pcl	_	3	discourse	_	_
+3	seków	ekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 1
 # text = Mbaʔepe cristãos jekwapaβa ?
 # text_eng = What is the sign of the christians? Book 1 chap 2
-1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
-2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	3:nmod	_
-3	jekwapaβa	kwab	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
-4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	_	_
+2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	_	_
+3	jekwapaβa	kwab	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 2
 # text = Santa Cruz .
 # text_eng = The holy cross. book 1 chap 2
-1	Santa	santa	NOUN	n	_	2	nmod	2:nmod	_
-2	Cruz	cruz	NOUN	n	_	0	root	0:root	_
-3	.	.	PUNCT	punct	_	2	punct	2:punct	_
+1	Santa	santa	NOUN	n	_	2	nmod	_	_
+2	Cruz	cruz	NOUN	n	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 3
 # text = Marãnamope ?
 # text_eng = Why? Book 1 chap 2
-1	Marãnamope	Marãnamope	ADV	adv	Int=Yes	0	root	0:root	_
-2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Marãnamope	Marãnamope	ADV	adv	Int=Yes	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4
 # text = iʔárɨβo omanõmo jandéjara jandérepɨmeʔengawera resé , Aɲanga ratá swi jandépɨsɨrõ resé βé
 # text_eng = By dying on it our lord for our rescue, for our liberation from the fire of the devil also. (Book 1 chap 2)
 # text_por = 
-1	iʔárɨβo	ʔar	ADP	posp	Case=Per|Rel=NCont	2	case	2:case	_
-2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	0:root	_
-3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
-4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	2:obl	_
-5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
-6	,	,	PUNCT	punct	_	2	punct	2:punct	_
-7	Aɲanga	Aɲanga	PROPN	propn	_	8	nmod	8:nmod	_
-8	ratá	atá	NOUN	n	Rel=Cont	10	obl	10:obl	_
-9	swi	swi	ADP	posp	Rel=Cont	8	case	8:case	_
-10	jandépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	obl	2:obl	_
-11	resé	esé	ADP	posp	Rel=Cont	10	case	10:case	_
-12	βé	βé	ADV	adv	_	10	advmod	10:advmod	_
+1	iʔárɨβo	ʔar	ADP	posp	Case=Per|Rel=NCont	2	case	_	_
+2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	_	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	_	_
+4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	_	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	Aɲanga	Aɲanga	PROPN	propn	_	8	nmod	_	_
+8	ratá	atá	NOUN	n	Rel=Cont	10	obl	_	_
+9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
+10	jandépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	obl	_	_
+11	resé	esé	ADP	posp	Rel=Cont	10	case	_	_
+12	βé	βé	ADV	adv	_	10	advmod	_	_
 
 # sent_id = 5
 # text = Marã eʔipe asé ojoβasapa ?
 # text_eng = What do people say crossong the face? Book 1 chap 2
-1	Marã	marã	PRON	pron	PronType=Int	2	obj	2:obj	_
-2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	0:root	_
-3	asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
-4	ojoβasapa	joβasab	VERB	vi	Person=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
-5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Marã	marã	PRON	pron	PronType=Int	2	obj	_	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	_	_
+3	asé	asé	PRON	pro	PronType=Prs	2	nsubj	_	_
+4	ojoβasapa	joβasab	VERB	vi	Person=3|Reflex=Yes|VerbForm=Ger	2	advcl	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 6
 # text = SantaCruz raʔangaβa resé , orépɨsɨrõ jepé , Tupã oréjar , oréamotareʔɨmbara swi . Tuβa , Taʔɨra , EspíritoSanto rera pupé eʔi
 # text_eng = They say, by the sign of the holy cross, free us, God, our lord, from our lord. In the name of the father, of the son, of the holy ghost. Book 1 chap 2
-1	SantaCruz	cruz	NOUN	n	_	2	nmod	2:nmod	_
-2	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	5:advcl	_
-3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	orépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	21:ccomp	_
-6	jepé	jepé	PRON	_	_	5	nsubj	5:nsubj	_
-7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	Tupã	Tupã	PROPN	propn	_	5	nsubj	5:nsubj	_
-9	oréjar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	8:appos	_
-10	,	,	PUNCT	punct	_	8	punct	8:punct	_
-11	oréamotareʔɨmbara	_	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	5:obl	_
-12	swi	swi	ADP	posp	Rel=Cont	11	obl	11:obl	_
-13	.	.	PUNCT	punct	_	11	punct	11:punct	_
-14	Tuβa	uβa	NOUN	n	Rel=NCont	19	nmod	19:nmod	_
-15	,	,	PUNCT	punct	_	14	punct	14:punct	_
-16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	14	conj	14:conj	_
-17	,	,	PUNCT	punct	_	16	punct	16:punct	_
-18	EspíritoSanto	EspíritoSanto	PROPN	_	_	14	conj	14:conj	_
-19	rera	er	NOUN	n	Rel=Cont	5	parataxis	5:parataxis	_
-20	pupé	pupé	ADP	posp	Rel=Cont	19	case	19:case	_
-21	eʔi	ʔi	VERB	v	Person=3	0	root	0:root	_
+1	SantaCruz	cruz	NOUN	n	_	2	nmod	_	_
+2	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	_	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	orépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	_	_
+6	jepé	jepé	PRON	_	_	5	nsubj	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	Tupã	Tupã	PROPN	propn	_	5	nsubj	_	_
+9	oréjar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	oréamotareʔɨmbara	_	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	_	_
+12	swi	swi	ADP	posp	Rel=Cont	11	obl	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+14	Tuβa	uβa	NOUN	n	Rel=NCont	19	nmod	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	14	conj	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	EspíritoSanto	EspíritoSanto	PROPN	_	_	14	conj	_	_
+19	rera	er	NOUN	n	Rel=Cont	5	parataxis	_	_
+20	pupé	pupé	ADP	posp	Rel=Cont	19	case	_	_
+21	eʔi	ʔi	VERB	v	Person=3	0	root	_	_
 
 # sent_id = 7
 # text = Marãnamope asé osɨβápe joβasaβa moini ?
 # text_eng = Why do we put the crossing of the face on the forehead? Book 1 chap 2
-1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	5	advmod	5:advmod	_
-2	asé	asé	PRON	pro	PronType=Prs	5	nsubj	5:nsubj	_
-3	osɨβápe	sɨβá	NOUN	n	Case=Loc|Int=Yes	4	obl	4:obl	_
-4	joβasaβa	joβasaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	nmod	5:nmod	_
-5	moini	moin	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	0:root	_
-6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	5	advmod	_	_
+2	asé	asé	PRON	pro	PronType=Prs	5	nsubj	_	_
+3	osɨβápe	sɨβá	NOUN	n	Case=Loc|Int=Yes	4	obl	_	_
+4	joβasaβa	joβasaβ	NOUN	n	Case=Ref|Nomzr=Circ	5	nmod	_	_
+5	moini	moin	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 812347
 # text = Taʃepɨsɨrõ Tupã , maʔendwasaβaiβa swi  ojaβo
@@ -775,112 +775,112 @@
 # text = Asé rarõanamotepe karaiβeβé reków ?
 # text_eng =  (Araújo, Book 1 chapt. 4, 23v)
 # text_por = São os anjos nossos guardiães?
-1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
-2	rarõanamotepe	arõ	NOUN	n	Case=Tra|Int=Yes|Rel=Cont	4	obl	4:obl	_
-3	karaiβeβé	karaiβeβé	NOUN	n	_	4	nsubj	4:nsubj	_
-4	reków	ikó	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
-5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	_	_
+2	rarõanamotepe	arõ	NOUN	n	Case=Tra|Int=Yes|Rel=Cont	4	obl	_	_
+3	karaiβeβé	karaiβeβé	NOUN	n	_	4	nsubj	_	_
+4	reków	ikó	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 401
 # text = Asé rarõanamo
 # text_eng = Are the angels our protectors? (Araújo, Book 1 chapt. 4, 23v)
 # text_por = São os anjos nossos guardiães?
-1	Asé	asé	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
-2	rarõanamo	arõ	NOUN	n	Case=Tra|Rel=Cont	0	root	0:root	_
+1	Asé	asé	PRON	pro	PronType=Prs	2	nsubj	_	_
+2	rarõanamo	arõ	NOUN	n	Case=Tra|Rel=Cont	0	root	_	_
 
 # sent_id = 402
 # text = Ojaβiʔõpe asé sereków ?
 # text_eng =  Do we have each his own? (Araújo, Book 1 chapt. 4, 23v).    add PronType=Tot
 # text_por = A gente os tem cada um o seu próprio (anjo da guarda)? 
-1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Reflex=Yes	3	obj	3:obj	_
-2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	3:nsubj	_
-3	sereków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Reflex=Yes	3	obj	_	_
+2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
+3	sereków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 403
 # text = Maʔerama resépe Tupã imeʔeŋi aséβe ?
 # text_eng = Why will God give it to us? (Araújo, Book 1 chapt. 4, 23v)
 # text_por =  
-1	Maʔerama	maʔe	PRON	pro	PronType=Int|Tense=Fut	2	nmod	2:nmod	_
-2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	4	obl	4:obl	_
-3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	4:nmod	_
-4	imeʔeŋi	meʔeŋ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-5	aséβe	asé	PRON	pro	_	4	obl	4:obl	_
-6	?	?	PUNCT	punct	_	4	punct	4:punct	_
+1	Maʔerama	maʔe	PRON	pro	PronType=Int|Tense=Fut	2	nmod	_	_
+2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	4	obl	_	_
+3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	_	_
+4	imeʔeŋi	meʔeŋ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+5	aséβe	asé	PRON	pro	_	4	obl	_	_
+6	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 404
 # text = Asé sumarã swi
 # text_eng =  For our protection      (Araújo, Book 1 chapt. 4, 23v)
-1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
-2	sumarã	sumarã	NOUN	n	_	0	root	0:root	_
-3	swi	swi	ADP	posp	_	2	obl	2:obl	_
+1	Asé	asé	PRON	pro	PronType=Prs	2	nmod	_	_
+2	sumarã	sumarã	NOUN	n	_	0	root	_	_
+3	swi	swi	ADP	posp	_	2	obl	_	_
 
 # sent_id = 405
 # text = asé rarõawama resé
 # text_eng = To guard us / for our protection (Araújo, Book 1 chapt. 4, 23v)
 # text_por = 
-1	asé	asé	PRON	pro	PronType=Prs	2	nmod	2:nmod	_
-2	rarõawama	arõ	NOUN	n	Rel=Cont|Tense=Fut	3	nmod	3:nmod	_
-3	resé	esé	ADP	posp	Rel=Cont	0	root	0:root	_
+1	asé	asé	PRON	pro	PronType=Prs	2	nmod	_	_
+2	rarõawama	arõ	NOUN	n	Rel=Cont|Tense=Fut	3	nmod	_	_
+3	resé	esé	ADP	posp	Rel=Cont	0	root	_	_
 
 # sent_id = 406
 # text = Maʔemaʔe swipe asé rarõw ?
 # text_eng = From what do we protect us       (Araújo, Book 1 chapt. 4, 23v)
-1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	2:nmod	_
-2	swipe	swi	ADP	posp	Int=Yes	4	obl	4:obl	_
-3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	4:nsubj	_
-4	rarõw	arõ	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
-5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+1	Maʔemaʔe	maʔe	PRON	pro	PronType=Int	2	nmod	_	_
+2	swipe	swi	ADP	posp	Int=Yes	4	obl	_	_
+3	asé	asé	PRON	pro	PronType=Prs	4	nsubj	_	_
+4	rarõw	arõ	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 407
 # text = Aɲanga swi tekoangajpaβa swi maʔeaiβa swi βe
 # text_eng = From the devil, from the sin, from evil things also (Araújo, Book 1 chapt. 4, 23v)
-1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	0:root	_
-2	swi	swi	ADP	posp	_	1	case	1:case	_
-3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Ref|Rel=Hum	1	parataxis	1:parataxis	_
-4	swi	swi	ADP	posp	_	3	case	3:case	_
-5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Ref	1	parataxis	1:parataxis	_
-6	swi	swi	ADP	posp	_	5	case	5:case	_
-7	βe	βe	ADV	adv	_	5	advmod	5:advmod	_
+1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	_	_
+2	swi	swi	ADP	posp	_	1	case	_	_
+3	tekoangajpaβa	ekoangajpaβ	NOUN	n	Case=Ref|Rel=Hum	1	parataxis	_	_
+4	swi	swi	ADP	posp	_	3	case	_	_
+5	maʔeaiβa	maʔeaiβa	NOUN	n	Case=Ref	1	parataxis	_	_
+6	swi	swi	ADP	posp	_	5	case	_	_
+7	βe	βe	ADV	adv	_	5	advmod	_	_
 
 # sent_id = 409
 # text = Marã eʔipe asé karaiβeβe oarõana mongetábo ?
 # text_eng = What do we sa, when we talk to the guard angel? (Araújo, Book 1 chapt. 4, 23v)
-1	Marã	marã	PRON	pro	_	2	obj	2:obj	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	0:root	_
-3	asé	asé	PRON	pro	PronType=Prs	4	nmod	4:nmod	_
-4	karaiβeβe	karaiβeβe	NOUN	n	_	6	obj	6:obj	_
-5	oarõana	arõan	NOUN	n	Case=Ref|Reflex=Yes	4	appos	4:appos	_
-6	mongetábo	mongetábo	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
-7	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Marã	marã	PRON	pro	_	2	obj	_	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	_	_
+3	asé	asé	PRON	pro	PronType=Prs	4	nmod	_	_
+4	karaiβeβe	karaiβeβe	NOUN	n	_	6	obj	_	_
+5	oarõana	arõan	NOUN	n	Case=Ref|Reflex=Yes	4	appos	_	_
+6	mongetábo	mongetábo	VERB	v	VerbForm=Ger	2	advcl	_	_
+7	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 411
 # text = Karaiβeβe ʃeraroã ʃepeʔá jepe maʔeaiβa swi kori Tupã remimomotara rupi ʃemoingóβo , eʔi
 # text_eng = Oh guar angel, my protector, guard me from evil things today, making me according the will of God (Araújo, Book 1 chapt. 4, 23v)
-1	Karaiβeβe	karaiβeβe	NOUN	n	_	3	vocative	3:vocative	_
-2	ʃeraroã	aroã	NOUN	n	Rel=Cont	1	appos	1:appos	_
-3	ʃepeʔá	peʔa	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-4	jepe	jepe	NOUN	n	_	3	nsubj	3:nsubj	_
-5	maʔeaiβa	maʔeaiβ	NOUN	n	Case=Ref	3	obj	3:obj	_
-6	swi	swi	ADP	posp	_	5	case	5:case	_
-7	kori	kori	ADV	adv	_	3	advmod	3:advmod	_
-8	Tupã	Tupã	NOUN	n	_	9	nmod	9:nmod	_
-9	remimomotara	emimomotar	NOUN	n	Case=Ref|Dev=Pass|Rel=Cont	11	obl	11:obl	_
-10	rupi	upi	ADP	posp	Rel=NCont	9	case	9:case	_
-11	ʃemoingóβo	moingó	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	3	advcl	3:advcl	_
-12	,	,	PUNCT	punct	_	3	punct	3:punct	_
-13	eʔi	ʔi	VERB	v	Number=Sing|Person=3	3	parataxis	3:parataxis	_
+1	Karaiβeβe	karaiβeβe	NOUN	n	_	3	vocative	_	_
+2	ʃeraroã	aroã	NOUN	n	Rel=Cont	1	appos	_	_
+3	ʃepeʔá	peʔa	NOUN	n	Number=Sing|Person=1	0	root	_	_
+4	jepe	jepe	NOUN	n	_	3	nsubj	_	_
+5	maʔeaiβa	maʔeaiβ	NOUN	n	Case=Ref	3	obj	_	_
+6	swi	swi	ADP	posp	_	5	case	_	_
+7	kori	kori	ADV	adv	_	3	advmod	_	_
+8	Tupã	Tupã	NOUN	n	_	9	nmod	_	_
+9	remimomotara	emimomotar	NOUN	n	Case=Ref|Dev=Pass|Rel=Cont	11	obl	_	_
+10	rupi	upi	ADP	posp	Rel=NCont	9	case	_	_
+11	ʃemoingóβo	moingó	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	3	advcl	_	_
+12	,	,	PUNCT	punct	_	3	punct	_	_
+13	eʔi	ʔi	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
 
 # sent_id = 414
 # text = Aβaaβape asé resé Tupã mongetasaramo seków ?
 # text_eng =  Who are the ones who pray to god for us?   (Araújo, Book 1 chapt. 4, 23v)
-1	Aβaaβape	aβa	NOUN	n	Int=Yes	0	root	0:root	_
-2	asé	asé	PRON	pro	PronType=Prs	5	obl	5:obl	_
-3	resé	esé	ADP	posp	Rel=Cont	2	case	2:case	_
-4	Tupã	Tupã	PROPN	propn	_	5	nmod	5:nmod	_
-5	mongetasaramo	mongeta	NOUN	n	Case=Tra|Nomzr=Ag	1	nsubj	1:nsubj	_
-6	seków	ikó	AUX	aux	NonFoc=Yes|Rel=NCont	5	aux	5:aux	_
-7	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Aβaaβape	aβa	NOUN	n	Int=Yes	0	root	_	_
+2	asé	asé	PRON	pro	PronType=Prs	5	obl	_	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
+4	Tupã	Tupã	PROPN	propn	_	5	nmod	_	_
+5	mongetasaramo	mongeta	NOUN	n	Case=Tra|Nomzr=Ag	1	nsubj	_	_
+6	seków	ikó	AUX	aux	NonFoc=Yes|Rel=NCont	5	aux	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 43456
 # text = Mbaʔepe imongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
@@ -2509,19 +2509,19 @@
 # sent_id = 5002
 # text = ʃe aɲõ kó taβa pupé ajkó , serekóaramo witekóβo , ʃerekó rupi imoingóβo
 # text_eng = I alone lived in this city, being as its guardian, causing it to be according to my law. Anchieta Teatro 26-29 p 6
-1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	obl	6:obl	_
-2	aɲõ	aɲõ	ADV	posp	_	6	advmod	6:advmod	_
-3	kó	kó	DET	dem	_	4	nmod	4:nmod	_
-4	taβa	taβa	NOUN	n	_	6	obl	6:obl	_
-5	pupé	pupé	ADP	posp	_	4	case	4:case	_
-6	ajkó	ikó	VERB	vi	Number=Sing|Person=1	0	root	0:root	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	serekóaramo	erekó	NOUN	n	Case=Tra|Number=Sing|Person=1|Rel=Cont	9	obl	9:obl	_
-9	witekóβo	ekó	VERB	v	Number=Sing|Person=1|VerbForm=Ger	6	advcl	6:advcl	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	ʃerekó	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	13	obl	13:obl	_
-12	rupi	rupi	ADP	posp	_	11	case	11:case	_
-13	imoingóβo	moingó	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	6:advcl	_
+1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+2	aɲõ	aɲõ	ADV	posp	_	6	advmod	_	_
+3	kó	kó	DET	dem	_	4	nmod	_	_
+4	taβa	taβa	NOUN	n	_	6	obl	_	_
+5	pupé	pupé	ADP	posp	_	4	case	_	_
+6	ajkó	ikó	VERB	vi	Number=Sing|Person=1	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	serekóaramo	erekó	NOUN	n	Case=Tra|Number=Sing|Person=1|Rel=Cont	9	obl	_	_
+9	witekóβo	ekó	VERB	v	Number=Sing|Person=1|VerbForm=Ger	6	advcl	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ʃerekó	_	NOUN	n	Number=Sing|Person=1|Rel=Cont	13	obl	_	_
+12	rupi	rupi	ADP	posp	_	11	case	_	_
+13	imoingóβo	moingó	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	_	_
 
 # sent_id = 5003
 # text = Kwe swi asó mamõ , amõ taβa rapekóβo
@@ -2539,25 +2539,25 @@
 # text = Aβá serã ʃejaβé ?
 # text_eng = Who, then, is like me? (Teatro 32 p 8)
 # text_por = Quem será que é como eu?
-1	Aβá	Aβá	NOUN	n	_	0	root	0:root	_
-2	serã	serã	ADV	adv	_	1	discourse	1:discourse	_
-3	ʃejaβé	jaβé	NOUN	n	Number=Sing|Person=1	1	obl	1:obl	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Aβá	Aβá	NOUN	n	_	0	root	_	_
+2	serã	serã	ADV	adv	_	1	discourse	_	_
+3	ʃejaβé	jaβé	NOUN	n	Number=Sing|Person=1	1	obl	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 7539746
 # text = Iʃé seroβiarɨpɨra , ʃeaɲangusumiʃɨra , Waiʃará serɨβaʔe , kwepe imoerapwanɨmbɨra
 # text_eng = I, who must be believed, big cooked devil, whose name is Guaixará, made famous everywhere. (Teatro 33-36, p 6)
 # text_por = Eu, aquele em que se deve acreditar, eu, o diabão assado, o que tem nome Guaixará, o que é afamado por aí.
-1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	1:appos	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	1:conj	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	7:nmod	_
-7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	1:conj	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	kwepe	kwepe	ADV	adv	_	10	advmod	10:advmod	_
-10	imoerapwanɨmbɨra	_	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	1	conj	1:conj	_
+1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	_	_
+7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	kwepe	kwepe	ADV	adv	_	10	advmod	_	_
+10	imoerapwanɨmbɨra	_	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	1	conj	_	_
 
 # sent_id = 6836489
 # text = ʃerekó iporangete
@@ -2570,545 +2570,545 @@
 # text = naipotari aβá sejtɨka
 # text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a lancem fora.
-1	naipotari	potar	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
-2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
-3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
+1	naipotari	potar	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+2	aβá	aβá	NOUN	n	_	3	nmod	_	_
+3	sejtɨka	ejtɨk	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	_	_
 
 # sent_id = 683639
 # text = naipotari aβá imomɨka .
 # text_eng = I dont't want the men to throw it away. (Teatro 37, p 8)
 # text_por = não quero que os homens a façam cessar.
-1	naipotari	potar	VERB	vt	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
-2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
-3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
-4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	naipotari	potar	VERB	vt	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+2	aβá	aβá	NOUN	n	_	3	nmod	_	_
+3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 01813628
 # text = Aipotákatu tenhẽ opaβĩ taβa mondɨka .
 # text_eng = I want for nor reason destroy all villages. (Teatro 37, p 8)
-1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	0:root	_
-2	tenhẽ	tenhẽ	PART	prcl	_	1	discourse	1:discourse	_
-3	opaβĩ	opaβĩ	PRON	pro	_	4	nmod	4:nmod	_
-4	taβa	tab	NOUN	n	Case=Ref	5	obj	5:obj	_
-5	mondɨka	mondɨk	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
-6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+2	tenhẽ	tenhẽ	PART	prcl	_	1	discourse	_	_
+3	opaβĩ	opaβĩ	PRON	pro	_	4	nmod	_	_
+4	taβa	tab	NOUN	n	Case=Ref	5	obj	_	_
+5	mondɨka	mondɨk	VERB	v	VerbForm=Ger	1	xcomp	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9577664355776
 # text = Maʔeeté kaʔuwasu , kawĩ mojeβɨjeβɨra .
 # text_eng = It is good to be really drunk, vomiting beer      (Teatro 42, p 8)
-1	Maʔeeté	maʔe	NOUN	n	Intens=Yes	2	nsubj	2:nsubj	_
-2	kaʔuwasu	kaʔu	NOUN	n	_	0	root	0:root	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	kawĩ	kawĩ	NOUN	n	_	5	obj	5:obj	_
-5	mojeβɨjeβɨra	jeβɨr	VERB	v	Red=Di|Reflex=Yes|VerbForm=Ger|Voice=Cau	2	advcl	2:advcl	_
-6	.	.	PUNCT	punct	_	2	punct	2:punct	_
+1	Maʔeeté	maʔe	NOUN	n	Intens=Yes	2	nsubj	_	_
+2	kaʔuwasu	kaʔu	NOUN	n	_	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	kawĩ	kawĩ	NOUN	n	_	5	obj	_	_
+5	mojeβɨjeβɨra	jeβɨr	VERB	v	Red=Di|Reflex=Yes|VerbForm=Ger|Voice=Cau	2	advcl	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 9577444355776
 # text = Ajpó sawsukatupɨra , ajpó aɲẽ jamomeʔu ajpó imomoraŋɨpɨra .
 # text_eng = This is what must be liked, this really we assert, this must be celebrated.    (Teatro, 42, p.8)
-1	Ajpó	ajpó	DET	dem	_	2	nsubj	2:nsubj	_
-2	sawsukatupɨra	awsub	NOUN	n	Intens=Yes|Nomzr=Pas|Rel=NCont	0	root	0:root	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	ajpó	ajpó	DET	dem	_	6	nsubj	6:nsubj	_
-5	aɲẽ	aɲẽ	PART	prcl	_	6	discourse	6:discourse	_
-6	jamomeʔu	ʔu	VERB	_	Clusivity=In|Voice=Cau	2	conj	2:conj	_
-7	ajpó	ajpó	DET	dem	_	8	nsubj	8:nsubj	_
-8	imomoraŋɨpɨra	momoraŋ	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	2	conj	2:conj	_
-9	.	.	PUNCT	punct	_	2	punct	2:punct	_
+1	Ajpó	ajpó	DET	dem	_	2	nsubj	_	_
+2	sawsukatupɨra	awsub	NOUN	n	Intens=Yes|Nomzr=Pas|Rel=NCont	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	ajpó	ajpó	DET	dem	_	6	nsubj	_	_
+5	aɲẽ	aɲẽ	PART	prcl	_	6	discourse	_	_
+6	jamomeʔu	ʔu	VERB	_	Clusivity=In|Voice=Cau	2	conj	_	_
+7	ajpó	ajpó	DET	dem	_	8	nsubj	_	_
+8	imomoraŋɨpɨra	momoraŋ	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	2	conj	_	_
+9	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 1090785346
 # text = Serapuan ko mosakara , ikawĩwasuβaʔe .
 # text_eng = These important men are famous, they are real drunkard (Teatro, 47, p. 8)
 # text_por = São famosos esses moçacaras, que são uns beberrões.
-1	Serapuan	apwan	VERB	v	_	0	root	0:root	_
-2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
-3	mosakara	mosakar	NOUN	Case=Ref	_	1	nsubj	1:nsubj	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	ikawĩwasuβaʔe	_	NOUN	n	Nomzr=Rel|Rel=NCont	3	appos	3:appos	_
-6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	Serapuan	apwan	VERB	v	_	0	root	_	_
+2	ko	ko	DET	dem	_	3	nmod	_	_
+3	mosakara	mosakar	NOUN	Case=Ref	_	1	nsubj	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ikawĩwasuβaʔe	_	NOUN	n	Nomzr=Rel|Rel=NCont	3	appos	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 8284547276
 # text = Moraseja e ikatu , jewaka , jemopɨraŋa , samongɨ , jetɨmãwaŋa , jemoúna , petɨmu , karaímoɲaŋa
 # text_eng = (Teatro, 52, p. 8)
 # text_por =  dança é que é boa, enfeitar-se, pintar-se de vermelho, untar as penas, tingir-se as pernas com urucu , pintar-se de preto, fumar, ficar fazendo feitiços
-1	Moraseja	morasej	NOUN	n	Case=Ref	3	nsubj	3:nsubj	_
-2	e	e	PART	prcl	_	3	parataxis	3:parataxis	_
-3	ikatu	katu	NOUN	n	Rel=NCont	0	root	0:root	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	jewaka	wak	NOUN	n	Reflex=Yes	3	dep	3:dep	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	jemopɨraŋa	pɨraŋ	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	5:conj	_
-8	,	,	PUNCT	punct	_	5	punct	5:punct	_
-9	samongɨ	amongɨ	NOUN	n	Rel=NCont	5	conj	5:conj	_
-10	,	,	PUNCT	punct	_	5	punct	5:punct	_
-11	jetɨmãwaŋa	jetɨmãwaŋ	NOUN	n	Case=Ref|Reflex=Yes	5	conj	5:conj	_
-12	,	,	PUNCT	punct	_	5	punct	5:punct	_
-13	jemoúna	un	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	5:conj	_
-14	,	,	PUNCT	punct	_	5	punct	5:punct	_
-15	petɨmu	petɨmu	NOUN	n	_	5	conj	5:conj	_
-16	,	,	PUNCT	punct	_	5	punct	5:punct	_
-17	karaímoɲaŋa	karaímoɲaŋ	NOUN	n	Case=Ref	5	conj	5:conj	_
+1	Moraseja	morasej	NOUN	n	Case=Ref	3	nsubj	_	_
+2	e	e	PART	prcl	_	3	parataxis	_	_
+3	ikatu	katu	NOUN	n	Rel=NCont	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	jewaka	wak	NOUN	n	Reflex=Yes	3	dep	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	jemopɨraŋa	pɨraŋ	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	samongɨ	amongɨ	NOUN	n	Rel=NCont	5	conj	_	_
+10	,	,	PUNCT	punct	_	5	punct	_	_
+11	jetɨmãwaŋa	jetɨmãwaŋ	NOUN	n	Case=Ref|Reflex=Yes	5	conj	_	_
+12	,	,	PUNCT	punct	_	5	punct	_	_
+13	jemoúna	un	NOUN	n	Case=Ref|Reflex=Yes|Voice=Cau	5	conj	_	_
+14	,	,	PUNCT	punct	_	5	punct	_	_
+15	petɨmu	petɨmu	NOUN	n	_	5	conj	_	_
+16	,	,	PUNCT	punct	_	5	punct	_	_
+17	karaímoɲaŋa	karaímoɲaŋ	NOUN	n	Case=Ref	5	conj	_	_
 
 # sent_id = 63723984
 # text = Jemoɨrõ , morapiti , joʔu , tapuja rara , awasá , moropotara , maɲana , sɨwarajɨ , najpotari aβá sejara
 # text_eng =
 # text_por = Enraivecer-se , trucidar gente , comer um ao outro , prender tapuias , a mancebia , o desejo sensual , a alcovitice , a prostituição - não quero que ninguém os deixe .
-1	Jemoɨrõ	moɨrõ	NOUN	n	Reflex=Yes	20	nmod	20:nmod	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	morapiti	apiti	NOUN	n	_	1	conj	1:conj	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	joʔu	ʔu	NOUN	n	_	1	conj	1:conj	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	tapuja	tapuja	NOUN	n	Case=Ref	8	nmod	8:nmod	_
-8	rara	ar	NOUN	n	Case=Ref|Rel=Cont	1	conj	1:conj	_
-9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	awasá	awasá	NOUN	n	_	1	conj	1:conj	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	moropotara	potar	NOUN	n	Case=Ref	1	conj	1:conj	_
-13	,	,	PUNCT	punct	_	12	punct	12:punct	_
-14	maɲana	maɲana	NOUN	n	Case=Ref	1	conj	1:conj	_
-15	,	,	PUNCT	punct	_	14	punct	14:punct	_
-16	sɨwarajɨ	sɨwarajɨ	NOUN	n	_	1	conj	1:conj	_
-17	,	,	PUNCT	punct	_	16	punct	16:punct	_
-18	najpotari	potar	VERB	v	Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
-19	aβá	aβá	NOUN	n	_	20	nmod	20:nmod	_
-20	sejara	ejar	NOUN	n	Case=Ref|Rel=NCont	18	obl	18:obl	_
+1	Jemoɨrõ	moɨrõ	NOUN	n	Reflex=Yes	20	nmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	morapiti	apiti	NOUN	n	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	joʔu	ʔu	NOUN	n	_	1	conj	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	tapuja	tapuja	NOUN	n	Case=Ref	8	nmod	_	_
+8	rara	ar	NOUN	n	Case=Ref|Rel=Cont	1	conj	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	awasá	awasá	NOUN	n	_	1	conj	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	moropotara	potar	NOUN	n	Case=Ref	1	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	maɲana	maɲana	NOUN	n	Case=Ref	1	conj	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	sɨwarajɨ	sɨwarajɨ	NOUN	n	_	1	conj	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	najpotari	potar	VERB	v	Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+19	aβá	aβá	NOUN	n	_	20	nmod	_	_
+20	sejara	ejar	NOUN	n	Case=Ref|Rel=NCont	18	obl	_	_
 
 # sent_id = 183839877
 # text = Angari , ajosuβ aβá kotɨ , taʃereroβjar wiʔiaβo . 0u teɲẽ ʃepeʔaβo aβaré ʔiaβa , kori , Tupã rekó momewaβo .
 # text_eng =  (Teatro, 62, p. 10)
 # text_por = Por causa disso, visito os aposentos dos índios, dizendo: - "que acreditem em mim". Vêm em vão para me afastar os ditos "padres", hoje, proclamando a lei de Deus.
-1	Angari	angari	ADV	adv	_	3	advmod	3:advmod	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ajosuβ	suβ	VERB	v	Person[obj]=3|Person[subj]=1	0	root	0:root	_
-4	aβá	aβá	NOUN	n	_	5	nmod	5:nmod	_
-5	kotɨ	kotɨ	NOUN	n	_	3	obl	3:obl	_
-6	,	,	PUNCT	punct	_	3	punct	3:punct	_
-7	taʃereroβjar	eroβjar	NOUN	n	Mood=Perm|Number=Sing|Person=1|Rel=Cont	8	obj	8:obj	_
-8	wiʔiaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	3	advcl	3:advcl	_
-9	.	.	PUNCT	punct	_	3	punct	3:punct	_
-10	0u	u	VERB	v	Number=Sing|Person=3	3	parataxis	3:parataxis	_
-11	teɲẽ	teɲẽ	ADV	adv	_	10	advmod	10:advmod	_
-12	ʃepeʔaβo	peʔa	VERB	v	Number=Sing|Person=1|VerbForm=Ger	10	advcl	10:advcl	_
-13	aβaré	aβaré	NOUN	n	_	10	nsubj	10:nsubj	_
-14	ʔiaβa	ʔi	DET	pro	_	13	det	13:det	_
-15	,	,	PUNCT	punct	_	10	punct	10:punct	_
-16	kori	kori	ADV	adv	_	20	advmod	20:advmod	_
-17	,	,	PUNCT	punct	_	16	punct	16:punct	_
-18	Tupã	Tupã	PROPN	pron	_	19	nmod	19:nmod	_
-19	rekó	ekó	NOUN	n	Rel=Cont	20	obj	20:obj	_
-20	momewaβo	momeʔu	VERB	v	VerbForm=Ger	10	advcl	10:advcl	_
-21	.	.	PUNCT	punct	_	10	punct	10:punct	_
+1	Angari	angari	ADV	adv	_	3	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ajosuβ	suβ	VERB	v	Person[obj]=3|Person[subj]=1	0	root	_	_
+4	aβá	aβá	NOUN	n	_	5	nmod	_	_
+5	kotɨ	kotɨ	NOUN	n	_	3	obl	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	taʃereroβjar	eroβjar	NOUN	n	Mood=Perm|Number=Sing|Person=1|Rel=Cont	8	obj	_	_
+8	wiʔiaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	3	advcl	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
+10	0u	u	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
+11	teɲẽ	teɲẽ	ADV	adv	_	10	advmod	_	_
+12	ʃepeʔaβo	peʔa	VERB	v	Number=Sing|Person=1|VerbForm=Ger	10	advcl	_	_
+13	aβaré	aβaré	NOUN	n	_	10	nsubj	_	_
+14	ʔiaβa	ʔi	DET	pro	_	13	det	_	_
+15	,	,	PUNCT	punct	_	10	punct	_	_
+16	kori	kori	ADV	adv	_	20	advmod	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	Tupã	Tupã	PROPN	pron	_	19	nmod	_	_
+19	rekó	ekó	NOUN	n	Rel=Cont	20	obj	_	_
+20	momewaβo	momeʔu	VERB	v	VerbForm=Ger	10	advcl	_	_
+21	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 23847652
 # text = Ojkoβé ʃepɨtɨβõanameté , ʃepɨri marãtekoara , ʃeirunamo okajβaʔe , tuβiʃákatu Aimbiré , apɨaβa moaŋaipapara .
 # text_eng = (Teatro, 68, p 10)
 # text_por = O grande chefe Aimberé vive, o que será meu verdadeiro auxiliar, o que trabalha junto de mim, o que arde comigo, o pervertedor dos índios
-1	Ojkoβé	ikoβé	VERB	vi	Number=Sing|Person=3	0	root	0:root	_
-2	ʃepɨtɨβõanameté	pɨtɨβõ	NOUN	n	Intens=Yes|Nomzr=Ag|Number=Sing|Person=1|Tense=Fut	1	nsubj	1:nsubj	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ʃepɨri	pɨri	ADP	posp	Number=Sing|Person=1	5	case	5:case	_
-5	marãtekoara	marãtekóar	NOUN	n	Case=Ref	1	appos	1:appos	_
-6	,	,	PUNCT	punct	_	1	punct	1:punct	_
-7	ʃeirunamo	_	ADP	posp	Number=Sing|Person=1	8	case	8:case	_
-8	okajβaʔe	kaj	NOUN	n	Nomzr=Rel|Number=Sing|Person=3	1	appos	1:appos	_
-9	,	,	PUNCT	punct	_	1	punct	1:punct	_
-10	tuβiʃákatu	uβiʃáb	NOUN	n	_	11	nmod	11:nmod	_
-11	Aimbiré	Aimbiré	PROPN	propn	_	1	appos	1:appos	_
-12	,	,	PUNCT	punct	_	1	punct	1:punct	_
-13	apɨaβa	apɨab	NOUN	n	_	14	nmod	14:nmod	_
-14	moaŋaipapara	aŋaipab	NOUN	n	Nomzr=Ag|Voice=Cau	1	appos	1:appos	_
-15	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	Ojkoβé	ikoβé	VERB	vi	Number=Sing|Person=3	0	root	_	_
+2	ʃepɨtɨβõanameté	pɨtɨβõ	NOUN	n	Intens=Yes|Nomzr=Ag|Number=Sing|Person=1|Tense=Fut	1	nsubj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ʃepɨri	pɨri	ADP	posp	Number=Sing|Person=1	5	case	_	_
+5	marãtekoara	marãtekóar	NOUN	n	Case=Ref	1	appos	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	ʃeirunamo	_	ADP	posp	Number=Sing|Person=1	8	case	_	_
+8	okajβaʔe	kaj	NOUN	n	Nomzr=Rel|Number=Sing|Person=3	1	appos	_	_
+9	,	,	PUNCT	punct	_	1	punct	_	_
+10	tuβiʃákatu	uβiʃáb	NOUN	n	_	11	nmod	_	_
+11	Aimbiré	Aimbiré	PROPN	propn	_	1	appos	_	_
+12	,	,	PUNCT	punct	_	1	punct	_	_
+13	apɨaβa	apɨab	NOUN	n	_	14	nmod	_	_
+14	moaŋaipapara	aŋaipab	NOUN	n	Nomzr=Ag|Voice=Cau	1	appos	_	_
+15	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9184746
 # text = Ju , aɲaŋap' ikó ri !
 # text_eng = Oh, is this perhaps the devil? (Teatro, 74, p. 10)
 # text_por = Ó, será que isto é o diabo?
-1	Ju	ju	INTJ	intj	_	3	discourse	3:discourse	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	aɲaŋap'	aɲaŋa	NOUN	n	Int=Yes	0	root	0:root	_
-4	ikó	ikó	DET	dem	_	3	det	3:det	_
-5	ri	ri	PART	prcl	_	3	discourse	3:discourse	_
-6	!	!	PUNCT	punct	_	3	punct	3:punct	_
+1	Ju	ju	INTJ	intj	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	aɲaŋap'	aɲaŋa	NOUN	n	Int=Yes	0	root	_	_
+4	ikó	ikó	DET	dem	_	3	det	_	_
+5	ri	ri	PART	prcl	_	3	discourse	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 19837637
 # text = ʃemendwera ipó reʔĩ , Pirakaʔẽamɨrĩ !
 # text_eng =         (Teatro, 74, p. 10)
 # text_por =       
-1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	0:root	_
-2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	1:discourse	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	_	_
+2	ipó	ipó	ADV	adv	_	1	advmod	_	_
+3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
 5-6	Pirakaʔẽamɨrĩ	_	_	_	_	_	_	_	_
-5	Pirakaʔẽ	Pirakaʔẽ	PROPN	propn	_	1	appos	1:appos	_
-6	amɨrĩ	amɨrĩ	NOUN	noun	_	5	nmod	5:nmod	_
-7	!	!	PUNCT	punct	_	1	punct	1:punct	_
+5	Pirakaʔẽ	Pirakaʔẽ	PROPN	propn	_	1	appos	_	_
+6	amɨrĩ	amɨrĩ	NOUN	noun	_	5	nmod	_	_
+7	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 54823748
 # text = Aʔé ko iʃupé βiã
 # text_eng =         (Teatro, 74, p. 10)
 # text_por = eis que diria a ele
-1	Aʔé	ʔe	VERB	v	Number=Sing|Person=1	0	root	0:root	_
-2	ko	ko	PART	prcl	_	1	discourse	1:discourse	_
-3	iʃupé	supé	ADP	posp	Rel=NCont	1	iobj	1:iobj	_
-4	βiã	βiã	PART	prcl	_	1	discourse	1:discourse	_
+1	Aʔé	ʔe	VERB	v	Number=Sing|Person=1	0	root	_	_
+2	ko	ko	PART	prcl	_	1	discourse	_	_
+3	iʃupé	supé	ADP	posp	Rel=NCont	1	iobj	_	_
+4	βiã	βiã	PART	prcl	_	1	discourse	_	_
 
 # sent_id = 4656456456
 # text = Nepoʃɨ wĩ ! Nereʔui ʃo kori ʃereminuʔune !
 # text_eng =         (Teatro, 79, p. 12)
 # text_por = Tu és mau! Não beberás hoje o que eu mastigo!
-1	Nepoʃɨ	poʃɨ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
-2	wĩ	wĩ	PART	prcl	_	1	discourse	1:discourse	_
-3	!	!	PUNCT	punct	_	1	punct	1:punct	_
-4	Nereʔui	ʔu	VERB	v	Number=Sing|Person=2|Polarity=Neg	1	parataxis	1:parataxis	_
-5	ʃo	ʃo	PART	prcl	_	4	dep	4:dep	_
-6	kori	kori	ADV	adv	_	4	advmod	4:advmod	_
-7	ʃereminuʔune	_	NOUN	n	Dev=Pass|Number=Sing|Person=2|Rel=Cont|Tense=Fut	4	obj	4:obj	_
-8	!	!	PUNCT	punct	_	4	punct	4:punct	_
+1	Nepoʃɨ	poʃɨ	NOUN	n	Number=Sing|Person=2	0	root	_	_
+2	wĩ	wĩ	PART	prcl	_	1	discourse	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+4	Nereʔui	ʔu	VERB	v	Number=Sing|Person=2|Polarity=Neg	1	parataxis	_	_
+5	ʃo	ʃo	PART	prcl	_	4	dep	_	_
+6	kori	kori	ADV	adv	_	4	advmod	_	_
+7	ʃereminuʔune	_	NOUN	n	Dev=Pass|Number=Sing|Person=2|Rel=Cont|Tense=Fut	4	obj	_	_
+8	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 787878788
 # text = ʃe ɲõ aʔupakatune . Kweiseβé , nakó airumõ . Tasóne , wɨ ! Takaʔune !
 # text_eng =         (Teatro, 79, p. 12)
 # text_por = Eu somente beberei tudo. Eis que o ajunto há dias. Ó, hei de ir! Vou beber cauim!
-1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-2	ɲõ	ɲõ	ADV	adv	_	3	advmod	3:advmod	_
-3	aʔupakatune	ʔu	VERB	v	Aspect=Compl|Intens=Yes|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
-4	.	.	PUNCT	punct	_	3	punct	3:punct	_
-5	Kweiseβé	kweise	ADV	adv	_	8	advmod	8:advmod	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	nakó	nakó	PART	prcl	_	8	discourse	8:discourse	_
-8	airumõ	irumõ	VERB	vt	Person[obj]=3|Person[subj]=1	3	parataxis	3:parataxis	_
-9	.	.	PUNCT	punct	_	8	punct	8:punct	_
-10	Tasóne	asó	VERB	v	Mood=Perm|Number=Sing|Person=1	3	parataxis	3:parataxis	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	wɨ	wɨ	INTJ	intj	_	10	discourse	10:discourse	_
-13	!	!	PUNCT	punct	_	10	punct	10:punct	_
-14	Takaʔune	kaʔu	VERB	v	Mood=Perm|Number=Sing|Person=1|Tense=Fut	3	parataxis	3:parataxis	_
-15	!	!	PUNCT	punct	_	14	punct	14:punct	_
+1	ʃe	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ɲõ	ɲõ	ADV	adv	_	3	advmod	_	_
+3	aʔupakatune	ʔu	VERB	v	Aspect=Compl|Intens=Yes|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Kweiseβé	kweise	ADV	adv	_	8	advmod	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	nakó	nakó	PART	prcl	_	8	discourse	_	_
+8	airumõ	irumõ	VERB	vt	Person[obj]=3|Person[subj]=1	3	parataxis	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Tasóne	asó	VERB	v	Mood=Perm|Number=Sing|Person=1	3	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	wɨ	wɨ	INTJ	intj	_	10	discourse	_	_
+13	!	!	PUNCT	punct	_	10	punct	_	_
+14	Takaʔune	kaʔu	VERB	v	Mood=Perm|Number=Sing|Person=1|Tense=Fut	3	parataxis	_	_
+15	!	!	PUNCT	punct	_	14	punct	_	_
 
 # sent_id = 1849999
 # text = To ! Mamõpe ahẽ reków ?
 # text_eng = Oh, where is he? (Teatro, 84, p. 12)
 # text_por = Eh, onde ele está?
-1	To	to	INTJ	intj	_	5	discourse	5:discourse	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-3	Mamõpe	mamõ	ADV	adv	Int=Yes	5	advmod	5:advmod	_
-4	ahẽ	ahẽ	NOUN	n	_	5	nmod	5:nmod	_
-5	reków	ikó	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
-6	?	?	PUNCT	punct	_	5	punct	5:punct	_
+1	To	to	INTJ	intj	_	5	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Mamõpe	mamõ	ADV	adv	Int=Yes	5	advmod	_	_
+4	ahẽ	ahẽ	NOUN	n	_	5	nmod	_	_
+5	reków	ikó	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 565656565
 # text = Erekepe ipó ejupa ?
 # text_eng = were you really lying sleeping? (Teatro, 85, p. 12)
 # text_por = Você estava realmente dormindo?
-1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	0:root	_
-2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-3	ejupa	jub	AUX	aux	Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	_	_
+2	ipó	ipó	ADV	adv	_	1	advmod	_	_
+3	ejupa	jub	AUX	aux	Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 5656562135
 # text = Erekepe ipó ejupa ?
 # text_eng = were you really lying sleeping? (Teatro, 85, p. 12)
 # text_por = Você estava realmente dormindo?
-1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	0:root	_
-2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-3	ejupa	jub	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	1:aux	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	_	_
+2	ipó	ipó	ADV	adv	_	1	advmod	_	_
+3	ejupa	jub	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 564499956565
 # text = Erimã e . Taβa supa , ɨβɨtɨrɨpe ʃesów , janeβojá rerosupa .
 # text_eng = No way! I went to the mountains to visit vilages and to meet our subjects (Teatro, 86, p. 12)
 # text_por = De modo algum. Fui à serra para visitar aldeias, para encontrar-me com nossos súditos.
-1	Erimã	erimã	INTJ	intj	_	8	discourse	8:discourse	_
-2	e	e	INTJ	intj	_	1	dep	1:dep	_
-3	.	.	PUNCT	punct	_	1	punct	1:punct	_
-4	Taβa	tab	NOUN	n	Case=Ref	5	obj	5:obj	_
-5	supa	sub	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	ɨβɨtɨrɨpe	ɨβɨtɨr	NOUN	n	Case=All	8	obl	8:obl	_
-8	ʃesów	so	NOUN	n	NonFoc=Yes|Number=Sing|Person[psor]=1	0	root	0:root	_
-9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	janeβojá	βojá	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1	11	obj	11:obj	_
-11	rerosupa	sub	VERB	v	VerbForm=Ger|Voice=Com	8	advcl	8:advcl	_
-12	.	.	PUNCT	punct	_	8	punct	8:punct	_
+1	Erimã	erimã	INTJ	intj	_	8	discourse	_	_
+2	e	e	INTJ	intj	_	1	dep	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+4	Taβa	tab	NOUN	n	Case=Ref	5	obj	_	_
+5	supa	sub	VERB	v	VerbForm=Ger	8	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ɨβɨtɨrɨpe	ɨβɨtɨr	NOUN	n	Case=All	8	obl	_	_
+8	ʃesów	so	NOUN	n	NonFoc=Yes|Number=Sing|Person[psor]=1	0	root	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	janeβojá	βojá	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1	11	obj	_	_
+11	rerosupa	sub	VERB	v	VerbForm=Ger|Voice=Com	8	advcl	_	_
+12	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 564333456565
 # text = Sorɨkatu ʃerepjaka , ʃeajuβan ʃemomɨtáβo koʔarapukuj okawaβo , oporaseja , ojewaka , Tupã rekó momuruwabo
 # text_eng = They were very happy to see me, they hug me, making me stay, drinking beer all day, dancing, preening myself, curson god's law (Teatro, 89, p. 12)
 # text_por = Estavam muito felizes ao ver-me' abraçaram-me, fazendo-me ficar, o dia todo bebendo cauim, dançando, enfeitando-se, desafiando a lei de Deus.
-1	Sorɨkatu	orɨβ	NOUN	n	Intens=Yes|Rel=NCont|VerbForm=Ger	0	root	0:root	_
-2	ʃerepjaka	epjak	VERB	v	Number=Sing|Person[psor]=1|Rel=Cont|VerbForm=Ger	1	advcl	1:advcl	_
-3	,	,	PUNCT	_	_	1	punct	1:punct	_
-4	ʃeajuβan	ajuβan	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	1:parataxis	_
-5	ʃemomɨtáβo	pɨtá	VERB	v	Number=Sing|Person[psor]=1|VerbForm=Ger|Voice=Cau	4	advcl	4:advcl	_
-6	koʔarapukuj	koʔarapukuj	ADV	adv	_	7	advmod	7:advmod	_
-7	okawaβo	kaʔu	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	5	conj	5:conj	_
-8	,	,	PUNCT	punct	_	5	punct	5:punct	_
-9	oporaseja	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	5	conj	5:conj	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	ojewaka	jewak	VERB	v	Corf=Yes|Person=3|Reflex=Yes|VerbForm=Ger	5	conj	5:conj	_
-12	,	,	PUNCT	punct	_	11	punct	11:punct	_
-13	Tupã	Tupã	PROPN	propn	_	14	nmod	14:nmod	_
-14	rekó	ikó	NOUN	n	Rel=Cont	15	obj	15:obj	_
-15	momuruwabo	muru	VERB	v	VerbForm=Ger|Voice=Cau	5	conj	5:conj	_
+1	Sorɨkatu	orɨβ	NOUN	n	Intens=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
+2	ʃerepjaka	epjak	VERB	v	Number=Sing|Person[psor]=1|Rel=Cont|VerbForm=Ger	1	advcl	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	ʃeajuβan	ajuβan	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	_	_
+5	ʃemomɨtáβo	pɨtá	VERB	v	Number=Sing|Person[psor]=1|VerbForm=Ger|Voice=Cau	4	advcl	_	_
+6	koʔarapukuj	koʔarapukuj	ADV	adv	_	7	advmod	_	_
+7	okawaβo	kaʔu	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	5	conj	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	oporaseja	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	5	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ojewaka	jewak	VERB	v	Corf=Yes|Person=3|Reflex=Yes|VerbForm=Ger	5	conj	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	Tupã	Tupã	PROPN	propn	_	14	nmod	_	_
+14	rekó	ikó	NOUN	n	Rel=Cont	15	obj	_	_
+15	momuruwabo	muru	VERB	v	VerbForm=Ger|Voice=Cau	5	conj	_	_
 
 # sent_id = 1764443526
 # text =  Te , ʃeresemõ torɨβa , sekópoʃɨ repjakápe .
 # text_eng =         (Teatro, 94, p. 12)
 # text_por = Ah, sobra-me alegria ao ver sua vida ruim.
-1	Te	te	PART	prcl	_	3	discourse	3:discourse	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	ʃeresemõ	esemõ	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
-4	torɨβa	orɨb	NOUN	n	Case=Ref|Rel=Hum	3	nsubj	3:nsubj	_
-5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	Te	te	PART	prcl	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	ʃeresemõ	esemõ	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	_	_
+4	torɨβa	orɨb	NOUN	n	Case=Ref|Rel=Hum	3	nsubj	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
 6-7	sekópoʃɨ	_	_	_	_	_	_	_	_
-6	sekó	ikó	NOUN	n	Rel=NCont	8	obj	8:obj	_
-7	poʃɨ	poʃɨ	NOUN	n	_	6	nmod	6:nmod	_
-8	repjakápe	epjak	VERB	v	Case=Loc|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
-9	.	.	PUNCT	punct	_	3	punct	3:punct	_
+6	sekó	ikó	NOUN	n	Rel=NCont	8	obj	_	_
+7	poʃɨ	poʃɨ	NOUN	n	_	6	nmod	_	_
+8	repjakápe	epjak	VERB	v	Case=Loc|Rel=Cont|VerbForm=Ger	3	advcl	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 234875600
 # text = ʃeapɨsɨkatu sekoápe .
 # text_eng =    (Teatro, 96, p. 12)
 # text_por = Eu fiquei muito satisfeito na morada deles
-1	ʃeapɨsɨkatu	apɨsɨk	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1	0	root	0:root	_
-2	sekoápe	ekoab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	1	obl	1:obl	_
-3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	ʃeapɨsɨkatu	apɨsɨk	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1	0	root	_	_
+2	sekoápe	ekoab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	1	obl	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 12345678666
 # text = Opaβĩ tekoaíβa mondeβikatu opɨʔape .
 # text_eng =    (Teatro, 97, p. 12)
 # text_por = Colocaram bem todos os seus vícios em seus corações.
-1	Opaβĩ	Opaβĩ	PRON	pron	PronType=Tot	2	nmod	2:nmod	_
+1	Opaβĩ	Opaβĩ	PRON	pron	PronType=Tot	2	nmod	_	_
 2-3	tekoaíβa	_	_	_	_	_	_	_	_
-2	teko	ikó	NOUN	n	Rel=Hum	4	obj	4:obj	_
-3	aíβa	aib	NOUN	n	Case=Ref	2	nmod	2:nmod	_
-4	mondeβikatu	mondeb	VERB	v	Intens=Yes|Voice=Cau	0	root	0:root	_
-5	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Rel=Corf	4	obl	4:obl	_
-6	.	.	PUNCT	punct	_	4	punct	4:punct	_
+2	teko	ikó	NOUN	n	Rel=Hum	4	obj	_	_
+3	aíβa	aib	NOUN	n	Case=Ref	2	nmod	_	_
+4	mondeβikatu	mondeb	VERB	v	Intens=Yes|Voice=Cau	0	root	_	_
+5	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Rel=Corf	4	obl	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 1231145678666
 # text = Ndaʔei teʔe , nderatãŋatu resé wijekoka , wijeroβjá .
 # text_eng =    (Teatro, 99, p. 14)
 # text_por = Por isso mesmo em tua grande força apóio-me, confio.
-1	Ndaʔei	ʔi	AUX	aux	Number=Sing|Person[subj]=1|Polarity=Neg	6	aux	6:aux	_
-2	teʔe	teʔe	PART	prcl	_	6	discourse	6:discourse	_
-3	,	,	PUNCT	punct	_	6	punct	6:punct	_
-4	nderatãŋatu	_	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Rel=Cont	6	obl	6:obl	_
-5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
-6	wijekoka	jekok	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	0	root	0:root	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	wijeroβjá	eroβjar	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	6	conj	6:conj	_
-9	.	.	PUNCT	punct	_	8	punct	8:punct	_
+1	Ndaʔei	ʔi	AUX	aux	Number=Sing|Person[subj]=1|Polarity=Neg	6	aux	_	_
+2	teʔe	teʔe	PART	prcl	_	6	discourse	_	_
+3	,	,	PUNCT	punct	_	6	punct	_	_
+4	nderatãŋatu	_	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Rel=Cont	6	obl	_	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	_	_
+6	wijekoka	jekok	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	wijeroβjá	eroβjar	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	6	conj	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 999999499921
 # text = Jori , esenõj aŋá kwejβo nderemimoawjé . Aβápe eremoaŋajpá ?
 # text_eng =    (Teatro, 102, p. 14)
 # text_por = Vem, nomeia pois os que derrotaste por aí. A quem fizeste pecar ?
-1	Jori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	esenõj	enõj	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Rel=NCont	1	parataxis	1:parataxis	_
-4	aŋá	_	ADV	n	_	3	discourse	3:discourse	_
-5	kwejβo	kwejβo	ADV	adv	_	3	advmod	3:advmod	_
-6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[psor]=2|Rel=NCont|Voice=Cau	3	obj	3:obj	_
-7	.	.	PUNCT	punct	_	3	punct	3:punct	_
-8	Aβápe	aβá	PRON	punct	Int=Yes	9	obj	9:obj	_
-9	eremoaŋajpá	aŋajpab	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	3:parataxis	_
-10	?	?	PUNCT	punct	_	9	punct	9:punct	_
+1	Jori	jur	VERB	vi	Mood=Imp	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	esenõj	enõj	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Rel=NCont	1	parataxis	_	_
+4	aŋá	_	ADV	n	_	3	discourse	_	_
+5	kwejβo	kwejβo	ADV	adv	_	3	advmod	_	_
+6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[psor]=2|Rel=NCont|Voice=Cau	3	obj	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+8	Aβápe	aβá	PRON	punct	Int=Yes	9	obj	_	_
+9	eremoaŋajpá	aŋajpab	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	_	_
+10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 44466655566712345
 # text = Maratawáme tekwara oweroβjá ʃeɲeʔeŋa , opá ʔɨpaʔũmenwara , opá Paraíβɨwara ʃepópe oʔaŋa meʔeŋa .
 # text_eng =      (Teatro, 105, p. 14)
 # text_por = Os que moram em Maratauá acreditam em minhas palavras, todos os que estão na ilha, todos os habitantes do Paraíba em minhas mãos entregando suas almas.
-1	Maratawáme	Maratau	PROPN	propn	_	2	nmod	2:nmod	_
-2	tekwara	ikó	NOUN	n	Case=Ref|Nomzr=CCirc|Rel=Hum	3	nsubj	3:nsubj	_
-3	oweroβjá	eroβjár	VERB	v	Person=3	0	root	0:root	_
-4	ʃeɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	3	obj	3:obj	_
-5	,	,	PUNCT	punct	_	3	punct	3:punct	punct
-6	opá	opá	PRON	pron	_	7	nmod	7:nmod	_
-7	ʔɨpaʔũmenwara	ʔɨpaʔũ	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	3:conj	_
-8	,	,	PUNCT	punct	_	3	punct	3:punct	punct
-9	opá	opá	PRON	pron	_	10	nmod	10:nmod	_
-10	Paraíβɨwara	Paraíb	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	3:conj	_
-11	ʃepópe	po	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	13	obl	13:obl	_
-12	oʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Corf=Yes	13	obj	13:obj	_
-13	meʔeŋa	meʔeŋ	VERB	v	VerbForm=Ger	3	advcl	3:advcl	_
-14	.	.	PUNCT	punct	_	3	punct	3:punct	_
+1	Maratawáme	Maratau	PROPN	propn	_	2	nmod	_	_
+2	tekwara	ikó	NOUN	n	Case=Ref|Nomzr=CCirc|Rel=Hum	3	nsubj	_	_
+3	oweroβjá	eroβjár	VERB	v	Person=3	0	root	_	_
+4	ʃeɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	3	obj	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	punct
+6	opá	opá	PRON	pron	_	7	nmod	_	_
+7	ʔɨpaʔũmenwara	ʔɨpaʔũ	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	_	_
+8	,	,	PUNCT	punct	_	3	punct	_	punct
+9	opá	opá	PRON	pron	_	10	nmod	_	_
+10	Paraíβɨwara	Paraíb	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	_	_
+11	ʃepópe	po	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	13	obl	_	_
+12	oʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Corf=Yes	13	obj	_	_
+13	meʔeŋa	meʔeŋ	VERB	v	VerbForm=Ger	3	advcl	_	_
+14	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 908978776756
 # text = Kwejsé , rakó , amõ kaɲemi , owejɨpa Maweápe .
 # text_eng =   (Teatro, 110, p. 14)
 # text_por = Ontem, é certo, alguns sumiram, descendo para Magueá
-1	Kwejsé	kwejsé	ADV	adv	_	6	advmod	6:advmod	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	rakó	rakó	PART	prcl	_	6	discourse	6:discourse	_
-4	,	,	PUNCT	punct	_	6	punct	6:punct	_
-5	amõ	amõ	PRON	pron	_	6	nsubj	6:nsubj	_
-6	kaɲemi	kaɲem	NOUN	n	NonFoc=Yes	0	root	0:root	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	owejɨpa	wejɨb	VERB	v	Person[subj]=3|VerbForm=Ger	6	advcl	6:advcl	_
-9	Maweápe	Maweá	PROPN	propn	Case=Loc	8	obl	8:obl	_
-10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+1	Kwejsé	kwejsé	ADV	adv	_	6	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	rakó	rakó	PART	prcl	_	6	discourse	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	amõ	amõ	PRON	pron	_	6	nsubj	_	_
+6	kaɲemi	kaɲem	NOUN	n	NonFoc=Yes	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	owejɨpa	wejɨb	VERB	v	Person[subj]=3|VerbForm=Ger	6	advcl	_	_
+9	Maweápe	Maweá	PROPN	propn	Case=Loc	8	obl	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 5555555551
 # text = Aβaré owerasóápe , nasawsuβi , iɲewasemi , tupi supa ʃerekóápe .
 # text_eng =        (Teatro, 110, p. 14)
 # text_por = Por os levarem os padres, não os amo, fugiram, visitando os tupis14 na minha morada.
-1	Aβaré	aβaré	NOUN	n	_	2	nmod	2:nmod	_
-2	owerasóápe	so	NOUN	n	Case=Loc|Corf=Yes|Nomzr=Circ|Voice=Com	4	obl	4:obl	_
-3	,	,	PUNCT	punct	_	4	punct	4:punct	_
-4	nasawsuβi	awsub	VERB	v	Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	0:root	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	iɲewasemi	wasem	NOUN	v	NonFoc=Yes|Reflex=Yes|Rel=NCont	4	parataxis	4:parataxis	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	tupi	tupi	NOUN	n	_	9	obj	9:obj	_
-9	supa	sub	VERB	v	VerbForm=Ger	6	advcl	6:advcl	_
-10	ʃerekóápe	ikó	NOUN	n	Case=Loc|Nomzr=Circ|Person[psor]=1|Rel=Cont	9	obl	9:obl	_
-11	.	.	PUNCT	punct	_	9	punct	9:punct	_
+1	Aβaré	aβaré	NOUN	n	_	2	nmod	_	_
+2	owerasóápe	so	NOUN	n	Case=Loc|Corf=Yes|Nomzr=Circ|Voice=Com	4	obl	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	nasawsuβi	awsub	VERB	v	Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	iɲewasemi	wasem	NOUN	v	NonFoc=Yes|Reflex=Yes|Rel=NCont	4	parataxis	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	tupi	tupi	NOUN	n	_	9	obj	_	_
+9	supa	sub	VERB	v	VerbForm=Ger	6	advcl	_	_
+10	ʃerekóápe	ikó	NOUN	n	Case=Loc|Nomzr=Circ|Person[psor]=1|Rel=Cont	9	obl	_	_
+11	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 88881882883
 # text = Aʔe re , opɨtáβaʔe resé aβaré rekóaʔuβi , iké serupotá ɲẽ .
 # text_eng =     (Teatro, 115, p. 14)
 # text_por = Depois disso, com os que ficam os padres estão, sem resultado, querendo trazê-los aqui
-1	Aʔe	aʔe	PRON	pron	PronType=Dem	7	obl	7:obl	_
-2	re	re	ADP	posp	_	1	case	1:case	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	opɨtáβaʔe	pɨtá	NOUN	n	Nomzr=Rel|Person=3	7	obl	7:obl	_
-5	resé	resé	ADP	posp	_	4	case	4:case	_
-6	aβaré	aβaré	NOUN	n	_	7	nsubj	7:nsubj	_
+1	Aʔe	aʔe	PRON	pron	PronType=Dem	7	obl	_	_
+2	re	re	ADP	posp	_	1	case	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	opɨtáβaʔe	pɨtá	NOUN	n	Nomzr=Rel|Person=3	7	obl	_	_
+5	resé	resé	ADP	posp	_	4	case	_	_
+6	aβaré	aβaré	NOUN	n	_	7	nsubj	_	_
 7-8	rekóaʔuβi	_	_	_	_	_	_	_	_
-7	rekó	ikó	NOUN	n	Rel=NCont	0	root	0:root	_
-8	aʔuβi	aʔuβ	NOUN	n	NonFoc=Yes|Rel=Cont	7	nmod	7:nmod	_
-9	,	,	PUNCT	punct	_	7	punct	7:punct	_
-10	iké	iké	ADV	posp	_	11	advmod	11:advmod	_
-11	serupotá	potar	VERB	v	Rel=NCont|Voice=Com	7	advcl	7:advcl	_
-12	ɲẽ	ɲẽ	PART	prcl	_	11	discourse	11:discourse	_
-13	.	.	PUNCT	punct	_	11	punct	11:punct	_
+7	rekó	ikó	NOUN	n	Rel=NCont	0	root	_	_
+8	aʔuβi	aʔuβ	NOUN	n	NonFoc=Yes|Rel=Cont	7	nmod	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	iké	iké	ADV	posp	_	11	advmod	_	_
+11	serupotá	potar	VERB	v	Rel=NCont|Voice=Com	7	advcl	_	_
+12	ɲẽ	ɲẽ	PART	prcl	_	11	discourse	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = 09090909901
 # text = Erĩ , aani !
 # text_eng =  Oh,no! (Teatro, 115, p. 14)
 # text_por = Ah, não!
-1	Erĩ	erĩ	INTJ	intj	_	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	aani	aani	ADV	adv	_	1	discourse	1:discourse	_
-4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	Erĩ	erĩ	INTJ	intj	_	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	aani	aani	ADV	adv	_	1	discourse	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 172637
 # text = Amoramwé ; opá ʃeɲeʔeŋ enuβi .
 # text_eng =    (Teatro, 119, p. 14)
 # text_por = Frustrei-os; ouviram-me as palavras todas.
-1	Amoramwé	_	VERB	vt	Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
-2	;	;	PUNCT	punct	_	1	punct	1:punct	_
-3	opá	opá	PRON	pro	_	4	nmod	4:nmod	_
-4	ʃeɲeʔeŋ	ɲeʔeŋ	NOUN	n	Number=Sing|Person[psor]=1	5	obj	5:obj	_
-5	enuβi	enub	NOUN	n	NonFoc=Yes	1	parataxis	1:parataxis	_
-6	.	.	PUNCT	punct	_	5	punct	5:punct	_
+1	Amoramwé	_	VERB	vt	Number=Plur|Person[subj]=1|Voice=Cau	0	root	_	_
+2	;	;	PUNCT	punct	_	1	punct	_	_
+3	opá	opá	PRON	pro	_	4	nmod	_	_
+4	ʃeɲeʔeŋ	ɲeʔeŋ	NOUN	n	Number=Sing|Person[psor]=1	5	obj	_	_
+5	enuβi	enub	NOUN	n	NonFoc=Yes	1	parataxis	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 88888838281
 # text = Mosaŋape erejpuru tureʔɨmawama ri ?
 # text_eng =  Did you use poison for them not to come? (Teatro, 121, p. 14)
 # text_por = Usaste feitiço para que não viessem?
-1	Mosaŋape	posaŋ	NOUN	n	Int=Yes|Rel=Hum	2	obl	2:obl	_
-2	erejpuru	puru	VERB	v	Person[obj]=3|Person[subj]=2	0	root	0:root	_
-3	tureʔɨmawama	ur	NOUN	n	Case=Ref|Priv=Yes|Rel=NCont|Tense=Past	2	obl	2:obl	_
-4	ri	ri	ADP	posp	_	3	case	3:case	_
-5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Mosaŋape	posaŋ	NOUN	n	Int=Yes|Rel=Hum	2	obl	_	_
+2	erejpuru	puru	VERB	v	Person[obj]=3|Person[subj]=2	0	root	_	_
+3	tureʔɨmawama	ur	NOUN	n	Case=Ref|Priv=Yes|Rel=NCont|Tense=Past	2	obl	_	_
+4	ri	ri	ADP	posp	_	3	case	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 355311142
 # text = Tapujpéwajβĩ aru amõ Maweá swi
 # text_eng = I have brought old Tapuja slave-women from Maweá (Teatro, 123, p.14)
 # text_por = Trouxe escravas tapuias velhas de além de Magueá
 1-2	Tapujpéwajβĩ	_	_	_	_	_	_	_	_
-1	Tapujpé	tapujper	NOUN	n	_	3	obj	3:obj	_
-2	wajβĩ	wajβĩ	NOUN	n	_	1	nmod	1:nmod	_
-3	aru	eru	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
-4	amõ	amõ	ADV	adv	_	3	obl	3:obl	_
-5	Maweá	Maweá	PROPN	propn	_	4	appos	4:appos	_
-6	swi	swi	ADP	posp	_	4	case	4:case	_
+1	Tapujpé	tapujper	NOUN	n	_	3	obj	_	_
+2	wajβĩ	wajβĩ	NOUN	n	_	1	nmod	_	_
+3	aru	eru	VERB	v	Number=Sing|Person[subj]=1	0	root	_	_
+4	amõ	amõ	ADV	adv	_	3	obl	_	_
+5	Maweá	Maweá	PROPN	propn	_	4	appos	_	_
+6	swi	swi	ADP	posp	_	4	case	_	_
 
 # sent_id = 09090900909
 # text = Aʔereme aputuʔu
 # text_eng = Then I rested (Teatro, 125, p.14)
 # text_por = Então eu descansei
-1	Aʔereme	aʔereme	ADV	adv	_	2	advmod	2:advmod	_
-2	aputuʔu	putuʔu	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
+1	Aʔereme	aʔereme	ADV	adv	_	2	advmod	_	_
+2	aputuʔu	putuʔu	VERB	v	Number=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = 81818182838
 # text = Aʔe , rakó , iaŋajpá , ojemopajepajéβo , apɨaβa moʔemoʔebo Tupana rekó rejá , ʃenhõ ʃemomaʔetéβo .
 # text_eng =   (Teatro, 126, p.16)
 # text_por = Elas, de fato, são más, ficando a fazer pajelança, ficando a ensinar os homens a deixar a lei de Deus, a honrar somente a mim.
-1	Aʔe	aʔe	PRON	pron	PronType=Prs	5	nsubj	5:nsubj	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	rakó	rakó	PART	prcl	Evident=Fh	5	discourse	5:discourse	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
-5	iaŋajpá	aŋajpáb	NOUN	n	Rel=NCont	0	root	0:root	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	ojemopajepajéβo	mopaje	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	apɨaβa	apɨab	NOUN	n	Case=Ref	10	iobj	10:iobj	_
-10	moʔemoʔebo	_	VERB	v	_	7	parataxis	7:parataxis	_
-11	Tupana	Tupana	PROPN	propn	_	12	nmod	12:nmod	_
-12	rekó	ikó	NOUN	n	Rel=Cont	13	nmod	13:nmod	_
-13	rejá	ejár	NOUN	n	Rel=Cont|VerbForm=Ger	10	obj	10:obj	_
-14	,	,	PUNCT	punct	_	10	punct	10:punct	_
-15	ʃenhõ	_	PART	prcl	Number=Sing|Person=1|PronType=Prs	16	obj	16:obj	_
-16	ʃemomaʔetéβo	momaʔeté	VERB	v	Number=Sing|Person=1|VerbForm=Ger|Voice=Cau	10	parataxis	10:parataxis	_
-17	.	.	PUNCT	punct	_	16	punct	16:punct	_
+1	Aʔe	aʔe	PRON	pron	PronType=Prs	5	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	rakó	rakó	PART	prcl	Evident=Fh	5	discourse	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	iaŋajpá	aŋajpáb	NOUN	n	Rel=NCont	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ojemopajepajéβo	mopaje	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	5	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	apɨaβa	apɨab	NOUN	n	Case=Ref	10	iobj	_	_
+10	moʔemoʔebo	_	VERB	v	_	7	parataxis	_	_
+11	Tupana	Tupana	PROPN	propn	_	12	nmod	_	_
+12	rekó	ikó	NOUN	n	Rel=Cont	13	nmod	_	_
+13	rejá	ejár	NOUN	n	Rel=Cont|VerbForm=Ger	10	obj	_	_
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	ʃenhõ	_	PART	prcl	Number=Sing|Person=1|PronType=Prs	16	obj	_	_
+16	ʃemomaʔetéβo	momaʔeté	VERB	v	Number=Sing|Person=1|VerbForm=Ger|Voice=Cau	10	parataxis	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 7675747372
 # text = Tapujpepoʃɨ morɨpa , tupotareʔɨmi iké ; oporasej pɨsaré , ojemopajéangaípa , tatápe osó janoné .
 # text_eng =         (Teatro, 131, p. 16)
 # text_por = Divertzindo-se com as escravas tapuias, não quiseram vir aqui; dançaram a noite toda, fazendo feitiçarias, antes de irem para o fogo.
 1-2	Tapujpepoʃɨ	_	_	_	_	_	_	_	_
-1	Tapujpe	tapujper	NOUN	n	_	3	obj	3:obj	_
-2	poʃɨ	poʃɨ	NOUN	n	_	1	nmod	1:nmod	_
-3	morɨpa	orɨb	VERB	v	VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	Tapujpe	tapujper	NOUN	n	_	3	obj	_	_
+2	poʃɨ	poʃɨ	NOUN	n	_	1	nmod	_	_
+3	morɨpa	orɨb	VERB	v	VerbForm=Ger|Voice=Cau	5	advcl	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
 5-6	tupotareʔɨmi	_	_	_	_	_	_	_	_
-5	tu	ur	NOUN	n	Rel=NCont	6	dep	6:dep	_
-6	potareʔɨmi	potar	NOUN	n	NonFoc=Yes|Priv=Yes	0	root	0:root	_
-7	iké	iké	ADV	adv	_	6	advmod	6:advmod	_
-8	;	;	PUNCT	punct	_	6	punct	6:punct	_
-9	oporasej	porasej	VERB	v	Person[subj]=3	6	parataxis	6:parataxis	_
-10	pɨsaré	pɨsaré	ADV	adv	_	9	advmod	9:advmod	_
-11	,	,	PUNCT	punct	_	9	punct	9:punct	_
-12	ojemopajéangaípa	mopajé	VERB	v	Person=3|Reflex=Yes|Voice=Cau	9	advcl	9:advcl	_
-13	,	,	PUNCT	punct	_	12	punct	12:punct	_
-14	tatápe	tatá	NOUN	n	Case=Loc|Rel=NCont	15	nmod	15:nmod	_
-15	osó	so	NOUN	n	Corf=Yes	12	obl	12:obl	_
-16	janoné	janoné	ADP	posp	_	15	case	15:case	_
-17	.	,	PUNCT	punct	_	9	punct	9:punct	_
+5	tu	ur	NOUN	n	Rel=NCont	6	dep	_	_
+6	potareʔɨmi	potar	NOUN	n	NonFoc=Yes|Priv=Yes	0	root	_	_
+7	iké	iké	ADV	adv	_	6	advmod	_	_
+8	;	;	PUNCT	punct	_	6	punct	_	_
+9	oporasej	porasej	VERB	v	Person[subj]=3	6	parataxis	_	_
+10	pɨsaré	pɨsaré	ADV	adv	_	9	advmod	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	ojemopajéangaípa	mopajé	VERB	v	Person=3|Reflex=Yes|Voice=Cau	9	advcl	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	tatápe	tatá	NOUN	n	Case=Loc|Rel=NCont	15	nmod	_	_
+15	osó	so	NOUN	n	Corf=Yes	12	obl	_	_
+16	janoné	janoné	ADP	posp	_	15	case	_	_
+17	.	,	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 76733347372
 # text = Erĩ , awjé . ʃemoorɨkatu jepé , inã tekó momewaβo .
 # text_eng =         (Teatro, 136, p. 16)
 # text_por = Bem, basta. Tu me alegras muito, narrando os fatos assim.
-1	Erĩ	erĩ	INTJ	intj	_	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	awjé	awjé	INTJ	intj	_	1	parataxis	1:parataxis	_
-4	.	,	PUNCT	punct	_	1	punct	1:punct	_
-5	ʃemoorɨkatu	orɨb	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Voice=Cau	1	parataxis	1:parataxis	_
-6	jepé	jepé	PRON	pron	_	5	obl	5:obl	_
-7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	inã	inã	ADV	adv	_	10	advmod	10:advmod	_
-9	tekó	ikó	NOUN	n	Rel=Hum	10	obj	10:obj	_
-10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
-11	.	.	PUNCT	punct	_	10	punct	10:punct	_
+1	Erĩ	erĩ	INTJ	intj	_	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	awjé	awjé	INTJ	intj	_	1	parataxis	_	_
+4	.	,	PUNCT	punct	_	1	punct	_	_
+5	ʃemoorɨkatu	orɨb	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Voice=Cau	1	parataxis	_	_
+6	jepé	jepé	PRON	pron	_	5	obl	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	inã	inã	ADV	adv	_	10	advmod	_	_
+9	tekó	ikó	NOUN	n	Rel=Hum	10	obj	_	_
+10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 1111347372
 # text = Ajepɨk aɲe sesé , ianamakatu riré , ʃeremiaramo ipeʔaβo
 # text_eng =         (Teatro, 139, p. 16)
 # text_por = Vingo-me deles, na verdade, após tornar-se boa sua nação, como minhas presas afastando-os.
-1	Ajepɨk	jepɨk	VERB	vi	Number=Sing|Person[subj]=1|Reflex=Yes	0	root	0:root	_
-2	aɲe	aɲe	ADV	adv	_	1	advmod	1:advmod	_
-3	sesé	esé	ADP	posp	Rel=NCont	1	obl	1:obl	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	ianamakatu	anam	NOUN	n	Intens=Yes|Rel=NCont	1	obl	1:obl	_
-6	riré	riré	ADP	posp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	ʃeremiaramo	emiar	NOUN	n	Case=Tra|Number=Sing|Person[psor]=1	9	obl	9:obl	_
-9	ipeʔaβo	peʔa	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
+1	Ajepɨk	jepɨk	VERB	vi	Number=Sing|Person[subj]=1|Reflex=Yes	0	root	_	_
+2	aɲe	aɲe	ADV	adv	_	1	advmod	_	_
+3	sesé	esé	ADP	posp	Rel=NCont	1	obl	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	ianamakatu	anam	NOUN	n	Intens=Yes|Rel=NCont	1	obl	_	_
+6	riré	riré	ADP	posp	_	5	case	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	ʃeremiaramo	emiar	NOUN	n	Case=Tra|Number=Sing|Person[psor]=1	9	obl	_	_
+9	ipeʔaβo	peʔa	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	_	_
 
 # sent_id = 22247372
 # text = Maʔene , Tupinambá , Paraguasupenarwera , iTupã osɨβaʔepwera opakatu jamombá .
@@ -3130,510 +3130,510 @@
 # text = Nitɨβetéi semɨrwera
 # text_eng =  (Teatro, 146, p. 16)
 # text_port = Não há mutiso restos deles
-1	Nitɨβetéi	tɨb	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	0	root	0:root	_
-2	semɨrwera	emɨr	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	nsubj	1:nsubj	_
+1	Nitɨβetéi	tɨb	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	0	root	_	_
+2	semɨrwera	emɨr	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	nsubj	_	_
 
 # sent_id = 21237372
 # text = Jaʔupá Mosupɨroka , jekeí , Watapɨtɨβa , ɲeterõja , Paraíβa , Wajajó , Karijóoka , Pakukaja , Arasatɨβa .
 # text_eng =  (Teatro, 147, p. 16)
 # text_port = Comemos toda a Moçupiroca, Jequeí, Guatapitiba, Niterói, Paraíba, Guajajó, Carioca, Pacucaia, Araçatiba
-1	Jaʔupá	ʔu	VERB	v	Aspect=Compl|Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
-2	Mosupɨroka	Mosupɨroka	PROPN	_	_	1	obj	1:obj	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	jekeí	jekeí	PROPN	propn	_	1	conj	1:conj	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	Watapɨtɨβa	Watapɨtɨβa	PROPN	propn	_	1	conj	1:conj	_
-7	,	,	PUNCT	punct	_	1	punct	1:punct	_
-8	ɲeterõja	ɲeterõja	PROPN	propn	_	1	conj	1:conj	_
-9	,	,	PUNCT	punct	_	1	punct	1:punct	_
-10	Paraíβa	Paraíβa	PROPN	propn	_	1	conj	1:conj	_
-11	,	,	PUNCT	punct	_	1	punct	1:punct	_
-12	Wajajó	Wajajó	PROPN	propn	_	1	conj	1:conj	_
-13	,	,	PUNCT	punct	_	1	punct	1:punct	_
-14	Karijóoka	Karijóoka	PROPN	propn	_	1	conj	1:conj	_
-15	,	,	PUNCT	punct	_	1	punct	1:punct	_
-16	Pakukaja	Pakukaja	PROPN	propn	_	1	conj	1:conj	_
-17	,	,	PUNCT	punct	_	1	punct	1:punct	_
-18	Arasatɨβa	Arasatɨβa	PROPN	propn	_	1	conj	1:conj	_
-19	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	Jaʔupá	ʔu	VERB	v	Aspect=Compl|Clusivity=In|Number=Plur|Person[subj]=1	0	root	_	_
+2	Mosupɨroka	Mosupɨroka	PROPN	_	_	1	obj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	jekeí	jekeí	PROPN	propn	_	1	conj	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	Watapɨtɨβa	Watapɨtɨβa	PROPN	propn	_	1	conj	_	_
+7	,	,	PUNCT	punct	_	1	punct	_	_
+8	ɲeterõja	ɲeterõja	PROPN	propn	_	1	conj	_	_
+9	,	,	PUNCT	punct	_	1	punct	_	_
+10	Paraíβa	Paraíβa	PROPN	propn	_	1	conj	_	_
+11	,	,	PUNCT	punct	_	1	punct	_	_
+12	Wajajó	Wajajó	PROPN	propn	_	1	conj	_	_
+13	,	,	PUNCT	punct	_	1	punct	_	_
+14	Karijóoka	Karijóoka	PROPN	propn	_	1	conj	_	_
+15	,	,	PUNCT	punct	_	1	punct	_	_
+16	Pakukaja	Pakukaja	PROPN	propn	_	1	conj	_	_
+17	,	,	PUNCT	punct	_	1	punct	_	_
+18	Arasatɨβa	Arasatɨβa	PROPN	propn	_	1	conj	_	_
+19	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 10237372
 # text = Opá umã tamũja sów , okaja tatápe oupa
 # text_eng =  (Teatro, 152, p. 18)
 # text_port = Já todos os tamoios foram, estando a queimar no fogo.
-1	Opá	opá	PRON	pron	_	3	nmod	3:nmod	_
-2	umã	umã	ADV	adv	_	4	advmod	4:advmod	_
-3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Hum	4	nsubj	4:nsubj	_
-4	sów	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	okaja	kaj	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
-7	tatápe	atá	NOUN	n	Case=Loc|Rel=Hum	6	obl	6:obl	_
-8	oupa	jub	AUX	aux	Person=3|VerbForm=Ger	6	aux	6:aux	_
+1	Opá	opá	PRON	pron	_	3	nmod	_	_
+2	umã	umã	ADV	adv	_	4	advmod	_	_
+3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Hum	4	nsubj	_	_
+4	sów	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	okaja	kaj	VERB	v	Person=3|VerbForm=Ger	4	advcl	_	_
+7	tatápe	atá	NOUN	n	Case=Loc|Rel=Hum	6	obl	_	_
+8	oupa	jub	AUX	aux	Person=3|VerbForm=Ger	6	aux	_	_
 
 # sent_id = 000333444
 # text = Mokoɲõ , Tupã rawsupa , ko taβa pupé seków , ojepɨsɨrõmo okupa .
 # text_eng =  (Teatro, 154, p. 18)
 # text_port = Poucos, amando a Deus, nesta aldeia moram, estando a salvar-se.
-1	Mokoɲõ	mokoɲõ	PRON	pron	_	9	nsubj	9:nsubj	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	Tupã	Tupã	NOUN	n	_	4	obj	4:obj	_
-4	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	9	advcl	9:advcl	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	ko	ko	DET	dem	_	7	nmod	7:nmod	_
-7	taβa	tab	NOUN	n	Case=Ref	9	obl	9:obl	_
-8	pupé	pupé	ADP	posp	_	7	case	7:case	_
-9	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	9:advcl	_
-12	okupa	kub	AUX	aux	Person=3|VerbForm=Ger	11	aux	11:aux	_
-13	.	.	PUNCT	punct	_	11	punct	11:punct	_
+1	Mokoɲõ	mokoɲõ	PRON	pron	_	9	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Tupã	Tupã	NOUN	n	_	4	obj	_	_
+4	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	9	advcl	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ko	ko	DET	dem	_	7	nmod	_	_
+7	taβa	tab	NOUN	n	Case=Ref	9	obl	_	_
+8	pupé	pupé	ADP	posp	_	7	case	_	_
+9	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	_	_
+12	okupa	kub	AUX	aux	Person=3|VerbForm=Ger	11	aux	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = 8782222231
 # text = Ko Temiminópoʃɨ janerekó oweroɨrõ
 # text_eng = (Teatro, 157, p. 18)
 # text_port = Esses temiminós malvados nossa lei detestam
-1	Ko	ko	DET	dem	_	2	nmod	2:nmod	_
+1	Ko	ko	DET	dem	_	2	nmod	_	_
 2-3	Temiminópoʃɨ	_	_	_	_	_	_	_	_
-2	Temiminó	Temiminó	PROPN	propn	_	5	obl	5:obl	_
-3	poʃɨ	poʃɨ	NOUN	n	_	2	nmod	2:nmod	_
-4	janerekó	ikó	NOUN	n	Clusivity=In|Number=Sing|Person[psor]=1|Rel=Cont	5	obl	5:obl	_
-5	oweroɨrõ	eroɨrõ	VERB	vt	Number=Sing|Person[subj]=3	0	root	0:root	_
+2	Temiminó	Temiminó	PROPN	propn	_	5	obl	_	_
+3	poʃɨ	poʃɨ	NOUN	n	_	2	nmod	_	_
+4	janerekó	ikó	NOUN	n	Clusivity=In|Number=Sing|Person[psor]=1|Rel=Cont	5	obl	_	_
+5	oweroɨrõ	eroɨrõ	VERB	vt	Number=Sing|Person[subj]=3	0	root	_	_
 
 # sent_id = 8782111131
 # text = Ejori saʔaŋa , rõ , totupãɲeʔeŋaβɨ , tokaʔu , tomondarõ , toporepeɲan ojkóβo , tojpuru tekópoʃɨ , tosó ko taβa swi .
 # text_eng = (Teatro, 159, p. 18)
 # text_port = Vem para prová-los, pois, para que transgridam a palavra de Deus, para que bebam cauim, para que roubem, para que estejam atacando gente, para que pratiquem a lei má, para que vão para fora desta aldeia.
-1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont|VerbForm=Ger	1	xcomp	1:xcomp	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-4	rõ	rõ	PART	prcl	_	1	discourse	1:discourse	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-6	totupãɲeʔeŋaβɨ	aβɨ	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
-7	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-8	tokaʔu	kaʔu	VERB	vt	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
-9	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-10	tomondarõ	_	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
-11	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-12	toporepeɲan	epeɲan	VERB	v	Animacy=Hum|Mood=Perm|Person[subj]=3	1	xcomp	1:xcomp	_
-13	ojkóβo	ikó	AUX	aux	Person[subj]=3|VerbForm=Ger	12	aux	12:aux	_
-14	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-15	tojpuru	puru	VERB	vt	Mood=Perm|Person[obj]=3|Person[subj]=3	1	xcomp	1:xcomp	_
+1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont|VerbForm=Ger	1	xcomp	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	punct
+4	rõ	rõ	PART	prcl	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	punct
+6	totupãɲeʔeŋaβɨ	aβɨ	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	_	_
+7	,	,	PUNCT	punct	_	1	punct	_	punct
+8	tokaʔu	kaʔu	VERB	vt	Mood=Perm|Person[subj]=3	1	xcomp	_	_
+9	,	,	PUNCT	punct	_	1	punct	_	punct
+10	tomondarõ	_	VERB	v	Mood=Perm|Person[subj]=3	1	xcomp	_	_
+11	,	,	PUNCT	punct	_	1	punct	_	punct
+12	toporepeɲan	epeɲan	VERB	v	Animacy=Hum|Mood=Perm|Person[subj]=3	1	xcomp	_	_
+13	ojkóβo	ikó	AUX	aux	Person[subj]=3|VerbForm=Ger	12	aux	_	_
+14	,	,	PUNCT	punct	_	1	punct	_	punct
+15	tojpuru	puru	VERB	vt	Mood=Perm|Person[obj]=3|Person[subj]=3	1	xcomp	_	_
 16-17	tekópoʃɨ	_	_	_	_	_	_	_	_
-16	tekó	ikó	NOUN	n	Rel=NCont	15	obj	15:obj	_
-17	poʃɨ	poʃɨ	NOUN	n	_	16	nmod	16:nmod	_
-18	,	,	PUNCT	punct	_	1	punct	1:punct	punct
-19	tosó	so	VERB	vi	Mood=Perm	1	xcomp	1:xcomp	_
-20	ko	ko	DET	dem	_	21	det	21:det	_
-21	taβa	tab	NOUN	n	Case=Ref	19	obl	19:obl	_
-22	swi	swi	ADP	posp	_	21	case	21:case	_
-23	.	.	PUNCT	punct	_	1	punct	1:punct	punct
+16	tekó	ikó	NOUN	n	Rel=NCont	15	obj	_	_
+17	poʃɨ	poʃɨ	NOUN	n	_	16	nmod	_	_
+18	,	,	PUNCT	punct	_	1	punct	_	punct
+19	tosó	so	VERB	vi	Mood=Perm	1	xcomp	_	_
+20	ko	ko	DET	dem	_	21	det	_	_
+21	taβa	tab	NOUN	n	Case=Ref	19	obl	_	_
+22	swi	swi	ADP	posp	_	21	case	_	_
+23	.	.	PUNCT	punct	_	1	punct	_	punct
 
 # sent_id = 4442111131
 # text = Ejori muru moiŋóβo janéɲeʔeŋa rupi
 # text_eng = (Teatro, 165, p. 18)
 # text_port = Vem para colocar os malditos conforme nossas palavras.
-1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	muru	muru	NOUN	n	_	3	obj	3:obj	_
-3	moiŋóβo	moiŋó	VERB	v	_	1	advcl	1:advcl	_
-4	janéɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Plur|Person[psor]=1	3	obl	3:obl	_
-5	rupi	rupi	ADP	posp	_	4	case	4:case	_
+1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	muru	muru	NOUN	n	_	3	obj	_	_
+3	moiŋóβo	moiŋó	VERB	v	_	1	advcl	_	_
+4	janéɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Plur|Person[psor]=1	3	obl	_	_
+5	rupi	rupi	ADP	posp	_	4	case	_	_
 
 # sent_id = 0708090704030
 # text = Iaβaí ʃeβo saʔaŋa ; serekóara iaβaeté , ʃemondɨja .
 # text_eng = (Teatro, 167, p. 18)
 # text_port = É difícil para mim tentá-los; seu guardião é terrível, espantando-me.
-1	Iaβaí	aβaí	NOUN	n	Rel=NCont	0	root	0:root	_
-2	ʃeβo	ʃe	PRON	pron	Case=Dat	1	obl	1:obl	_
-3	saʔaŋa	aʔaŋa	NOUN	n	Rel=NCont	1	nsubj	1:nsubj	_
-4	;	;	PUNCT	punct	_	1	punct	1:punct	_
-5	serekóara	erekóar	NOUN	n	Case=Ref|Rel=NCont	6	nsubj	6:nsubj	_
-6	iaβaeté	aβaeté	NOUN	n	_	1	parataxis	1:parataxis	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	ʃemondɨja	mondɨja	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	6	advcl	6:advcl	_
-9	.	.	PUNCT	punct	_	6	punct	6:punct	_
+1	Iaβaí	aβaí	NOUN	n	Rel=NCont	0	root	_	_
+2	ʃeβo	ʃe	PRON	pron	Case=Dat	1	obl	_	_
+3	saʔaŋa	aʔaŋa	NOUN	n	Rel=NCont	1	nsubj	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+5	serekóara	erekóar	NOUN	n	Case=Ref|Rel=NCont	6	nsubj	_	_
+6	iaβaeté	aβaeté	NOUN	n	_	1	parataxis	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	ʃemondɨja	mondɨja	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	6	advcl	_	_
+9	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 5555555572
 # text = Aβapaʔe ?
 # text_eng = (Teatro, 169, p. 18)
 # text_port = Quem é ele?
 1-2	Aβapaʔe	_	_	_	_	_	_	_	_
-1	Aβape	aβape	PRON	pron	PronType=Int	0	root	0:root	_
-2	aʔe	aʔe	PRON	dem	_	1	nsubj	1:nsubj	_
-3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Aβape	aβape	PRON	pron	PronType=Int	0	root	_	_
+2	aʔe	aʔe	PRON	dem	_	1	nsubj	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 7777747710
 # text = Lourenço Santoporaŋa , Tupã pɨri ojkóβaʔe .
 # text_eng = (Teatro, 170, p. 18)
 # text_por = São Lourenço belo,o que está junto de Deus.
-1	Lourenço	Lourenço	PROPN	propn	_	0	root	0:root	_
+1	Lourenço	Lourenço	PROPN	propn	_	0	root	_	_
 2-3	Santoporaŋa	_	_	_	_	_	_	_	_
-2	Santo	santo	NOUN	n	_	1	nmod	1:nmod	_
-3	poraŋa	poraŋ	NOUN	n	Case=Ref	2	nmod	2:nmod	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	Tupã	Tupã	NOUN	n	_	7	obl	7:obl	_
-6	pɨri	pɨri	ADP	posp	_	5	case	5:case	_
-7	ojkóβaʔe	ikó	NOUN	_	_	1	appos	1:appos	_
-8	.	.	PUNCT	_	_	7	punct	7:punct	_
+2	Santo	santo	NOUN	n	_	1	nmod	_	_
+3	poraŋa	poraŋ	NOUN	n	Case=Ref	2	nmod	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	Tupã	Tupã	NOUN	n	_	7	obl	_	_
+6	pɨri	pɨri	ADP	posp	_	5	case	_	_
+7	ojkóβaʔe	ikó	NOUN	_	_	1	appos	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 001001001221
 # text = Umã ?
 # text_eng = Which (one)? (Teatro, 172, p. 18)
 # text_por = Qual?
-1	Umã	umã	PRON	pron	PronType=Int	0	root	0:root	_
-2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Umã	umã	PRON	pron	PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0234001001221
 # text = Akó Rorekaʔe , janérapiʃamiʃɨra ?
 # text_eng = Which (one)? (Teatro, 172, p. 18)
 # text_por = Aquele Lourenço tostado, nosso companheiro assado.
-1	Akó	akó	DET	dem	_	2	det	2:det	_
+1	Akó	akó	DET	dem	_	2	det	_	_
 2-3	Rorekaʔe	_	_	_	_	_	_	_	_
-2	Rore	_	PROPN	propn	_	0	root	0:root	_
-3	kaʔe	kaʔe	NOUN	n	_	2	nmod	2:nmod	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+2	Rore	_	PROPN	propn	_	0	root	_	_
+3	kaʔe	kaʔe	NOUN	n	_	2	nmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
 5-6	janérapiʃamiʃɨra	_	_	_	_	_	_	_	_
-5	janérapiʃa	apiʃa	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1|Rel=Cont	2	appos	2:appos	_
-6	miʃɨra	miʃɨra	NOUN	n	Case=Ref	5	nmod	5:nmod	_
-7	?	?	PUNCT	punct	_	2	punct	2:punct	_
+5	janérapiʃa	apiʃa	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1|Rel=Cont	2	appos	_	_
+6	miʃɨra	miʃɨra	NOUN	n	Case=Ref	5	nmod	_	_
+7	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 90990000902
 # text = Aʔe ko !
 # text_eng = This one! (Teatro, 174, p. 18)
 # text_por = Esse mesmo!
-1	Aʔe	aʔe	PART	prcl	_	2	discourse	2:discourse	_
-2	ko	ko	PRON	pron	PronType=Dem	0	root	0:root	_
-3	!	!	PUNCT	punct	_	2	punct	2:punct	_
+1	Aʔe	aʔe	PART	prcl	_	2	discourse	_	_
+2	ko	ko	PRON	pron	PronType=Dem	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 3333019
 # text = Ndeputuẽ ! Nasatãŋatuj maíra !
 # text_eng = (Teatro, 175 p.18)
 # text_por = Sossega. Não é muito forte o maíra!
-1	Ndeputuẽ	putuẽ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-3	Nasatãŋatuj	atã	VERB	v	Intens=Yes|Polarity=Neg|Rel=NCont	1	parataxis	1:parataxis	_
-4	maíra	maíra	NOUN	n	_	3	nsubj	3:nsubj	_
-5	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	Ndeputuẽ	putuẽ	NOUN	n	Number=Sing|Person=2	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Nasatãŋatuj	atã	VERB	v	Intens=Yes|Polarity=Neg|Rel=NCont	1	parataxis	_	_
+4	maíra	maíra	NOUN	n	_	3	nsubj	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 3332019
 # text = Kori βe timokaɲẽ !
 # text_eng = (Teatro, 176 p.18)
 # text_por = Hoje mesmo havemos de fazê-lo sumir!
-1	Kori	kori	ADV	adv	_	3	advmod	3:advmod	_
-2	βe	βe	PART	prcl	_	1	discourse	1:discourse	_
-3	timokaɲẽ	kaɲ	NOUN	n	Mood=Perm|Rel=NCont|Voice=Cau	0	root	0:root	_
-4	!	!	PUNCT	punct	_	3	punct	3:punct	_
+1	Kori	kori	ADV	adv	_	3	advmod	_	_
+2	βe	βe	PART	prcl	_	1	discourse	_	_
+3	timokaɲẽ	kaɲ	NOUN	n	Mood=Perm|Rel=NCont|Voice=Cau	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 980000004
 # text = Iʃé aé sapɨsarwera , sekoβéaβa resé .
 # text_eng = (Teatro, 177 p.20)
 # text_por = Eu mesmo sou quem o queimou, no tempo em que ele vivia.
-1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-2	aé	aé	PART	prcl	_	1	discourse	1:discourse	_
-3	sapɨsarwera	apɨsar	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	appos	1:appos	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	sekoβéaβa	ekoβé	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont	1	obl	1:obl	_
-6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
-7	.	.	PUNCT	punct	_	1	punct	1:punct	_
+1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	aé	aé	PART	prcl	_	1	discourse	_	_
+3	sapɨsarwera	apɨsar	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	appos	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	sekoβéaβa	ekoβé	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont	1	obl	_	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 88888288384
 # text = Ndeʔí teʔe , ipó , koʔɨ opá nerawsuparwera pɨsɨrõmo neswí
 # text_eng = (Teatro, 179 p.20)
 # text_por = Não é à toa, certamente, que agora, todos os que te amavam liberta de ti
-1	Ndeʔí	eʔi	VERB	v	Polarity=Neg	0	root	0:root	_
-2	teʔe	teʔe	ADV	_	_	1	goeswith	1:goeswith	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	koʔɨ	koʔɨ	ADV	adv	_	1	advmod	1:advmod	_
-7	opá	opá	PRON	pron	PronType=Tot	8	nmod	8:nmod	_
-8	nerawsuparwera	awsub	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=NCont|Tense=Past	9	obl	9:obl	_
-9	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
-10	neswí	swi	ADP	posp	Number=Sing|Person=2	9	obl	9:obl	_
+1	Ndeʔí	eʔi	VERB	v	Polarity=Neg	0	root	_	_
+2	teʔe	teʔe	ADV	_	_	1	goeswith	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ipó	ipó	ADV	adv	_	1	advmod	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	koʔɨ	koʔɨ	ADV	adv	_	1	advmod	_	_
+7	opá	opá	PRON	pron	PronType=Tot	8	nmod	_	_
+8	nerawsuparwera	awsub	NOUN	n	Case=Ref|Number=Sing|Person=2|Rel=NCont|Tense=Past	9	obl	_	_
+9	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	1	advcl	_	_
+10	neswí	swi	ADP	posp	Number=Sing|Person=2	9	obl	_	_
 
 # sent_id = 1110112113
 # text = Imaranirũ aβé Bastião , uʔuβorwera
 # text_eng = (Teatro, 182 p.20)
 # text_por = Seu companheiro de guerra também é Bastião, o flechado. 
 1-2	Imaranirũ	_	_	_	_	_	_	_	_
-1	Imaran	marãn	NOUN	n	Rel=NCont	2	nmod	2:nmod	_
-2	irũ	irũ	NOUN	n	_	0	root	0:root	_
-3	aβé	aβé	ADV	adv	_	2	advmod	2:advmod	_
-4	Bastião	Bastião	PROPN	propn	_	2	appos	2:appos	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	uʔuβorwera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	4	conj	4:conj	_
+1	Imaran	marãn	NOUN	n	Rel=NCont	2	nmod	_	_
+2	irũ	irũ	NOUN	n	_	0	root	_	_
+3	aβé	aβé	ADV	adv	_	2	advmod	_	_
+4	Bastião	Bastião	PROPN	propn	_	2	appos	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	uʔuβorwera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	4	conj	_	_
 
 # sent_id = 44342410999
 # text = Akó ʃeremiɨβõmbúera ?
 # text_eng = (Teatro, 184, p. 20)
 # text_por = Esse é o que eu flechei?
-1	Akó	akó	DET	dem	_	2	det	2:det	_
-2	ʃeremiɨβõmbúera	ɨβõ	NOUN	n	Case=Ref|Dev=Pass|Number=Sing|Person[psor]=1|Rel=NCont|Tense=Past	0	root	0:root	_
-3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Akó	akó	DET	dem	_	2	det	_	_
+2	ʃeremiɨβõmbúera	ɨβõ	NOUN	n	Case=Ref|Dev=Pass|Number=Sing|Person[psor]=1|Rel=NCont|Tense=Past	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 44342410099
 # text = Erĩ , ʃerorɨ sesé . Tojepun ʃemaranwera !
 # text_eng = (Teatro, 185, p. 20)
 # text_por = Ó! Eu estou feliz por causa disso. Que recrudesça minha maldade!
-1	Erĩ	erĩ	PART	prcl	_	3	discourse	3:discourse	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	ʃerorɨ	orɨb	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
-4	sesé	esé	ADP	posp	Rel=NCont	3	obl	3:obl	_
-5	.	.	PUNCT	punct	_	3	punct	3:punct	_
-6	Tojepun	pun	VERB	v	Mood=Perm|Person=3|Reflex=Yes	3	parataxis	3:parataxis	_
-7	ʃemaranwera	maran	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont|Tense=Past	6	nsubj	6:nsubj	_
-8	!	!	PUNCT	punct	_	6	punct	6:punct	_
+1	Erĩ	erĩ	PART	prcl	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	ʃerorɨ	orɨb	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	_	_
+4	sesé	esé	ADP	posp	Rel=NCont	3	obl	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	Tojepun	pun	VERB	v	Mood=Perm|Person=3|Reflex=Yes	3	parataxis	_	_
+7	ʃemaranwera	maran	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont|Tense=Past	6	nsubj	_	_
+8	!	!	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 441
 # text = Karaíβa nasetáj , São Sebastião aʔe omondɨk tatá sesé , imondɨja
 # text_eng = (Teatro, 22)
 # text_por = Os cristãos não eram muitos; São Sebastião, porém, ateou fogo nelas, espantando-os
-1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	2:nsubj	_
-2	nasetáj	etá	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	São	são	NOUN	n	_	5	compound	5:compound	_
-5	Sebastião	Sebastião	PROPN	pron	_	7	obl	7:obl	_
-6	aʔe	aʔe	CCONJ	cconj	_	7	cc	7:cc	_
-7	omondɨk	mondɨk	VERB	v	Person[subj]=3|Voice=Cau	2	conj	2:conj	_
-8	tatá	atá	NOUN	n	Rel=Abs	7	obl	7:obl	_
-9	sesé	esé	ADP	posp	Rel=NCont	8	case	8:case	_
-10	,	,	PUNCT	punct	_	7	punct	7:punct	_
-11	imondɨja	mondɨj	VERB	_	Rel=NCont|VerbForm=Ger	7	advcl	7:advcl	_
+1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	_	_
+2	nasetáj	etá	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	São	são	NOUN	n	_	5	compound	_	_
+5	Sebastião	Sebastião	PROPN	pron	_	7	obl	_	_
+6	aʔe	aʔe	CCONJ	cconj	_	7	cc	_	_
+7	omondɨk	mondɨk	VERB	v	Person[subj]=3|Voice=Cau	2	conj	_	_
+8	tatá	atá	NOUN	n	Rel=Abs	7	obl	_	_
+9	sesé	esé	ADP	posp	Rel=NCont	8	case	_	_
+10	,	,	PUNCT	punct	_	7	punct	_	_
+11	imondɨja	mondɨj	VERB	_	Rel=NCont|VerbForm=Ger	7	advcl	_	_
 
 # sent_id = 442
 # text = Nopɨtái amõ aβá maranápe
 # text_eng = (Teatro, 22)
-1	Nopɨtái	pɨtá	VERB	v	Person[subj]=3|Polarity=Neg	0	root	0:root	_
-2	amõ	amõ	PRON	pron	PronType=Ind	3	nmod	3:nmod	_
-3	aβá	aβá	NOUN	n	_	1	obl	1:obl	_
-4	maranápe	maran	NOUN	n	Case=Loc	1	obl	1:obl	_
+1	Nopɨtái	pɨtá	VERB	v	Person[subj]=3|Polarity=Neg	0	root	_	_
+2	amõ	amõ	PRON	pron	PronType=Ind	3	nmod	_	_
+3	aβá	aβá	NOUN	n	_	1	obl	_	_
+4	maranápe	maran	NOUN	n	Case=Loc	1	obl	_	_
 
 # sent_id = 443
 # text = Karaíβa ipó nojkóaŋaipápɨrɨβi
 # text_eng = (Teatro, 22)
-1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	3:obl	_
-2	ipó	ipó	PART	_	_	3	discourse	3:discourse	_
+1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	_	_
+2	ipó	ipó	PART	_	_	3	discourse	_	_
 3-5	nojkóaŋaipápɨrɨβi	_	_	_	_	_	_	_	_
-3	nojkó	ikó	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
-4	aŋaip	aŋaipab	NOUN	n	_	3	nmod	3:nmod	_
-5	pɨrɨb	pɨrɨb	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
+3	nojkó	ikó	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	_	_
+4	aŋaip	aŋaipab	NOUN	n	_	3	nmod	_	_
+5	pɨrɨb	pɨrɨb	ADV	adv	Polarity=Neg	3	advmod	_	_
 
 # sent_id = 444
 # text = Awjé , ko Temiminõ nowari Tupã rekó , nosawsuβi , nomotɨβi
 # text_eng = (Teatro, 22)
 # text_por = Enfim, esses temiminós não tomam a lei de Deus, não a amam, não a acatam
-1	Awjé	awjé	INTJ	intj	_	5	discourse	5:discourse	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ko	ko	DET	dem	_	4	det	4:det	_
-4	Temiminõ	Temiminõ	PROPN	_	_	5	obl	5:obl	_
-5	nowari	jar	VERB	v	Person[subj]=3|Polarity=Neg	0	root	0:root	_
-6	Tupã	Tupã	PROPN	propn	_	7	nmod	7:nmod	_
-7	rekó	ikó	NOUN	n	Rel=Cont	5	obl	5:obl	_
-8	,	,	PUNCT	punct	_	5	punct	5:punct	_
-9	nosawsuβi	awsub	VERB	_	Person[obj]=3|Person[subj]=3|Polarity=Neg	5	parataxis	5:parataxis	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	nomotɨβi	motɨb	VERB	_	Person[subj]=3|Polarity=Neg|Voice=Cau	5	parataxis	5:parataxis	_
+1	Awjé	awjé	INTJ	intj	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ko	ko	DET	dem	_	4	det	_	_
+4	Temiminõ	Temiminõ	PROPN	_	_	5	obl	_	_
+5	nowari	jar	VERB	v	Person[subj]=3|Polarity=Neg	0	root	_	_
+6	Tupã	Tupã	PROPN	propn	_	7	nmod	_	_
+7	rekó	ikó	NOUN	n	Rel=Cont	5	obl	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	nosawsuβi	awsub	VERB	_	Person[obj]=3|Person[subj]=3|Polarity=Neg	5	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	nomotɨβi	motɨb	VERB	_	Person[subj]=3|Polarity=Neg|Voice=Cau	5	parataxis	_	_
 
 # sent_id = 445
 # text = Ekwãj moʃɨ moʔa janéjusana pupé !
 # text_eng = (Teatro, 22)
 # text_por = Vai para fazer cair os malditos em nossos laços!
-1	Ekwãj	kwãj	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	obj	3:obj	_
-3	moʔa	ʔar	VERB	v	Voice=Cau	1	advcl	1:advcl	_
-4	janéjusana	jusan	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1	3	obl	3:obl	_
-5	pupé	pupé	ADP	posp	_	4	case	4:case	_
-6	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	Ekwãj	kwãj	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	obj	_	_
+3	moʔa	ʔar	VERB	v	Voice=Cau	1	advcl	_	_
+4	janéjusana	jusan	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1	3	obl	_	_
+5	pupé	pupé	ADP	posp	_	4	case	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 446
 # text = Iʔaŋa toʔá tawjé , omoɲaŋara rejá , rõ obɨʔa janeresé
 # text_eng = (Teatro, 22)
 # text_por = Que suas almas caiam logo, deixando seu criador, apegando-se, pois, a nós.
-1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obl:subj	2:obl:subj	_
-2	toʔá	ʔa(r)	VERB	v	Mood=Perm|Person[subj]=3	0	root	0:root	_
-3	tawjé	tawjé	ADV	adv	_	2	advmod	2:advmod	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	6:obj	_
-6	rejá	ejá	VERB	v	Rel=Cont|VerbForm=Ger	2	advcl	2:advcl	_
-7	,	,	PUNCT	punct	_	2	punct	2:punct	_
-8	rõ	rõ	PART	prcl	_	9	discourse	9:discourse	_
-9	obɨʔa	bɨʔar	VERB	v	Person[subj]=3|VerbForm=Ger	2	advcl	2:advcl	_
-10	janeresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	9	obl	9:obl	_
+1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obl:subj	_	_
+2	toʔá	ʔa(r)	VERB	v	Mood=Perm|Person[subj]=3	0	root	_	_
+3	tawjé	tawjé	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	_	_
+6	rejá	ejá	VERB	v	Rel=Cont|VerbForm=Ger	2	advcl	_	_
+7	,	,	PUNCT	punct	_	2	punct	_	_
+8	rõ	rõ	PART	prcl	_	9	discourse	_	_
+9	obɨʔa	bɨʔar	VERB	v	Person[subj]=3|VerbForm=Ger	2	advcl	_	_
+10	janeresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	9	obl	_	_
 
 # sent_id = 447
 # text = tasó saʔaŋa teɲe ; eʔi e tipó ʃerapiáne
 # text_eng = (Teatro, 22)
 # Hei de ir para tentá-los; tempo virá em que me obedecerão
-1	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
-2	saʔaŋa	aʔa	VERB	_	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
-3	teɲe	teɲe	PART	prcl	_	1	discourse	1:discourse	_
-4	;	;	PUNCT	punct	_	1	punct	1:punct	_
-5	eʔi	ʔi	AUX	v	Person=3	8	aux	8:aux	_
-6	e	e	PART	prcl	_	8	discourse	8:discourse	_
-7	tipó	?	X	_	_	8	dep	8:dep	_
-8	ʃerapiáne	apiá	NOUN	n	Number=Sing|Person=1|Rel=Cont|Tense=Fut	1	parataxis	1:parataxis	_
+1	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	_	_
+2	saʔaŋa	aʔa	VERB	_	Rel=NCont|VerbForm=Ger	1	advcl	_	_
+3	teɲe	teɲe	PART	prcl	_	1	discourse	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+5	eʔi	ʔi	AUX	v	Person=3	8	aux	_	_
+6	e	e	PART	prcl	_	8	discourse	_	_
+7	tipó	?	X	_	_	8	dep	_	_
+8	ʃerapiáne	apiá	NOUN	n	Number=Sing|Person=1|Rel=Cont|Tense=Fut	1	parataxis	_	_
 
 # sent_id = 448
 # text = Eamé , ʃeraɲe takwáne
 # text_eng = (Teatro, 22)
 # Espera, eu hei de ir primeiro.
-1	Eamé	amé	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ʃeraɲe	raɲe	PART	prcl	Number=Sing|Person=1	4	dislocated	4:dislocated	_
-4	takwáne	kwab	VERB	v	_	1	parataxis	1:parataxis	_
+1	Eamé	amé	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ʃeraɲe	raɲe	PART	prcl	Number=Sing|Person=1	4	dislocated	_	_
+4	takwáne	kwab	VERB	v	_	1	parataxis	_	_
 
 # sent_id = 449
 # text = ʃeporoitɨka jaβé , apɨaβa eresepeɲãne
 # text_eng = (Teatro, 22)
 # Assim como eu derroto as pessoas, os índios atacarás.
-1	ʃeporoitɨka	itɨk	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	0	root	0:root	_
-2	jaβé	jaβé	ADV	adv	_	1	advmod	1:advmod	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	obl	5:obl	_
-5	eresepeɲãne	epeɲã	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut	1	parataxis	1:parataxis	_
+1	ʃeporoitɨka	itɨk	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	0	root	_	_
+2	jaβé	jaβé	ADV	adv	_	1	advmod	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	obl	_	_
+5	eresepeɲãne	epeɲã	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut	1	parataxis	_	_
 
 # sent_id = 4410
 # text = Eɲemorɨrɨj ume , tiajekotɨruŋ jajupa
 # text_eng = (Teatro, 22)
 # text_por = Não te preocupes; estejamos pondo armadilhas.
-1	Eɲemorɨrɨj	_	VERB	v	Number=Sing|Person[subj]=2|Reflex=Yes	0	root	0:root	_
-2	ume	ume	PART	prcl	_	1	dep	1:dep	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	tiajekotɨruŋ	jekotɨruŋ	VERB	v	Clusivity=In|Mood=Perm|Number=Plur|Person[subj]=1|Reflex=Yes	1	parataxis	1:parataxis	_
-5	jajupa	jub	AUX	aux	Clusivity=In|Number=Plur|Person[subj]=1|VerbForm=Ger	4	aux	4:aux	_
+1	Eɲemorɨrɨj	_	VERB	v	Number=Sing|Person[subj]=2|Reflex=Yes	0	root	_	_
+2	ume	ume	PART	prcl	_	1	dep	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	tiajekotɨruŋ	jekotɨruŋ	VERB	v	Clusivity=In|Mood=Perm|Number=Plur|Person[subj]=1|Reflex=Yes	1	parataxis	_	_
+5	jajupa	jub	AUX	aux	Clusivity=In|Number=Plur|Person[subj]=1|VerbForm=Ger	4	aux	_	_
 
 # sent_id = 4411
 # text = janemaɲana raɲe tosó janerenoné , opá ok ɨbɨ̃ja supa
 # text_eng = (Teatro, 22)
 # text_por = Nosso espião vá primeiro, adiante de nós, visitando o interior de todas as casa.
-1	janemaɲana	maɲan	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	3	obl	3:obl	_
-2	raɲe	raɲe	ADV	adv	_	3	advmod	3:advmod	_
-3	tosó	só	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=3	0	root	0:root	_
-4	janerenoné	enoné	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	obl	3:obl	_
-5	,	,	PUNCT	punct	_	3	punct	3:punct	_
-6	opá	opá	PRON	pron	PronType=Tot	7	nmod	7:nmod	_
-7	ok	ok	NOUN	n	_	8	nmod	8:nmod	_
-8	ɨbɨ̃ja	ɨbɨ̃j	NOUN	n	Case=Ref	9	obj	9:obj	_
-9	supa	sub	VERB	v	VerbForm=Ger	3	advcl	3:advcl	_
+1	janemaɲana	maɲan	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	3	obl	_	_
+2	raɲe	raɲe	ADV	adv	_	3	advmod	_	_
+3	tosó	só	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=3	0	root	_	_
+4	janerenoné	enoné	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	obl	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	opá	opá	PRON	pron	PronType=Tot	7	nmod	_	_
+7	ok	ok	NOUN	n	_	8	nmod	_	_
+8	ɨbɨ̃ja	ɨbɨ̃j	NOUN	n	Case=Ref	9	obj	_	_
+9	supa	sub	VERB	v	VerbForm=Ger	3	advcl	_	_
 
 # sent_id = 4412
 # text = Awjé ipó !
 # text_eng = Well done! (Teatro, 24)
 # text_por = Muito bem!
-1	Awjé	awjé	INTJ	intj	_	2	discourse	2:discourse	_
-2	ipó	ipó	ADV	adv	_	0	root	0:root	_
-3	!	!	PUNCT	punct	_	2	punct	2:punct	_
+1	Awjé	awjé	INTJ	intj	_	2	discourse	_	_
+2	ipó	ipó	ADV	adv	_	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 4413
 # text = Ajpó ɲe pipó ereikó , Sarawai , maɲanaíβa ?
 # text_eng = (Teatro, 24)
 # text_por = Fazes isso, porventura, Sarauaia, espião maldoso?
-1	Ajpó	ajpó	PRON	pron	PronType=Dem	4	dep	4:dep	_
-2	ɲe	ɲe	PART	prcl	_	4	discourse	4:discourse	_
-3	pipó	pipó	X	_	_	4	discourse	4:discourse	_
-4	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	Sarawai	Sarawai	PRON	_	_	4	vocative	4:vocative	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+1	Ajpó	ajpó	PRON	pron	PronType=Dem	4	dep	_	_
+2	ɲe	ɲe	PART	prcl	_	4	discourse	_	_
+3	pipó	pipó	X	_	_	4	discourse	_	_
+4	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Sarawai	Sarawai	PRON	_	_	4	vocative	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
 8-9	maɲanaíβa	_	_	_	_	_	_	_	_
-8	maɲan	maɲan	NOUN	n	_	6	appos	6:appos	_
-9	aíβa	aíβa	NOUN	n	Case=Ref	8	nmod	8:nmod	_
-10	?	?	PUNCT	punct	_	4	punct	4:punct	_
+8	maɲan	maɲan	NOUN	n	_	6	appos	_	_
+9	aíβa	aíβa	NOUN	n	Case=Ref	8	nmod	_	_
+10	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 4414
 # text = Oikó βe ʃetaɨgaɨβa
 # text_eng = (Teatro, 24)
 # text_por = Minha coragem ainda existe
-1	Oikó	ikó	VERB	v	Person[subj]=3	0	root	0:root	_
-2	βe	βe	ADV	adv	_	1	advmod	1:advmod	_
-3	ʃetaɨgaɨβa	aɨgaɨb	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	1	obl	1:obl	_
+1	Oikó	ikó	VERB	v	Person[subj]=3	0	root	_	_
+2	βe	βe	ADV	adv	_	1	advmod	_	_
+3	ʃetaɨgaɨβa	aɨgaɨb	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	1	obl	_	_
 
 # sent_id = 4415
 # text = Eneʔĩ ! tasó mamõ , iʃé , Sarawaiorɨβa , iʃé , Sarawaiusu !
 # text_eng = (Teatro, 24)
 # text_por = Eia, hei de ir longe, eu, o alegre Sarauaia,
-1	Eneʔĩ	eneʔĩ	INTJ	intj	_	3	discourse	3:discourse	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-3	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
-4	mamõ	mamõ	ADV	adv	_	3	advmod	3:advmod	_
-5	,	,	PUNCT	punct	_	3	punct	3:punct	_
-6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+1	Eneʔĩ	eneʔĩ	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	_	_
+4	mamõ	mamõ	ADV	adv	_	3	advmod	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
 8-9	Sarawaiorɨβa	_	_	_	_	_	_	_	_
-8	Sarawai	Sarawaia	PROPN	propn	_	6	appos	6:appos	_
-9	orɨβa	orɨb	NOUN	n	_	8	nmod	8:nmod	_
-10	,	,	PUNCT	punct	_	8	punct	8:punct	_
-11	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	dep	13:dep	_
-12	,	,	PUNCT	punct	_	11	punct	11:punct	_
-13	Sarawaiusu	Sarawaia	PROPN	propn	Augm=Yes	3	parataxis	3:parataxis	_
-14	!	!	PUNCT	punct	_	13	punct	13:punct	_
+8	Sarawai	Sarawaia	PROPN	propn	_	6	appos	_	_
+9	orɨβa	orɨb	NOUN	n	_	8	nmod	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	dep	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	Sarawaiusu	Sarawaia	PROPN	propn	Augm=Yes	3	parataxis	_	_
+14	!	!	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = 4416
 # text = Marãpipó moranduβa ?
 # text_eng = What are the news? (Teatro, 24)
 # text_por = Quais as novidades?
 1-2	Marãpipó	_	_	_	_	_	_	_	_
-1	Marã	marã	PRON	pron	Int=Yes	0	root	0:root	_
-2	pipó	pipó	X	_	_	1	discourse	1:discourse	_
-3	moranduβa	porandub	NOUN	n	Case=Ref	1	nsubj	1:nsubj	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Marã	marã	PRON	pron	Int=Yes	0	root	_	_
+2	pipó	pipó	X	_	_	1	discourse	_	_
+3	moranduβa	porandub	NOUN	n	Case=Ref	1	nsubj	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4417
 # text = Ajpotaretékatu okɨbɨɲa neiʃusupa ; iʃuβiré tereju
 # text_eng = (Teatro, 24)
 # text_por = Quero muitíssimo que tu fiques visitando o interior das ocas; após visitá-las, que venhas.
-1	Ajpotaretékatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	0:root	_
-2	okɨbɨɲa	okɨbɨj	NOUN	n	Case=Ref	3	obj	3:obj	_
-3	neiʃusupa	sub	VERB	v	Aspect=Iter|Number=Sing|Person=2|Red=Mo|VerbForm=Ger	1	obl	1:obl	_
-4	;	;	PUNCT	punct	_	1	punct	1:punct	_
+1	Ajpotaretékatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+2	okɨbɨɲa	okɨbɨj	NOUN	n	Case=Ref	3	obj	_	_
+3	neiʃusupa	sub	VERB	v	Aspect=Iter|Number=Sing|Person=2|Red=Mo|VerbForm=Ger	1	obl	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
 5-6	iʃuβiré	_	_	_	_	_	_	_	_
-5	iʃuβ	sub	NOUN	n	Rel=NCont	7	obl	7:obl	_
-6	iré	riré	ADP	posp	_	5	case	5:case	_
-7	tereju	jur	VERB	v	Mood=Perm|Number=Sing|Person[subj]=2	1	parataxis	1:parataxis	_
+5	iʃuβ	sub	NOUN	n	Rel=NCont	7	obl	_	_
+6	iré	riré	ADP	posp	_	5	case	_	_
+7	tereju	jur	VERB	v	Mood=Perm|Number=Sing|Person[subj]=2	1	parataxis	_	_
 
 # sent_id = 4418
 # text = tasó kori , nerejápe , apɨaβa pɨsɨka pa
 # text_eng = (Teatro, 24)
 # text_por = Hei de ir hoje, ao deixar-te, para apanhar os índios todos
-1	tasó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
-2	kori	kori	ADV	adv	_	1	advmod	1:advmod	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	nerejápe	ejar	VERB	v	Case=Loc|Number=Sing|Person[subj]=2|VerbForm=Ger	1	advcl	1:advcl	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	apɨaβa	apɨab	NOUN	n	Case=Ref	7	obj	7:obj	_
-7	pɨsɨka	pɨsɨk	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
-8	pa	pa	PART	prcl	_	7	dep	7:dep	_
+1	tasó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	_	_
+2	kori	kori	ADV	adv	_	1	advmod	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	nerejápe	ejar	VERB	v	Case=Loc|Number=Sing|Person[subj]=2|VerbForm=Ger	1	advcl	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	apɨaβa	apɨab	NOUN	n	Case=Ref	7	obj	_	_
+7	pɨsɨka	pɨsɨk	VERB	v	VerbForm=Ger	1	advcl	_	_
+8	pa	pa	PART	prcl	_	7	dep	_	_
 
 # sent_id = 4419
 # text = je tasóne ʃemonoápe . Memetiʃé , ʃepɨʔape , emonã tekó potá
 # text_eng = (Teatro, 24)
 # text_por = Está bem, hei de ir para onde me mandam. Mesmo porque, em meu coração, assim quero as coisas
-1	je	je	PART	prcl	_	2	discourse	2:discourse	_
-2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	_
-3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Number=Sing|Person=1	2	obl	2:obl	_
-4	.	.	PUNCT	punct	_	2	punct	2:punct	_
+1	je	je	PART	prcl	_	2	discourse	_	_
+2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Number=Sing|Person=1	2	obl	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
 5-6	Memetiʃé	_	_	_	_	_	_	_	_
-5	Meme	_	ADV	adv	_	6	discourse	6:discourse	_
-6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	12	dislocated	12:dislocated	_
-7	,	,	PUNCT	punct	_	12	punct	12:punct	_
-8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	12	obl	12:obl	_
-9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	emonã	_	ADV	adv	_	12	advmod	12:advmod	_
-11	tekó	ikó	NOUN	dem	_	12	obj	12:obj	_
-12	potá	potar	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
+5	Meme	_	ADV	adv	_	6	discourse	_	_
+6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	12	dislocated	_	_
+7	,	,	PUNCT	punct	_	12	punct	_	_
+8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	12	obl	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	emonã	_	ADV	adv	_	12	advmod	_	_
+11	tekó	ikó	NOUN	dem	_	12	obj	_	_
+12	potá	potar	VERB	v	VerbForm=Ger	2	advcl	_	_
 
 # sent_id = 4420
 # text = ʃerapiʃá sarawaia , apɨaba ʃepokwá , sesé ɲe ajekotɨá
 # text_eng = (Teatro, 24)
 # text_por = Os selvagens são semelhantes a mim, os homens estão acostumados comigo, com eles me alio
-1	ʃerapiʃá	apiʃá	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
-2	sarawaia	sarawai	NOUN	n	_	1	nsubj	1:nsubj	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	apɨaba	apɨab	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
-5	ʃepokwá	pokwá	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	1:parataxis	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	sesé	esé	ADP	posp	Rel=NCont	9	obl	9:obl	_
-8	ɲe	ɲe	PART	prcl	_	9	discourse	9:discourse	_
-9	ajekotɨá	kotɨá	VERB	v	Number=Sing|Person[subj]=1|Reflex=Yes	1	parataxis	1:parataxis	_
+1	ʃerapiʃá	apiʃá	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	_	_
+2	sarawaia	sarawai	NOUN	n	_	1	nsubj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	apɨaba	apɨab	NOUN	n	Case=Ref	5	nsubj	_	_
+5	ʃepokwá	pokwá	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	sesé	esé	ADP	posp	Rel=NCont	9	obl	_	_
+8	ɲe	ɲe	PART	prcl	_	9	discourse	_	_
+9	ajekotɨá	kotɨá	VERB	v	Number=Sing|Person[subj]=1|Reflex=Yes	1	parataxis	_	_
 
 # sent_id = 4421
 # text = tarasó ko ɨgaporaja ;
@@ -3648,21 +3648,21 @@
 # text = ʃepotaβa kauĩ ra
 # text_eng = (Teatro, 24)
 # text_por = O que eu quero é tomar cauim
-1	ʃepotaβa	potab	NOUN	n	Case=Ref|Nomzr=Circ|Number=Sing|Person[psor]=1	0	root	0:root	_
-2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	1:nsubj	_
-3	ra	ra	PART	prcl	_	1	discourse	1:discourse	_
+1	ʃepotaβa	potab	NOUN	n	Case=Ref|Nomzr=Circ|Number=Sing|Person[psor]=1	0	root	_	_
+2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	_	_
+3	ra	ra	PART	prcl	_	1	discourse	_	_
 
 # sent_id = 4423
 # text = Neʔĩ ! Teresó tawjé ! Neapwan !
 # text_eng = (Teatro, 24)
 # text_por = Eia, que vás logo! Apressa-te!
-1	Neʔĩ	neʔĩ	INTJ	intj	_	3	discourse	3:discourse	_
-2	!	!	PUNCT	punct	_	3	punct	3:punct	_
-3	Teresó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=2	0	root	0:root	_
-4	tawjé	tawjé	ADV	adv	_	3	advmod	3:advmod	_
-5	!	!	PUNCT	punct	_	3	punct	3:punct	_
-6	Neapwan	apwan	NOUN	n	Number=Sing|Person[psor]=2	3	parataxis	3:parataxis	_
-7	!	!	PUNCT	punct	_	6	punct	6:punct	_
+1	Neʔĩ	neʔĩ	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	3	punct	_	_
+3	Teresó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=2	0	root	_	_
+4	tawjé	tawjé	ADV	adv	_	3	advmod	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+6	Neapwan	apwan	NOUN	n	Number=Sing|Person[psor]=2	3	parataxis	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 4424
 # text = Aɲãŋatune
@@ -3674,17 +3674,17 @@
 # text = jajebɨjebɨ raɲe ; Sarawaja ruriré , jamombá taβa jandune
 # text_eng = (Teatro, 26)
 # text_por = Vamos dar uma volta, primeiro; após vir Sarawaia, destruiremos a aldeia, como de costume
-1	jajebɨjebɨ	jebɨr	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|Red=Di	0	root	0:root	_
-2	raɲe	raɲe	ADV	adv	_	1	advmod	1:advmod	_
-3	;	;	PUNCT	punct	_	1	punct	1:punct	_
-4	Sarawaja	Sarawaja	PROPN	propn	_	5	nmod	5:nmod	_
+1	jajebɨjebɨ	jebɨr	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|Red=Di	0	root	_	_
+2	raɲe	raɲe	ADV	adv	_	1	advmod	_	_
+3	;	;	PUNCT	punct	_	1	punct	_	_
+4	Sarawaja	Sarawaja	PROPN	propn	_	5	nmod	_	_
 5-6	ruriré	_	_	_	_	_	_	_	_
-5	rur	rur	NOUN	n	Rel=Cont	8	advcl	8:advcl	_
-6	iré	iré	ADP	posp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	8	punct	8:punct	_
-8	jamombá	mombá	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1	1	parataxis	1:parataxis	_
-9	taβa	tab	NOUN	n	Case=Ref	8	obj	8:obj	_
-10	jandune	jandu	ADV	adv	Tense=Fut	8	advmod	8:advmod	_
+5	rur	rur	NOUN	n	Rel=Cont	8	advcl	_	_
+6	iré	iré	ADP	posp	_	5	case	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	jamombá	mombá	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1	1	parataxis	_	_
+9	taβa	tab	NOUN	n	Case=Ref	8	obj	_	_
+10	jandune	jandu	ADV	adv	Tense=Fut	8	advmod	_	_
 
 # sent_id = 4426
 # text = Ke muru ruri oβéβo ?
@@ -3700,423 +3700,423 @@
 # text = Irõ , niateʔɨmaŋáj !
 # text_eng = (Teatro, 26)
 # text_por = Portanto, não é preguiçoso
-1	Irõ	irõ	ADV	adv	_	3	advmod	3:advmod	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+1	Irõ	irõ	ADV	adv	_	3	advmod	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
 3-4	niateʔɨmaŋáj	_	_	_	_	_	_	_	_
-3	niateʔɨm	ateʔɨm	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
-4	aŋáj	ʔaŋ	NOUN	n	Polarity=Neg	3	dep	3:dep	_
-5	!	!	PUNCT	punct	_	3	punct	3:punct	_
+3	niateʔɨm	ateʔɨm	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+4	aŋáj	ʔaŋ	NOUN	n	Polarity=Neg	3	dep	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 4428
 # text = Erejupe , Sarawaj ?
 # text_eng = (Teatro, 26)
 # text_por = Vieste, Sarauaia?
-1	Erejupe	ur	VERB	v1	Int=Yes|Number=Sing|Person[subj]=2	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	Sarawaj	Sarawaj	PROPN	propn	_	1	vocative	1:vocative	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Erejupe	ur	VERB	v1	Int=Yes|Number=Sing|Person[subj]=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Sarawaj	Sarawaj	PROPN	propn	_	1	vocative	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4429
 # text = Eẽ , janémoetéβo apɨaβa jemosaraj
 # text_eng = (Teatro, 26)
 # text_por = Sim, os homens celebram para nos honrar
-1	Eẽ	eẽ	PART	prcl	_	5	discourse	5:discourse	_
-2	,	,	PUNCT	_	_	5	punct	5:punct	_
-3	janémoetéβo	moeté	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
-4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
-5	jemosaraj	jemosaraj	VERB	v	Reflex=Yes	0	root	0:root	_
+1	Eẽ	eẽ	PART	prcl	_	5	discourse	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	janémoetéβo	moeté	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|VerbForm=Ger|Voice=Cau	5	advcl	_	_
+4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	nsubj	_	_
+5	jemosaraj	jemosaraj	VERB	v	Reflex=Yes	0	root	_	_
 
 # sent_id = 4431
 # text = nerorɨ : tɨnɨsẽ umã kawĩ ; setá ɲẽ ɨgasaβusu ; ojoenõj umã muru imoapɨawama ri
 # text_eng = (Teatro, 26) 
 # text_por = Alegra-te: já transborda o cauim; são muitas as grandes igaçabas; já chamam uns aos outros os malditos
-1	nerorɨ	orɨb	NOUN	n	_	0	root	0:root	_
-2	:	:	PUNCT	punct	_	1	punct	1:punct	_
-3	tɨnɨsẽ	ɨnɨsẽ	NOUN	n	_	1	parataxis	1:parataxis	_
-4	umã	umã	ADV	adv	_	3	advmod	3:advmod	_
-5	kawĩ	kawĩ	NOUN	n	_	3	nsubj	3:nsubj	_
-6	;	;	PUNCT	punct	_	3	punct	3:punct	_
-7	setá	etá	NOUN	noun	_	1	parataxis	1:parataxis	_
-8	ɲẽ	ɲẽ	PART	prcl	_	7	discourse	7:discourse	_
-9	ɨgasaβusu	ɨgasab	NOUN	n	Augm=Yes|Case=Ref	7	nsubj	7:nsubj	_
-10	;	;	PUNCT	punct	_	7	punct	7:punct	_
-11	ojoenõj	enõj	VERB	v	Person=3|Voice=Rcp	1	parataxis	1:parataxis	_
-12	umã	umã	ADV	adv	_	11	advmod	11:advmod	_
-13	muru	muru	NOUN	n	_	11	obl	11:obl	_
-14	imoapɨawama	moapɨr	VERB	v	Nomzr=Circ|Rel=NCont|Tense=Fut|Voice=Cau	11	obl	11:obl	_
-15	ri	ri	ADP	posp	_	14	case	14:case	_
+1	nerorɨ	orɨb	NOUN	n	_	0	root	_	_
+2	:	:	PUNCT	punct	_	1	punct	_	_
+3	tɨnɨsẽ	ɨnɨsẽ	NOUN	n	_	1	parataxis	_	_
+4	umã	umã	ADV	adv	_	3	advmod	_	_
+5	kawĩ	kawĩ	NOUN	n	_	3	nsubj	_	_
+6	;	;	PUNCT	punct	_	3	punct	_	_
+7	setá	etá	NOUN	noun	_	1	parataxis	_	_
+8	ɲẽ	ɲẽ	PART	prcl	_	7	discourse	_	_
+9	ɨgasaβusu	ɨgasab	NOUN	n	Augm=Yes|Case=Ref	7	nsubj	_	_
+10	;	;	PUNCT	punct	_	7	punct	_	_
+11	ojoenõj	enõj	VERB	v	Person=3|Voice=Rcp	1	parataxis	_	_
+12	umã	umã	ADV	adv	_	11	advmod	_	_
+13	muru	muru	NOUN	n	_	11	obl	_	_
+14	imoapɨawama	moapɨr	VERB	v	Nomzr=Circ|Rel=NCont|Tense=Fut|Voice=Cau	11	obl	_	_
+15	ri	ri	ADP	posp	_	14	case	_	_
 
 # sent_id = 4432
 # text = Sajkatupe ?
 # text_eng = (Teatro, 26)
 # text_por = Estava bem azedo?
-1	Sajkatupe	aj	NOUN	n	Int=Yes|Intens=Yes|Rel=NCont	0	root	0:root	_
-2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Sajkatupe	aj	NOUN	n	Int=Yes|Intens=Yes|Rel=NCont	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4433
 # text = Sajkatu
 # text_eng = (Teatro, 26)
 # text_por =
-1	Sajkatu	ak	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
+1	Sajkatu	ak	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 4434
 # text = Oɲeɨɲaŋ umã sesé kunumĩetá kawara , ko taβa moaŋajpapara , wajbĩ tujβaʔe aβé , kuɲãmuku imoreʔɨmara
 # text_eng = (Teatro, 26)
 # text_por = Já se juntaram por causa disso muitos moços bebedores de cauim, os que fazem pecar essa aldeia, as velhas e os velhos também, as moças que dão de beber às pessoas
-1	Oɲeɨɲaŋ	jeɨɲaŋ	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
-2	umã	umã	ADV	adv	_	1	advmod	1:advmod	_
-3	sesé	esé	ADP	posp	Rel=NCont	1	case	1:case	_
-4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	1:obl	_
-5	kawara	kaʔu	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	4:nmod	_
-6	,	,	PUNCT	punct	_	4	punct	4:punct	_
-7	ko	ko	DET	dem	_	8	det	8:det	_
-8	taβa	tab	NOUN	n	Case=Ref	9	nmod	9:nmod	_
-9	moaŋajpapara	moaŋajpab	NOUN	b	Case=Ref|Nomzr=Ag	4	appos	4:appos	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	wajbĩ	wajbĩ	NOUN	n	_	4	conj	4:conj	_
-12	tujβaʔe	tujβaʔe	NOUN	n	_	11	nmod	11:nmod	_
-13	aβé	abé	ADV	adv	_	11	cc	11:cc	_
-14	,	,	PUNCT	punct	_	11	punct	11:punct	_
+1	Oɲeɨɲaŋ	jeɨɲaŋ	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+2	umã	umã	ADV	adv	_	1	advmod	_	_
+3	sesé	esé	ADP	posp	Rel=NCont	1	case	_	_
+4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	_	_
+5	kawara	kaʔu	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	ko	ko	DET	dem	_	8	det	_	_
+8	taβa	tab	NOUN	n	Case=Ref	9	nmod	_	_
+9	moaŋajpapara	moaŋajpab	NOUN	b	Case=Ref|Nomzr=Ag	4	appos	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	wajbĩ	wajbĩ	NOUN	n	_	4	conj	_	_
+12	tujβaʔe	tujβaʔe	NOUN	n	_	11	nmod	_	_
+13	aβé	abé	ADV	adv	_	11	cc	_	_
+14	,	,	PUNCT	punct	_	11	punct	_	_
 15-16	kuɲãmuku	_	_	_	_	_	_	_	_
-15	kuɲã	kuɲã	NOUN	n	_	4	conj	4:conj	_
-16	muku	puku	NOUN	n	_	15	nmod	15:nmod	_
-17	imoreʔɨmara	_	NOUN	n	Case=Ref|Hum=Yes|Nomzr=Ag|Rel=NCont	15	nmod	15:nmod	_
+15	kuɲã	kuɲã	NOUN	n	_	4	conj	_	_
+16	muku	puku	NOUN	n	_	15	nmod	_	_
+17	imoreʔɨmara	_	NOUN	n	Case=Ref|Hum=Yes|Nomzr=Ag|Rel=NCont	15	nmod	_	_
 
 # sent_id = 4435
 # text = Te , awjékatuteɲe !
 # text_eng = (Teatro, 26)
 # text_por = Oh, ótimo!
-1	Te	te	INTJ	intj	_	3	discourse	3:discourse	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	awjékatuteɲe	awjé	ADV	adv	Intens=Yes	0	root	0:root	_
-4	!	!	PUNCT	punct	_	3	punct	3:punct	_
+1	Te	te	INTJ	intj	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	awjékatuteɲe	awjé	ADV	adv	Intens=Yes	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 4436
 # text = tjasó , mewé , japuʔama , tiʃapɨ moʃɨ retama
 # text_eng = (Teatro, 26)
 # text_por = Vamos, devagar, para fazer o assalto, queimemos a terra dos malditos
-1	tjasó	so	VERB	vi	Clusivity=In|Mood=Perm|Number=Plur|Person=1	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	mewé	mewé	ADV	adv	_	1	advmod	1:advmod	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	japuʔama	puʔam	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	tiʃapɨ	apɨ	VERB	v	Clusivity=In|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
-8	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	9	nmod	9:nmod	_
-9	retama	etam	NOUN	n	Case=Ref|Rel=Cont	7	obl	7:obl	_
+1	tjasó	so	VERB	vi	Clusivity=In|Mood=Perm|Number=Plur|Person=1	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	mewé	mewé	ADV	adv	_	1	advmod	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	japuʔama	puʔam	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	tiʃapɨ	apɨ	VERB	v	Clusivity=In|Mood=Perm|Number=Plur|Person=1	1	parataxis	_	_
+8	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	9	nmod	_	_
+9	retama	etam	NOUN	n	Case=Ref|Rel=Cont	7	obl	_	_
 
 # sent_id = 4437
 # text = Ke aβá reków aɲe ʃerenopuʔãpuʔama
 # text_eng = (Teatro, 28)
 # text_por = Aqui uns homens estão, na verdade, me ameaçando
-1	Ke	ke	ADV	adv	_	3	advmod	3:advmod	_
-2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
-3	reków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-4	aɲe	aɲe	ADV	adv	_	3	advmod	3:advmod	_
-5	ʃerenopuʔãpuʔama	enopuʔãm	NOUN	n	Aspect=Iter|Number=Sing|Person[psor]=1|Red=Di|VerbForm=Ger	3	advcl	3:advcl	_
+1	Ke	ke	ADV	adv	_	3	advmod	_	_
+2	aβá	aβá	NOUN	n	_	3	nmod	_	_
+3	reków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+4	aɲe	aɲe	ADV	adv	_	3	advmod	_	_
+5	ʃerenopuʔãpuʔama	enopuʔãm	NOUN	n	Aspect=Iter|Number=Sing|Person[psor]=1|Red=Di|VerbForm=Ger	3	advcl	_	_
 
 # sent_id = 4438
 # text = Kaj ! Rorekaʔepiã ?
 # text_eng = (Teatro, 28)
 # text_por = Ai! Por acaso é o Lourenço tostado? (Teatro, 28)
-1	Kaj	kaj	INTJ	intj	_	3	discourse	3:discourse	_
-2	!	!	PUNCT	punct	_	3	punct	3:punct	_
+1	Kaj	kaj	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	3	punct	_	_
 3-5	Rorekaʔepiã	_	_	_	_	_	_	_	_
-3	Rore	Rorens	PROPN	propn	_	0	root	0:root	_
-4	kaʔe	kaʔe	NOUN	n	_	3	nmod	3:nmod	_
-5	piã	jã	PART	prcl	Int=Yes	3	discourse	3:discourse	_
-6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+3	Rore	Rorens	PROPN	propn	_	0	root	_	_
+4	kaʔe	kaʔe	NOUN	n	_	3	nmod	_	_
+5	piã	jã	PART	prcl	Int=Yes	3	discourse	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 4439
 # text = aʔe ! Bastião abé !
 # text_eng = (Teatro, 28)
 # text_por = É ele! E Bastião também!
-1	aʔe	aʔe	PRON	pron	PronType=Dem	0	root	0:root	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-3	Bastião	Bastião	PROPN	propn	_	1	conj	1:conj	_
-4	abé	abé	ADV	adv	_	1	cc	1:cc	_
-5	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	aʔe	aʔe	PRON	pron	PronType=Dem	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Bastião	Bastião	PROPN	propn	_	1	conj	_	_
+4	abé	abé	ADV	adv	_	1	cc	_	_
+5	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4440
 # text = aʔepe ke amoaé ?
 # text_eng = (Teatro, 28)
 # text_por = E o outro, aqui?
-1	aʔepe	aʔe	PART	prcl	Int=Yes	3	discourse	3:discourse	_
-2	ke	ke	ADV	adv	_	3	advmod	3:advmod	_
-3	amoaé	amoaé	PRON	pron	PronType=Dem	0	root	0:root	_
-4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+1	aʔepe	aʔe	PART	prcl	Int=Yes	3	discourse	_	_
+2	ke	ke	ADV	adv	_	3	advmod	_	_
+3	amoaé	amoaé	PRON	pron	PronType=Dem	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 4441
 # text = Karaíβeβé serã , ko taβa rarõaneté
 # text_eng = (Teatro, 28)
 # text_por = Talvez seja o anjo, guardião verdadeiro desta aldeia
 1-2	Karaíβeβé	_	_	_	_	_	_	_	_
-1	Karaí	Karaíb	NOUN	n	_	0	root	0:root	_
-2	βeβé	βeβé	NOUN	n	_	1	nmod	1:nmod	_
-3	serã	serã	ADV	adv	_	1	advmod	1:advmod	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	ko	ko	DET	dem	_	6	nmod	6:nmod	_
-6	taβa	tab	NOUN	n	Case=Ref	7	nmod	7:nmod	_
-7	rarõaneté	arõan	NOUN	n	Intens=Yes|Rel=Cont	1	appos	1:appos	_
+1	Karaí	Karaíb	NOUN	n	_	0	root	_	_
+2	βeβé	βeβé	NOUN	n	_	1	nmod	_	_
+3	serã	serã	ADV	adv	_	1	advmod	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	ko	ko	DET	dem	_	6	nmod	_	_
+6	taβa	tab	NOUN	n	Case=Ref	7	nmod	_	_
+7	rarõaneté	arõan	NOUN	n	Intens=Yes|Rel=Cont	1	appos	_	_
 
 # sent_id = 4442
 # text = ʃerejtɨk korine mã !
 # text_eng = (Teatro, 28)
 # text_por = Ah, vencer-me-ão hoje!
-1	ʃerejtɨk	_	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
-2	korine	kori	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
-3	mã	_	PART	prcl	_	1	discourse	1:discourse	_
-4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	ʃerejtɨk	_	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	_	_
+2	korine	kori	ADV	adv	Tense=Fut	1	advmod	_	_
+3	mã	_	PART	prcl	_	1	discourse	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4443
 # text = Iaβaeté sepjaka iʃéβo
 # text_eng = (Teatro, 28)
 # text_por = Para mim é terrível vê-los
-1	Iaβaeté	abaeté	NOUN	n	Rel=NCont	0	root	0:root	_
-2	sepjaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	1:nsubj	_
-3	iʃéβo	iʃé	PRON	pron	Case=Dat|PronType=Prs	1	obl	1:obl	_
+1	Iaβaeté	abaeté	NOUN	n	Rel=NCont	0	root	_	_
+2	sepjaka	epjak	NOUN	n	Case=Ref|Rel=NCont	1	nsubj	_	_
+3	iʃéβo	iʃé	PRON	pron	Case=Dat|PronType=Prs	1	obl	_	_
 
 # sent_id = 4444
 # text = Aani ʃo ! nepɨatã !
 # text_eng = (Teatro, 28)
 # text_por = Não! Sê corajoso!
-1	Aani	aani	ADV	adv	Polarity=Neg	4	discourse	4:discourse	_
-2	ʃo	ʃo	INTJ	intj	_	1	discourse	1:discourse	_
-3	!	!	PUNCT	punct	_	4	punct	4:punct	_
-4	nepɨatã	pɨatã	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-5	!	!	PUNCT	punct	_	4	punct	4:punct	_
+1	Aani	aani	ADV	adv	Polarity=Neg	4	discourse	_	_
+2	ʃo	ʃo	INTJ	intj	_	1	discourse	_	_
+3	!	!	PUNCT	punct	_	4	punct	_	_
+4	nepɨatã	pɨatã	NOUN	n	Number=Sing|Person=1	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 4445
 # text = Eiori , tiʃepeɲan , imosɨkɨjékɨjéβo
 # text_eng = (Teatro, 28)
 # text_por = Vem, para que os ataquemos, ficando a amendrontá-los.
-1	Eiori	ur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	tiʃepeɲan	epeɲan	NOUN	n	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	imosɨkɨjékɨjéβo	sɨkɨjé	VERB	v	Aspect=Iter|Red=Di|Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
+1	Eiori	ur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	tiʃepeɲan	epeɲan	NOUN	n	Mood=Perm|Number=Sing|Person=1	1	parataxis	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	imosɨkɨjékɨjéβo	sɨkɨjé	VERB	v	Aspect=Iter|Red=Di|Rel=NCont|VerbForm=Ger|Voice=Cau	1	advcl	_	_
 
 # sent_id = 4446
 # text = jamongwá moʃɨ ruʔuba , iʃupé iaiemoitɨamo
 # text_eng = (Teatro, 28)
 # text_por = Fazemos passar as flechas dos malditos, diante delas esquivando-nos.
-1	jamongwá	mongwá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
-2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	nmod	3:nmod	_
-3	ruʔuba	uʔub	NOUN	n	Case=Ref|Rel=Cont	1	obj	1:obj	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	iʃupé	supé	PRON	pron	Case=Dat|PronType=Prs|Rel=NCont	6	obl	6:obl	_
-6	iaiemoitɨamo	iemoitɨ	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	1:advcl	_
+1	jamongwá	mongwá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	_	_
+2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	nmod	_	_
+3	ruʔuba	uʔub	NOUN	n	Case=Ref|Rel=Cont	1	obj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	iʃupé	supé	PRON	pron	Case=Dat|PronType=Prs|Rel=NCont	6	obl	_	_
+6	iaiemoitɨamo	iemoitɨ	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	1	advcl	_	_
 
 # sent_id = 4447
 # text = Ke turi jané nupãmo !
 # text_eng = (Teatro, 28)
 # text_por = Aqui vêm para nos castigar!
-1	Ke	ke	ADV	adv	_	2	advmod	2:advmod	_
-2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
-3	jané	jané	PRON	pron	Clusivity=In|Number=Plur|Person=1	4	obj	4:obj	_
-4	nupãmo	nupã	VERB	vt	VerbForm=Ger	2	advcl	2:advcl	_
-5	!	!	PUNCT	punct	_	2	punct	2:punct	_
+1	Ke	ke	ADV	adv	_	2	advmod	_	_
+2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+3	jané	jané	PRON	pron	Clusivity=In|Number=Plur|Person=1	4	obj	_	_
+4	nupãmo	nupã	VERB	vt	VerbForm=Ger	2	advcl	_	_
+5	!	!	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 4448
 # text = Arɨrɨi , opá ʃeuβa iesɨi , oiemoatãmo
 # text_eng = (Teatro, 28)
 # text_por = Tremo, as minhas coxas adormeceram completamente imobilizando-se
-1	Arɨrɨi	rɨrɨ	VERB	v	Number=Sing|Person=1	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	opá	opá	PRON	proPronType=Tot	_	4	nmod	4:nmod	_
-4	ʃeuβa	ub	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	5	nsubj	5:nsubj	_
-5	iesɨi	iesɨ	NOUN	_	Number=Sing|Person=1	1	parataxis	1:parataxis	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	oiemoatãmo	_	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	5	advcl	5:advcl	_
+1	Arɨrɨi	rɨrɨ	VERB	v	Number=Sing|Person=1	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	opá	opá	PRON	proPronType=Tot	_	4	nmod	_	_
+4	ʃeuβa	ub	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	5	nsubj	_	_
+5	iesɨi	iesɨ	NOUN	_	Number=Sing|Person=1	1	parataxis	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	oiemoatãmo	_	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	5	advcl	_	_
 
 # sent_id = 4449
 # text = Aβápe ne ?
 # text_eng = Who are you? (Teatro, 28)
 # text_por = Quem é você?
-1	Aβápe	aβá	PRON	pron	Int=Yes|PronType=Int	0	root	0:root	_
-2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
-3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Aβápe	aβá	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
+2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4450
 # text = Waiʃará kawara iʃé , moitiniŋusu , jawara , morwara , moroapɨara , anɨráwasuβeβé , aɲaŋa morapitiara
 # text_eng =  (Teatro, 28)
 # text_por = Guaixará bebedor de cauim eu sou, grande cascavel, onça, comedor de gente, queimador de gente morcegão voador, diabo assassino.
-1	Waiʃará	Waiʃará	PROPN	propn	_	0	root	0:root	_
-2	kawara	kawar	NOUN	n	Case=Ref	1	nmod	1:nmod	_
-3	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
-4	,	,	PUNCT	punct	_	1	punct	1:punct	_
-5	moitiniŋusu	moitiniŋusu	NOUN	n	Augm=Yes	1	appos	1:appos	_
-6	,	,	PUNCT	punct	_	1	punct	1:punct	_
-7	jawara	jawar	NOUN	n	Case=Ref	1	appos	1:appos	_
-8	,	,	PUNCT	punct	_	1	punct	1:punct	_
-9	morwara	porwar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
-10	,	,	PUNCT	punct	_	1	punct	1:punct	_
-11	moroapɨara	moroapɨar	NOUN	n	Case=Ref|Hum=Yes	1	appos	1:appos	_
-12	,	,	PUNCT	punct	_	1	punct	1:punct	_
+1	Waiʃará	Waiʃará	PROPN	propn	_	0	root	_	_
+2	kawara	kawar	NOUN	n	Case=Ref	1	nmod	_	_
+3	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	moitiniŋusu	moitiniŋusu	NOUN	n	Augm=Yes	1	appos	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	jawara	jawar	NOUN	n	Case=Ref	1	appos	_	_
+8	,	,	PUNCT	punct	_	1	punct	_	_
+9	morwara	porwar	NOUN	n	Case=Ref|Hum=Yes	1	appos	_	_
+10	,	,	PUNCT	punct	_	1	punct	_	_
+11	moroapɨara	moroapɨar	NOUN	n	Case=Ref|Hum=Yes	1	appos	_	_
+12	,	,	PUNCT	punct	_	1	punct	_	_
 13-15	anɨráwasuβeβé	_	_	_	_	_	_	_	_
-13	anɨrá	anɨrá	NOUN	n	_	1	appos	1:appos	_
-14	wasu	wasu	NOUN	n	_	13	nmod	13:nmod	_
-15	βeβé	βeβé	NOUN	n	_	13	nmod	13:nmod	_
-16	,	,	PUNCT	punct	_	1	punct	1:punct	_
-17	aɲaŋa	aɲaŋa	NOUN	n	_	1	appos	1:appos	_
-18	morapitiara	porapitiar	NOUN	n	Case=Ref|Hum=Yes	17	nmod	17:nmod	_
+13	anɨrá	anɨrá	NOUN	n	_	1	appos	_	_
+14	wasu	wasu	NOUN	n	_	13	nmod	_	_
+15	βeβé	βeβé	NOUN	n	_	13	nmod	_	_
+16	,	,	PUNCT	punct	_	1	punct	_	_
+17	aɲaŋa	aɲaŋa	NOUN	n	_	1	appos	_	_
+18	morapitiara	porapitiar	NOUN	n	Case=Ref|Hum=Yes	17	nmod	_	_
 
 # sent_id = 4451
 # text = aʔepe ikó ?
 # text_eng = Is it this one? (Teatro, 30)
 # text_por = É este?
-1	aʔepe	aʔe	PRON	dem	Int=Yes	0	root	0:root	_
-2	ikó	ko	PRON	dem	PronType=Dem	1	nsubj	1:nsubj	_
-3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	aʔepe	aʔe	PRON	dem	Int=Yes	0	root	_	_
+2	ikó	ko	PRON	dem	PronType=Dem	1	nsubj	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4452
 # text = ʃejɨβoja , ʃesokó , ʃetamũjusu Aimbiré , sukuriju , tawató , tamanwáatɨraβeβó ; ʃeaɲaŋa moropé !
 # text_eng = (Teatro, 30)
 # text_por = Eu sou uma jibóia, eu sou um socó, eu sou o grande tamoio Aimbirê, sucuriju, gavião, tamanduá topetudo; eu sou um diabo esquentador de gente
-1	ʃejɨβoja	jɨβoj	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ʃesokó	ko	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	ʃetamũjusu	tamũj	NOUN	n	Augm=Yes|Number=Sing|Person=1	1	parataxis	1:parataxis	_
-6	Aimbiré	Aimbiré	PROPN	propn	_	5	appos	5:appos	_
-7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	sukuriju	sukuri	NOUN	n	Augm=Yes	1	parataxis	1:parataxis	_
-9	,	,	PUNCT	punct	_	8	punct	8:punct	_
-10	tawató	tawató	NOUN	n	_	1	parataxis	1:parataxis	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
+1	ʃejɨβoja	jɨβoj	NOUN	n	Number=Sing|Person=1	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ʃesokó	ko	NOUN	n	Number=Sing|Person=1	1	parataxis	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ʃetamũjusu	tamũj	NOUN	n	Augm=Yes|Number=Sing|Person=1	1	parataxis	_	_
+6	Aimbiré	Aimbiré	PROPN	propn	_	5	appos	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	sukuriju	sukuri	NOUN	n	Augm=Yes	1	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	tawató	tawató	NOUN	n	_	1	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
 12-13	tamanwáatɨraβeβó	_	_	_	_	_	_	_	_
-12	tamanwá	_	NOUN	n	_	1	parataxis	1:parataxis	_
-13	atɨraβeβó	_	NOUN	n	_	12	nmod	12:nmod	_
-14	;	;	PUNCT	punct	_	12	punct	12:punct	_
-15	ʃeaɲaŋa	aɲaŋa	NOUN	n	Number=Sing|Person=1	1	parataxis	1:parataxis	_
-16	moropé	moropé	NOUN	n	Hum=Yes	15	nmod	15:nmod	_
-17	!	!	PUNCT	punct	_	15	punct	15:punct	_
+12	tamanwá	_	NOUN	n	_	1	parataxis	_	_
+13	atɨraβeβó	_	NOUN	n	_	12	nmod	_	_
+14	;	;	PUNCT	punct	_	12	punct	_	_
+15	ʃeaɲaŋa	aɲaŋa	NOUN	n	Number=Sing|Person=1	1	parataxis	_	_
+16	moropé	moropé	NOUN	n	Hum=Yes	15	nmod	_	_
+17	!	!	PUNCT	punct	_	15	punct	_	_
 
 # sent_id = 4453
 # text = Maʔetepe peseká kó ʃeretama pupé ?
 # text_eng = Who do you seek in my land ? (Teatro, 30)
 # text_por = Que é que procurais nesta minha terra?
-1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	2:obl	_
-2	peseká	ekár	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	0:root	_
-3	kó	ko	DET	dem	_	4	nmod	4:nmod	_
-4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Number=Sing|Person=1	2	obl	2:obl	_
-5	pupé	pupé	ADP	posp	_	4	case	4:case	_
-6	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	_	_
+2	peseká	ekár	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
+3	kó	ko	DET	dem	_	4	nmod	_	_
+4	ʃeretama	etam	NOUN	Case=Ref|Number=Yes|Person[subj]=Yes	Number=Sing|Person=1	2	obl	_	_
+5	pupé	pupé	ADP	posp	_	4	case	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 4454
 # text = Apɨaβa rawsupa ɲe , orérapiara potá , oréputupá sesé
 # text_eng = (Teatro, 30)
 # text_por = Amando os homens, querendo que nos obedeçam, nós nos preocupamos com eles
-1	Apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	2:obj	_
-2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	8	advcl	8:advcl	_
-3	ɲe	ɲe	PART	prcl	_	2	discourse	2:discourse	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
-6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
-7	,	,	PUNCT	punct	_	8	punct	8:punct	_
-8	oréputupá	putupab	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
-9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
+1	Apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	_	_
+2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	8	advcl	_	_
+3	ɲe	ɲe	PART	prcl	_	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	_	_
+6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	oréputupá	putupab	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	_	_
+9	sesé	esé	ADP	posp	Rel=NCont	8	obl	_	_
 
 # sent_id = 4455
 # text = Omaʔe , nipó , asé opɨʔa pupé sawsuβi
 # text_eng = (Teatro, 30)
 # text_por = Suas próprias coisas, na verdade, a gente ama em seu coração
-1	Omaʔe	maʔe	NOUN	n	Corf=Yes	8	obj	8:obj	_
-2	,	,	PUNCT	punct	_	8	punct	8:punct	_
-3	nipó	nipó	ADV	adv	_	8	advmod	8:advmod	_
-4	,	,	PUNCT	punct	_	8	punct	8:punct	_
-5	asé	asé	PRON	pron	PronType=Prs	8	nsubj	8:nsubj	_
-6	opɨʔa	pɨʔa	NOUN	n	Corf=Yes	8	obl	8:obl	_
-7	pupé	pupé	ADP	posp	_	6	case	6:case	_
-8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+1	Omaʔe	maʔe	NOUN	n	Corf=Yes	8	obj	_	_
+2	,	,	PUNCT	punct	_	8	punct	_	_
+3	nipó	nipó	ADV	adv	_	8	advmod	_	_
+4	,	,	PUNCT	punct	_	8	punct	_	_
+5	asé	asé	PRON	pron	PronType=Prs	8	nsubj	_	_
+6	opɨʔa	pɨʔa	NOUN	n	Corf=Yes	8	obl	_	_
+7	pupé	pupé	ADP	posp	_	6	case	_	_
+8	sawsuβi	awsub	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 4456
 # text = Abátepe , erimaʔe , pemaʔerama resé apɨaβa meʔeŋaʔubi ?
 # text_eng = Who gave you the men as your things? (Teatro, 30)
 # text_por = Mas quem entrgou os índios como coisas vossas ?
-1	Abátepe	_	PRON	pron	Int=Yes|PronType=Int	8	nsubj	8:nsubj	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	erimaʔe	erimaʔe	ADV	adv	_	8	advmod	8:advmod	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	pemaʔerama	maʔe	NOUN	n	Case=Ref|Number=Plur|Person[psor]=2|Tense=Fut	8	obl	8:obl	_
-6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
-7	apɨaβa	apɨab	NOUN	n	Case=Ref	8	obj	8:obj	_
-8	meʔeŋaʔubi	meʔeŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
-9	?	?	PUNCT	punct	_	8	punct	8:punct	_
+1	Abátepe	_	PRON	pron	Int=Yes|PronType=Int	8	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	erimaʔe	erimaʔe	ADV	adv	_	8	advmod	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	pemaʔerama	maʔe	NOUN	n	Case=Ref|Number=Plur|Person[psor]=2|Tense=Fut	8	obl	_	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	_	_
+7	apɨaβa	apɨab	NOUN	n	Case=Ref	8	obj	_	_
+8	meʔeŋaʔubi	meʔeŋ	NOUN	n	NonFoc=Yes	0	root	_	_
+9	?	?	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 4457
 # text = Tupã aé , okaraíβa pupé , iʔaŋa seté moɲaŋi
 # text_eng = (Teatro, 30)
 # text_por = O próprio Deus, com sua santidade, suas almas e seus corpos fez
-1	Tupã	Tupã	PROPN	propn	_	9	nsubj	9:nsubj	_
-2	aé	aé	PART	prcl	_	9	discourse	9:discourse	_
-3	,	,	PUNCT	punct	_	9	punct	9:punct	_
-4	okaraíβa	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	9:obl	_
-5	pupé	pupé	ADP	posp	_	4	case	4:case	_
-6	,	,	PUNCT	punct	_	9	punct	9:punct	_
-7	iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	9	obj	9:obj	_
-8	seté	eté	NOUN	n	Rel=NCont	7	conj	7:conj	_
-9	moɲaŋi	moɲaŋ	NOUN	n	NonFoc=Yes	0	root	0:root	_
+1	Tupã	Tupã	PROPN	propn	_	9	nsubj	_	_
+2	aé	aé	PART	prcl	_	9	discourse	_	_
+3	,	,	PUNCT	punct	_	9	punct	_	_
+4	okaraíβa	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	_	_
+5	pupé	pupé	ADP	posp	_	4	case	_	_
+6	,	,	PUNCT	punct	_	9	punct	_	_
+7	iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	9	obj	_	_
+8	seté	eté	NOUN	n	Rel=NCont	7	conj	_	_
+9	moɲaŋi	moɲaŋ	NOUN	n	NonFoc=Yes	0	root	_	_
 
 # sent_id = 4458
 # text = Tupã ? Te nipó , aɲe
 # text_eng = (Teatro, 30)
 # text_por = Deus? Ah, por certo é verdade...
-1	Tupã	Tupã	PROPN	propn	_	0	root	0:root	_
-2	?	?	PUNCT	punct	_	1	punct	1:punct	_
-3	Te	te	INTJ	intj	_	1	discourse	1:discourse	_
-4	nipó	nipó	ADV	adv	_	3	goeswith	3:goeswith	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	aɲe	aɲe	PART	prcl	_	1	discourse	1:discourse	_
+1	Tupã	Tupã	PROPN	propn	_	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+3	Te	te	INTJ	intj	_	1	discourse	_	_
+4	nipó	nipó	ADV	adv	_	3	goeswith	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	aɲe	aɲe	PART	prcl	_	1	discourse	_	_
 
 # sent_id = 4459
 # text = Sekóte ipoʃɨeté , sekó aʔe niporaŋi
 # text_eng =  Their lives are very bad, their deeds also are not nice (Teatro, 30)
 # text_por = Mas sua vida é muito má, seus atos não são belos.
-1	Sekóte	ikó	NOUN	n	Rel=NCont	2	nsubj	2:nsubj	_
-2	ipoʃɨeté	poʃɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	0:root	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	sekó	ikó	NOUN	dem	_	6	nsubj	6:nsubj	_
-5	aʔe	ʔ	PART	prcl	_	6	discourse	6:discourse	_
-6	niporaŋi	poraŋ	NOUN	n	Polarity=Neg|Rel=NCont	2	parataxis	2:parataxis	_
+1	Sekóte	ikó	NOUN	n	Rel=NCont	2	nsubj	_	_
+2	ipoʃɨeté	poʃɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	sekó	ikó	NOUN	dem	_	6	nsubj	_	_
+5	aʔe	ʔ	PART	prcl	_	6	discourse	_	_
+6	niporaŋi	poraŋ	NOUN	n	Polarity=Neg|Rel=NCont	2	parataxis	_	_
 
 # sent_id = 4460
 # text = Iaŋaipá ;
 # text_eng =  They are sinners (Teatro, 30)
 # text_por = Eles são pecadores
-1	Iaŋaipá	aŋaipá(b)	NOUN	n	Rel=NCont	0	root	0:root	_
-2	;	;	PUNCT	punct	_	1	punct	1:punct	_
+1	Iaŋaipá	aŋaipá(b)	NOUN	n	Rel=NCont	0	root	_	_
+2	;	;	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4461
 # text = Tupã osawsupeʔa , sesé ojeroβjaβeβuja
 # text_eng =  God (Teatro, 30)
 # text_por = Deus deixou de amá-los, tendo pouca confiança neles.
-1	Tupã	Tupã	PROPN	propn	_	2	obl:subj	2:obl:subj	_
+1	Tupã	Tupã	PROPN	propn	_	2	obl:subj	_	_
 2-3	osawsupeʔa	_	_	_	_	_	_	_	_
-2	osawsu	awsub	VERB	v	Person[obj]=3|Person[subj]=3	0	root	0:root	_
-3	peʔa	peʔa	VERB	v	_	2	dep	2:dep	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	sesé	esé	ADP	posp	Rel=NCont	6	obl	6:obl	_
+2	osawsu	awsub	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+3	peʔa	peʔa	VERB	v	_	2	dep	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	sesé	esé	ADP	posp	Rel=NCont	6	obl	_	_
 6-7	ojeroβjaβeβuja	_	_	_	_	_	_	_	_
-6	ojeroβia	eroβiar	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	2:advcl	_
-7	βeβuja	βeβuja	ADV	adv	_	6	advmod	6:advmod	_
+6	ojeroβia	eroβiar	VERB	v	Person[subj]=3|Reflex=Yes|VerbForm=Ger	2	advcl	_	_
+7	βeβuja	βeβuja	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 4462
 # text = ɨgasápe kawituja , aʔe ré iamomotá , ojojá waibĩ rekuia
 # (Teatro, 30)
 # Nas igaçabas o cauim transbordante, além disso, os atrai, e, igualmente, as cuias das velhas
-1	ɨgasápe	ɨgasáb	NOUN	n	Case=Loc|Nomzr=Circ	3	obl	3:obl	_
+1	ɨgasápe	ɨgasáb	NOUN	n	Case=Loc|Nomzr=Circ	3	obl	_	_
 2-3	kawituja	_	_	_	_	_	_	_	_
-2	kawi	kawi	NOUN	n	_	3	nmod	3:nmod	_
-3	tuja	tuja	NOUN	n	_	7	obl:subj	7:obl:subj	_
-4	,	,	PUNCT	punct	_	7	punct	7:punct	_
-5	aʔe	aʔe	DET	dem	_	7	advmod	7:advmod	_
-6	ré	ré	ADP	posp	_	5	goeswith	5:goeswith	_
-7	iamomotá	momotá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	ojojá	ojojá	ADV	adv	_	7	advmod	7:advmod	_
-10	waibĩ	waibĩ	NOUN	n	_	11	nmod	11:nmod	_
-11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	7:conj	_
+2	kawi	kawi	NOUN	n	_	3	nmod	_	_
+3	tuja	tuja	NOUN	n	_	7	obl:subj	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	aʔe	aʔe	DET	dem	_	7	advmod	_	_
+6	ré	ré	ADP	posp	_	5	goeswith	_	_
+7	iamomotá	momotá	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	ojojá	ojojá	ADV	adv	_	7	advmod	_	_
+10	waibĩ	waibĩ	NOUN	n	_	11	nmod	_	_
+11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	_	_
 
 # sent_id = 4463
 # text = Ojmoapɨ aβá kujaβa ; ʔaŋa e semimotara
@@ -4134,196 +4134,196 @@
 # text = Moraseja reroβjara ipɨʔa jajporakar ; nomoetéj omoɲaŋara
 # text_eng = (Teatro, 32)
 # text_por = A crença na dança enche seus corações; não honram seu criador.
-1	Moraseja	porasej	NOUN	n	Case=Ref|Rel=Hum	2	nmod	2:nmod	_
-2	reroβjara	eroβjar	NOUN	n	Case=Ref|Rel=Cont	4	obl:subj	4:obl:subj	_
-3	ipɨʔa	pɨʔa	NOUN	n	Rel=NCont	4	obl:obj	4:obl:obj	_
-4	jajporakar	porakar	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	0:root	_
-5	;	;	PUNCT	punct	_	4	punct	4:punct	_
-6	nomoetéj	moeté	VERB	v	Person[subj]=3|Polarity=Neg|Voice=Cau	4	parataxis	4:parataxis	_
-7	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	6:obj	_
+1	Moraseja	porasej	NOUN	n	Case=Ref|Rel=Hum	2	nmod	_	_
+2	reroβjara	eroβjar	NOUN	n	Case=Ref|Rel=Cont	4	obl:subj	_	_
+3	ipɨʔa	pɨʔa	NOUN	n	Rel=NCont	4	obl:obj	_	_
+4	jajporakar	porakar	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1	0	root	_	_
+5	;	;	PUNCT	punct	_	4	punct	_	_
+6	nomoetéj	moeté	VERB	v	Person[subj]=3|Polarity=Neg|Voice=Cau	4	parataxis	_	_
+7	omoɲaŋara	moɲaŋ	NOUN	n	Case=Ref|Corf=Yes|Nomzr=Ag	6	obj	_	_
 
 # sent_id = 4465
 # text = Nosaʔaŋitepe akó ɲemoʔe koʔarapukuj ?
 # text_eng = (Teatro, 32)
 # text_por = Mas não tentam esses aprender sempre?
-1	Nosaʔaŋitepe	aʔaŋ	VERB	v	Int=Yes|Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	0:root	_
-2	akó	akó	DET	dem	_	1	obl:subj	1:obl:subj	_
-3	ɲemoʔe	jemoʔe	NOUN	n	Reflex=Yes	1	obl:obj	1:obl:obj	_
-4	koʔarapukuj	koʔarapukuj	ADV	adv	_	1	advmod	1:advmod	_
-5	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Nosaʔaŋitepe	aʔaŋ	VERB	v	Int=Yes|Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	_	_
+2	akó	akó	DET	dem	_	1	obl:subj	_	_
+3	ɲemoʔe	jemoʔe	NOUN	n	Reflex=Yes	1	obl:obj	_	_
+4	koʔarapukuj	koʔarapukuj	ADV	adv	_	1	advmod	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4466
 # text = Osó meémo mamõ ?
 # text_eng = (Teatro, 32)
 # text_por = Teriam ido longe? 
-1	Osó	so	VERB	v	Person[subj]=3	0	root	0:root	_
-2	meémo	meémo	PART	prcl	Mood=Cnd	1	dep	1:dep	_
-3	mamõ	mamõ	ADV	adv	_	1	advmod	1:advmod	_
-4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+1	Osó	so	VERB	v	Person[subj]=3	0	root	_	_
+2	meémo	meémo	PART	prcl	Mood=Cnd	1	dep	_	_
+3	mamõ	mamõ	ADV	adv	_	1	advmod	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 4467
 # text = Aɲe ijurupe ɲõ , Tupã rerobjara ruj
 # text_eng = (Teatro, 32)
 # text_por = É verdade. Somente nas suas bocas está a crença em Deus
-1	Aɲe	_	PART	prcl	_	7	discourse	7:discourse	_
-2	ijurupe	uru	NOUN	n	Case=Loc|Rel=NCont	7	obl	7:obl	_
-3	ɲõ	ɲõ	ADV	adv	_	7	advmod	7:advmod	_
-4	,	,	PUNCT	punct	_	7	punct	7:punct	_
-5	Tupã	Tupã	PROPN	propn	_	6	nmod	6:nmod	_
-6	rerobjara	erobjar	NOUN	n	Case=Ref|Rel=Cont	7	nsubj	7:nsubj	_
-7	ruj	(j)ub	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	0:root	_
+1	Aɲe	_	PART	prcl	_	7	discourse	_	_
+2	ijurupe	uru	NOUN	n	Case=Loc|Rel=NCont	7	obl	_	_
+3	ɲõ	ɲõ	ADV	adv	_	7	advmod	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	Tupã	Tupã	PROPN	propn	_	6	nmod	_	_
+6	rerobjara	erobjar	NOUN	n	Case=Ref|Rel=Cont	7	nsubj	_	_
+7	ruj	(j)ub	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
 
 # sent_id = 4468
 # text = Neʔi teʔe , opɨʔa pupé , ojemoŋetáŋetáβo , Tupã momburukatuaβo , Sesapɨsóaʔupe e Tupã ʃerepjaka ? oʔiaβo
 # text_eng = (teatro, 32)
 # text_por = Por isso mesmo é que, em seus corações, ficando a rezar, desafiam muito a Deus, dizendo: "- tem Deus vista aguda para me ver?"
-1	Neʔi	ʔi	VERB	v	Person=3|Polarity=Neg	0	root	0:root	_
-2	teʔe	teʔe	PART	prcl	_	1	dep	1:dep	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	opɨʔa	pɨʔa	NOUN	n	Corf=Yes|Person=3	7	obl	7:obl	_
-5	pupé	pupé	ADP	posp	_	4	obl	4:obl	_
-6	,	,	PUNCT	punct	_	4	punct	4:punct	_
-7	ojemoŋetáŋetáβo	_	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger	1	advcl	1:advcl	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	Tupã	Tupã	PROPN	propn	_	10	obj	10:obj	_
-10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Cau	7	conj	7:conj	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	Sesapɨsóaʔupe	esapɨsó	NOUN	n	Int=Yes|Rel=NCont	17	ccomp	17:ccomp	_
-13	e	e	PART	prcl	_	12	discourse	12:discourse	_
-14	Tupã	Tupã	PROPN	propn	_	12	nsubj	12:nsubj	_
-15	ʃerepjaka	epják	NOUN	n	Case=Ref|Number=Sing|Person=1|Rel=Cont	12	xcomp	12:xcomp	_
-16	?	?	PUNCT	punct	_	12	punct	12:punct	_
-17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	7:advcl	_
+1	Neʔi	ʔi	VERB	v	Person=3|Polarity=Neg	0	root	_	_
+2	teʔe	teʔe	PART	prcl	_	1	dep	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	opɨʔa	pɨʔa	NOUN	n	Corf=Yes|Person=3	7	obl	_	_
+5	pupé	pupé	ADP	posp	_	4	obl	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	ojemoŋetáŋetáβo	_	VERB	v	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger	1	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	Tupã	Tupã	PROPN	propn	_	10	obj	_	_
+10	momburukatuaβo	_	VERB	v	Intens=Yes|VerbForm=Ger|Voice=Cau	7	conj	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	Sesapɨsóaʔupe	esapɨsó	NOUN	n	Int=Yes|Rel=NCont	17	ccomp	_	_
+13	e	e	PART	prcl	_	12	discourse	_	_
+14	Tupã	Tupã	PROPN	propn	_	12	nsubj	_	_
+15	ʃerepjaka	epják	NOUN	n	Case=Ref|Number=Sing|Person=1|Rel=Cont	12	xcomp	_	_
+16	?	?	PUNCT	punct	_	12	punct	_	_
+17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
 
 # sent_id = 4469
 # text = wabiru ruãpe ikó konipó sarigweinema ?
 # text_eng = (Teatro, 32)
 # text_por = Será que isto é um guabiru4o ou um sarigüê fedorento?
-1	wabiru	wabiru	NOUN	n	_	0	root	0:root	_
-2	ruãpe	ko	PART	dem	Int=Yes	1	discourse	1:discourse	_
-3	ikó	ko	DET	dem	_	1	nmod	1:nmod	_
-4	konipó	konipó	CCONJ	cc	_	5	cc	5:cc	_
+1	wabiru	wabiru	NOUN	n	_	0	root	_	_
+2	ruãpe	ko	PART	dem	Int=Yes	1	discourse	_	_
+3	ikó	ko	DET	dem	_	1	nmod	_	_
+4	konipó	konipó	CCONJ	cc	_	5	cc	_	_
 5-6	sarigweinema	_	_	_	_	_	_	_	_
-5	sarigwe	sarigwe	NOUN	n	_	1	conj	1:conj	_
-6	nema	nem	NOUN	n	_	5	nmod	5:nmod	_
-7	?	?	PUNCT	punct	_	1	punct	1:punct	_
+5	sarigwe	sarigwe	NOUN	n	_	1	conj	_	_
+6	nema	nem	NOUN	n	_	5	nmod	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 44471
 # text = Pɨsaré serã ereikó ariɲama mokaɲema , apɨaβa monɨaβó ?
 # text_eng = (Teatro, 32)
 # text_por = Será que a noite toda ages para fazer sumir as galinhas, os índios empobrecendo?
-1	Pɨsaré	pɨsaré	ADV	propn	_	3	advmod	3:advmod	_
-2	serã	serã	ADV	adv	_	3	advmod	3:advmod	_
-3	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
-4	ariɲama	ariɲama	NOUN	n	_	5	obl	5:obl	_
-5	mokaɲema	mokaɲem	NOUN	n	_	3	advcl	3:advcl	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	apɨaβa	apɨaβ	NOUN	n	Case=Ref	8	obj	8:obj	_
-8	monɨaβó	_	NOUN	n	_	3	advcl	3:advcl	_
-9	?	?	PUNCT	punct	_	3	punct	3:punct	_
+1	Pɨsaré	pɨsaré	ADV	propn	_	3	advmod	_	_
+2	serã	serã	ADV	adv	_	3	advmod	_	_
+3	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	_	_
+4	ariɲama	ariɲama	NOUN	n	_	5	obl	_	_
+5	mokaɲema	mokaɲem	NOUN	n	_	3	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	apɨaβa	apɨaβ	NOUN	n	Case=Ref	8	obj	_	_
+8	monɨaβó	_	NOUN	n	_	3	advcl	_	_
+9	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 44472
 # text = Iʔaŋa ʔupotá é , pɨsaré nakeraŋái
 # text_eng = (Teatro, 32)
 # text_por = Querendo devorar suas almas, a noite toda não dormi
-1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obj	2:obj	_
-2	ʔupotá	ʔupotar	VERB	v	VerbForm=Ger	6	advcl	6:advcl	_
-3	é	é	PART	pcl	_	2	discourse	2:discourse	_
-4	,	,	PUNCT	punct	_	6	punct	6:punct	_
-5	pɨsaré	pɨsaré	ADV	adv	_	6	advmod	6:advmod	_
-6	nakeraŋái	nakeraŋá	NOUN	n	NonFoc=Yes	0	root	0:root	_
+1	Iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	2	obj	_	_
+2	ʔupotá	ʔupotar	VERB	v	VerbForm=Ger	6	advcl	_	_
+3	é	é	PART	pcl	_	2	discourse	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	pɨsaré	pɨsaré	ADV	adv	_	6	advmod	_	_
+6	nakeraŋái	nakeraŋá	NOUN	n	NonFoc=Yes	0	root	_	_
 
 # sent_id = 44474
 # text = Awjé ! Ajeʔeŋ , Sarawaj !
 # text_eng = (Teatro, 32)
 # text_por = Basta! Falo eu, Sarauaia!
-1	Awjé	awjé	INTJ	intj	_	3	discourse	3:discourse	_
-2	!	!	PUNCT	punct	_	3	punct	3:punct	_
-3	Ajeʔeŋ	Aɲeʔeŋ	VERB	vi	Number=Sing|Person[subj]=1	0	root	0:root	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	Sarawaj	Sarawaj	PROPN	propn	_	3	vocative	3:vocative	_
-6	!	!	PUNCT	punct	_	3	punct	3:punct	_
+1	Awjé	awjé	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	3	punct	_	_
+3	Ajeʔeŋ	Aɲeʔeŋ	VERB	vi	Number=Sing|Person[subj]=1	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Sarawaj	Sarawaj	PROPN	propn	_	3	vocative	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 44476
 # text = ʃerenõi umẽ jepé iʃupé , naʃejukáj !
 # text_eng = (Teatro, 32)
 # text_por = Não digas meu nome para ele, senão me mata
-1	ʃerenõi	renõi	NOUN	n	Number=Sing|Person=1|Rel=Cont	0	root	0:root	_
-2	umẽ	umẽ	PART	prcl	Polarity=Neg	1	advmod	1:advmod	_
-3	jepé	jepé	PRON	pron	_	1	nsubj	1:nsubj	_
-4	iʃupé	supé	ADP	posp	Rel=NCont	1	obl	1:obl	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	naʃejukáj	juká	NOUN	n	Number=Sing|Person=1|Polarity=Neg	1	parataxis	1:parataxis	_
-7	!	!	PUNCT	punct	_	6	punct	6:punct	_
+1	ʃerenõi	renõi	NOUN	n	Number=Sing|Person=1|Rel=Cont	0	root	_	_
+2	umẽ	umẽ	PART	prcl	Polarity=Neg	1	advmod	_	_
+3	jepé	jepé	PRON	pron	_	1	nsubj	_	_
+4	iʃupé	supé	ADP	posp	Rel=NCont	1	obl	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	naʃejukáj	juká	NOUN	n	Number=Sing|Person=1|Polarity=Neg	1	parataxis	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 44477
 # text = ʃemĩte jepé iʃuí ! nemaɲanamo tojkóne !
 # text_eng = (Teatro, 34)
 # text_por = Mas esconde-me tu dele! Ele há de ser teu espião!
-1	ʃemĩte	ʃemite	NOUN	n	_	0	root	0:root	_
-2	jepé	jepé	PRON	pron	_	1	nsubj	1:nsubj	_
-3	iʃuí	swi	ADP	posp	Rel=NCont	2	case	2:case	_
-4	!	!	PUNCT	punct	_	1	punct	1:punct	_
-5	nemaɲanamo	maɲan	ADP	posp	Number=Sing|Person=1	6	obl	6:obl	_
-6	tojkóne	ikó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
-7	!	!	PUNCT	punct	_	6	punct	6:punct	_
+1	ʃemĩte	ʃemite	NOUN	n	_	0	root	_	_
+2	jepé	jepé	PRON	pron	_	1	nsubj	_	_
+3	iʃuí	swi	ADP	posp	Rel=NCont	2	case	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+5	nemaɲanamo	maɲan	ADP	posp	Number=Sing|Person=1	6	obl	_	_
+6	tojkóne	ikó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.78
 # text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciarei. Esconde-te, fica quieto. Hoje mesmo hei de te mandar embora.
-1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1|Polarity=Neg	0	root	0:root	_
-2	ʃóne	ʃó	ADV	adv	Polarity=Neg|Tense=Fut	1	advmod	1:advmod	_
-3	.	.	PUNCT	punct	_	1	punct	1:punct	_
-4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	nekɨriri	nekɨriri	NOUN	n	_	1	parataxis	1:parataxis	_
-7	.	.	PUNCT	punct	_	1	punct	1:punct	_
-8	Kori	kori	ADV	adv	_	10	advmod	10:advmod	_
-9	é	é	PART	pcl	_	10	discourse	10:discourse	_
-10	toromonóne	oromonó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
-11	.	.	PUNCT	punct	_	10	punct	10:punct	_
+1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1|Polarity=Neg	0	root	_	_
+2	ʃóne	ʃó	ADV	adv	Polarity=Neg|Tense=Fut	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	nekɨriri	nekɨriri	NOUN	n	_	1	parataxis	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+8	Kori	kori	ADV	adv	_	10	advmod	_	_
+9	é	é	PART	pcl	_	10	discourse	_	_
+10	toromonóne	oromonó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.79
 # text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciaremos. Esconde-te, fica quieto. Hoje mesmo te mandaremos embora.
-1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	0:root	_
-2	ʃóne	ʃó	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
-3	.	,	PUNCT	punct	_	1	punct	1:punct	_
-4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	nekɨriri	nekɨriri	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
-7	.	.	PUNCT	punct	_	1	punct	1:punct	_
-8	Kori	kori	ADV	adv	_	10	advmod	10:advmod	_
-9	é	é	PART	pcl	_	10	discourse	10:discourse	_
-10	toromonóne	oromonó	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
-11	.	,	PUNCT	punct	_	10	punct	10:punct	_
+1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
+2	ʃóne	ʃó	ADV	adv	Tense=Fut	1	advmod	_	_
+3	.	,	PUNCT	punct	_	1	punct	_	_
+4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	nekɨriri	nekɨriri	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+8	Kori	kori	ADV	adv	_	10	advmod	_	_
+9	é	é	PART	pcl	_	10	discourse	_	_
+10	toromonóne	oromonó	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	_	_
+11	.	,	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.81
 # text = Ajemiŋatupe ká ; awjeté naʃerepjaki !
 # text_eng = (Teatro, 34)
 # text_por = Hei de me esconder bem; ainda bem que não me viu
-1	Ajemiŋatupe	mim	VERB	v	Intens=Yes|Number=Sing|Person=1|Reflex=Yes|Rel=NCont	0	root	0:root	_
-2	ká	ká	PART	prcl	_	1	discourse	1:discourse	_
-3	;	;	PUNCT	punct	_	1	punct	1:punct	_
-4	awjeté	awjeté	NOUN	n	Intens=Yes	5	discourse	5:discourse	_
-5	naʃerepjaki	epjak	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Rel=Cont	1	parataxis	1:parataxis	_
-6	!	!	PUNCT	punct	_	1	punct	1:punct	_
+1	Ajemiŋatupe	mim	VERB	v	Intens=Yes|Number=Sing|Person=1|Reflex=Yes|Rel=NCont	0	root	_	_
+2	ká	ká	PART	prcl	_	1	discourse	_	_
+3	;	;	PUNCT	punct	_	1	punct	_	_
+4	awjeté	awjeté	NOUN	n	Intens=Yes	5	discourse	_	_
+5	naʃerepjaki	epjak	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Rel=Cont	1	parataxis	_	_
+6	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0044.82
 # text = Tajɨβõne ! Ejepeʔa ! Ekwá ké swi raá !
 # text_eng = (Teatro, )
 # text_por = Hei de flechá-lo. Afasta-te! Vai-te daqui já!
-1	Tajɨβõne	ɨβõ	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Tense=Fut	0	root	0:root	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
-3	Ejepeʔa	Ejepeʔ	VERB	n	Mood=Imp|Number=Sing|Person=2|Reflex=Yes	1	parataxis	1:parataxis	_
-4	!	!	PUNCT	punct	_	3	punct	3:punct	_
-5	Ekwá	kwá	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
-6	ké	ké	ADV	n	_	5	obl	5:obl	_
-7	swi	swi	ADP	posp	Rel=Cont	5	case	5:case	_
-8	raá	raá	PART	v	_	5	discourse	5:discourse	_
-9	!	!	PUNCT	punct	_	5	punct	5:punct	_
+1	Tajɨβõne	ɨβõ	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Tense=Fut	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Ejepeʔa	Ejepeʔ	VERB	n	Mood=Imp|Number=Sing|Person=2|Reflex=Yes	1	parataxis	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+5	Ekwá	kwá	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+6	ké	ké	ADV	n	_	5	obl	_	_
+7	swi	swi	ADP	posp	Rel=Cont	5	case	_	_
+8	raá	raá	PART	v	_	5	discourse	_	_
+9	!	!	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0044.84
 # text = Okerĩ , neremomaki !
@@ -4385,80 +4385,80 @@
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
 # text_por = Mãe de Deus muito bela, morrendo, chegamos ao fim.
-1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
 2-3	sɨporaŋeté	_	_	_	_	_	_	_	_
-2	sɨ	sɨ	NOUN	n	_	0	root	0:root	_
-3	poraŋeté	poraŋ	NOUN	n	Intens=Yes	2	nmod	2:nmod	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	oropaβ	paβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	2	parataxis	2:parataxis	_
-6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	5	advcl	5:advcl	_
-7	.	.	PUNCT	punct	_	2	punct	2:punct	_
+2	sɨ	sɨ	NOUN	n	_	0	root	_	_
+3	poraŋeté	poraŋ	NOUN	n	Intens=Yes	2	nmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	oropaβ	paβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	2	parataxis	_	_
+6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	5	advcl	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 9902
 # text = Orémoíŋoβé íepé , ndememɨra moɲɨrõmo , inõŋatwaβo , orérarõmo , oréʔaŋa pɨsɨrõmo .
 # text_eng = (Poemas, 82)
 # text_por = Faze-nos tu viver, aplacando teu filho, fazendo-o manso, guardando-nos, salvando nossa alma.
-1	Orémoíŋoβé	rémoíŋoβé	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
-2	íepé	íepé	PRON	pron	_	1	obl	1:obl	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ndememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	5	obj	5:obj	_
-5	moɲɨrõmo	moɲɨrõ	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	1:advcl	_
-6	,	,	PUNCT	punct	_	5	punct	5:punct	_
-7	inõŋatwaβo	nõŋatu	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	5:advcl	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	orérarõmo	rérarõ	VERB	V	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	5	advcl	5:advcl	_
-10	,	,	PUNCT	punct	_	9	punct	9:punct	_
-11	oréʔaŋa	réʔaŋ	NOUN	n	Case=Ref|Corf=Yes	12	obj	12:obj	_
-12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
-13	.	.	PUNCT	punct	_	12	punct	12:punct	_
+1	Orémoíŋoβé	rémoíŋoβé	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+2	íepé	íepé	PRON	pron	_	1	obl	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ndememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	5	obj	_	_
+5	moɲɨrõmo	moɲɨrõ	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	inõŋatwaβo	nõŋatu	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	orérarõmo	rérarõ	VERB	V	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	5	advcl	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	oréʔaŋa	réʔaŋ	NOUN	n	Case=Ref|Corf=Yes	12	obj	_	_
+12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	5	advcl	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = 9903
 # text = Ejori oreresé nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsu peʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
-1	Ejori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
-2	oreresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	4:obl	_
-3	nememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	4:obj	_
-4	moŋetáβo	moŋet	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
-7	tawjé	tawjé	ADV	adv	_	6	advmod	6:advmod	_
-8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	9	nmod	9:nmod	_
-9	rawsu	awsub	NOUN	n	Rel=Cont	10	obj	10:obj	_
-10	peʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	6:advcl	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
-13	,	,	PUNCT	punct	_	12	punct	12:punct	_
-14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	12:conj	_
-15	,	,	PUNCT	punct	_	14	punct	14:punct	_
-16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	17:obj	_
-17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	6	advcl	6:advcl	_
-18	.	.	PUNCT	punct	_	17	punct	17:punct	_
+1	Ejori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	oreresé	esé	ADP	posp	Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	obl	_	_
+3	nememɨra	memɨr	NOUN	n	Case=Ref|Number=Sing|Person=2	4	obj	_	_
+4	moŋetáβo	moŋet	VERB	v	VerbForm=Ger	1	xcomp	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	toroʔekatu	_	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	_	_
+7	tawjé	tawjé	ADV	adv	_	6	advmod	_	_
+8	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	9	nmod	_	_
+9	rawsu	awsub	NOUN	n	Rel=Cont	10	obj	_	_
+10	peʔaβo	awsub	NOUN	n	Rel=Cont	6	advcl	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	imomosema	mosem	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	imomoʃɨaβo	imomoʃɨ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	12	conj	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	iʔaŋajpaβa	iʔaŋajpaβ	NOUN	n	Case=Ref|Rel=NCont	17	obj	_	_
+17	momurwaβo	momuru	VERB	v	VerbForm=Ger|Voice=Cau	6	advcl	_	_
+18	.	.	PUNCT	punct	_	17	punct	_	_
 
 # sent_id = 0099.04
 # text = neporãŋatu rawsupa , tekóaʔiβa oromopó . neresé memẽ oroikó , neroβá repiakaʔupa , nerapekóβo , nesunesupa , oréɨβɨjme nererupa .
 # text_eng = (Poemas, 84)
 # text_por = Amando tua grande beleza, a vida ruim atiramos fora. Contigo sempre estamos, tendo saudades de tua face, freqüentando-te, ficando a visitar-te, fazendo-te estar em nosso interior.
-1	neporãŋatu	poraŋ	NOUN	n	Intens=Yes|Number=Sing|Person=2	2	obj	2:obj	_
-2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	6	advcl	6:advcl	_
-3	,	,	PUNCT	punct	_	6	punct	6:punct	_
+1	neporãŋatu	poraŋ	NOUN	n	Intens=Yes|Number=Sing|Person=2	2	obj	_	_
+2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	6	advcl	_	_
+3	,	,	PUNCT	punct	_	6	punct	_	_
 4-5	tekóaʔiβa	_	_	_	_	_	_	_	_
-4	tekó	ikó	NOUN	n	Rel=NCont	6	obj	6:obj	_
-5	aʔiβa	aʔib	NOUN	n	Case=Ref	4	nmod	4:nmod	_
-6	oromopó	mopó	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Voice=Cau	0	root	0:root	_
-7	.	.	PUNCT	punct	_	6	punct	6:punct	_
-8	neresé	esé	ADP	_	Number=Sing|Person=2|Rel=Cont	10	obl	10:obl	_
-9	memẽ	memẽ	ADV	adv	_	10	advmod	10:advmod	_
-10	oroikó	ikó	VERB	v	Clusivity=Ex|Number=Plur|Person=1	6	parataxis	6:parataxis	_
-11	,	,	PUNCT	punct	_	10	punct	10:punct	_
-12	neroβá	oβá	NOUN	n	Number=Sing|Person=2|Rel=Cont	13	obj	13:obj	_
-13	repiakaʔupa	epiakaʔub	VERB	v	Rel=Cont|VerbForm=Ger	10	advcl	10:advcl	_
-14	,	,	PUNCT	punct	_	10	punct	10:punct	_
-15	nerapekóβo	apekó	VERB	v	Number=Sing|Person=2|Rel=Cont	10	advcl	10:advcl	_
-16	,	,	PUNCT	punct	_	10	punct	10:punct	_
-17	nesunesupa	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	10	advcl	10:advcl	_
-18	,	,	PUNCT	punct	_	10	punct	10:punct	_
-19	oréɨβɨjme	_	NOUN	n	Case=Loc|Clusivity=Ex|Number=Plur|Person=1	20	obl	20:obl	_
-20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=Com	10	advcl	10:advcl	_
-21	.	.	PUNCT	punct	_	10	punct	10:punct	_
+4	tekó	ikó	NOUN	n	Rel=NCont	6	obj	_	_
+5	aʔiβa	aʔib	NOUN	n	Case=Ref	4	nmod	_	_
+6	oromopó	mopó	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Voice=Cau	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+8	neresé	esé	ADP	_	Number=Sing|Person=2|Rel=Cont	10	obl	_	_
+9	memẽ	memẽ	ADV	adv	_	10	advmod	_	_
+10	oroikó	ikó	VERB	v	Clusivity=Ex|Number=Plur|Person=1	6	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	neroβá	oβá	NOUN	n	Number=Sing|Person=2|Rel=Cont	13	obj	_	_
+13	repiakaʔupa	epiakaʔub	VERB	v	Rel=Cont|VerbForm=Ger	10	advcl	_	_
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	nerapekóβo	apekó	VERB	v	Number=Sing|Person=2|Rel=Cont	10	advcl	_	_
+16	,	,	PUNCT	punct	_	10	punct	_	_
+17	nesunesupa	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	10	advcl	_	_
+18	,	,	PUNCT	punct	_	10	punct	_	_
+19	oréɨβɨjme	_	NOUN	n	Case=Loc|Clusivity=Ex|Number=Plur|Person=1	20	obl	_	_
+20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=Com	10	advcl	_	_
+21	.	.	PUNCT	punct	_	10	punct	_	_
 
