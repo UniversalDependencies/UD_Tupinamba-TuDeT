@@ -221,18 +221,18 @@
 # text = iʔárɨβo omanõmo jandéjara jandérepɨmeʔengawera resé , Aɲanga ratá swi jandépɨsɨrõ resé βé
 # text_eng = By dying on it our lord for our rescue, for our liberation from the fire of the devil also. (Book 1 chap 2)
 # text_por = 
-1	iʔárɨβo	ʔar	ADP	posp	Case=Per|Rel=NCont	2	case	_	_
-2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	_	_
-3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	_	_
-4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	_	_
-5	resé	esé	ADP	posp	Rel=Cont	4	case	_	_
-6	,	,	PUNCT	punct	_	2	punct	_	_
-7	Aɲanga	Aɲanga	PROPN	propn	_	8	nmod	_	_
-8	ratá	atá	NOUN	n	Rel=Cont	10	obl	_	_
-9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
-10	jandépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	obl	_	_
-11	resé	esé	ADP	posp	Rel=Cont	10	case	_	_
-12	βé	βé	ADV	adv	_	10	advmod	_	_
+1	iʔárɨβo	ʔar	ADP	posp	Case=Per|Rel=NCont	2	case	2:case	_
+2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	0:root	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	2:nsubj	_
+4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	2:obl	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
+6	,	,	PUNCT	punct	_	2	punct	2:punct	_
+7	Aɲanga	Aɲanga	PROPN	propn	_	8	nmod	8:nmod	_
+8	ratá	atá	NOUN	n	Rel=Cont	10	obl	10:obl	_
+9	swi	swi	ADP	posp	Rel=Cont	8	case	8:case	_
+10	jandépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	obl	2:obl	_
+11	resé	esé	ADP	posp	Rel=Cont	10	case	10:case	_
+12	βé	βé	ADV	adv	_	10	advmod	10:advmod	_
 
 # sent_id = 5
 # text = Marã eʔipe asé ojoβasapa ?
