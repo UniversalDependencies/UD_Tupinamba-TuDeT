@@ -4381,6 +4381,23 @@
 9	witupa	jub	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=1|VerbForm=Ger	7	aux	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
+# sent_id = 44491
+# text = Aɲẽ , pekwá esapɨʔa ! ʃemoaɲe kó ʃeβojá , jeí ʃerepkakaʔupa .
+# text_eng = (Teatro, 34)
+# text_por = Ide depressa! Apressam-me estes meus súditos, tendo, hoje, saudades de mim
+1	Aɲẽ	aɲẽ	PART	prcl	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	pekwá	só	VERB	v	Mood=Imp|Number=Plur|Person=2	0	root	_	_
+4	esapɨʔa	esapɨʔa	ADV	n	Number=Sing|Person=1	3	advmod	_	_
+5	!	!	PUNCT	punct	_	3	punct	_	_
+6	ʃemoaɲe	moaɲe	NOUN	prcl	Number=Sing|Person=1	3	parataxis	_	_
+7	kó	ko	DET	dem	_	8	nmod	_	_
+8	ʃeβojá	βojá	NOUN	n	Number=Sing|Person=1	6	nsubj	_	_
+9	,	,	PUNCT	punct	_	6	punct	_	_
+10	jeí	jeí	ADV	adv	_	11	advmod	_	_
+11	ʃerepjakaʔupa	epiakaʔub	VERB	v	Number=SIng|Person=1|Rel=Cont|VerbForm=Ger	6	advcl	_	_
+12	.	.	PUNCT	punct	_	11	punct	_	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
