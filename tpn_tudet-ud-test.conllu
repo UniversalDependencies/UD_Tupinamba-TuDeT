@@ -4212,7 +4212,7 @@
 2	serã	serã	ADV	adv	_	3	advmod	3:advmod	_
 3	ereikó	ikó	VERB	v	Number=Sing|Person[subj]=2	0	root	0:root	_
 4	ariɲama	ariɲama	NOUN	n	_	5	obl	5:obl	_
-5	mokaɲema	mokaɲem	NOUN	n	_	3	advmod	3:advmod	_
+5	mokaɲema	mokaɲem	NOUN	n	_	3	advcl	3:advcl	_
 6	,	,	PUNCT	punct	_	5	punct	5:punct	_
 7	apɨaβa	apɨaβ	NOUN	n	Case=Ref	8	obj	8:obj	_
 8	monɨaβó	_	NOUN	n	_	3	advcl	3:advcl	_
@@ -4265,20 +4265,20 @@
 7	!	!	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 44478
-# text = noromomeʔui ʃóne. Eɲemi , nekɨriri . Kori é toromonóne .
+# text = noromomeʔui ʃóne . Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciarei. Esconde-te, fica quieto. Hoje mesmo hei de te mandar embora.
-1	noromomeʔui	noromomeʔu	VERB	v	NonFoc=Yes|Polarity=Neg	0	root	0:root	_
+1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1|Polarity=Neg	0	root	0:root	_
 2	ʃóne	ʃó	ADV	adv	Polarity=Neg|Tense=Fut	1	advmod	1:advmod	_
-3	.	,	PUNCT	punct	_	1	punct	1:punct	_
-4	Eɲemi	Eɲem	VERB	v	NonFoc=Yes	1	parataxis	1:parataxis	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	nekɨriri	nekɨriri	NOUN	n	_	1	parataxis	1:parataxis	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 8	Kori	kori	ADV	adv	_	10	advmod	10:advmod	_
 9	é	é	PART	pcl	_	10	discourse	10:discourse	_
 10	toromonóne	oromonó	VERB	v	Mood=Perm|Number=Sing|Person=1	1	parataxis	1:parataxis	_
-11	.	,	PUNCT	punct	_	10	punct	10:punct	_
+11	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 44479
 # text = noromomeʔui ʃóne. Eɲemi , nekɨriri . Kori é toromonóne .
@@ -4289,15 +4289,15 @@
 3	.	,	PUNCT	punct	_	1	punct	1:punct	_
 4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	nekɨriri	nekɨriri	NOUN	n	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
+6	nekɨriri	nekɨriri	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 8	Kori	kori	ADV	adv	_	10	advmod	10:advmod	_
 9	é	é	PART	pcl	_	10	discourse	10:discourse	_
-10	toromonóne	oromonó	VERB	v	Clusivity=ExMood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
+10	toromonóne	oromonó	VERB	v	Clusivity=Ex|Mood=Perm|Number=Plur|Person=1	1	parataxis	1:parataxis	_
 11	.	,	PUNCT	punct	_	10	punct	10:punct	_
 
 # sent_id = 44481
-# text = Ajemiŋatupe ká ; awjeté na ʃerepiaki !
+# text = Ajemiŋatupe ká ; awjeté na ʃerepjaki !
 # text_eng = (Teatro, 34)
 # text_por = Hei de me esconder bem; ainda bem que não me viu
 1	Ajemiŋatupe	mim	VERB	v	Intens=Yes|Number=Sing|Person=1|Reflex=Yes|Rel=NCont	0	root	0:root	_
