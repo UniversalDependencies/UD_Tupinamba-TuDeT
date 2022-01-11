@@ -4268,12 +4268,12 @@
 # text = noromomeʔui ʃóne. Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciarei. Esconde-te, fica quieto. Hoje mesmo hei de te mandar embora.
-1	noromomeʔui	noromomeʔu	NOUN	n	NonFoc=Yes|Polarity=Neg	0	root	0:root	_
+1	noromomeʔui	noromomeʔu	VERB	v	NonFoc=Yes|Polarity=Neg	0	root	0:root	_
 2	ʃóne	ʃó	ADV	adv	Polarity=Neg|Tense=Fut	1	advmod	1:advmod	_
 3	.	,	PUNCT	punct	_	1	punct	1:punct	_
-4	Eɲemi	Eɲem	NOUN	n	NonFoc=Yes	1	parataxis	1:parataxis	_
+4	Eɲemi	Eɲem	VERB	v	NonFoc=Yes	1	parataxis	1:parataxis	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	nekɨriri	nekɨriri	ADV	adv	_	1	parataxis	1:parataxis	_
+6	nekɨriri	nekɨriri	NOUN	n	_	1	parataxis	1:parataxis	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 8	Kori	kori	ADV	adv	_	10	advmod	10:advmod	_
 9	é	é	PART	pcl	_	10	discourse	10:discourse	_
@@ -4284,10 +4284,10 @@
 # text = noromomeʔui ʃóne. Eɲemi , nekɨriri . Kori é toromonóne .
 # text_eng = (Teatro, 34)
 # text_por = Não te denunciaremos. Esconde-te, fica quieto. Hoje mesmo te mandaremos embora.
-1	noromomeʔui	noromomeʔu	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	0	root	0:root	_
+1	noromomeʔui	noromomeʔu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	0:root	_
 2	ʃóne	ʃó	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
 3	.	,	PUNCT	punct	_	1	punct	1:punct	_
-4	Eɲemi	Eɲem	NOUN	n	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
+4	Eɲemi	Eɲem	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_
 6	nekɨriri	nekɨriri	NOUN	n	Mood=Imp|Number=Sing|Person=2	1	parataxis	1:parataxis	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
