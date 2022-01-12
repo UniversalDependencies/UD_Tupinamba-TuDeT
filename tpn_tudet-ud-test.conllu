@@ -4381,7 +4381,7 @@
 9	witupa	jub	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=1|VerbForm=Ger	7	aux	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 44491
+# sent_id = 0044.91
 # text = Aɲẽ , pekwá esapɨʔa ! ʃemoaɲe kó ʃeβojá , jeí ʃerepkakaʔupa .
 # text_eng = (Teatro, 34)
 # text_por = Ide depressa! Apressam-me estes meus súditos, tendo, hoje, saudades de mim
@@ -4397,6 +4397,48 @@
 10	jeí	jeí	ADV	adv	_	11	advmod	_	_
 11	ʃerepjakaʔupa	epiakaʔub	VERB	v	Number=SIng|Person=1|Rel=Cont|VerbForm=Ger	6	advcl	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = 0044.93
+# text = Umãβaʔe ?
+# text_eng = Which? (Teatro, 36)
+# text_por = Quais?
+1	Umãβaʔe	Umãβaʔe	PRON	pron	PronType=Int	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.94
+# text = Tapijara , tuiβaʔe , waiβi , kunumĩwasu , apɨaβa , kuɲãmuku , ʃeβoiáramo paβe , ʃepópe arekókatu .
+# text_eng =  (Teatro, 36)
+# text_por = Os moradores da aldeia, velhos, velhas, moços,homens, moças, todos como meus súditos em minhas mãos bem os tenho.
+1	Tapijara	Tapijara	NOUN	n	Case=Ref	15	appos	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	tuiβaʔe	tuiβaʔe	NOUN	n	_	1	conj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	waiβi	waiβ	NOUN	n	NonFoc=Yes|Rel=Cont	1	conj	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	kunumĩwasu	kunumĩwasu	NOUN	n	Augm=Yes	1	conj	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	apɨaβa	apɨab	NOUN	n	Case=Ref	1	conj	_	_
+10	,	,	PUNCT	punct	_	1	punct	_	_
+11-12	kuɲãmuku	_	_	_	_	_	_	_	_
+11	kuɲã	kuɲã	NOUN	n	_	1	nmod	_	_
+12	muku	puku	NOUN	n	_	11	nmod	_	_
+13	,	,	PUNCT	punct	_	1	punct	_	_
+14	ʃeβoiáramo	ʃeβoiár	NOUN	n	Case=Tra|Number=Plur|Person[psor]=1	15	obl	_	_
+15	paβe	paβe	PART	prcl	_	18	obj	_	_
+16	,	,	PUNCT	punct	_	18	punct	_	_
+17	ʃepópe	po	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	18	obl	_	_
+18	arekókatu	erekó	VERB	v	Intens=Yes|Number=Plur|Person[subj]=1	0	root	_	_
+19	.	.	PUNCT	punct	_	18	punct	_	_
+
+# sent_id = 0044.95
+# text = tajpapáne iaŋaipaβa taʃereroβiá jepé .
+# text_eng = (Teatro, 36)
+# text_por = Hei de contar seus pecados para que tu me acredites.
+1	tajpapáne	papar	VERB	v	Mood=Perm|Number=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut	0	root	_	_
+2	iaŋaipaβa	iaŋaipaβ	NOUN	n	Case=Ref|Rel=NCont	3	obj	_	_
+3	taʃereroβjá	ereroβjár	NOUN	n	Mood=Perm|Number=Sing|Person[psor]=1	1	xcomp	_	_
+4	jepé	jepé	PRON	pron	_	3	nsubj	_	_
+5	.	,	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
