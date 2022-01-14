@@ -4482,6 +4482,30 @@
 9	iakakapa	akakap	NOUN	n	Aspect=Iter|Rel=NCont|VerbForm=Ger	3	advcl	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0044.98
+# text = Oporakakaβ ? Aβá ? Aʔete kawĩ pwajtara , apɨaβa sowaβo pa , Moruβiʃámosakara teʔi iʃéβo ! , oʔiaβo aŋá .
+# text_eng = (teatro, 36)
+# text_por = Censuram? Quem? Mas são eles os que mandam fazer cauim, convidando os homens todos, dizendo, sim: "Que estejam os chefes moçacaras junto a mim"
+1	Oporakakaβ	Oporakakaβ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+3	Aβá	aβá	NOUN	n	_	1	parataxis	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+5	Aʔete	aʔe	PRON	pron	Foc=Yes	7	nsubj	_	_
+6	kawĩ	kawĩ	NOUN	n	_	7	nmod	_	_
+7	pwajtara	pwaj	NOUN	n	Case=Ref|Nomzr=Ag	1	punct	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	apɨaβa	apɨaβ	NOUN	n	Case=Ref	10	obj	_	_
+10	sowaβo	soʔo	VERB	v	_	7	advcl	_	_
+11	pa	pa	NOUN	n	_	9	det	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	Moruβiʃámosakara	Moruβiʃámosaka	NOUN	Case=Ref	_	15	nsubj	_	_
+14	teʔi	teʔi	INTJ	adv	_	15	discourse	_	_
+15	iʃéβo	iʃé	PRON	pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	xcomp	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
+18	aŋá	aŋá	ADV	adv	Person=3	17	advmod	_	_
+19	.	.	PUNCT	punct	_	17	punct	_	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
