@@ -4531,18 +4531,43 @@
 18	.	.	PUNCT	punct	_	15	punct	_	_
 
 # sent_id = 0044.101
-# text = Emonã sekó swi arakajá sapeków ; munépe iporerasów .
+# text = Emonã sekó swi Arakajá sapeków ; munépe iporerasów .
 # text_eng = (Teatro, 38)
 # text_por = Assim, por causa de seu procedimento os aracajás os freqüentam para as armadilhas eles levam gente.
 1	Emonã	emonã	ADV	adv	_	5	advmod	_	_
 2	sekó	ikó	NOUN	n	Rel=NCont	5	obl	_	_
 3	swi	swi	ADP	posp	_	2	case	_	_
-4	arakajá	arakaja	NOUN	n	_	5	nsubj	_	_
+4	Arakajá	arakaja	PROPN	propn	_	5	nsubj	_	_
 5	sapeków	apekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 6	;	;	PUNCT	punct	_	5	punct	_	_
 7	munépe	muné	ADV	adv	Case=Loc	8	obl	_	_
 8	iporerasów	iporerasóu	NOUN	n	Hum=Yes|NonFoc=Yes|Rel=NCont	5	parataxis	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 0044.102
+# text = Arakajáte omorɨ ; ojojá marã seków .
+# text_eng = (Teatro, 38)
+# text_por = Mas os aracajás deleitam-se com eles; igualmente fazem o mal.
+1	Arakajáte	Arakajáte	PROPN	propn	_	2	nsubj	_	_
+2	omorɨ	morɨ	VERB	vt	Person[subj]=3|VerbForm=Ger|Voice=Cau	0	root	_	_
+3	;	;	PUNCT	punct	_	2	punct	_	_
+4	ojojá	ojojá	ADV	adv	_	6	advmod	_	_
+5	marã	marã	NOUN	adv	_	6	nmod	_	_
+6	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	2	parataxis	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0044.103
+# text = Ojepéĩomé , nipó , iaŋajpab amõme é .
+# text_eng = (Teatro, 38)
+# text_por =  Um ou outro, pois, foi mau, algumas vezes.
+1	Ojepéĩomé	ojepéĩomé	PRON	pron	PronType=Ind	5	nsubj	_	_
+2	,	,	PUNCT	punct	_	5	punct	_	_
+3	nipó	nipó	ADV	adv	_	5	advmod	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	iaŋajpab	iaŋajpab	NOUN	n	Rel=NCont	0	root	_	_
+6	amõme	amõme	ADV	adv	_	5	advmod	_	_
+7	é	é	PART	pcl	_	5	discourse	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
