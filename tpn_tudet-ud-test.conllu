@@ -4440,6 +4440,48 @@
 4	jepé	jepé	PRON	pron	_	3	nsubj	_	_
 5	.	,	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0044.96
+# text = Neʔĩ ! tasenu teɲe
+# text_eng = (Teatro, 36)
+# text_por = Eia! Hei de ouvir em vão...
+1	Neʔĩ	neʔĩ	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	tasenu	tasenu	VERB	n	Mood=Perm|Number=Sing|Person[obj]=1|Person[subj]=1	0	root	_	_
+4	teɲe	teɲe	PART	prcl	_	3	discourse	_	_
+
+# sent_id = 0044.97
+# text = Tɨnɨse memẽ ɨgasaβa , niapori kawĩ resé , saβeɨpora swi βé ojoapiʃápiʃapa .
+# text_eng = (Teatro, 36)
+# text_por = Estão sempre cheias as igaçabas... Não abrem mão do cauim por embriaguez também
+1	Tɨnɨse	tɨnɨse	VERB	adv	Rel=NCont	0	root	_	_
+2	memẽ	memẽ	ADV	_	_	1	advmod	_	_
+3	ɨgasaβa	ɨgasaβ	NOUN	n	Case=Ref|Nomzr=Circ	1	nsubj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	niapori	apor	NOUN	n	NonFoc=Yes|Polarity=Neg|Rel=NCont|Tense=Past	1	parataxis	_	_
+6	kawĩ	kawĩ	NOUN	n	_	5	obl	_	_
+7	resé	esé	ADP	posp	Rel=Cont	6	case	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	saβeɨpora	saβeɨpor	NOUN	n	Case=Ref	12	obl	_	_
+10	swi	swi	ADP	posp	_	9	case	_	_
+11	βé	βé	ADV	adv	_	12	advmod	_	_
+12	ojoapiʃápiʃapa	joapiʃápiʃab	VERB	vi	Aspect=Iter|Person[subj]=3|Reflex=Yes|VerbForm=Ger	1	advcl	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = 0044.97
+# text = Moruβiʃaβa tuiβaʔe oɲeʔeŋ meme iʃupé , senoɲena , iakakapa .
+# text_eng = (Teatro, 36)
+# text_por = Os chefes e os velhos falam sempre a eles, repreendendo-os, censurando-os.
+1	Moruβiʃaβa	moruβiʃab	NOUN	n	Case=Ref	3	obl	_	_
+2	tuiβaʔe	tuiβaʔe	NOUN	n	Nomzr=Rel	3	conj	_	_
+3	oɲeʔeŋ	jeʔeŋ	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+4	meme	meme	ADV	adv	_	3	advmod	_	_
+5	iʃupé	supé	ADP	posp	Rel=NCont	3	obl	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	senoɲena	enoɲen	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	3	advcl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	iakakapa	akakap	NOUN	n	Aspect=Iter|Rel=NCont|VerbForm=Ger	3	advcl	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
