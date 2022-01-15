@@ -4388,7 +4388,7 @@
 1	Aɲẽ	aɲẽ	PART	prcl	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	pekwá	só	VERB	v	Mood=Imp|Number=Plur|Person=2	0	root	_	_
-4	esapɨʔa	esapɨʔa	ADV	n	Number=Sing|Person=1	3	advmod	_	_
+4	esapɨʔa	esapɨʔa	ADV	n	_	3	advmod	_	_
 5	!	!	PUNCT	punct	_	3	punct	_	_
 6	ʃemoaɲe	moaɲe	NOUN	prcl	Number=Sing|Person=1	3	parataxis	_	_
 7	kó	ko	DET	dem	_	8	nmod	_	_
