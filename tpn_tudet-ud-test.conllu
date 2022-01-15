@@ -4493,7 +4493,7 @@
 5	Aʔete	aʔe	PRON	pron	Foc=Yes	7	nsubj	_	_
 6	kawĩ	kawĩ	NOUN	n	_	7	nmod	_	_
 7	pwajtara	pwaj	NOUN	n	Case=Ref|Nomzr=Ag	1	punct	_	_
-8	,	,	PUNCT	punct	_	7	punct	_	_
+8	,	,	PUNCT	punct	_	10	punct	_	_
 9	apɨaβa	apɨaβ	NOUN	n	Case=Ref	10	obj	_	_
 10	sowaβopa	soʔo	VERB	v	Aspect=Compl|VerbForm=Ger	7	advcl	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
