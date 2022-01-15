@@ -4483,7 +4483,7 @@
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.99
-# text = Oporakakaβ ? Aβá ? Aʔete kawĩ pwajtara , apɨaβa sowaβopa , Moruβiʃámosakara teʔi iʃéβo , oʔiaβo aŋá .
+# text = Oporakakaβ ? Aβá ? Aʔete kawĩ pwajtara apɨaβa sowaβopa , Moruβiʃámosakara teʔi iʃéβo , oʔiaβo aŋá .
 # text_eng = (teatro, 36)
 # text_por = Censuram? Quem? Mas são eles os que mandam fazer cauim, convidando os homens todos, dizendo, sim: "Que estejam os chefes moçacaras junto a mim"
 1	Oporakakaβ	Oporakakaβ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
@@ -4493,17 +4493,16 @@
 5	Aʔete	aʔe	PRON	pron	Foc=Yes	7	nsubj	_	_
 6	kawĩ	kawĩ	NOUN	n	_	7	nmod	_	_
 7	pwajtara	pwaj	NOUN	n	Case=Ref|Nomzr=Ag	1	punct	_	_
-8	,	,	PUNCT	punct	_	10	punct	_	_
-9	apɨaβa	apɨaβ	NOUN	n	Case=Ref	10	obj	_	_
-10	sowaβopa	soʔo	VERB	v	Aspect=Compl|VerbForm=Ger	7	advcl	_	_
-11	,	,	PUNCT	punct	_	10	punct	_	_
-12	Moruβiʃámosakara	Moruβiʃámosaka	NOUN	Case=Ref	_	14	nsubj	_	_
-13	teʔi	teʔi	INTJ	adv	_	14	discourse	_	_
-14	iʃéβo	iʃé	PRON	pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	xcomp	_	_
-15	,	,	PUNCT	punct	_	16	punct	_	_
-16	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
-17	aŋá	aŋá	ADV	adv	_	16	advmod	_	_
-18	.	.	PUNCT	punct	_	16	punct	_	_
+8	apɨaβa	apɨaβ	NOUN	n	Case=Ref	9	obj	_	_
+9	sowaβopa	soʔo	VERB	v	Aspect=Compl|VerbForm=Ger	7	advcl	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	Moruβiʃámosakara	Moruβiʃámosaka	NOUN	Case=Ref	_	13	nsubj	_	_
+12	teʔi	teʔi	INTJ	adv	_	13	discourse	_	_
+13	iʃéβo	iʃé	PRON	pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	xcomp	_	_
+14	,	,	PUNCT	punct	_	15	punct	_	_
+15	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
+16	aŋá	aŋá	ADV	adv	_	15	advmod	_	_
+17	.	.	PUNCT	punct	_	15	punct	_	_
 
 # sent_id = 00.44100
 # text = neʔí teʔe kunumĩwasu , moruβiʃaβa osowápe , oikéβo meme kawápe , aʔepe kuɲãmuku repeɲana , ipotásápe .
