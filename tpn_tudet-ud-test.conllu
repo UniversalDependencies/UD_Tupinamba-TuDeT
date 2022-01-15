@@ -4569,6 +4569,48 @@
 7	é	é	PART	pcl	_	5	discourse	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
+# sent_id = 0044.104
+# text =  Namoʔaŋi . Setá ɲe ; ʃe aé aporomoiŋó moropotara resé .
+# text_eng = (Teatro, 38)
+# text_por = Não o penso, Eles são muitos; eu mesmo pus gente no desejo sensual.
+1	namoʔaŋi	namoʔaŋ	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Voice=Cau	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Setá	etá	NOUN	n	Rel=NCont	1	parataxis	_	_
+4	ɲe	ɲe	PART	prcl	_	3	discourse	_	_
+5	;	;	PUNCT	punct	_	3	punct	_	_
+6	ʃe	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	8	obl:subj	_	_
+7	aé	aé	PART	pron	_	6	discourse	_	_
+8	aporomoiŋó	aporomoiŋó	VERB	dem	_	1	parataxis	_	_
+9	moropotara	moropotar	NOUN	n	Case=Ref	8	obl	_	_
+10	resé	esé	ADP	posp	Rel=Cont	9	case	_	_
+11	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 0044.105
+# text = jamé , toropɨtɨβõne
+# text_eng = (Teatro, 38)
+# text_por = Espera, hei de te ajudar
+1	jamé	jamé	VERB	v	Mood=Imp	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	toropɨtɨβõne	oropɨtɨβõ	VERB	v	Mood=Perm|Number=Sing|Person[obj]=2|Person[subj]=1|Tense=Fut	0	root	_	_
+
+# sent_id = 0044.106
+# text = Oioaʔoaʔo wajβĩ , ojoamotareʔɨ̃ , marã ʔe nopɨkiʃóne ; marã eʔjara omorɨβi
+# text_eng = (Teatro, 38)
+# text_por = Insultam-se as velhas, não se querem bem, não cessarão de dizer maldades; as maledicentes se comprazem com isso
+1	Oioaʔoaʔo	ioaʔo	VERB	v	Aspect=Iter|Person=3|Recip=Yes|VerbForm=Ger	0	root	_	_
+2	wajβĩ	wajβĩ	NOUN	n	_	1	nsubj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ojoamotareʔɨ̃	potar	VERB	vt	Hum=Yes|Priv=Yes|Recip=Yes|VerbForm=Ger	1	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	marã	marã	NOUN	adv	_	7	obj	_	_
+7	ʔe	ʔe	VERB	v	_	8	ccomp	_	_
+8	nopɨkiʃóne	nopɨk	VERB	v	Person=3|Polarity=Neg|Tense=Fut	1	parataxis	_	_
+9	;	;	PUNCT	punct	_	8	punct	_	_
+10	marã	marã	ADV	adv	Int=Yes	12	advmod	_	_
+11	eʔjara	ʔi	NOUN	n	Case=Ref|Nomzr=Ag	12	obl:subj	_	_
+12	omorɨβi	omorɨb	NOUN	n	NonFoc=Yes|Person=3|Voice=Cau	1	parataxis	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
 # sent_id = 9901
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
