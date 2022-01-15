@@ -4483,7 +4483,7 @@
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.99
-# text = Oporakakaβ ? Aβá ? Aʔete kawĩ pwajtara , apɨaβa sowaβo pa , Moruβiʃámosakara teʔi iʃéβo ! , oʔiaβo aŋá .
+# text = Oporakakaβ ? Aβá ? Aʔete kawĩ pwajtara , apɨaβa sowaβo pa , Moruβiʃámosakara teʔi iʃéβo , oʔiaβo aŋá .
 # text_eng = (teatro, 36)
 # text_por = Censuram? Quem? Mas são eles os que mandam fazer cauim, convidando os homens todos, dizendo, sim: "Que estejam os chefes moçacaras junto a mim"
 1	Oporakakaβ	Oporakakaβ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
@@ -4519,7 +4519,7 @@
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	oikéβo	iké	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
 9	meme	meme	ADV	adv	_	8	advmod	_	_
-10	kawápe	_	PART	pcl	Case=Loc|Nomzr=Circ	8	obl	_	_
+10	kawápe	kaʔu	NOUN	n	Case=Loc|Nomzr=Circ	8	obl	_	_
 11	,	,	PUNCT	punct	_	8	punct	_	_
 12	aʔepe	aʔe	ADV	adv	Case=All	15	obl	_	_
 13-14	kuɲãmuku	_	_	_	_	_	_	_	_
@@ -4573,7 +4573,7 @@
 # text =  Namoʔaŋi . Setá ɲe ; ʃe aé aporomoiŋó moropotara resé .
 # text_eng = (Teatro, 38)
 # text_por = Não o penso, Eles são muitos; eu mesmo pus gente no desejo sensual.
-1	namoʔaŋi	namoʔaŋ	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Voice=Cau	0	root	_	_
+1	Namoʔaŋi	namoʔaŋ	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Voice=Cau	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Setá	etá	NOUN	n	Rel=NCont	1	parataxis	_	_
 4	ɲe	ɲe	PART	prcl	_	3	discourse	_	_
@@ -4594,7 +4594,7 @@
 3	toropɨtɨβõne	oropɨtɨβõ	VERB	v	Mood=Perm|Number=Sing|Person[obj]=2|Person[subj]=1|Tense=Fut	0	root	_	_
 
 # sent_id = 0044.106
-# text = Oioaʔoaʔo wajβĩ , ojoamotareʔɨ̃ , marã ʔe nopɨkiʃóne ; marã eʔjara omorɨβi
+# text = Oioaʔoaʔo wajβĩ , ojoamotareʔɨ̃ , marã ʔe nopɨkiʃóne ; marã eʔjara omorɨβi .
 # text_eng = (Teatro, 38)
 # text_por = Insultam-se as velhas, não se querem bem, não cessarão de dizer maldades; as maledicentes se comprazem com isso
 1	Oioaʔoaʔo	ioaʔo	VERB	v	Aspect=Iter|Person=3|Recip=Yes|VerbForm=Ger	0	root	_	_
