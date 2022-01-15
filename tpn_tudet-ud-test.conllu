@@ -4409,15 +4409,15 @@
 # text = Tapijara , tuiβaʔe , waiβi , kunumĩwasu , apɨaβa , kuɲãmuku , ʃeβoiáramo paβe , ʃepópe arekókatu .
 # text_eng =  (Teatro, 36)
 # text_por = Os moradores da aldeia, velhos, velhas, moços,homens, moças, todos como meus súditos em minhas mãos bem os tenho.
-1	Tapijara	Tapijara	NOUN	n	Case=Ref	15	appos	_	_
+1	Tapijara	Tapijara	NOUN	n	Case=Ref	18	obj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	tuiβaʔe	tuiβaʔe	NOUN	n	_	1	conj	_	_
+3	tuiβaʔe	tuiβaʔe	NOUN	n	_	1	appos	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
-5	waiβi	waiβ	NOUN	n	NonFoc=Yes|Rel=Cont	1	conj	_	_
+5	waiβi	waiβ	NOUN	n	NonFoc=Yes|Rel=Cont	1	appos	_	_
 6	,	,	PUNCT	punct	_	1	punct	_	_
-7	kunumĩwasu	kunumĩwasu	NOUN	n	Augm=Yes	1	conj	_	_
-8	,	,	PUNCT	punct	_	7	punct	_	_
-9	apɨaβa	apɨab	NOUN	n	Case=Ref	1	conj	_	_
+7	kunumĩwasu	kunumĩwasu	NOUN	n	Augm=Yes	1	appos	_	_
+8	,	,	PUNCT	punct	_	1	punct	_	_
+9	apɨaβa	apɨab	NOUN	n	Case=Ref	1	appos	_	_
 10	,	,	PUNCT	punct	_	1	punct	_	_
 11-12	kuɲãmuku	_	_	_	_	_	_	_	_
 11	kuɲã	kuɲã	NOUN	n	_	1	nmod	_	_
@@ -4472,7 +4472,7 @@
 # text_eng = (Teatro, 36)
 # text_por = Os chefes e os velhos falam sempre a eles, repreendendo-os, censurando-os.
 1	Moruβiʃaβa	moruβiʃab	NOUN	n	Case=Ref	3	obl	_	_
-2	tuiβaʔe	tuiβaʔe	NOUN	n	Nomzr=Rel	3	conj	_	_
+2	tuiβaʔe	tuiβaʔe	NOUN	n	Nomzr=Rel	1	conj	_	_
 3	oɲeʔeŋ	jeʔeŋ	VERB	v	Person=3|Reflex=Yes	0	root	_	_
 4	meme	meme	ADV	adv	_	3	advmod	_	_
 5	iʃupé	supé	ADP	posp	Rel=NCont	3	obl	_	_
@@ -4495,16 +4495,15 @@
 7	pwajtara	pwaj	NOUN	n	Case=Ref|Nomzr=Ag	1	punct	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	apɨaβa	apɨaβ	NOUN	n	Case=Ref	10	obj	_	_
-10	sowaβo	soʔo	VERB	v	_	7	advcl	_	_
-11	pa	pa	NOUN	n	_	9	det	_	_
-12	,	,	PUNCT	punct	_	10	punct	_	_
-13	Moruβiʃámosakara	Moruβiʃámosaka	NOUN	Case=Ref	_	15	nsubj	_	_
-14	teʔi	teʔi	INTJ	adv	_	15	discourse	_	_
-15	iʃéβo	iʃé	PRON	pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	xcomp	_	_
-16	,	,	PUNCT	punct	_	15	punct	_	_
-17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
-18	aŋá	aŋá	ADV	adv	_	17	advmod	_	_
-19	.	.	PUNCT	punct	_	17	punct	_	_
+10	sowaβopa	soʔo	VERB	v	Aspect=Compl|VerbForm=Ger	7	advcl	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	Moruβiʃámosakara	Moruβiʃámosaka	NOUN	Case=Ref	_	14	nsubj	_	_
+13	teʔi	teʔi	INTJ	adv	_	14	discourse	_	_
+14	iʃéβo	iʃé	PRON	pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	xcomp	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
+17	aŋá	aŋá	ADV	adv	_	16	advmod	_	_
+18	.	.	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 00.44100
 # text = neʔí teʔe kunumĩwasu , moruβiʃaβa osowápe , oikéβo meme kawápe , aʔepe kuɲãmuku repeɲana , ipotásápe .
@@ -4570,7 +4569,7 @@
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0044.104
-# text =  Namoʔaŋi . Setá ɲe ; ʃe aé aporomoiŋó moropotara resé .
+# text =  Namoʔaŋi , Setá ɲe ; ʃe aé aporomoiŋó moropotara resé .
 # text_eng = (Teatro, 38)
 # text_por = Não o penso, Eles são muitos; eu mesmo pus gente no desejo sensual.
 1	Namoʔaŋi	namoʔaŋ	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Voice=Cau	0	root	_	_
