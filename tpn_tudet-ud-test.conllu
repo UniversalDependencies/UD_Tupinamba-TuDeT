@@ -4609,7 +4609,28 @@
 12	omorɨβi	omorɨb	NOUN	n	NonFoc=Yes|Person=3|Voice=Cau	1	parataxis	_	_
 13	.	.	PUNCT	punct	_	12	punct	_	_
 
-# sent_id = 9901
+# sent_id = 0044.109
+# text = Iaŋajpá kó kenaʔĩ , eʔí moʔema moɲaŋa , mosaŋa raʔãraʔaŋa , oawsuβa ojpotarĩ , ojemomorãmoraŋa .
+# text_eng = (Teatro, 38)
+# text_por = São más essas folgadas, mostram-se a urdir mentiras; ficando a experimentar poções, querem que as amem, ficando a enfeitar-se.
+1	Iaŋajpá	aŋajpáb	NOUN	n	Rel=NCont	0	root	_	_
+2	kó	kó	DET	dem	_	3	det	_	_
+3	kenaʔĩ	kenaʔĩ	NOUN	n	_	1	nsubj	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	eʔí	ʔi	VERB	propn	_	1	parataxis	_	_
+6	moʔema	moʔem	NOUN	n	Case=Ref	7	obj	_	_
+7	moɲaŋa	moɲaŋ	VERB	n	VerbForm=Ger	5	advcl	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	mosaŋa	mosaŋ	NOUN	n	Case=Ref	10	obj	_	_
+10	raʔãraʔaŋa	a'ãraʔaŋ	VERB	n	Aspect=Iter|Case=Ref|Rel=Cont|VerbForm=Ger	5	advcl	_	_
+11	,	,	PUNCT	punct	_	5	punct	_	_
+12	oawsuβa	awsub	NOUN	n	_	13	obl:obj	_	_
+13	ojpotarĩ	potar	NOUN	N	Aspect=Lus|Corf=Yes||VerbForm=Ger	5	parataxis	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	ojemomorãmoraŋa	momoraŋ	NOUN	n	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	13	advcl	_	_
+16	.	.	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
 # text_por = Mãe de Deus muito bela, morrendo, chegamos ao fim.
@@ -4622,7 +4643,7 @@
 6	oromanõmo	manõ	VERB	V	Clusivity=Ex|Number=Plur|VerbForm=Ger	5	advcl	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 9902
+# sent_id = 0099.02
 # text = Orémoíŋoβé íepé , ndememɨra moɲɨrõmo , inõŋatwaβo , orérarõmo , oréʔaŋa pɨsɨrõmo .
 # text_eng = (Poemas, 82)
 # text_por = Faze-nos tu viver, aplacando teu filho, fazendo-o manso, guardando-nos, salvando nossa alma.
@@ -4640,7 +4661,7 @@
 12	pɨsɨrõmo	pɨsɨrõ	VERB	v	VerbForm=Ger	5	advcl	_	_
 13	.	.	PUNCT	punct	_	12	punct	_	_
 
-# sent_id = 9903
+# sent_id = 0099.03
 # text = Ejori oreresé nememɨra moŋetáβo , toroʔekatu tawjé aɲaŋa rawsu peʔaβo , imomosema , imomoʃɨaβo , iʔaŋajpaβa momurwaβo .
 # text_eng = (Poemas, 82)
 # text_por = Vem conversar com teu filho sobre nós, que possamos logo afastar o amor ao diabo, enxotando-o, tornando-o detestável, amaldiçoando sua maldade.
