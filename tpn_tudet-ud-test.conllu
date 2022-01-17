@@ -4630,6 +4630,40 @@
 15	ojemomorãmoraŋa	momoraŋ	NOUN	n	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	13	advcl	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
 
+# sent_id = 0044.110
+# text = aʔepe kunumĩwasu kuɲã ojmomosemaʔe , miawsuβa potá ɲẽ , karaiβokɨpekatu , oɲewasema meme ?
+# text_eng = (Teatro, 38)
+# text_por = E os rapazes que perseguem mulheres, querendo escravas bem nas casas de cristãos, fugindo sempre? 
+1	aʔepe	_	PART	pcl	_	4	dislocated	_	_
+2	kunumĩwasu	kunumĩ	NOUN	n	Augm=Yes	4	obl:subj	_	_
+3	kuɲã	kuɲã	NOUN	n	_	4	obl:obj	_	_
+4	ojmomosemaʔe	mosemaʔe	VERB	v	Aspect=Iter|Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	miawsuβa	miawsuβ	NOUN	n	Case=Ref	7	obj	_	_
+7	potá	potar	VERB	v	VerbForm=Ger	4	advcl	_	_
+8	ɲẽ	ɲẽ	PART	prcl	_	4	discourse	_	_
+9-10	karaiβokɨpekatu	_	_	_	_	_	_	_	_
+9	karaiβ	karaiβ	VERB	v	CAse=Loc|Intens=Yes	10	nmod	_	_
+10	okɨpekatu	ok	VERB	v	Intens=Yes	4	obl	_	_
+11	,	,	PUNCT	punct	_	4	punct	_	_
+12	oɲewasema	ɲewasem	VERB	v	Person[subj]=3|VerbForm=Ger	4	advcl	_	_
+13	meme	meme	ADV	adv	_	12	advmod	_	_
+14	?	?	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = 0044.112
+# text = To ! Ajpó nipapásaβi , kwarasɨmo ojké jepémo .
+# text_eng = (Teatro, 40) 
+# text_por = Ó! Isso não seria possível contar, ainda que o sol se pusesse.
+1	To	to	INTJ	intj	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Ajpó	ajpó	DET	dem	_	4	nsubj	_	_
+4	nipapásaβi	papásaβ	NOUN	n	Nomzr=Circ|Polarity=Neg|Rel=NCont	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	kwarasɨmo	kúarasɨmo	NOUN	n	_	7	nsubj	_	_
+7	ojké	iké	VERB	v	Person=3	4	xcomp	_	_
+8	jepémo	jepémo	SCONJ	prcl	Mood=Cnd	7	conj	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
