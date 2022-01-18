@@ -4696,6 +4696,20 @@
 5	mweiraβɨjara	pwejraβɨjar	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0044.116
+# text = Aβá ʔaŋa maraʔara ipupé opweirákatu , sakɨpweri tupãrara .
+# text_eng = (Teatro, 40)
+# text_por = As doenças da alma do homem saram bem com ela; em seguida a ela, a comunhão. 
+1	Aβá	aβá	NOUN	n	_	2	nmod	_	_
+2	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	3	nmod	_	_
+3	maraʔara	paraʔar	NOUN	n	Case=Ref|Hum=Yes	5	obl:subj	_	_
+4	ipupé	pupé	ADP	posp	Rel=NCont	5	obl	_	_
+5	opweirákatu	opweiráb	VERB	v	Intens=Yes|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	sakɨpweri	akɨpweri	ADV	n	Rel=NCont	8	advmod	_	_
+8	tupãrara	tupãrar	PROPN	propn	Case=Ref|Rel=Cont	5	parataxis	_	_
+9	.	,	PUNCT	punct	_	8	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
