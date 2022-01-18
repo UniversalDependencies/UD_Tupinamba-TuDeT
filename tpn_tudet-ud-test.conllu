@@ -4643,7 +4643,7 @@
 7	potá	potar	VERB	v	VerbForm=Ger	4	advcl	_	_
 8	ɲẽ	ɲẽ	PART	prcl	_	4	discourse	_	_
 9-10	karaiβokɨpekatu	_	_	_	_	_	_	_	_
-9	karaiβ	karaiβ	VERB	v	CAse=Loc|Intens=Yes	10	nmod	_	_
+9	karaiβ	karaiβ	VERB	v	Case=Loc|Intens=Yes	10	nmod	_	_
 10	okɨpekatu	ok	VERB	v	Intens=Yes	4	obl	_	_
 11	,	,	PUNCT	punct	_	4	punct	_	_
 12	oɲewasema	ɲewasem	VERB	v	Person[subj]=3|VerbForm=Ger	4	advcl	_	_
