@@ -4622,16 +4622,16 @@
 7	moɲaŋa	moɲaŋ	VERB	n	VerbForm=Ger	5	advcl	_	_
 8	,	,	PUNCT	punct	_	5	punct	_	_
 9	mosaŋa	mosaŋ	NOUN	n	Case=Ref	10	obj	_	_
-10	raʔãraʔaŋa	a'ãraʔaŋ	VERB	n	Aspect=Iter|Case=Ref|Rel=Cont|VerbForm=Ger	5	advcl	_	_
+10	raʔãraʔaŋa	aʔãŋ	VERB	n	Aspect=Iter|Rel=Cont|VerbForm=Ger	5	advcl	_	_
 11	,	,	PUNCT	punct	_	5	punct	_	_
 12	oawsuβa	awsub	NOUN	n	_	13	obl:obj	_	_
-13	ojpotarĩ	potar	NOUN	N	Aspect=Lus|Corf=Yes||VerbForm=Ger	5	parataxis	_	_
+13	ojpotarĩ	potar	NOUN	N	Aspect=Lus|Corf=Yes|VerbForm=Ger	5	parataxis	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
 15	ojemomorãmoraŋa	momoraŋ	NOUN	n	Aspect=Iter|Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	13	advcl	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = 0044.110
-# text = aʔepe kunumĩwasu kuɲã ojmomosemaʔe , miawsuβa potá ɲẽ , karaiβokɨpekatu , oɲewasema meme ?
+# text = aʔepe kunumĩwasu kuɲã ojmomosemaʔe , miawsuβa potá ɲẽ karaiβokɨpekatu , oɲewasema meme ?
 # text_eng = (Teatro, 38)
 # text_por = E os rapazes que perseguem mulheres, querendo escravas bem nas casas de cristãos, fugindo sempre? 
 1	aʔepe	_	PART	pcl	_	4	dislocated	_	_
