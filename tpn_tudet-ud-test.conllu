@@ -4664,6 +4664,38 @@
 8	jepémo	jepémo	SCONJ	prcl	Mood=Cnd	7	conj	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
+# sent_id = 0044.113
+# text = Opá taβa moaŋajpaβi !
+# text_eng = (Teatro, 40)
+# text_por = Toda a aldeia faz pecar
+1	Opá	opá	PRON	pron	_	2	nmod	_	_
+2	taβa	taβ	NOUN	n	Case=Ref	3	nsubj	_	_
+3	moaŋajpaβi	moaŋajpab	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0044.114
+# text = Aɲẽ , nitekokwaβi , jané momuru meémo
+# text_eng = (Teatro, 40)
+# text_por = Na verdade, não têm discernimento, ter-nos-iam amaldiçoado
+1	Aɲẽ	aɲẽ	PART	prcl	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	nitekokwaβi	ekokuaβ	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	janémomuru	momuru	NOUN	n	Clusivity=In|Number=Plur|Person=1|Voice=Cau	3	parataxis	_	_
+6	meémo	meémo	PART	prcl	Mood=Cnd	5	discourse	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 0044.115
+# text = Ojkoβé jemomeʔu , mosaŋa mweiraβɨjara .
+# text_eng (Teatro, 40)
+# text_por = Existe a confissão, remédio portador de cura. 
+1	Ojkoβé	ikoβé	VERB	vi	Number=Sing|Person=3	0	root	_	_
+2	jemomeʔu	jemomeʔu	NOUN	n	Reflex=Yes|Voice=Cau	1	nsubj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	mosaŋa	posaŋ	NOUN	n	Rel=Hum	2	appos	_	_
+5	mweiraβɨjara	pwejraβɨjar	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
