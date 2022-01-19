@@ -4710,6 +4710,34 @@
 8	tupãrara	tupãrar	PROPN	propn	Case=Ref|Rel=Cont	5	parataxis	_	_
 9	.	,	PUNCT	punct	_	8	punct	_	_
 
+# sent_id = 0044.117
+# text = Oekó moasɨ riré , aβá sow jemomewaβo , ʃekatupe ka oʔjaβo .
+# text_eng = (Teatro, 40)
+# text_por = Após arrependerem-se de seus atos, os índios vão confessar-se, dizendo: Hei de ser bom
+1	Oekó	ekó	NOUN	n	_	2	nmod	_	_
+2	moasɨ	moasɨ	NOUN	n	_	6	obl	_	_
+3	riré	riré	ADP	posp	_	2	case	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	aβá	aβá	NOUN	n	_	6	nsubj	_	_
+6	sow	sóú	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+7	jemomewaβo	momeʔu	VERB	v	Reflex=Yes|VerbForm=Ger|Voice=Cau	6	advcl	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	ʃekatupe	katu	NOUN	n	Delib=Yes|Number=Sing|Person=1|Rel=NCont	11	ccomp	_	_
+10	ka	ka	PART	n	Speech=Man	9	discourse	_	_
+11	oʔjaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	6	advcl	_	_
+12	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = 0044.118
+# text = Osoβasab aβaré , Tupã moɲɨrõŋatúaβo .
+# text_eng = (Teatro, 40)
+# tex_por = Benze-os o padre, aplacando bem a Deus.
+1	Osoβasab	Osoβasab	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	aβaré	aβaré	NOUN	n	_	1	obl:subj	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	Tupã	Tupã	NOUN	n	_	5	obj	_	_
+5	moɲɨrõŋatúaβo	_	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
