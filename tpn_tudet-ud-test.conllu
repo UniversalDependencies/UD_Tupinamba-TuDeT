@@ -4674,7 +4674,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.114
-# text = Aɲẽ , nitekokwaβi , janémomuru meémo
+# text = Aɲẽ , nitekokwaβi , janémomuru meémo .
 # text_eng = (Teatro, 40)
 # text_por = Na verdade, não têm discernimento, ter-nos-iam amaldiçoado
 1	Aɲẽ	aɲẽ	PART	prcl	_	3	discourse	_	_
@@ -4691,7 +4691,7 @@
 # text_por = Existe a confissão, remédio portador de cura. 
 1	Ojkoβé	ikoβé	VERB	vi	Number=Sing|Person=3	0	root	_	_
 2	jemomeʔu	jemomeʔu	NOUN	n	Reflex=Yes|Voice=Cau	1	nsubj	_	_
-3	,	,	PUNCT	punct	_	1	punct	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
 4	mosaŋa	posaŋ	NOUN	n	Rel=Hum	2	appos	_	_
 5	mweiraβɨjara	pwejraβɨjar	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
@@ -4706,7 +4706,7 @@
 4	ipupé	pupé	ADP	posp	Rel=NCont	5	obl	_	_
 5	opweirákatu	opweiráb	VERB	v	Intens=Yes|Person=3	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	sakɨpweri	akɨpweri	ADP	posp	Rel=NCont	8	advmod	_	_
+7	sakɨpweri	akɨpweri	ADP	posp	Rel=NCont	8	obl	_	_
 8	tupãrara	tupãrar	NOUN	n	Case=Ref|Rel=Cont	5	parataxis	_	_
 9	.	,	PUNCT	punct	_	8	punct	_	_
 
