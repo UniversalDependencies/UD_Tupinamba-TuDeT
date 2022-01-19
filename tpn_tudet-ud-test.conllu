@@ -4674,7 +4674,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.114
-# text = Aɲẽ , nitekokwaβi , jané momuru meémo
+# text = Aɲẽ , nitekokwaβi , janémomuru meémo
 # text_eng = (Teatro, 40)
 # text_por = Na verdade, não têm discernimento, ter-nos-iam amaldiçoado
 1	Aɲẽ	aɲẽ	PART	prcl	_	3	discourse	_	_
@@ -4706,8 +4706,8 @@
 4	ipupé	pupé	ADP	posp	Rel=NCont	5	obl	_	_
 5	opweirákatu	opweiráb	VERB	v	Intens=Yes|Person=3	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	sakɨpweri	akɨpweri	ADV	n	Rel=NCont	8	advmod	_	_
-8	tupãrara	tupãrar	PROPN	propn	Case=Ref|Rel=Cont	5	parataxis	_	_
+7	sakɨpweri	akɨpweri	ADP	posp	Rel=NCont	8	advmod	_	_
+8	tupãrara	tupãrar	NOUN	n	Case=Ref|Rel=Cont	5	parataxis	_	_
 9	.	,	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0044.117
