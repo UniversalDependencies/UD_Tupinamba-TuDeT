@@ -4780,6 +4780,19 @@
 12	ɲẽ	ɲẽ	PART	prcl	_	11	discourse	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	_
 
+# sent_id = 0044.122
+# text = Esenute , supi é , asekɨj ipoʃɨpwera .
+# text_eng = (Teatro, 40)
+# text_por = Mas ouve, na verdade, evoquei suas antigas maldades
+1	Esenute	Esenute	VERB	vt	Foc=Yes|Modd=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	supi	supi	ADP	pos	_	1	advmod	_	_
+4	é	é	PART	pcl	_	3	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	asekɨj	_	NOUN	n	Number=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
+7	ipoʃɨpwera	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Past	6	obl:obj	_	_
+8	.	,	PUNCT	punct	_	6	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
