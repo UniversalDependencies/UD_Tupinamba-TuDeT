@@ -4904,6 +4904,19 @@
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	ʃetɨãia	ʃetɨãi	VERB	v	Case=Ref|Number=Sing|Person[psor]=1	10	punct	_	_
 
+# sent_id = 0044.133
+# text = Napeapɨsáj , janu , ikó taβa apamonana .
+# text_eng = (Teatro, 40)
+# text_por = Não tendes ouvidos, como de[costume, esta aldeia confundindo.
+1	Napeapɨsáj	apɨsá	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	janu	anu	ADV	n	Rel=NCont	1	advmod	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	ikó	ko	DET	dem	_	6	det	_	_
+6	taβa	taβ	NOUN	n	Case=Ref	7	obj	_	_
+7	apamonana	apamonana	VERB	n	VerbForm=Ger	1	advcl	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
