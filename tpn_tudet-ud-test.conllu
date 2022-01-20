@@ -4818,6 +4818,56 @@
 10	jepi	jepi	ADV	adv	_	9	advmod	_	_
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0044.125
+# text = ʃeresé ojeroβjá ; ojmoɲaŋ kó tupãoka tekópwera rekoaβoka , o arõanamo ʃerá , ʃeresékatu ojekoka 
+# text_eng (Teatro, 40)
+# text_por = Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.
+1	ʃeresé	esé	ADP	posp	Number=Sing|Person=1|Rel=Cont	2	obl	_	_
+2	ojeroβjá	jeroβjar	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
+3	;	;	PUNCT	punct	_	2	punct	_	_
+4	ojmoɲaŋ	moɲaŋ	VERB	vt	Person[obj]=3|Person[subj]=3	2	parataxis	_	_
+5	kó	ko	DET	dem	_	6	det	_	_
+6	tupãoka	tupãoka	NOUN	propn	Case=Ref	4	obl:obj	_	_
+7	tekópwera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	8	obj	_	_
+8	rekoaβoka	ekoaβok	VERB	n	Rel=Cont|VerbForm=Ger	4	advcl	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	oarõanamo	_	NOUN	posp	Number=Sing|Person=1	11	obl	_	_
+11	ʃerá	jar	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	4	advcl	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	ʃeresékatu	resék	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Rel=Cont	14	obl	_	_
+14	ojekoka	jekok	VERB	v	Corf=Yes|Person=3|Reflex=Yes|VerbForm=Ger	4	advcl	_	_
+15	.	,	PUNCT	punct	_	14	punct	_	_
+
+# sent_id = 0044.127
+# text = eʔí teɲẽ nereroβjá ; erejpɨsɨrõ jepéne , nepó swi anosene .
+# text_eng = (Teatro, 40)
+# text_por = Em vão crêem em ti; ainda que os libertes, de tua mão retirá-los-ei.
+1	eʔí	ʔi	VERB	propn	_	3	dep	_	_
+2	teɲẽ	teɲẽ	PART	prcl	_	1	discourse	_	_
+3	nereroβjá	eroβjár	VERB	pcl	_	0	root	_	_
+4	;	;	PUNCT	punct	_	3	punct	_	_
+5	erejpɨsɨrõ	pɨsɨrõ	VERB	v	Person[obj]=3|Person[subj]=3	10	advcl	_	_
+6	jepéne	jepé	SCONJ	sconj	Tense=Fut	5	mark	_	_
+7	,	,	PUNCT	punct	_	10	punct	_	_
+8	nepó	po	NOUN	adv	Number=Sing|Person[psor]=2	10	obl	_	_
+9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
+10	anosene	anose	ADV	adv	Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	3	parataxis	_	_
+11	.	,	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = 0044.128
+# text = Aβeβé kó ɨβɨtu já ; anoɲan , aroβeβéne .
+# text_eng = (Teatro, 40)
+# text_por = Vôo como este vento;fá-los-ei correr comigo, fá-los-ei voar comigo
+1	Aβeβé	Aβe	VERB	vi	Number=Sing|Person1	0	root	_	_
+2	kó	kó	DET	dem	_	3	det	_	_
+3	ɨβɨtu	_	NOUN	n	_	1	obl	_	_
+4	já	já	ADP	posp	_	3	case	_	_
+5	;	;	PUNCT	punct	_	1	punct	_	_
+6	anoɲan	anoɲan	NOUN	n	Number=Sing|Person1|Voice=Com	1	parataxis	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	aroβeβéne	aroβeβé	ADV	adv	Number=Sing|Person1|Tense=Fut|Voice=Com	1	parataxis	_	_
+9	.	,	PUNCT	punct	_	8	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
