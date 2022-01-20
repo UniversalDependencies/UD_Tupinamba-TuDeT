@@ -4504,7 +4504,7 @@
 16	aŋá	aŋá	ADV	adv	_	15	advmod	_	_
 17	.	.	PUNCT	punct	_	15	punct	_	_
 
-# sent_id = 00.44100
+# sent_id = 0044.100
 # text = neʔí teʔe kunumĩwasu , moruβiʃaβa osowápe , oikéβo meme kawápe , aʔepe kuɲãmuku repeɲana , ipotásápe .
 # text_eng = (Teatro, 36)
 # text_por = Por isso mesmo os moços, por os convidarem os chefes, entram sempre no lugar de beber cauim, as moças ali atacando, por desejá-las.
@@ -4792,6 +4792,15 @@
 6	asekɨj	_	NOUN	n	Number=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
 7	ipoʃɨpwera	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Past	6	obl:obj	_	_
 8	.	,	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.123
+# text = Iamotareʔɨmetéβo , perekoaiaí .
+# text_eng = (Teatro, 42)
+# text_por = Detestando-os muito, tratai-os muito mal.
+1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Prinv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	perekoaiaí	perekóaíaí	PROPN	propn	_	1	appos	_	_
+4	.	.	PUNCT	punct	Number=Plur|Person=2|Rel=Cont	1	punct	_	_
 
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
