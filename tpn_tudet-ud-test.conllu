@@ -5190,6 +5190,7 @@
 5	enéβo	ené	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
 # text_eng = Camarão leter 0055.11
 # text_por = Nuestro Señor te dé una buena vida 
