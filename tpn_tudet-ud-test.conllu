@@ -5190,3 +5190,14 @@
 5	enéβo	ené	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
+# text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
+# text_eng = Camarão leter 0055.11
+# text_por = Nuestro Señor te dé una buena vida 
+1	Janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	5	obl:subj	_	_
+2	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
+3	Tupã	Tupã	PROPN	propn	_	1	appos	_	_
+4	tekoβékatu	ikoβé	NOUN	n	Intens=Yes|Rel=Hum	5	obj	_	_
+5	tomeʔeŋ	meʔeŋ	VERB	v	Modd=Perm|Person[subj]=3|Voice=Cau	0	root	_	_
+6	enéβe	ené	PRON	pron	Case=Dat|Nuber=Sing|Person=2|PronType=Prs	5	obl	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
