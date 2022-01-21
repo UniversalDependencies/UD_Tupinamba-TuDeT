@@ -5192,7 +5192,7 @@
 
 # sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
-# text_eng = Camarão leter 0055.11
+# text_eng = Camarão leter 1,1
 # text_por = Nuestro Señor te dé una buena vida 
 1	Janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	5	obl:subj	_	_
 2	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
@@ -5201,4 +5201,60 @@
 5	tomeʔeŋ	meʔeŋ	VERB	v	Modd=Perm|Person[subj]=3|Voice=Cau	0	root	_	_
 6	enéβe	ené	PRON	pron	Case=Dat|Nuber=Sing|Person=2|PronType=Prs	5	obl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 0055.2
+# text = Ikó ʃepapera ené sepjakʔ janone , ʃerorɨkatu ʔã opaβeɲẽ  maraneʔɨma resé wiporanupa , ʃeaβé ʔã naʃemarani ɲẽ witekóβo , peʔẽme maʔe moɲaŋawama resé , maʔe  remimotara . 
+# text_eng = Camarão leter 1,2
+# text_por = Antes de que veas esta carta, yo estoy muy feliz, preguntando por todas las cosas buenas de ustedes, yo también no estando mal, en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
+1	Ikó	ikó	DET	_	_	2	det	_	_
+2	ʃepapera	_	NOUN	n	Case=Ref|Number=Sing|Person=1	4	obj	_	_
+3	ené	ené	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	sepjakʔ	epjak	NOUN	n	Rel=NCont	7	advcl	_	_
+5	janone	janone	SCONJ	sconj	_	4	mark	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	ʃerorɨkatu	_	NOUN	n	Intens=Yes|Number=Sing|Person=1|Rel=Cont	0	root	_	_
+8	ʔã	ʔã	PART	prcl	_	7	discourse	_	_
+9	opaβeɲẽ	opaβeɲẽ	PRON	pron	PronType=Tot	10	nmod	_	_
+10	maraneʔɨma	_	NOUN	n	Case=Ref|Priv=Yes	12	obl	_	_
+11	resé	esé	ADP	posp	Rel=Cont	10	case	_	_
+12	wiporanupa	poranuβ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	7	advcl	_	_
+13	,	,	PUNCT	_	_	7	punct	_	_
+14	ʃeaβé	ʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+15	ʔã	ʔã	PART	prcl	_	16	discourse	_	_
+16	naʃemarani	maran	NOUN	n	Number=Sing|Person=1|Polarity=Neg	7	parataxis	_	_
+17	ɲẽ	ɲẽ	ADV	adv	_	16	advmod	_	_
+18	witekóβo	ikó	AUX	aux	_	16	aux	_	_
+19	,	,	PUNCT	punct	_	16	punct	_	_
+20	peʔẽme	peʔẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	21	obl	_	_
+21	maʔe	maʔe	NOUN	n	_	12	obl	_	_
+22	moɲaŋawama	moɲaŋ	NOUN	n	Case=Ref|Tense=Fut	21	nmod	_	_
+23	resé	esé	ADP	posp	Rel=Cont	22	case	_	_
+24	,	,	PUNCT	punct	_	21	punct	_	_
+25	maʔe	maʔe	NOUN	n	_	26	nmod	_	_
+26	remimotara	potar	NOUN	n	Case=Ref|Dev=Pass|Rel=Cont	21	appos	_	_
+27	.	_	PUNCT	punct	_	26	punct	_	_
+
+# sent_id = 0055.3
+# text = Maʔe moɲaŋawama resé , ajmondó ʔã ʃesoldados eβapó nerapé ɨpɨ ,  sema resé kwãj awá mosema repjaka wiʔjaβo . 
+# text_eng = Camarão leter 1,3
+# text_por = Para hacer las cosas, envié a esos mis soldados allí, cerca de tus caminos, para la salida de ustedes, diciéndoles "vayan a evacuar los altibajos".
+1	Maʔe	_	NOUN	n	_	5	obl	_	_
+2	moɲaŋawama	_	NOUN	n	_	1	nmod	_	_
+3	resé	_	ADP	posp	_	1	case	_	_
+4	,	_	PUNCT	punct	_	5	punct	_	_
+5	ajmonó	monó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
+6	ʔã	ʔã	PART	prcl	_	5	discourse	_	_
+7	ʃesoldados	soldado	NOUN	n	_	5	obl:obj	_	_
+8	eβapó	eβapó	ADV	adv	_	5	advmod	_	_
+9	nerapé	apé	NOUN	n	Number=Sing|Person=2|Rel=NCont	5	obl	_	_
+10	ɨpɨ	ɨpɨ	ADP	posp	_	9	case	_	_
+11	,	,	PUNCT	punct	_	5	punct	_	_
+12	sema	sem	NOUN	v	Case=Ref	5	obl	_	_
+13	resé	esé	ADP	posp	Rel=Cont	12	case	_	_
+14	kwãj	so	VERB	v	Mood=Imp|Number=Sing|Person=2	18	ccomp	_	_
+15	awá	awá	NOUN	n	_	16	nmod	_	_
+16	mosema	sem	NOUN	n	Case=Ref|Voice=Cau	17	obj	_	_
+17	repjaka	epjak	VERB	v	Rel=Cont|VerbForm=Ger	14	advcl	_	_
+18	wiʔjaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	5	advcl	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
 
