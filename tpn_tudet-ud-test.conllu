@@ -5034,7 +5034,7 @@
 7	gajkujka	gajkujk	VERB	v	VerbForm=Ger	1	conj	_	_
 8	?	?	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 444147
+# sent_id = 0044.147
 # text = Ené , rõ , kururuasɨka ! Erĩ , sarigweja e !
 # text_eng = (Teatro, 44)
 # text_por = Eia, pois, sapo maneta! Irra, gambá!
@@ -5051,6 +5051,51 @@
 10	sarigweja	sarigweja	NOUN	punct	Case=Ref	5	parataxis	_	_
 11	e	e	PUNCT	punct	_	10	discourse	_	_
 12	!	!	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = 0044.148
+# text = Ejori , maʔenem , maʔepoʃɨ , morá , miaratakaka , seβoʔi , tamarutaka ! ʃepwerai , ʃeropesɨi . Awjé ! Teume ʃemomaka !
+# text_eng = (Teatro, 46)
+# text_por = Vem, coisa fedorenta, coisa nojenta, borá, maritacaca, sanguessuga, tamarutaca!
+1	Ejori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3-4	maʔenem	_	_	_	_	_	_	_	_
+3	maʔe	maʔenem	PROPN	_	_	1	vocative	_	_
+4	nem	maʔenem	PROPN	_	_	3	nmod	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6-7	maʔepoʃɨ	_	_	_	_	_	_	_	_
+6	maʔe	paʔepoʃɨ	NOUN	n	_	3	conj	_	_
+7	poʃɨ	paʔepoʃɨ	NOUN	n	_	6	nmod	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	morá	morá	NOUN	n	_	3	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	miaratakaka	miaratakak	NOUN	n	VerbForm=Ger	3	conj	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	seβoʔi	seβoʔi	NOUN	n	_	3	conj	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	tamarutaka	tamarutak	NOUN	n	VerbForm=Ger	3	conj	_	_
+16	!	!	PUNCT	punct	_	15	punct	_	_
+
+# sent_id = 0044.149
+# text = ʃepweraj , ʃeropesɨi . Awjé ! Teume ʃemomaka !
+# text_eng = (Teatro, 46)
+# text:por = Eu estou cansado, eu estou com sono. Basta! Não me despertes!
+1	ʃepweraj	pwerai	NOUN	n	Number=Sing|Person=1	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ʃeropesɨi	ropesɨi	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	conj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+5	Awjé	awjé	INTJ	intj	_	1	parataxis	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+7	Teume	Teume	PART	prcl	Mood=Imp|Polarity=Neg	8	discourse	_	_
+8	ʃemomaka	ʃemomak	NOUN	n	Number=Sing|Person=1|VerbForm=Ger|Voice=Cau	1	parataxis	_	_
+9	!	!	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 0044.150
+# text = Aβápe ne ?
+# text_eng = Who are you? (Teatro, 46)
+# text_pof = Quem é você? 
+1	Aβápe	aβá	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
+2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
