@@ -4784,7 +4784,7 @@
 # text = Esenute , supi é , asekɨj ipoʃɨpwera .
 # text_eng = (Teatro, 40)
 # text_por = Mas ouve, na verdade, evoquei suas antigas maldades
-1	Esenute	Esenute	VERB	vt	Foc=Yes|Modd=Imp|Number=Sing|Person=2	0	root	_	_
+1	Esenute	Esenute	VERB	vt	Foc=Yes|Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	supi	supi	ADP	pos	_	1	advmod	_	_
 4	é	é	PART	pcl	_	3	discourse	_	_
@@ -4859,14 +4859,14 @@
 # text = Aβeβé kó ɨβɨtu já ; anoɲan , aroβeβéne .
 # text_eng = (Teatro, 42)
 # text_por = Vôo como este vento;fá-los-ei correr comigo, fá-los-ei voar comigo
-1	Aβeβé	Aβe	VERB	vi	Number=Sing|Person1	0	root	_	_
+1	Aβeβé	Aβe	VERB	vi	Number=Sing|Person=1	0	root	_	_
 2	kó	kó	DET	dem	_	3	det	_	_
 3	ɨβɨtu	_	NOUN	n	_	1	obl	_	_
 4	já	já	ADP	posp	_	3	case	_	_
 5	;	;	PUNCT	punct	_	1	punct	_	_
-6	anoɲan	anoɲan	NOUN	n	Number=Sing|Person1|Voice=Com	1	parataxis	_	_
+6	anoɲan	anoɲan	NOUN	n	Number=Sing|Person=1|Voice=Com	1	parataxis	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
-8	aroβeβéne	aroβeβé	ADV	adv	Number=Sing|Person1|Tense=Fut|Voice=Com	1	parataxis	_	_
+8	aroβeβéne	aroβeβé	ADV	adv	Number=Sing|Person=1|Tense=Fut|Voice=Com	1	parataxis	_	_
 9	.	,	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0044.130
@@ -4938,7 +4938,7 @@
 # text = Peporeawsu korine ; pemoɨrõ paʔi Jesu , ko taβa poβupoβu . perapɨ tatáenɨne !
 # text_eng = (Teatro, 44)
 # text_por = Estareis aflitos hoje; irritastes o Senhor Jesus, ficando a revirar esta aldeia. Queimar-vos-ão as chamas!
-1	Peporeawsu	Peporeawsu	VERB	n	Augm=Yes|Number=Sing|Person=2|Rel=Cont	0	root	_	_
+1	Peporeawsu	Peporeawsu	NOUN	n	Augm=Yes|Number=Sing|Person=2|Rel=Cont	0	root	_	_
 2	korine	kori	ADV	adv	Tense=Fut	1	advmod	_	_
 3	;	;	PUNCT	punct	_	1	punct	_	_
 4	pemoɨrõ	pemoɨrõ	VERB	n	Number=Sing|Person=2|Voice=Cau	1	parataxis	_	_
@@ -5195,12 +5195,12 @@
 2	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
 3	Tupã	Tupã	PROPN	propn	_	1	appos	_	_
 4	tekoβékatu	ikoβé	NOUN	n	Intens=Yes|Rel=Hum	5	obj	_	_
-5	tomeʔeŋ	meʔeŋ	VERB	v	Modd=Perm|Person[subj]=3|Voice=Cau	0	root	_	_
-6	enéβe	ené	PRON	pron	Case=Dat|Nuber=Sing|Person=2|PronType=Prs	5	obl	_	_
+5	tomeʔeŋ	meʔeŋ	VERB	v	Mood=Perm|Person[subj]=3|Voice=Cau	0	root	_	_
+6	enéβe	ené	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 0055.2
-# text = Ikó ʃepapera ené sepjakʔ janone , ʃerorɨkatu ʔã opaβeɲẽ  maraneʔɨma resé wiporanupa , ʃeaβé ʔã naʃemarani ɲẽ witekóβo , peʔẽme maʔe moɲaŋawama resé , maʔe  remimotara . 
+# text = Ikó ʃepapera ené sepjakʔ janone , ʃerorɨkatu ʔã opaβeɲẽ  maraneʔɨma resé wiporanupa , ʃeaβé ʔã naʃemarani ɲẽ witekóβo , peʔẽme maʔe moɲaŋawama resé , maʔe  remimotara .
 # text_eng = Camarão leter 1,2
 # text_por = Antes de que veas esta carta, yo estoy muy feliz, preguntando por todas las cosas buenas de ustedes, yo también no estando mal, en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
 1	Ikó	ikó	DET	_	_	2	det	_	_
@@ -5292,7 +5292,7 @@
 31	.	.	PUNCT	punct	_	30	punct	_	_
 
 # sent_id = 0055.5
-# text = Paʔi Tupã jandé jara remikuwaβamo , ikó ʃeɲeʔeŋa ajmonó enéβe , Sr . Pedro Poti .   
+# text = Paʔi Tupã jandéjara remikuwaβamo , ikó ʃeɲeʔeŋa ajmonó enéβe , Sr Pedro Poti .
 # text_eng = Camarão letter 1,5
 # text_por = Como cosa sabida por nuestro Señor Dios, te envío estas mis palabras, señor Pedro Potĩ.
 1	Paʔi	paʔi	NOUN	n	_	2	compound	_	_
