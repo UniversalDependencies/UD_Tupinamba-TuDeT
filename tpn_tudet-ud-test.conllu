@@ -5235,7 +5235,7 @@
 27	.	_	PUNCT	punct	_	26	punct	_	_
 
 # sent_id = 0055.3
-# text = Maʔe moɲaŋawama resé , ajmondó ʔã ʃesoldados eβapó nerapé ɨpɨ ,  sema resé kwãj awá mosema repjaka wiʔjaβo . 
+# text = Maʔe moɲaŋawama resé , ajmondó ʔã ʃesoldados eβapó nerapé ɨpɨ ,  pesema resé kwãj awá mosema repjaka wiʔjaβo . 
 # text_eng = Camarão leter 1,3
 # text_por = Para hacer las cosas, envié a esos mis soldados allí, cerca de tus caminos, para la salida de ustedes, diciéndoles "vayan a evacuar los altibajos".
 1	Maʔe	_	NOUN	n	_	5	obl	_	_
@@ -5249,7 +5249,7 @@
 9	nerapé	apé	NOUN	n	Number=Sing|Person=2|Rel=NCont	5	obl	_	_
 10	ɨpɨ	ɨpɨ	ADP	posp	_	9	case	_	_
 11	,	,	PUNCT	punct	_	5	punct	_	_
-12	sema	sem	NOUN	v	Case=Ref	5	obl	_	_
+12	pesema	sem	NOUN	v	Case=Ref|Number=Plur|Person=2	5	obl	_	_
 13	resé	esé	ADP	posp	Rel=Cont	12	case	_	_
 14	kwãj	so	VERB	v	Mood=Imp|Number=Sing|Person=2	18	ccomp	_	_
 15	awá	awá	NOUN	n	_	16	nmod	_	_
@@ -5259,21 +5259,57 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 0055.4
-# text = Ajmondó kapitão Diogo da kosta , ipɨsɨk aβá amõ kojpó kuɲã amõ tajmoŋetá .
+# text = Ajmondó kapitão Diogo da kosta , ipɨsɨk aβá amõ kojpó kuɲã amõ tajmoŋetá . Perenosema ikó orojur pejé iʃupé moŋetá raɲẽ . Imoŋetá raɲẽ rojré , ta pejmonó awamoŋa kuapa wiʔjaβo .
 # text_eng = Camarão letter 1,4
-# text_por = Enviei o capitão Diego Acosta, [diciéndole] "tomen allá algunos hombres o algunas mujeres para conversar.
-1	Ajmonó	monó	VERB	v	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
-2	Capitão	capitão	NOUN	n	Foreign=Yes	_	_	_	_
+# text_por = Enviei o capitão Diego Acosta, dizendo: "tomen allá algunos hombres o algunas mujeres para conversar. Díganle a ellos 'vinimos para salvarlos'. Conversen con ellos primero. Después de conversar, que los envíen a ellos para que conozcan los altibajos pantanosos"
+1	Ajmonó	monó	VERB	VERB	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
+2	Capitão	capitão	NOUN	NOUN	Foreign=Yes	_	_	_	_
 3	Diogo	Diogo	PROPN	propn	_	1	obl:obj	_	_
 4	da	da	PRON	propn	_	3	compound	_	_
 5	Costa	Costa	PROPN	propn	_	4	compound	_	_
 6	,	,	PUNCT	punct	_	1	punct	_	_
-7	ipɨsɨk	pɨsɨk	VERB	v	_	1	parataxis	_	_
-8	aβá	aβá	NOUN	n	_	7	obj	_	_
+7	ipɨsɨk	pɨsɨk	VERB	VERB	_	30	ccomp	_	_
+8	aβá	aβá	NOUN	NOUN	_	7	obj	_	_
 9	amõ	amõ	PRON	porn	PronType=Ind	8	nmod	_	_
 10	kojpó	kojpó	CCONJ	conj	_	11	cc	_	_
-11	kuɲã	kuɲã	NOUN	n	_	8	conj	_	_
+11	kuɲã	kuɲã	NOUN	NOUN	_	8	conj	_	_
 12	amõ	amõ	PRON	pron	PronType=Ind	11	nmod	_	_
-13	taimoŋetá	moŋetá	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Voice=Cau	8	xcomp	_	_
+13	taimoŋetá	moŋetá	VERB	VERB	Mood=Perm|Person[obj]=3|Person[subj]=1|Voice=Cau	8	xcomp	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
+15	Perenosema	_	NOUN	n	Number=Plur|Person=2|Rel=Cont	17	advcl	_	_
+16	ikó	ikó	ADV	adv	_	17	advmod	_	_
+17	orojur	jur	VERB	v	Clusivity=Ex|Number=Plur|Person=1	18	ccomp	_	_
+18	pejé	ʔi	VERB	v	Mood=Imp|Number=Plur|Person=2	7	parataxis	_	_
+19	iʃupé	supé	ADP	posp	Rel=NCont	18	obl	_	_
+20	,	,	PUNCT	punct	_	18	punct	_	_
+21	imoŋetá	_	VERB	v	_	18	parataxis	_	_
+22	raɲẽ	raɲẽ	ADV	adv	_	21	advcl	_	_
+23	,	,	PUNCT	punct	_	21	punct	_	_
+24	Imoŋetá	_	NOUN	n	_	21	parataxis	_	_
+25	rojré	rojré	ADP	posp	_	24	case	_	_
+26	,	,	PUNCT	punct	_	24	punct	_	_
+27	tapejmonó	_	VERB	v	Mood=Perm|Number=Sing|Person=2|Voice=Cau	24	parataxis	_	_
+28	awamoŋa	awá	NOUN	n	_	29	obj	_	_
+29	kuapa	kuwaβ	VERB	v	VerbForm=Ger	27	advcl	_	_
+30	wiʔjaβo	ʔi	VERB	VERB	Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
+31	.	.	PUNCT	punct	_	30	punct	_	_
+
+# sent_id = 0055.5
+# text = Paʔi Tupã jandé jara remikuwaβamo , ikó ʃeɲeʔeŋa ajmonó enéβe , Sr . Pedro Poti .   
+# text_eng = Camarão letter 1,5
+# text_por = Como cosa sabida por nuestro Señor Dios, te envío estas mis palabras, señor Pedro Potĩ.
+1	Paʔi	paʔi	NOUN	n	_	2	compound	_	_
+2	Tupã	Tupã	PROPN	propn	_	3	compound	_	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	4	nmod	_	_
+4	remikuwaβamo	kuwaβ	NOUN	n	Case=Tran|Dev=Pass|Rel=NCont	7	obl:obj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ikó	ikó	DET	dem	_	7	det	_	_
+7	ʃeɲeʔeŋa	ɲeʔeŋ	NOUN	n	Number=Sing|Person=1	8	obl:obj	_	_
+8	ajmonó	monó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+9	enéβe	ené	PRON	pron	Case=Dat|PronType=Prs	8	obl	_	_
+10	,	,	PUNCT	punct	_	11	punct	_	_
+11	Sr	senhor	NOUN	n	_	9	appos	_	_
+12	Pedro	Pedro	PROPN	propn	_	11	compound	_	_
+13	Poti	Poti	PROPN	propn	_	12	compound	_	_
+14	.	.	PUNCT	punct	_	11	punct	_	_
 
