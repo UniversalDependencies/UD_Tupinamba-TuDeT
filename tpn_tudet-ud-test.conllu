@@ -5258,3 +5258,22 @@
 18	wiʔjaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	5	advcl	_	_
 19	.	.	PUNCT	_	_	18	punct	_	_
 
+# sent_id = 0055.4
+# text = Ajmondó kapitão Diogo da kosta , ipɨsɨk aβá amõ kojpó kuɲã amõ tajmoŋetá .
+# text_eng = Camarão letter 1,4
+# text_por = Enviei o capitão Diego Acosta, [diciéndole] "tomen allá algunos hombres o algunas mujeres para conversar.
+1	Ajmonó	monó	VERB	v	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
+2	Capitão	capitão	NOUN	n	Foreign=Yes	_	_	_	_
+3	Diogo	Diogo	PROPN	propn	_	1	obl:obj	_	_
+4	da	da	PRON	propn	_	3	compound	_	_
+5	Costa	Costa	PROPN	propn	_	4	compound	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	ipɨsɨk	pɨsɨk	VERB	v	_	1	parataxis	_	_
+8	aβá	aβá	NOUN	n	_	7	obj	_	_
+9	amõ	amõ	PRON	porn	PronType=Ind	8	nmod	_	_
+10	kojpó	kojpó	CCONJ	conj	_	11	cc	_	_
+11	kuɲã	kuɲã	NOUN	n	_	8	conj	_	_
+12	amõ	amõ	PRON	pron	PronType=Ind	11	nmod	_	_
+13	taimoŋetá	moŋetá	VERB	v	Mood=Perm|Person[obj]=3|Person[subj]=1|Voice=Cau	8	xcomp	_	_
+14	.	.	PUNCT	punct	_	13	punct	_	_
+
