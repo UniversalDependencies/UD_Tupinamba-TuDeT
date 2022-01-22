@@ -4786,7 +4786,7 @@
 # text_por = Mas ouve, na verdade, evoquei suas antigas maldades
 1	Esenute	Esenute	VERB	vt	Foc=Yes|Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	supi	supi	ADP	pos	_	1	advmod	_	_
+3	supi	supi	ADV	adv	_	1	advmod	_	_
 4	é	é	PART	pcl	_	3	discourse	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
 6	asekɨj	_	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
@@ -4902,7 +4902,7 @@
 12	ʃeruaj	ruaj	NOUN	n	Number=Sing|Person=1|Rel=Cont	10	conj	_	_
 13	puku	puku	NOUN	n	Number=Sing|Person=1|Rel=Cont	12	nmod	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
-15	ʃetɨãia	ʃetɨãi	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	10	_	_	_
+15	ʃetɨãia	ʃetɨãi	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	10	conj	_	_
 
 # sent_id = 0044.132
 # text = Aikoβé niʃé sarõana , São Seβastião irũ , São Lourenço pɨtɨβõana .
@@ -5046,8 +5046,8 @@
 7	!	!	PUNCT	punct	_	5	punct	_	_
 8	Erĩ	erĩ	INTJ	punct	_	10	discourse	_	_
 9	,	,	PUNCT	punct	_	10	punct	_	_
-10	sarigweja	sarigweja	NOUN	punct	Case=Ref	5	parataxis	_	_
-11	e	e	PUNCT	punct	_	10	discourse	_	_
+10	sarigweja	sarigweja	NOUN	n	Case=Ref	5	parataxis	_	_
+11	e	e	PART	prcl	_	10	discourse	_	_
 12	!	!	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.148
@@ -5260,7 +5260,7 @@
 # text_eng = Camarão letter 1,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen allá algunos hombres o algunas mujeres para conversar. Díganle a ellos 'vinimos para salvarlos'. Conversen con ellos primero. Después de conversar, que los envíen a ellos para que conozcan los altibajos pantanosos"
 1	Ajmonó	monó	VERB	VERB	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
-2	Capitão	capitão	NOUN	NOUN	Foreign=Yes	_	_	_	_
+2	Capitão	capitão	NOUN	NOUN	Foreign=Yes	3	compound	_	_
 3	Diogo	Diogo	PROPN	propn	_	1	obl:obj	_	_
 4	da	da	PRON	propn	_	3	compound	_	_
 5	Costa	Costa	PROPN	propn	_	4	compound	_	_
