@@ -4797,7 +4797,7 @@
 # text = Iamotareʔɨmetéβo , pereko aiaí .
 # text_eng = (Teatro, 42)
 # text_por = Detestando-os muito, tratai-os muito mal.
-1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Prinv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
+1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Priv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	pereko	pereko	NOUN	propn	Number=Sing|Person=2|Rel=NCont	1	appos	_	_
 4	aiaí	aíb	NOUN	propn	_	3	nmod	_	_
@@ -4902,13 +4902,13 @@
 12	ʃeruaj	ruaj	NOUN	n	Number=Sing|Person=1|Rel=Cont	10	conj	_	_
 13	puku	puku	NOUN	n	Number=Sing|Person=1|Rel=Cont	12	nmod	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
-15	ʃetɨãia	ʃetɨãi	VERB	v	Case=Ref|Number=Sing|Person[psor]=1	10	_	_	_
+15	ʃetɨãia	ʃetɨãi	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	10	_	_	_
 
 # sent_id = 0044.132
 # text = Aikoβé niʃé sarõana , São Seβastião irũ , São Lourenço pɨtɨβõana .
 # text_eng = (Teatro, 42)
 # text_por = Eu permaneço seu guardião, companheiro de São Sebastião, ajudante de São Lourenço.
-1	Aikoβé	ikó	VERB	n	Number=Sing|Person[subj]=1t	0	root	_	_
+1	Aikoβé	ikó	VERB	n	Number=Sing|Person[subj]=1	0	root	_	_
 2	niʃé	niʃé	ADP	posp	_	1	obl:subj	_	_
 3	sarõana	arõan	NOUN	v	Case=Ref|Nomzr=Ag|Rel=NCont	1	obl	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
