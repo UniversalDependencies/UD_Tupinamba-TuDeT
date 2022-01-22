@@ -4754,7 +4754,6 @@
 # text_por = Enfim, os moços escondem seus atos muito maus, calam-nos.
 1	Awjé	Awjé	INTJ	intj	_	5	discourse	_	_
 2	kunumĩwasu	kunumĩwasu	NOUN	n	Augm=Yes	5	obl:subj	_	_
-3-4	_	_	_	_	_	_	_	_	_
 3	oeko	ikó	NOUN	n	Corf=Yes|Intens=Yes	5	obl:obj	_	_
 4	aíβeté	ekoaíβ	NOUN	n	Corf=Yes|Intens=Yes	3	nmod	_	_
 5	ojomim	mim	VERB	vi	Person[obj]=3|Person[subj]=3	0	root	_	_
@@ -4800,7 +4799,6 @@
 # text_por = Detestando-os muito, tratai-os muito mal.
 1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Prinv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3-4	_	_	_	_	_	_	_	_	_
 3	pereko	pereko	NOUN	propn	Number=Sing|Person=2|Rel=NCont	1	appos	_	_
 4	aiaí	aíb	NOUN	propn	_	3	nmod	_	_
 5	.	.	PUNCT	punct	Number=Plur|Person=2|Rel=Cont	1	punct	_	_
@@ -4822,7 +4820,7 @@
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.125
-# text = ʃeresé ojeroβjá ; ojmoɲaŋ kó tupãoka tekópwera rekoaβoka , oarõanamo ʃerá , ʃeresékatu ojekoka 
+# text = ʃeresé ojeroβjá ; ojmoɲaŋ kó tupãoka tekópwera rekoaβoka , oarõanamo ʃerá , ʃeresékatu ojekoka .
 # text_eng (Teatro, 42)
 # text_por = Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.
 1	ʃeresé	esé	ADP	posp	Number=Sing|Person=1|Rel=Cont	2	obl	_	_
@@ -4877,7 +4875,7 @@
 # text_por = Aimbirê, levemos os malditos, logo, para alegrar os que ficaram em nossa casa 
 1	Aimiré	Aimiré	PROPN	propn	_	3	vocative	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	iarasó	so	VERB	v	Clusivity=In|Number=Plur|Person=1|Rel=NCont|Voice=Com	0	root	_	_
+3	jarasó	so	VERB	v	Clusivity=In|Number=Plur|Person=1|Rel=NCont|Voice=Com	0	root	_	_
 4	muru	muru	NOUN	n	_	3	obj	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	tawjé	tawjé	ADV	adv	_	3	advmod	_	_
@@ -4901,7 +4899,6 @@
 9	βe	βe	ADV	adv	_	10	advmod	_	_
 10	ʃepwape	pwa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	2	parataxis	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
-12-13	ʃeruaipuku	_	_	_	_	_	_	_	_
 12	ʃeruaj	ruaj	NOUN	n	Number=Sing|Person=1|Rel=Cont	10	conj	_	_
 13	puku	puku	NOUN	n	Number=Sing|Person=1|Rel=Cont	12	nmod	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
@@ -5054,7 +5051,7 @@
 12	!	!	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.148
-# text = Ejori , maʔenem , maʔepoʃɨ , morá , miaratakaka , seβoʔi , tamarutaka ! ʃepwerai , ʃeropesɨi . Awjé ! Teume ʃemomaka !
+# text = Ejori , maʔenem , maʔepoʃɨ , morá , miaratakaka , seβoʔi , tamarutaka !
 # text_eng = (Teatro, 46)
 # text_por = Vem, coisa fedorenta, coisa nojenta, borá, maritacaca, sanguessuga, tamarutaca!
 1	Ejori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
@@ -5242,7 +5239,7 @@
 2	moɲaŋawama	_	NOUN	n	_	1	nmod	_	_
 3	resé	_	ADP	posp	_	1	case	_	_
 4	,	_	PUNCT	punct	_	5	punct	_	_
-5	ajmonó	monó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
+5	ajmondó	monó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
 6	ʔã	ʔã	PART	prcl	_	5	discourse	_	_
 7	ʃesoldados	soldado	NOUN	n	_	5	obl:obj	_	_
 8	eβapó	eβapó	ADV	adv	_	5	advmod	_	_
@@ -5259,7 +5256,7 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 0055.4
-# text = Ajmondó kapitão Diogo da kosta , ipɨsɨk aβá amõ kojpó kuɲã amõ tajmoŋetá . Perenosema ikó orojur pejé iʃupé moŋetá raɲẽ . Imoŋetá raɲẽ rojré , ta pejmonó awamoŋa kuapa wiʔjaβo .
+# text = Ajmonó Capitão Diogo da Costa , ipɨsɨk aβá amõ kojpó kuɲã amõ tajmoŋetá . Perenosema ikó orojur pejé iʃupé , imoŋetá raɲẽ . Imoŋetá rojré , tapejmonó awamoŋa kuapa wiʔjaβo .
 # text_eng = Camarão letter 1,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen allá algunos hombres o algunas mujeres para conversar. Díganle a ellos 'vinimos para salvarlos'. Conversen con ellos primero. Después de conversar, que los envíen a ellos para que conozcan los altibajos pantanosos"
 1	Ajmonó	monó	VERB	VERB	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
@@ -5274,7 +5271,7 @@
 10	kojpó	kojpó	CCONJ	conj	_	11	cc	_	_
 11	kuɲã	kuɲã	NOUN	NOUN	_	8	conj	_	_
 12	amõ	amõ	PRON	pron	PronType=Ind	11	nmod	_	_
-13	taimoŋetá	moŋetá	VERB	VERB	Mood=Perm|Person[obj]=3|Person[subj]=1|Voice=Cau	8	xcomp	_	_
+13	tajmoŋetá	moŋetá	VERB	VERB	Mood=Perm|Person[obj]=3|Person[subj]=1|Voice=Cau	8	xcomp	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
 15	Perenosema	_	NOUN	n	Number=Plur|Person=2|Rel=Cont	17	advcl	_	_
 16	ikó	ikó	ADV	adv	_	17	advmod	_	_
