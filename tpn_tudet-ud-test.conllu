@@ -4749,7 +4749,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.120
-# text = Awjé kunumĩwasu o ekoaíβeté ojomim , ojkuaku .
+# text = Awjé kunumĩwasu oeko aíβeté ojomim , ojkwaku .
 # text_eng = (Teatro, 40)
 # text_por = Enfim, os moços escondem seus atos muito maus, calam-nos.
 1	Awjé	Awjé	INTJ	intj	_	5	discourse	_	_
@@ -4775,7 +4775,7 @@
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8-9	ʃeaŋaipátuβiʃawera	_	_	_	_	_	_	_	_
 8	ʃeaŋaipá	aŋaipáβ	NOUN	n	Number=Sing|Person[psor]=1	10	obj	_	_
-9	tuβiʃawera	uβiʃaβ	NOUN	n	Case=ref|Rel=NCont|Tense=Past	8	nmod	_	_
+9	tuβiʃawera	uβiʃaβ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	8	nmod	_	_
 10	amosene	amose	VERB	v	Number=Sing|Person[subj]=1|Tense=Fut|Voice=Cau	11	xcomp	_	_
 11	eʔí	eʔí	VERB	propn	_	0	root	_	_
 12	ɲẽ	ɲẽ	PART	prcl	_	11	discourse	_	_
@@ -4795,7 +4795,7 @@
 8	.	,	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.123
-# text = Iamotareʔɨmetéβo , perekoaiaí .
+# text = Iamotareʔɨmetéβo , pereko aiaí .
 # text_eng = (Teatro, 42)
 # text_por = Detestando-os muito, tratai-os muito mal.
 1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Prinv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
@@ -4822,7 +4822,7 @@
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.125
-# text = ʃeresé ojeroβjá ; ojmoɲaŋ kó tupãoka tekópwera rekoaβoka , o arõanamo ʃerá , ʃeresékatu ojekoka 
+# text = ʃeresé ojeroβjá ; ojmoɲaŋ kó tupãoka tekópwera rekoaβoka , oarõanamo ʃerá , ʃeresékatu ojekoka 
 # text_eng (Teatro, 42)
 # text_por = Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.
 1	ʃeresé	esé	ADP	posp	Number=Sing|Person=1|Rel=Cont	2	obl	_	_
@@ -4839,7 +4839,7 @@
 12	,	,	PUNCT	punct	_	11	punct	_	_
 13	ʃeresékatu	resék	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Rel=Cont	14	obl	_	_
 14	ojekoka	jekok	VERB	v	Corf=Yes|Person=3|Reflex=Yes|VerbForm=Ger	4	advcl	_	_
-15	.	,	PUNCT	punct	_	14	punct	_	_
+15	.	.	PUNCT	punct	_	14	punct	_	_
 
 # sent_id = 0044.127
 # text = eʔí teɲẽ nereroβjá ; erejpɨsɨrõ jepéne , nepó swi anosene .
@@ -4887,7 +4887,7 @@
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.131
-# text = Ko ʃeʔakusu , ʃerãɲa . Je , ko βe ʃepwape , ʃeruajpuku , ʃetɨãia
+# text = Ko ʃeʔakusu , ʃerãɲa . Je , ko βe ʃepwape , ʃeruaj puku , ʃetɨãia
 # text_eng = (Teatro, 42)
 # text_por = Eis aqui meus chifrões, meus dentes sim, eis aqui também minhas garras, meu rabo comprido, meus ganchos
 1	Ko	ko	ADV	adv	_	2	advmod	_	_
