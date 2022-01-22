@@ -4789,7 +4789,7 @@
 3	supi	supi	ADP	pos	_	1	advmod	_	_
 4	é	é	PART	pcl	_	3	discourse	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
-6	asekɨj	_	NOUN	n	Number=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
+6	asekɨj	_	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
 7	ipoʃɨpwera	_	NOUN	_	Case=Ref|Rel=NCont|Tense=Past	6	obl:obj	_	_
 8	.	,	PUNCT	punct	_	6	punct	_	_
 
@@ -4797,11 +4797,11 @@
 # text = Iamotareʔɨmetéβo , pereko aiaí .
 # text_eng = (Teatro, 42)
 # text_por = Detestando-os muito, tratai-os muito mal.
-1	Iamotareʔɨmetéβo	iamotareʔɨmeté	PRON	pron	Intens=Yes|Priv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
+1	Iamotareʔɨmetéβo	iamotareʔɨmeté	VERB	v	Intens=Yes|Priv=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	pereko	pereko	NOUN	propn	Number=Sing|Person=2|Rel=NCont	1	appos	_	_
 4	aiaí	aíb	NOUN	propn	_	3	nmod	_	_
-5	.	.	PUNCT	punct	Number=Plur|Person=2|Rel=Cont	1	punct	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0044.124
 # text = Iʃé najejɨj iʃwí , Tupã supé wijeruréβo , ipɨtɨβõmo jepi .
@@ -4852,7 +4852,7 @@
 7	,	,	PUNCT	punct	_	10	punct	_	_
 8	nepó	po	NOUN	adv	Number=Sing|Person[psor]=2	10	obl	_	_
 9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
-10	anosene	anose	ADV	adv	Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	3	parataxis	_	_
+10	anosene	anose	VERB	v	Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	3	parataxis	_	_
 11	.	,	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.128
@@ -4866,7 +4866,7 @@
 5	;	;	PUNCT	punct	_	1	punct	_	_
 6	anoɲan	anoɲan	NOUN	n	Number=Sing|Person=1|Voice=Com	1	parataxis	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
-8	aroβeβéne	aroβeβé	ADV	adv	Number=Sing|Person=1|Tense=Fut|Voice=Com	1	parataxis	_	_
+8	aroβeβéne	aroβeβé	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=Com	1	parataxis	_	_
 9	.	,	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0044.130
@@ -4924,10 +4924,10 @@
 # sent_id = 0044.133
 # text = Napeapɨsáj , janu , ikó taβa apamonana .
 # text_eng = (Teatro, 40)
-# text_por = Não tendes ouvidos, como de[costume, esta aldeia confundindo.
+# text_por = Não tendes ouvidos, como de costume, esta aldeia confundindo.
 1	Napeapɨsáj	apɨsá	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	janu	anu	ADV	n	Rel=NCont	1	advmod	_	_
+3	janu	anu	ADV	adv	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	ikó	ko	DET	dem	_	6	det	_	_
 6	taβa	taβ	NOUN	n	Case=Ref	7	obj	_	_
@@ -4984,7 +4984,7 @@
 # text = Ené aé erejekoá ʃeroka poβupotá .
 # text_eng = (teatro, 44) 
 # text_por = Tu mesmo és causa de teu dano querendo revirar minha casa.
-1	Ené	Ené	PROPN	propn	PronType=Prs	3	obl:subj	_	_
+1	Ené	Ené	PRON	pron	PronType=Prs	3	obl:subj	_	_
 2	aé	aé	PART	prcl	_	1	discourse	_	_
 3	erejekoá	erejekoá	VERB	v	Number=Sing|Person=2|Reflex=Yes	0	root	_	_
 4	ʃeroka	ok	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	5	obj	_	_
