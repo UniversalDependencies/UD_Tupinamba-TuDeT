@@ -5313,3 +5313,13 @@
 13	Poti	Poti	PROPN	propn	_	12	compound	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	_
 
+# sent_id = 0055.6
+# text = Marãnamo ʃeʔã neanama retékatu ?
+# text_eng = Camarão letter 1,6
+# text_por = ¿Por qué es que soy un genuino familiar tuyo?
+1	Marãnamo	Marãnamo	ADV	adv	_	4	advmod	_	_
+2	ʃeʔã	iʃé	PRON	pron	PronType=Prs	4	nsubj	_	_
+3	neanama	anam	NOUN	n	Case=Ref|Number=Sing|Person=1	4	nmod	_	_
+4	retékatu	eté	NOUN	n	Intens=Yes|Rel=Cont	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
