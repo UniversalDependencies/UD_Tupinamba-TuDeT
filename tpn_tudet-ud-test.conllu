@@ -5366,13 +5366,40 @@
 7	nereko	ikó	NOUN	n	_	3	obl:obj	_	_
 8	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id 0055.11
+# sent_id = 0055.11
 # text = Marã erejkopotareté potareté ?
-# text_eng =  Camarões letter 1,111
+# text_eng =  Camarões letter 1,11
 # text_por = O quê queres realmente fazer ?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejkopotareté	_	_	_	_	_	_	_	_
 2	erejko	ikó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	xcomp	_	_
 3	potareté	potar	VERB	v	Intens=Yes	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0055.12
+# text = Tekó kuwaβeʔɨmamo , erejemokajẽʔmotaretékatu , ené ajẽ , ejkóβo .
+# text_eng =  Camarões letter 1,12
+# text_por = Sin conocer la situación, ciertamente estás queriendo perderte a tí mismo
+1	Tekó	ikó	NOUN	n	Rel=Hum	2	nmod	_	_
+2	kuwaβeʔɨmamo	kuwaβ	NOUN	n	Case=Tra|Priv=Yes	5	obl	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4-5	erejemokajẽmotaretékatu	_	_	_	_	_	_	_	_
+4	erejemokajẽ	mokajẽm	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2|Voice=Cau	5	xcomp	_	_
+5	motaretékatu	potar	VERB	v	Intens=Yes	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ené	ené	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	obl:subj	_	_
+8	ajẽ	ajẽ	ADV	adv	_	5	advmod	_	_
+9	,	,	PUNCT	punct	_	5	punct	_	_
+10	ejkóβo	ikó	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	5	aux	_	_
+
+# sent_id = 0055.13
+# text = Moβɨ christãokajema eresepjá ?
+# text_eng = How many lost christians have you seen?
+# text_por = Quantos cristãos perdidos já viste?
+1	Moβɨ	moβɨ	ADV	adv	_	2	advmod	_	_
+2-3	christãokajema	_	_	_	_	_	_	_	_
+2	christão	christão	NOUN	n	_	4	obl:obj	_	_
+3	kajema	kajem	NOUN	n	Case=Ref	2	nmod	_	_
+4	eresepjá	epják	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
