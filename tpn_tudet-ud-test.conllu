@@ -5346,9 +5346,33 @@
 # text_por = ¿Por qué quieres perder definitivamente tu vida como cristiano?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejmokaɲẽmotaretékatu	_	_	_	_	_	_	_	_
-2	erejmokaɲẽ	mokaɲẽ	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	dep	_	_
+2	erejmokaɲẽ	mokaɲẽ	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	xcomp	_	_
 3	motaretékatu	potar	VERB	v	Foc=Yes|Intens=Yes	0	root	_	_
 4	christãoramo	christão	NOUN	n	Case=Tra	5	obl	_	_
 5	nereko	ikó	NOUN	n	Number=Sing|Person=2|Rel=Cont	3	obl:obj	_	_
 6	?	_	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0055.10
+# text = Marã erejmokaɲẽʔmotareté Paʔi Tupã raʔɨramo ndereko ?
+# text_eng = Why do you wnat to loose your essence as son of the lord god? Camarões letter 1,10
+# text_por = Por quê queres perder tua natureza de filho do senhor Deus?
+1	Marã	marã	ADV	adv	_	3	advmod	_	_
+2-3	erejmokaɲẽʔmotareté	_	_	_	_	_	_	_	_
+2	erejmokaɲẽʔ	mokaɲẽm	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2|Voice=Cau	3	xcomp	_	_
+3	motareté	potar	VERB	v	Intens=Yes	0	root	_	_
+4	Paʔi	paʔi	NOUN	n	_	5	compound	_	_
+5	Tupã	Tupã	PROPN	propn	_	6	nmod	_	_
+6	raʔɨramo	aʔɨr	NOUN	n	Case=Tra	7	nmod	_	_
+7	nereko	ikó	NOUN	n	_	3	obl:obj	_	_
+8	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id 0055.11
+# text = Marã erejkopotareté potareté ?
+# text_eng =  Camarões letter 1,111
+# text_por = O quê queres realmente fazer ?
+1	Marã	marã	ADV	adv	_	3	advmod	_	_
+2-3	erejkopotareté	_	_	_	_	_	_	_	_
+2	erejko	ikó	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	xcomp	_	_
+3	potareté	potar	VERB	v	Intens=Yes	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
