@@ -5427,7 +5427,7 @@
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.16
-# text = Ikó βé orojkó renosema motá , sñor capitãoMor Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βé .
+# text = Ikó βé orojkó renosema motá , sñor capitãoMor Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16 
 # text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor António Felipe Camarão, e também conforme as palavras do chefe de todos os brancos
 1	Ikó	ko	DET	dem	_	3	nsubj	_	_
@@ -5441,7 +5441,7 @@
 9	Antônio	Antônio	PROPN	propn	_	8	compound	_	_
 10	Felipe	Felipe	PROPN	n	_	9	compound	_	_
 11	Camarão	Camarão	PROPN	n	_	10	compound	_	_
-12	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	_	_	_	_
+12	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	5	obl	_	_
 13	rupi	upi	ADP	posp	Rel=Cont	12	case	_	_
 14	,	,	PUNCT	punct	_	5	punct	_	_
 15	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	16	nmod	_	_
@@ -5449,7 +5449,7 @@
 17	ruβiʃaβa	uβiʃaβ	NOUN	n	Case=Ref|Rel=Cont	18	nmod	_	_
 18	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	5	conj	_	_
 19	rupi	_	ADP	posp	Rel=Cont	18	case	_	_
-20	βé	βé	ADV	adv	_	18	cc	_	_
+20	βe	βé	ADV	adv	_	18	cc	_	_
 21	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0055.17
