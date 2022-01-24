@@ -5524,7 +5524,7 @@
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0055.23
-# text = Emokwej βé Antônio Paraopeβa supé amõ capitão-mor papera sow.
+# text = Emokwej βé Antônio Paraopeβa supé amõ capitão-mor papera sow .
 # text_eng = Camarão letters 1,23
 # text_por = Para aí também vai outra carta do Capitão-mor para Antonio Paraopeba.
 1	Emokwej	Emokwej	ADV	adv	_	8	obl	_	_
@@ -5552,11 +5552,11 @@
 9	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0055.25
-# text = Aʔemo peseme orérorɨβetémo , pesememo , memẽ repjakamo .
+# text = Aʔemo peseme orerorɨβetémo , pesememo , memẽ repjakamo .
 # text_eng = Camarão letters 1,25
 # text_por = E ficaríamos muito felizes se saísseis, para vos ver sempre
 1	Aʔemo	aʔemo	PART	prcl	_	2	nmod	_	_
-2	peseme	sem	NOUN	n	Case=Lor|Number=Plur|Person=2	3	nmod	_	_
+2	peseme	sem	NOUN	n	Case=Loc|Number=Plur|Person=2	3	nmod	_	_
 3	orerorɨβetémo	rorɨβetémo	VERB	v	Clusivity=Ex|Intens=Yes|Mood=Cnd|Number=Plur|Person=1	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	pesẽmemo	sem	VERB	vt	Mood=Cnd|Number=Plur|Person=2	3	advcl	_	_
@@ -5599,7 +5599,7 @@
 # text_eng = Camarão letters 1,28
 # text_por = Que estejais vivendo bem
 1	Peikoβékatu	ikoβé	VERB	n	Intens=Yes|Number=Plur|Person[subj]=2	0	root	_	_
-2	peikóβo	okó	AUX	v	Number=Plur|Person=2|VerbForm=Ger	1	aux	_	_
+2	peikóβo	ikó	AUX	v	Number=Plur|Person=2|VerbForm=Ger	1	aux	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0055.29
