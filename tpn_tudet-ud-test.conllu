@@ -1356,7 +1356,7 @@
 3	jẽ	jẽ	PART	pcl	_	1	discourse	_	_
 4	sesé	sesé	ADP	posp	Rel=NCont	1	obl	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
-6   ejmojarukar mojar   VERB    v   Mood=Imp|Number=Sing|Person[obj]=3|Person[subj]=2|Voice=Cau 9   dep   _ _
+6   ejmojarukar mojar    VERB    v   Mood=Imp|Number=Sing|Person[obj]=3|Person[subj]=2|Voice=Cau   9   dep   _   _
 7	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	6	obl	_	_
 8	resé	esé	ADP	posp	Rel=Cont	7	case	_	_
 9	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	1	advcl	_	_
@@ -4916,7 +4916,7 @@
 6	Seβastião	Seβastião	PROPN	propn	_	7	nmod	_	_
 7	irũ	irũ	NOUN	n	_	3	appos	_	_
 8	,	,	PUNCT	punct	_	11	punct	_	_
-9	São	são	PUNCT	punct	_	10	goeswith	_	_
+9	São	são	PUNCT	punct	_	10	punct	_	_
 10	Lourenço	Lourenço	PROPN	propn	_	11	nmod	_	_
 11	pɨtɨβõana	pɨtɨβõ	NOUN	n	Case=Ref|Nomzr=Ag	7	conj	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
@@ -4975,9 +4975,9 @@
 # text = Aani ! Ajemoɨrõ .
 # text_eng = (Teatro, 44)
 # text_por = Não! Irritei-me.
-1	Aani	aani	INTJ	intj	Polarity=Neg	0	root	_	_
+1	Aani	aani	INTJ	intj	Polarity=Neg	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Ajemoɨrõ	_	VERB	v	Person[subj]=1|Reflex=Yes|Voice=Cau	0	root	_	_
+3	Ajemoɨrõ	moɨrõ	VERB	v	Person[subj]=1|Reflex=Yes|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.140
@@ -5377,7 +5377,7 @@
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0055.12
-# text = Tekó kuwaβeʔɨmamo , erejemokajẽʔmotaretékatu , ené ajẽ , ejkóβo
+# text = Tekó kuwaβeʔɨmamo , erejemokajẽmotaretékatu , ené ajẽ , ejkóβo
 # text_eng =  Camarões letter 1,12
 # text_por = Sem saber os fatos, tu, na verdade, estás querendo muitíssimo perder-te a ti mesmo.
 1	Tekó	ikó	NOUN	n	Rel=Hum	2	nmod	_	_
