@@ -5426,3 +5426,51 @@
 9	imokajema	mokajem	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	_	_
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0055.16
+# text = Ikó βé orojkó renosema motá , sñor capitãoMor Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βé .
+# text_eng = Camarões letter 1,16 
+# text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor António Felipe Camarão, e também conforme as palavras do chefe de todos os brancos
+1	Ikó	ko	DET	dem	_	3	nsubj	_	_
+2	βé	βé	ADV	adv	_	3	advmod	_	_
+3	orojkó	jkó	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
+4	renosema	enosem	NOUN	n	Case=Ref|Voice=Com	5	obj	_	_
+5	motá	potar	VERB	vt	VerbForm=Ger	3	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	sñor	sñor	PROPN	pro	_	8	compound	_	_
+8	capitãoMor	capitãoMor	NOUN	pro	_	12	nmod	_	_
+9	Antônio	Antônio	PROPN	propn	_	8	compound	_	_
+10	Felipe	Felipe	PROPN	n	_	9	compound	_	_
+11	Camarão	Camarão	PROPN	n	_	10	compound	_	_
+12	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	_	_	_	_
+13	rupi	upi	ADP	posp	Rel=Cont	12	case	_	_
+14	,	,	PUNCT	punct	_	5	punct	_	_
+15	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	16	nmod	_	_
+16	karaíβa	karaíβ	NOUN	n	Case=Ref	17	nmod	_	_
+17	ruβiʃaβa	uβiʃaβ	NOUN	n	Case=Ref|Rel=Cont	18	nmod	_	_
+18	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	5	conj	_	_
+19	rupi	_	ADP	posp	Rel=Cont	18	case	_	_
+20	βé	βé	ADV	adv	_	18	cc	_	_
+21	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 0055.17
+# text = ʃeputupaβeté ʔã witekóβo resé , oreswí jewasema repjaka .
+# text_eng = CAmarão letter 1,17
+# text_por = Eis que eu estou muito admirado convosco, vendo-vos fugir de nós.
+1	ʃeputupaβeté	putupaβ	NOUN	n	Intens=Yes|Number=Sing|Person=1	0	root	_	_
+2	ʔã	ʔã	PART	prcl	_	1	discourse	_	_
+3	witekóβo	ikó	AUX	aux	Number=Sing|Person=1	1	aux	_	_
+4	resé	esé	ADP	posp	Rel=Cont	3	case	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	oreswí	oréswíb	ADP	n	Clusivity=Ex|Number=Plur|Person=1	8	obl	_	_
+7	jewasema	jeŋwasem	NOUN	n	Case=Ref|Reflex=Yes	8	obj	_	_
+8	repjaka	epjak	VERB	n	Rel=Cont|VerbForm=Ger	1	advcl	_	_
+9	.	,	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0055.18
+# text = Naanamaruãte oré ?
+# text_eng = Camarão letter 1,18
+# text_por = Não somos nós vossa família
+1	Naanamaruãte	anam	VERB	vt	Case=Ref|Foc=Yes|Polarity=Neg	0	root	_	_
+2	oré	ré	PRON	v	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
