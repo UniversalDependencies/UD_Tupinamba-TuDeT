@@ -4912,7 +4912,7 @@
 2	niʃé	niʃé	ADP	posp	_	1	obl:subj	_	_
 3	sarõana	arõan	NOUN	v	Case=Ref|Nomzr=Ag|Rel=NCont	1	obl	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
-5	São	são	PROPN	propn	_	6	goeswith	_	_
+5	São	são	PROPN	propn	_	6	compound	_	_
 6	Seβastião	Seβastião	PROPN	propn	_	7	nmod	_	_
 7	irũ	irũ	NOUN	n	_	3	appos	_	_
 8	,	,	PUNCT	punct	_	11	punct	_	_
@@ -5321,7 +5321,7 @@
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0055.7
-# text = Ejor esema Ajaŋa ratá nuŋara swí .
+# text = Ejor esema Ajaŋa ratá nuŋara swí
 # text_eng = Camarões letter 1,7
 # text_por = Ven, sal de aquello que es como el fuego del Diablo.
 1	Ejor	jur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
@@ -5332,7 +5332,7 @@
 6	swí	swí	ADP	posp	_	5	case	_	_
 
 # sent_id = 0055.8
-# text = Ejkuaβ christãoramo nereko .
+# text = Ejkuwaβ christãoramo nereko .
 # text_eng = Camarões letter 1,8
 # text_por = ¿Sabías que eres cristiano?
 1	Ejkuwaβ	kuwaβ	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
@@ -5341,19 +5341,19 @@
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0055.9
-# text = Marã erejmokajẽʔmotaretékatu christãoramo ndereko ?
+# text = Marã erejmokajẽmotaretékatu christãoramo nereko ?
 # text_eng = Camarões letter 1,9
 # text_por = ¿Por qué quieres perder definitivamente tu vida como cristiano?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejmokajẽmotaretékatu	_	_	_	_	_	_	_	_
 2	erejmokajẽ	mokajẽ	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	xcomp	_	_
-3	motaretékatu	potar	VERB	v	Foc=Yes|Intens=Yes	0	root	_	_
+3	motaretékatu	potar	VERB	v	Intens=Yes	0	root	_	_
 4	christãoramo	christão	NOUN	n	Case=Tra	5	obl	_	_
 5	nereko	ikó	NOUN	n	Number=Sing|Person=2|Rel=Cont	3	obl:obj	_	_
 6	?	_	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0055.10
-# text = Marã erejmokajẽʔmotareté Paʔi Tupã raʔɨramo ndereko ?
+# text = Marã erejmokajẽʔmotareté Paʔi Tupã raʔɨramo nerekó ?
 # text_eng = Why do you wnat to loose your essence as son of the lord god? Camarões letter 1,10
 # text_por = Por quê queres perder tua natureza de filho do senhor Deus?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
@@ -5363,11 +5363,11 @@
 4	Paʔi	paʔi	NOUN	n	_	5	compound	_	_
 5	Tupã	Tupã	PROPN	propn	_	6	nmod	_	_
 6	raʔɨramo	aʔɨr	NOUN	n	Case=Tra	7	nmod	_	_
-7	nereko	ikó	NOUN	n	_	3	obl:obj	_	_
+7	nerekó	ikó	NOUN	n	_	3	obl:obj	_	_
 8	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0055.11
-# text = Marã erejkopotareté potareté ?
+# text = Marã erejkopotareté ?
 # text_eng =  Camarões letter 1,11
 # text_por = O quê queres realmente fazer ?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
@@ -5377,7 +5377,7 @@
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0055.12
-# text = Tekó kuwaβeʔɨmamo , erejemokajẽʔmotaretékatu , ené ajẽ , ejkóβo .
+# text = Tekó kuwaβeʔɨmamo , erejemokajẽʔmotaretékatu , ené ajẽ , ejkóβo
 # text_eng =  Camarões letter 1,12
 # text_por = Sem saber os fatos, tu, na verdade, estás querendo muitíssimo perder-te a ti mesmo.
 1	Tekó	ikó	NOUN	n	Rel=Hum	2	nmod	_	_
@@ -5403,12 +5403,12 @@
 4	eresepjá	epják	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
-#sent_id = 0055.14
+# sent_id = 0055.14
 # text = Karaíβa naokajeβaʔeruã .
 # text_eng = Camarões letter 1,14
 # text_por = Os cristãos não se perdem.
 1	Karaíβa	karaíβa	NOUN	n	_	2	nsubj	_	_
-2	naokajeβaʔeruã	kaje	VERB	v	Number=Sing|Person=3|Polarity=Neg|Nomzr=Rel	0	root	_	_
+2	naokajeβaʔeruã	kaje	VERB	v	Nomzr=Rel|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 0055.15
