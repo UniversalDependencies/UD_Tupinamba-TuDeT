@@ -5245,7 +5245,7 @@
 
 # sent_id = 0099.09
 # text = Emoierekuaβ oréβo Jesu , nememɨporaŋa . Teʔikatu oreʔaŋa seroβjá , sawsuβetéβo , imomewaβo , ʔarearéβo , iniβé nemoetéβo .
-# text_wng = (Poemas, 84)
+# text_eng = (Poemas, 84)
 # text_por = Faze perdoar a nós Jesus, teu filho belo. Que possa nossa alma crer nele, amando-o muito, anunciando-o, todos os Bías, com ele honrando-te.
 1	Emoierekuaβ	ierekuaβ	VERB	vt	Mood=Imp|Person[subj]=2|Reflex=Yes|Voice=Cau	0	root	_	_
 2	oréβo	oré	PRON	pron	Case=Dat|Clusivity=Ex|Number=Plur|Person=1	1	advcl	_	_
@@ -5268,6 +5268,22 @@
 18	iniβé	niβé	ADP	posp	Rel=NCont	19	obj	_	_
 19	nemoetéβo	moeté	VERB	v	Number=Sing|Person=2|VerbForm=Ger|Voice=Cau	1	parataxis	_	_
 20	.	.	PUNCT	punct	_	19	punct	_	_
+
+# sent_id = 0099.10
+# text = janékajemiré , janérawsupa , Tupã amõ kujãŋatu mojaŋi .
+# text_eng = (Poemas, 86)
+# text_por = Após nossa perdição, amando-nos, Deus fez uma certa mulher [bondosa.
+1-2	janekajemiré	_	_	_	_	_	_	_	_
+1	janekajem	kajem	NOUN	n	Clusivity=In|Number=Sing|Person=1	9	obl	_	_
+2	iré	iré	ADP	propn	_	1	case	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	janerawsupa	awsub	VERB	v	Clusivity=In|Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	9	advcl	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Tupã	Tupã	PROPN	propn	_	9	nsubj	_	_
+7	amõ	amõ	PRON	pro	PronType=Ind	8	nmod	_	_
+8	kujãŋatu	kujã	NOUN	n	Intens=Yes	9	obj	_	_
+9	mojaŋi	mojaŋ	NOUN	n	NonFoc=Yes	0	root	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
