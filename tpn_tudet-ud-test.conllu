@@ -5111,10 +5111,10 @@
 # text = Ajpó jõpipó nerera ?
 # text_eng = Is your name only this? (Teatro, 46)
 # text_por = Este simente é o seu nome?
-5	Ajpó	ajpó	DET	dem	_	7	nmod	_	_
-6	jõpipó	jõpipó	ADV	adv	Int=Yes	7	discourse	_	_
-7	nerera	er	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	1	conj	_	_
-8	?	_	PUNCT	punct	_	7	punct	_	_
+1	Ajpó	ajpó	DET	dem	_	7	nmod	_	_
+2	jõpipó	jõpipó	ADV	adv	Int=Yes	7	discourse	_	_
+3	nerera	er	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	1	conj	_	_
+4	?	_	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0044.153
 # text = ʃeaβé tajasuwaia , ʃemajana , manemwera .
