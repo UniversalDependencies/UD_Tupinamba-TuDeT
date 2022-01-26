@@ -5239,7 +5239,7 @@
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	oremoʔeβo	moʔe	VERB	v	Clusivity=Ex|Number=Plur|Person=1|VerbForm=Ger|Voice=Cau	1	advcl	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
-11	oreʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Clusivity=Ex|Number=Plur|Person=1	12	obj	_	_
+11	oréʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Clusivity=Ex|Number=Plur|Person=1	12	obj	_	_
 12	resapéβo	esapé	VERB	v	Rel=Cont|VerbForm=Ger	1	advcl	_	_
 13	.	,	PUNCT	punct	_	12	punct	_	_
 
@@ -5622,7 +5622,7 @@
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0055.23
-# text = Emokwej Antonio Paraopeβa supé amõ capitão-mor papera sow .
+# text = Emokwej Antonio Paraopeβa supé amõ kapitãoMor papera sow .
 # text_eng = Camarão letters 1,23
 # text_por = Para aí também vai outra carta do Capitão-mor para Antonio Paraopeba.
 1	Emokwej	Emokwej	ADV	adv	_	8	obl	_	_
