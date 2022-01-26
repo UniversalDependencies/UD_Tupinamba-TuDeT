@@ -5095,6 +5095,64 @@
 2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0044.151
+# text = Sarawaja , ajurujuβupiarwera .
+# text_eng = Sarawaja, (Teatro, 46)
+# text_por = Sarauaia, inimigo dos franceses
+1	Sarawaja	Sarawaja	PROPN	propn	_	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3-5	ajurujuβupiarwera	_	_	_	_	_	_	_	_
+3	ajuru	ajuru	NOUN	n	_	4	nmod	_	_
+4	juβ	juβ	NOUN	n	_	5	nmod	_	_
+5	upiarwera	_	NOUN	n	Case=Ref|Tense=Past	1	appos	_	_
+6	.	,	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.152
+# text = Ajpó jõpipó nerera ?
+# text_eng = Is your name only this? (Teatro, 46)
+# text_por = Este simente é o seu nome?
+5	Ajpó	ajpó	DET	dem	_	7	nmod	_	_
+6	jõpipó	jõpipó	ADV	adv	Int=Yes	7	discourse	_	_
+7	nerera	er	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	1	conj	_	_
+8	?	_	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = 0044.153
+# text = ʃeaβé tajasuwaia , ʃemajana , manemwera .
+# text_eng = I too am a pig, a spy, an old coward (Teatro, 46)
+# text_por = Eu também sou um porco; eu sou um espião, um velho poltrão
+1	ʃeaβé	iʃé	NOUN	n	Number=Sing|Person=1	2	nsubj	_	_
+2-3	tajasuwaia	_	_	_	_	_	_	_	_
+2	tajasu	tajasu	NOUN	n	Case=Ref|Rel=Hum	0	root	_	_
+3	waia	wai	NOUN	n	Case=Ref|Rel=Hum	2	nmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	ʃemajana	majana	NOUN	n	Case=Ref|Number=Sing|Person=1	2	parataxis	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	manemwera	_	NOUN	n	Case=Ref|Tense=Past	5	conj	_	_
+8	.	,	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 0044.154
+# text = neʔí teʔe neruʔumusu aβá ʔaŋa momoʃɨ̃aβo . Maʔeuʔuma , tajasu , oroapɨ kori , ianu !
+# text_eng = (Teatro, 46)
+# text_por = Por isso mesmo tua muita sujeira estraga as almas dos índios. Coisa enlameada, porco, queimo-te hoje, como de costume!
+1	neʔí	neʔí	VERB	v	Polarity=Neg	6	discourse	_	_
+2	teʔe	teʔe	PART	prcl	_	1	discourse	_	_
+3	neruʔumusu	uʔum	NOUN	propn	Augm=Yes|Number=Sing|Person=2|Rel=Ncont	6	nsubj	_	_
+4	aβá	aβá	NOUN	n	_	5	nmod	_	_
+5	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	6	obj	_	_
+6	momoʃɨaβo	poʃɨ̃	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+8-9	Maʔeuʔu	_	_	_	_	_	_	_	_
+8	Maʔe	maʔe	NOUN	n	_	13	obj	_	_
+9	uʔuma	uʔum	NOUN	n	Case=Ref	8	nmod	_	_
+10	,	,	PUNCT	punct	_	13	punct	_	_
+11	tajasu	tajasu	NOUN	n	_	13	obj	_	_
+12	,	,	PUNCT	punct	_	13	punct	_	_
+13	oroapɨ	roapɨ	VERB	vt	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|VerbForm=Ger	6	parataxis	_	_
+14	kori	kori	ADV	adv	_	13	advcl	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
+16	ianu	anu	ADV	n	Rel=NCont	13	advcl	_	_
+17	!	!	PUNCT	punct	_	13	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
