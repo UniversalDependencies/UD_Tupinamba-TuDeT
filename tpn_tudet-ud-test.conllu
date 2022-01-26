@@ -2480,7 +2480,7 @@
 9	imaʔekatu	maʔe	NOUN	n	Rel=NCont	6	conj	_	_
 10	resé	esé	ADP	posp	Rel=Cont	9	case	_	_
 11	βé	βé	ADV	adv	_	9	advmod	_	_
-12	nerorɨβamo	orɨβ	VERB	_	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	_	1	advcl	_	_
+12	nerorɨβamo	orɨβ	VERB	_	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	1	advcl	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
 14	sekomemwã	ekomemwã	NOUN	n	Rel=NCont	15	obj	_	_
 15	potareʔɨma	potar	VERB	vt	Polarity=Neg|VerbForm=Ger	1	advcl	_	_
