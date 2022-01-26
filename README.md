@@ -1,14 +1,14 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is work-in-progress and the treebank is being updated on a regular basis.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá) which is annotating sentences from all Tupinambá sources.
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The project is work-in-progress and the treebank is being updated on a regular basis.
 
 
 
@@ -18,6 +18,10 @@ UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is par
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
 * Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
 * de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
+* de Anchieta, J., (). Doutrina Cristã I
+* de Anchieta, J., (197). Doutrina Cristã II
+* Bettendorf, F. (). Catecismo
+* Cartas dos Camarões ()
 
 
 # Acknowledgments
