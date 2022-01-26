@@ -5235,9 +5235,9 @@
 4	mojaʔoiaʔoka	mojaʔok	VERB	v	Aspect=Iter|VerbForm=Ger|Voice=Cau	1	advcl	_	_
 5	oréβo	oré	PRON	pron	Case=Dat|Clusivity=Ex|Number=Plur|Person=1	4	obl	_	_
 6	,	,	PUNCT	punct	_	4	punct	_	_
-7	orerawsupa	awsub	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Rel=Ncont|VerbForm=Cau	1	advcl	_	_
+7	orérawsupa	awsub	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Rel=Ncont|VerbForm=Ger	1	advcl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	oremoʔeβo	moʔe	PRON	pron	Clusivity=Ex|Number=Plur|Person=1|VerbForm=Cau|Voice=Cau	1	advcl	_	_
+9	oremoʔeβo	moʔe	PRON	pron	Clusivity=Ex|Number=Plur|Person=1|VerbForm=Ger|Voice=Cau	1	advcl	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	oreʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Clusivity=Ex|Number=Plur|Person=1	12	obj	_	_
 12	resapéβo	esapé	VERB	v	Rel=Cont|VerbForm=Ger	1	advcl	_	_
@@ -5525,7 +5525,7 @@
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.16
-# text = Ikó βé orojkó renosema motá , sñor capitãoMor Antônio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βe .
+# text = Ikó βé orojkó renosema motá , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16 
 # text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor António Felipe Camarão, e também conforme as palavras do chefe de todos os brancos
 1	Ikó	ko	DET	dem	_	3	nsubj	_	_
@@ -5536,7 +5536,7 @@
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	sñor	sñor	PROPN	pro	_	8	compound	_	_
 8	capitãoMor	capitãoMor	NOUN	pro	_	12	nmod	_	_
-9	Antônio	Antônio	PROPN	propn	_	8	compound	_	_
+9	Antonio	Antonio	PROPN	propn	_	8	compound	_	_
 10	Felipe	Felipe	PROPN	n	_	9	compound	_	_
 11	Camarão	Camarão	PROPN	n	_	10	compound	_	_
 12	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	5	obl	_	_
