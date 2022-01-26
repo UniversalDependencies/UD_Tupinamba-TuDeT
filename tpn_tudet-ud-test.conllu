@@ -5136,12 +5136,12 @@
 # text_por = Por isso mesmo tua muita sujeira estraga as almas dos índios. Coisa enlameada, porco, queimo-te hoje, como de costume!
 1	neʔí	neʔí	VERB	v	Polarity=Neg	6	discourse	_	_
 2	teʔe	teʔe	PART	prcl	_	1	discourse	_	_
-3	neruʔumusu	uʔum	NOUN	propn	Augm=Yes|Number=Sing|Person=2|Rel=Ncont	6	nsubj	_	_
+3	neruʔumusu	uʔum	NOUN	propn	Augm=Yes|Number=Sing|Person=2|Rel=NCont	6	nsubj	_	_
 4	aβá	aβá	NOUN	n	_	5	nmod	_	_
 5	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	6	obj	_	_
 6	momoʃɨaβo	poʃɨ̃	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
-8-9	Maʔeuʔu	_	_	_	_	_	_	_	_
+8-9	Maʔeuʔuma	_	_	_	_	_	_	_	_
 8	Maʔe	maʔe	NOUN	n	_	13	obj	_	_
 9	uʔuma	uʔum	NOUN	n	Case=Ref	8	nmod	_	_
 10	,	,	PUNCT	punct	_	13	punct	_	_
@@ -5150,7 +5150,7 @@
 13	oroapɨ	roapɨ	VERB	vt	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|VerbForm=Ger	6	parataxis	_	_
 14	kori	kori	ADV	adv	_	13	advcl	_	_
 15	,	,	PUNCT	punct	_	13	punct	_	_
-16	ianu	anu	ADV	n	Rel=NCont	13	advmod	_	_
+16	ianu	anu	ADV	n	_	13	advmod	_	_
 17	!	!	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = 0099.01
@@ -5312,7 +5312,7 @@
 5-6	nememɨporaŋa	_	_	_	_	_	_	_	_
 5	nememɨ	memɨ	NOUN	n	Number=Sing|Person[psor]=2	4	appos	_	_
 6	poraŋa	poraŋ	NOUN	n	Case=Ref	5	obl	_	_
-7	.	,	PUNCT	punct	_	1	punct	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
 8	Teʔikatu	iʔkatu	VERB	v	Intens=Yes|Mood=Perm|Person[subj]=3	1	obl	_	_
 9	oreʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Clusivity=Ex|Number=Plur|Person=1	8	nmod	_	_
 10	seroβjá	eroβjár	VERB	v	Rel=NCont|VerbForm=Ger	8	advcl	_	_
