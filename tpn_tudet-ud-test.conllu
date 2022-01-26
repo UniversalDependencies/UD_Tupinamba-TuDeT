@@ -5258,12 +5258,12 @@
 8	Teʔikatu	iʔkatu	VERB	v	Intens=Yes|Mood=Perm|Person[subj]=3	1	obl	_	_
 9	oreʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Clusivity=Ex|Number=Plur|Person=1	8	nmod	_	_
 10	seroβjá	eroβjár	VERB	v	Rel=NCont|VerbForm=Ger	8	advcl	_	_
-11	,	,	PUNCT	punct	_	10	punct	R	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
 12	sawsuβetéβo	sawsuβetéβo	VERB	v	Intens=Yes|Rel=NCont|VerbForm=Ger	8	nmod	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
 14	imomewaβo	momeʔu	VERB	vt	Rel=NCont|VerbForm=Ger|Voice=Cau	8	advcl	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
-16	ʔaréaréβo	ʔarearé	ADV	adv	_	8	advmod	_	_
+16	ʔarearéβo	ʔarearé	ADV	adv	_	8	advmod	_	_
 17	,	,	PUNCT	punct	_	16	punct	_	_
 18	iniβé	niβé	ADP	posp	Rel=NCont	19	obj	_	_
 19	nemoetéβo	moeté	VERB	v	Number=Sing|Person=2|VerbForm=Ger|Voice=Cau	1	parataxis	_	_
@@ -5273,7 +5273,7 @@
 # text = janékajemiré , janérawsupa , Tupã amõ kujãŋatu mojaŋi .
 # text_eng = (Poemas, 86)
 # text_por = Após nossa perdição, amando-nos, Deus fez uma certa mulher [bondosa.
-1-2	janekajemiré	_	_	_	_	_	_	_	_
+1-2	janékajemiré	_	_	_	_	_	_	_	_
 1	janekajem	kajem	NOUN	n	Clusivity=In|Number=Sing|Person=1	9	obl	_	_
 2	iré	iré	ADP	propn	_	1	case	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
@@ -5525,7 +5525,7 @@
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.16
-# text = Ikó βé orojkó renosema motá , sñor capitãoMor Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βe .
+# text = Ikó βé orojkó renosema motá , sñor capitãoMor Antônio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaíβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16 
 # text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor António Felipe Camarão, e também conforme as palavras do chefe de todos os brancos
 1	Ikó	ko	DET	dem	_	3	nsubj	_	_
@@ -5657,7 +5657,7 @@
 2	peseme	sem	NOUN	n	Case=Loc|Number=Plur|Person=2	3	nmod	_	_
 3	orerorɨβetémo	rorɨβetémo	VERB	v	Clusivity=Ex|Intens=Yes|Mood=Cnd|Number=Plur|Person=1	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5	pesẽmemo	sem	VERB	vt	Mood=Cnd|Number=Plur|Person=2	3	advcl	_	_
+5	pesememo	sem	VERB	vt	Mood=Cnd|Number=Plur|Person=2	3	advcl	_	_
 6	,	_	PUNCT	punct	_	5	punct	_	_
 7	memẽ	memẽ	ADV	_	_	8	advmod	_	_
 8	repjakamo	epjak	NOUN	n	Case=Tra	5	advcl	_	_
