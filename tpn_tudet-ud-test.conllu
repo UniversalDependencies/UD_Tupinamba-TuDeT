@@ -5196,11 +5196,11 @@
 2	,	,	PUNCT	punct	_	6	punct	_	_
 3	ajẽ	ajẽ	ADV	adv	_	6	advmod	_	_
 4	,	,	PUNCT	punct	_	6	punct	_	_
-5	umãmepe	umãmepe	ADV	adv	Int=yes	6	advmod	_	_
-6	nemoná	moná	VERB	n	Case=Ref	0	root	_	_
+5	umãmepe	umãmepe	ADV	adv	Int=Yes	6	advmod	_	_
+6	nemoná	moná	VERB	n	Number=Sing|Person[psor]=2	0	root	_	_
 7	?	?	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 0044.158
+# sent_id = 0044.159
 # text = nasenuβi nejeʔeŋa !
 # text_eng = I do not hear your words! (Teatro, 46)
 # text_por = Não ouço tuas palavras!
