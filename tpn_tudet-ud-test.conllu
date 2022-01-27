@@ -5153,6 +5153,41 @@
 16	ianu	anu	ADV	n	_	13	advmod	_	_
 17	!	!	PUNCT	punct	_	13	punct	_	_
 
+# sent_id = 0044.155
+# text = Akai ! Teumẽ ʃerapɨaβo !
+# text_eng = (Teatro, 46)
+# text_por = Ai! Guarda-te de me queimar!
+1	Akai	Akai	INTJ	intj	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Teumẽ	teumẽ	PART	prcl	Mood=Imp|Polarity=Neg	4	discourse	_	_
+4	ʃerapɨaβo	apɨ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0044.156
+# text = tameʔẽne pirá ruβa enéβo , wijepɨmeʔeŋa .
+# text_eng (Teatro, 46)
+# text_por = Hei de dar ovas de peixe para ti, retribuindo
+1	tameʔẽne	meʔeŋ	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	0	root	_	_
+2	pirá	pirá	NOUN	n	_	3	nmod	_	_
+3	ruβa	uβ	NOUN	n	Rel=Cont	1	nmod	_	_
+4	enéβo	ené	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	,	_	PUNCT	punct	_	1	punct	_	_
+6	wijepɨmeʔeŋa	epɨmeʔeŋ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.157
+# text = Ereiuseipe uʔipuβa ?
+# text_eng (Teatro, 46)
+# text_por = Queres comer farinha puba? Queres ouro ?
+1	Ereiuseipe	usei	VERB	v	Int=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
+2	uʔipuβa	uʔipuβ	NOUN	n	Case=Ref	1	xcomp	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+4	Ereipotápe	potar	VERB	v	Int=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	1	parataxis	_	_
+5-6	itájuβa	_	_	_	_	_	_	_	_
+5	itá	itá	NOUN	n	_	4	obl:obj	_	_
+6	juβa	juβ	NOUN	n	Case=Ref	5	nmod	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
