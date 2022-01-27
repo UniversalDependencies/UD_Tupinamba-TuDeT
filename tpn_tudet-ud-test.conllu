@@ -5208,6 +5208,83 @@
 2	nejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=2	1	obl:obj	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0044.160
+# text = Aβá rokɨpe erekwá , tá , jemimɨjanoné ?
+# text_eng = (Teatro, 46)
+# text_por = Na casa de quem passaste, tomando-as, antes de te esconderes?
+1	Aβá	aβá	NOUN	n	_	2	nmod	_	_
+2	rokɨpe	ok	NOUN	posp	Int=Yes|Rel=Cont	3	obj	_	_
+3	erekwá	kwaβ	NOUN	n	Number[subj]=Yes|Person[subj]=Yes	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	tá	jar	NOUN	n	VerbForm=Ger	3	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7-8	jemimɨjanoné	_	_	_	_	_	_	_	_
+7	jemimɨ	mim	VERB	v	Reflex=Yes	3	advcl	_	_
+8	janoné	janoné	NOUN	n	Rel=NCont	7	mark	_	_
+9	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0044.161
+# text = Ereruretá serã ?
+# text_eng = (Teatro, 46)
+# text_por = Acaso trouxeste muitas coisas?
+1	Ereruretá	Ererur	NOUN	Intens=Yes|Number[subj]=Sing|Person[subj]=2|Voice=Com	_	0	root	_	_
+2	serã	serã	ADV	adv	_	1	advmod	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.162
+# text = Aani , mosapɨ jõ .
+# text_eng (Teatro, 48)
+# text_por = Não só três!
+1	Aani	aani	ADV	adv	Polarity=Neg	3	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	mosapɨ	mosapɨ	NUM	num	NumType=Card	0	root	_	_
+4	jõ	jõ	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0044.163
+# text_eng = (Teatro, 48)
+# text = Karaíβokɨpe witekóβo , ʃepópe jõte arasó .
+# text_por = Estando eu em casa de cristãos, nas minhas mãos, somente, levei-as .
+1-2	Karaíβokɨpe	_	_	_	_	_	_	_	_
+1	Karaíβ	karaíβ	NOUN	n	_	2	nmod	_	_
+2	okɨpe	ok	NOUN	n	Case=Loc	3	obl	_	_
+3	witekóβo	ikó	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	7	advcl	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	ʃepópe	po	NOUN	n	Case=Loc|Number[psor]=Sing|Person[psor]=1	7	obl	_	_
+6	jõte	jõte	PART	prcl	_	7	advmod	_	_
+7	arasó	raso	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Com	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = 0044.164
+# text = Wiporaβɨkɨaβo gwiʃóβo , nipori βeʔĩ ʃeajó .
+# text_eng = (Teatro, 48)
+# text_por = Indo eu para trabalhar, não contém mais nada minha bolsa.
+1	Wiporaβɨkɨaβo	poraβɨkɨ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	4	advcl	_	_
+2	gwiʃóβo	so	NOUN	n	Number=Sing|Person=1|VerbForm=Ger	4	advcl	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	nipori	por	VERB	n	Polarity=Neg|Rel=NCont	0	root	_	_
+5	βeʔĩ	βe_ʔĩ	ADV	prcl	_	4	advmod	_	_
+6	ʃeajó	ajó	NOUN	n	_	4	nsubj	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0044.165
+# text = Irumwera , akwejme βé , kawĩ repɨrama ri , ajmeʔeŋ aβá supé .
+# text_eng = (Teatro, 48)
+# text_por = Seus antigos companheiros, outrora, em troca de cauim, dei para os índios
+1	Irumwera	irumwera	NOUN	_	Case=Ref|Tense=Past	10	obl:obj	_	_
+2	,	,	PUNCT	punct	_	10	punct	_	_
+3	akwejme	akwej	ADV	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	advmod	_	_
+4	βé	βé	ADV	adv	_	10	advmod	_	_
+5	,	,	PUNCT	punct	_	10	punct	_	_
+6	kawĩ	kawĩ	NOUN	adv	_	7	nmod	_	_
+7	repɨrama	epɨram	NOUN	n	Case=Ref|Voice=Com	10	obl	_	_
+8	ri	ri	PART	prcl	_	7	case	_	_
+9	,	,	PUNCT	punct	_	10	punct	_	_
+10	ajmeʔeŋ	aímeʔeŋ	VERB	vi	Number=Sing|Person[subj]=1	0	root	_	_
+11	aβá	aβá	NOUN	n	_	10	obl	_	_
+12	supé	supé	ADP	posp	Rel=Cont	11	case	_	_
+13	.	.	PUNCT	punct	_	10	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
