@@ -5285,6 +5285,53 @@
 12	supé	supé	ADP	posp	Rel=Cont	11	case	_	_
 13	.	.	PUNCT	punct	_	10	punct	_	_
 
+# sent_id = 0044.166
+# text = Kawjaja useja e , opakatu amoapɨ .
+# text_eng = I consumed it all wanting to drink beer (Teatro, 48)
+# text_por = Querendo beber vinho,tudo esgotei.
+1	Kawjaja	kawjaja	NOUN	n	_	2	nmod	_	_
+2	useja	usej	VERB	v	VerbForm=Ger	6	advcl	_	_
+3	e	e	PART	pcl	_	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	opakatu	opaβ	PRON	propn	Intens=Yes|PronType=Tot	6	obj	_	_
+6	amoapɨ	amoapɨ	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Cau	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.167
+# text = jori , terejá sekó . Ta sepɨ nemonagwera .
+# text_eng = (Teatro, 48)
+# text_por = Vem, para que recebas a lei deles. Que tenha reparação o teu roubo.
+1	jori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	terejá	erejá	VERB	v	Mood=Per|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
+4	sekó	ekó	NOUN	n	Rel=NCont	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_ 
+6	Tasepɨ	epɨ	VERB	n	Rel=NCont	3	parataxis	_	_
+7	nemonagwera	_	NOUN	n	Case=Ref|Tense=Past	6	obj	_	_
+8	.	_	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.168
+# text = jori , terejá sekó . Ta sepɨ nemonagwera .
+# text_eng = (Teatro, 48)
+# text_por = Vem, para que recebas a lei deles. Que tenha reparação o teu roubo.
+1	jori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	terejá	jar	VERB	v	_	1	parataxis	_	_
+4	sekó	ikó	NOUN	n	Rel=NCont	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_ 
+6	Tasepɨ	epɨ	VERB	n	Mood=Imp|Number[obj]=Sing|Number[obj]=Sing|Person[obj]=3|Person[subj]=3	3	parataxis	_	_
+7	nemonagwera	moná	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2|Tense=Past	6	obj	_	_
+8	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.169
+# text = Aanumẽne ! Asaβeɨpó .
+# text_eng = (Teatro, 48)
+# text_por = Não! Estou bêbado
+1	Aanumẽne	aanumẽ	NOUN	n	Polarity=Neg	3	discourse	_	_
+2	!	!	PUNCT	punct	_	3	punct	_	_
+3	Asaβeɨpó	saβeɨpór	VERB	vi	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
