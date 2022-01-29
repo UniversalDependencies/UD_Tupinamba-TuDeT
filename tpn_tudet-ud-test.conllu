@@ -5377,6 +5377,25 @@
 9	terejoká	joká	VERB	v	Mood=Per|Number[subj]=Sing|Person[subj]=2	4	parataxis	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0044.173
+# text = Ejerok moʃɨ resé tanererapwãŋatu .
+# text_eng = (Teatro, 48)
+# text_por = Arranca-te o nome por causa dos malditos, para que sejas muito famoso
+1	Ejerok	ok	VERB	v	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Rel=Cont	0	root	_	_
+2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	1	obl	_	_
+3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
+4	tanererapwãŋatu	ererapwãn	VERB	v	Intens=Yes|Mood=Per|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
+5	.	,	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0044.174
+# text = Mɨpe ereβase iʃupé ?
+# text_eng = (Teatro, 48)
+# text_por = Achaste-os por perto?
+1	Mɨpe	m	NOUN	n	Case=All	2	obl	_	_
+2	ereβase	βasew	VERB	adv	Number[subj]=Sing|Person[subj]=2	0	root	_	_
+3	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
