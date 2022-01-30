@@ -5452,6 +5452,43 @@
 7	sekóápe	ekóab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	6	obl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
+# sent_id = 0044.179
+# text = ʃemajaneʔɨmeté , nakeraŋáj sekasápe ʃeremiaramo memẽ .
+# text_eng = (Teatro, 50)
+# text_por = Não tendo eu um verdadeiro espião, não dormi absolutamente, para procurá-los, como minhas presas para sempre
+1	ʃemajaneʔɨmeté	majan	NOUN	n	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Priv=Yes	3	advcl	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3-4	nakeraŋáj	_	_	_	_	_	_	_	_
+3	naker	ker	VERB	v	Number[subj]=Sing|Person[subj]=1|Polarity=Neg	0	root	_	_
+4	aŋáj	ʔaŋ	ADV	adv	Polarity=Neg	3	advmod	_	_
+5	sekasápe	ekár	VERB	v	Case=Loc|Rel=NCont|VerbForm=Ger	3	obl	_	_
+6	ʃeremiaramo	ar	NOUN	n	Case=Tra|Dev=Pas|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	obl	_	_
+7	memẽ	meme	ADV	adv	_	5	advmod	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 0044.180
+# text = nepoʃɨpotaraʔuβ . teresó rõ neratápe , awjerama terejub moreawsuβa mojaŋápe . Irõ , oropokosuβ !
+# text_eng = (Teatro, 50)
+# text_por = Tu queres ser mau, sem resultado. Que vás, pois, para teu fogo, para que estejas para sempre prostrado no lugar em que se faz sofrer. Portanto, apanho-te!
+1-3	nepoʃɨpotaraʔuβ	_	_	_	_	_	_	_	_
+1	nepoʃɨ	poʃɨ	NOUN	n	Number[psor]=Sing|Person[psor]=2	2	nmod	_	_
+2	potara	potar	VERB	v	_	0	root	_	_
+3	aʔuβ	aʔuβ	ADV	adv	_	2	advmod	_	_
+4	.	,	PUNCT	punct	_	2	punct	_	_
+5	teresó	so	VERB	vi	Mood=Perm|Number[subj]=Sing|Person[subj]=2	2	parataxis	_	_
+6	rõ	rõ	PART	prcl	_	5	discourse	_	_
+7	neratápe	atar	VERB	v	Case=All|Number[psor]=Sing|Person[psor]=2	5	obl	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	awjerama	awjerama	ADV	adv	_	10	advmod	_	_
+10	terejuβ	terejuβ	VERB	v	Person[obj]=3|Person[subj]=3	5	parataxis	_	_
+11	moreawsuβa	poreawsuβ	NOUN	n	Case=Ref|Rel=Hum	12	nmod	_	_
+12	mojaŋápe	mojaŋáβ	NOUN	n	Case=Loc|Nomzr=Circ	10	obl	_	_
+13	.	.	PUNCT	punct	_	10	punct	_	_
+14	Irõ	irõ	ADV	adv	_	16	advmod	_	_
+15	,	,	PUNCT	punct	_	16	punct	_	_
+16	oropokosuβ	pokosuβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	10	parataxis	_	_
+17	!	!	PUNCT	punct	_	16	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
