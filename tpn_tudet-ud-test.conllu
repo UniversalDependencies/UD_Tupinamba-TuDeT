@@ -5439,6 +5439,19 @@
 15	monó	so	VERB	v	Voice=Cau	9	parataxis	_	_
 16	.	,	PUNCT	punct	_	15	punct	_	_
 
+# sent_id = 0044.178
+# text = Kotɨpe muru amoiŋé , kujã ajukáʔĩ sekóápe .
+# text_eng = (Teatro, 50)
+# text_por = Fiz entrar os malditos nas armadilhas, as mulheres matei por matar, nas moradas delas
+1	Kotɨpe	kotɨpe	NOUN	n	Case=Loc	3	obl	_	_
+2	muru	muru	NOUN	n	_	3	obj	_	_
+3	amoiŋé	iké	VERB	v	Number[subj]=Sing|Person=[subj]=1|Voice=Cau	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	kujã	kujã	PART	prcl	_	6	obj	_	_
+6	ajukáʔĩ	ajuká	VERB	v	Aspect=Lus|Number[subj]=Sing|Person=[subj]=1|Voice=Cau	3	parataxis	_	_
+7	sekóápe	ekóab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	6	obl	_	_
+8	.	.	PUNCT	punct	_	6	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
@@ -6053,4 +6066,13 @@
 3	tojkó	ikó	VERB	v	Mood=Perm|Number=Sing|Person[subj]=3	0	root	_	_
 4	irũnamo	_	NOUN	n	_	3	obl	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0022.1451
+# text = Aikoruŋ ʃeruβa
+# text_eng = I prepare the slash to my father
+# text_por = Preparo a roça a meu pai (Figueira, 145)
+1-2	Aikoruŋ	_	_	_	_	_	_	_	_
+1	Aiko	ikó	NOUN	n	Number[subj]=Sing|Person[subj]=1	2	dep	_	_
+2	ruŋ	ruŋ	VERB	v	_	0	root	_	_
+3	ʃeruβa	uβa	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 
