@@ -5489,6 +5489,65 @@
 16	oropokosuβ	pokosuβ	VERB	v	Clusivity=Ex|Number=Plur|Person=1	10	parataxis	_	_
 17	!	!	PUNCT	punct	_	16	punct	_	_
 
+# sent_id = 0044.181
+# text = Ajmiré !
+# text_eng = Aimberé !(Teatro, 50)
+# text_por = Aimberé! 
+1	Ajmiré	Ajmiré	PROPN	propn	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.182
+# text = Oj !
+# text_eng = Hey! (Teatro, 50)
+# text_por = Hei!
+1	Oj	j	INTJ	intj	Person[subj]=3	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.183
+# text = ʃepɨsɨrõ jepé ! ʃepɨsɨk ko Makaʃera !
+# text_eng = (Teatro, 50)
+# text_por =
+1	ʃepɨsɨrõ	pɨsɨrõ	NOUN	n	Number[psor]=Sing|Person[subj]=1	0	root	_	_
+2	jepé	jepé	PRON	pron	_	1	nsubj	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+4	ʃepɨsɨk	pɨsɨk	NOUN	n	Number[psor]=Sing|Person[psor]=1	1	parataxis	_	_
+5	ko	ko	DET	dem	_	6	det	_	_
+6	Makaʃera	Makaʃera	PROPN	propn	_	4	nsubj	_	_
+7	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0044.184
+# text = ʃeaβé ij ɨβõmɨrwera βastião ʃemoawjé . Nitɨβi ʃeaβaetépwera
+# text_eng = (Teatro, 50)
+# text_por = A mim, também, o flechado Bastião derrotou-me. Não existe mais minha antiga terribilidade
+1-2	ʃeaβé	_	_	_	_	_	_	_	_
+1	ʃe	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+2	aβé	aβé	ADV	adv	_	1	advcl	_	_
+3	ijɨβõmɨrwera	ɨβõ	NOUN	n	Case=Ref|Nomzr=Pas|Tense=Past	4	nmod	_	_
+4	βastião	βastião	PROPN	propn	_	5	nsubj	_	_
+5	ʃemoawjé	moawjé	NOUN	n	Number[psor]=Sing|Person[psor]=1	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7	Nitɨβi	tɨβ	NOUN	n	Polarity=Neg	5	parataxis	_	_
+8	ʃeaβaetépwera	aβaeté	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1|Tense=Past	7	nsubj	_	_
+
+# sent_id = 0044.185
+# text = Akajwá !
+# text_eng = Oh! (Teatro, 52)
+# text_por = Ai!
+1	Akajwá	Akajwá	INTJ	intj	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0044.186
+# text = Ereképe , Wajʃará ? Nerejuri ʃerepɨka ?
+# text_eng = (Teatro, 50)
+# text_por = Dormes, Guaixará? Não vens para me vingar?
+1	Ereképe	Ereke	VERB	v	Int=Yes|Number[subj]=Sing|Person[subj]=2	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Wajʃará	wajʃará	PROPN	propn	_	1	vocative	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+5	Nerejuri	jur	VERB	v	Number[subj]=Sing|Person[subj]=2|Polarity=Neg	1	parataxis	_	_
+6	ʃerepɨka	epɨk	VERB	v	Number[psor]=Sing|Person[psor]=1|Rel=Cont|VerbForm=Ger	5	advcl	_	_
+7	?	_	PUNCT	punct	_	5	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
