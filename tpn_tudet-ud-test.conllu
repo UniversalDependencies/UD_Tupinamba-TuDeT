@@ -5396,6 +5396,49 @@
 3	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
 
+# sent_id = 0044.175
+# text = Ajké jãjmjara pupé ; aŋajpaβa ajpokosu .
+# text_eng = (Teatro, 48)
+# text_por = Entrei nos caminhos das fontes; surpreendi os pecadores
+1	Ajké	ajké	VERB	pcl	_	0	root	_	_
+2	jãjmjara	jãjmjara	NOUN	n	_	1	obl	_	_
+3	pupé	pupé	ADP	posp	Rel=Cont	2	case	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+5	aŋajpaβa	aŋajpaβ	NOUN	n	Case=Ref	6	obl:obj	_	_
+6	ajpokosu	pokosuβ	VERB	n	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.176
+# text = Aβá raʔɨrape wĩ ?
+# text_eng = (Teatro, 50)
+# text_por = Filhos de quem eram esses?
+1	Aβá	aβá	PRON	pron	_	2	nmod	_	_
+2	raʔɨrape	aʔɨra	ADP	posp	Int=Yes|Rel=Cont	0	root	_	_
+3	wĩ	wĩ	ADV	adv	_	2	advmod	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0044.177
+# text = Sé . Aβá raʔɨra , ipó . Ijɨsapuku sãma amõ iakaŋusuj . Oporakɨpwémonó .
+# text_eng = (Teatro, 50)
+# text_por = Sei lá! Filhos de índios, certamente. Eram compridas algumas cordas nas grandes cabeças deles. Seguiam as pessoas
+1	Sé	Sé	PART	prcl	_	4	discourse	_	_
+2	.	.	PUNCT	punct	_	4	punct	_	_
+3	Aβá	aβá	NOUN	n	_	4	nmod	_	_
+4	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ipó	ipó	ADV	adv	_	4	advmod	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Ijɨsapuku	ɨsapuku	NOUN	n	Rel=Cont	9	nmod	_	_
+9	sãma	sãma	NOUN	n	Case=Ref	4	parataxis	_	_
+10	amõ	amõ	PRON	pro	PronType=Ind	9	nmod	_	_
+11	iakaŋusuj	iakaŋusuj	NOUN	n	Augm=Yes|Case=Loc|Rel=NCont	9	obl	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
+13-15	Oporakɨpwémonó	_	_	_	_	_	_	_	_
+13	Opor	poro	PART	prcl	Number[subj]=Sing|Person[subj]=3	15	dep	_	_
+14	akɨpwé	akɨpwér	NOUN	n	Person=3	15	nmod	_	_
+15	monó	so	VERB	v	Voice=Cau	9	parataxis	_	_
+16	.	,	PUNCT	punct	_	15	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
