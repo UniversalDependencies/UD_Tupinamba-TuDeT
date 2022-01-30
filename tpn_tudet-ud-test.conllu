@@ -5538,7 +5538,7 @@
 
 # sent_id = 0044.186
 # text = Ereképe , Wajʃará ? Nerejuri ʃerepɨka ?
-# text_eng = (Teatro, 50)
+# text_eng = (Teatro, 52)
 # text_por = Dormes, Guaixará? Não vens para me vingar?
 1	Ereképe	Ereke	VERB	v	Int=Yes|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -5547,6 +5547,38 @@
 5	Nerejuri	jur	VERB	v	Number[subj]=Sing|Person[subj]=2|Polarity=Neg	1	parataxis	_	_
 6	ʃerepɨka	epɨk	VERB	v	Number[psor]=Sing|Person[psor]=1|Rel=Cont|VerbForm=Ger	5	advcl	_	_
 7	?	_	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 0044.187
+# text = Teté marã ejaβo mã ? Rorekaʔe ʃepopwá , ʃerapɨaβo , ʃeapɨpɨka .
+# text_eng = (Teatro, 52)
+# text_por = Ah, que dizes? Lourenço tostado minhas mãos atou, queimando-me, oprimindo-me.
+1	Teté	T	NOUN	n	_	3	discourse	_	_
+2	marã	marã	ADV	adv	_	3	advmod	_	_
+3	ejaβo	ʔi	VERB	v	Number[subj]=Sing|Person[subj]=2|VerbForm=Ger	0	root	_	_
+4	mã	mã	PART	prcl	_	3	discourse	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+6-7	Rorekaʔe	_	_	_	_	_	_	_	_
+6	Rore	Rore	PROPN	propn	_	9	nsubj	_	_
+7	kaʔe	kaʔe	NOUN	n	_	6	nmod	_	_
+8-9	ʃepopwá	_	_	_	_	_	_	_	_
+8	ʃepo	po	NOUN	n	Number[subj]=Sing|Person[subj]=1	9	compound	_	_
+9	pwá	pwár	VERB	v	_	3	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ʃerapɨaβo	apɨ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	9	advcl	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	ʃeapɨpɨka	apɨk	NOUN	n	Aspect=Iter|Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	9	advcl	_	_
+14	.	.	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = 0044.188
+# text = Ijá mosapɨrɨ βé pekaj ojepéwasune .
+# text_eng = (Teatro, 52)
+# text_por = Ainda bem que os três, novamente, queimareis todos juntos.
+1	Ijá	jár	ADV	n	Rel=NCont	4	advmod	_	_
+2	mosapɨrɨ	mosapɨrɨ	NUM	n	NumType=Card	4	nsubj	_	_
+3	βé	βé	ADV	adv	_	4	advmod	_	_
+4	pekaj	kaj	VERB	v	Number[subj]=Plur|Person[subj]=2	0	root	_	_
+5	ojepéwasune	ojepéwasu	ADV	adv	Tense=Fut	4	advmod	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
