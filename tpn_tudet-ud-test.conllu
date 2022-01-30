@@ -5549,7 +5549,7 @@
 7	?	_	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0044.187
-# text = Teté marã ejaβo mã ? Rorekaʔe ʃepopwá , ʃerapɨaβo , ʃeapɨpɨka .
+# text = Teté marã ejaβo mã ? Rorekaʔẽ ʃepopwá , ʃerapɨaβo , ʃeapɨpɨka .
 # text_eng = (Teatro, 52)
 # text_por = Ah, que dizes? Lourenço tostado minhas mãos atou, queimando-me, oprimindo-me.
 1	Teté	T	NOUN	n	_	3	discourse	_	_
@@ -5557,9 +5557,9 @@
 3	ejaβo	ʔi	VERB	v	Number[subj]=Sing|Person[subj]=2|VerbForm=Ger	0	root	_	_
 4	mã	mã	PART	prcl	_	3	discourse	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
-6-7	Rorekaʔe	_	_	_	_	_	_	_	_
+6-7	Rorekaʔẽ	_	_	_	_	_	_	_	_
 6	Rore	Rore	PROPN	propn	_	9	nsubj	_	_
-7	kaʔe	kaʔe	NOUN	n	_	6	nmod	_	_
+7	kaʔẽ	kaʔẽ	NOUN	n	_	6	nmod	_	_
 8-9	ʃepopwá	_	_	_	_	_	_	_	_
 8	ʃepo	po	NOUN	n	Number[subj]=Sing|Person[subj]=1	9	compound	_	_
 9	pwá	pwár	VERB	v	_	3	parataxis	_	_
@@ -5579,6 +5579,52 @@
 4	pekaj	kaj	VERB	v	Number[subj]=Plur|Person[subj]=2	0	root	_	_
 5	ojepéwasune	ojepéwasu	ADV	adv	Tense=Fut	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0044.189
+# text = Iaŋaturã , koʔɨré , paʔi Tupã rawsupa jẽ , ʃeremiarõ janune .
+# text_eng = (Teatro, 52)
+# text_por = Serão bons, doravante, amando ao Senhor Deus, os que eu guardo de costume.
+1	Iaŋaturã	aŋaturãm	NOUN	n	Rel=NCont	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	koʔɨré	koʔɨré	PRON	pron	_	1	advmod	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	paʔi	paʔi	NOUN	n	_	7	nmod	_	_
+6	Tupã	Tupã	PROPN	propn	_	5	compound	_	_
+7	rawsupa	awsuβ	VERB	v	Rel=Cont|VerbForm=Ger	1	parataxis	_	_
+8	jẽ	jẽ	PART	prcl	_	7	discourse	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	ʃeremiarõ	arõ	VERB	v	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	nsubj	_	_
+11	janune	janu	ADV	adv	Tense=Fut	10	advmod	_	_
+12	.	.	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = 0044.190
+# text = Perorɨ , ʃeraʔɨretá , ʃeri . Kó ajkó pe pɨsɨrõmo .
+# text_eng = (Teatro, 52)
+# text_por = Alegrai-vos, meus filhos, por minha causa. Eis que aqui estou para vos libertar.
+1	Perorɨ	orɨ	NOUN	n	Number=Plur|Person=2|Rel=Cont	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ʃeraʔɨretá	ʃeraʔɨr	NOUN	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	_	1	vocative	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	ʃeri	ri	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+7	Kó	ko	ADV	adv	_	8	advmod	_	_
+8	ajkó	ikó	VERB	vi	Number[subj]=Sing|Person[subj]=1	1	parataxis	_	_
+9	pepɨsɨrõmo	pɨsɨrõ	VERB	v	Number=Plur|Person=2|VerbForm=Ger	8	advcl	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 0044.191
+# text = Ajur ɨβaka swi perokɨβɨja rupi jepi je pepɨtɨβõmo .
+# text_eng = (Teatro, 52)
+# text_por = Vim do céu pelo interior das vossas ocas para vos ajudar sempre.
+1	Ajur	jur	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	ɨβaka	ɨβak	NOUN	n	Case=ref	1	nmod	_	_
+3	swi	swi	ADP	posp	_	2	case	_	_
+4	perokɨβɨja	okɨβɨj	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	1	obl	_	_
+5	rupi	_	ADP	posp	Rel=Cont	4	case	_	_
+6	jepi	jepi	ADV	adv	_	8	advmod	_	_
+7	je	je	PART	prcl	_	8	discourse	_	_
+8	pepɨtɨβõmo	pɨtɨβõ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
