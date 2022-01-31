@@ -5626,6 +5626,28 @@
 8	pepɨtɨβõmo	pɨtɨβõ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
+# sent_id = 0044.192
+# text = Ko taβa renɨreme , pepɨri jẽ ʃereków . narojáj mamõ ʃesów taβa raroanamo jẽ janéjara ʃemoiŋów .
+# text_eng = (Teatro, 52)
+# text_por = Por esta aldeia luzir, junto de vós eu estou. Nem por isso vou para longe; como guardião da aldeia Nosso Senhor me constituiu.
+1	Ko	ko	DET	dem	_	2	det	_	_
+2	taβa	taβ	NOUN	n	Case=Ref	7	obl	_	_
+3	renɨreme	enɨ	NOUN	n	Mood=Subj|Rel=Cont	2	case	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	pepɨri	pɨri	ADP	posp	Number=Plur|Person=2	7	obl	_	_
+6	jẽ	jẽ	PART	prcl	_	7	discourse	_	_
+7	ʃereków	reków	NOUN	n	Number[psor]=Sing|Person[psor]=1	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	narojáj	ʔnaroj	CCONJ	n	Polarity=Neg	11	cc	_	_
+10	mamõ	mamõ	ADV	adv	_	11	obl	_	_
+11	ʃesów	so	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person[psor]=1	7	parataxis	_	_
+12	taβa	taβ	NOUN	n	Case=Ref	13	nmod	_	_
+13	raroanamo	aroan	NOUN	n	Case=Tra|Rel=Cont	16	obl	_	_
+14	jẽ	jẽ	PART	prcl	_	16	discourse	_	_
+15	janéjara	janéjara	NOUN	n	Case=Ref|Clusivity=In|Number[psor]=Plur|Person[psor]=1	16	nsubj	_	_
+16	ʃemoiŋów	moikó	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person=1|Voice=Cau	11	parataxis	_	_
+17	.	,	PUNCT	punct	_	16	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
