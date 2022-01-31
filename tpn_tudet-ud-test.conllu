@@ -5648,6 +5648,19 @@
 16	ʃemoiŋów	moikó	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person=1|Voice=Cau	11	parataxis	_	_
 17	.	,	PUNCT	punct	_	16	punct	_	_
 
+# sent_id = 0044.193
+# text = Pe jaβiʔõ paʔi Tupã karaíβeβé moiŋów .
+# text_eng = (Teatro, 52)
+# text_por = De cada um de vós o Senhor Deus um anjo encarregou.
+1	Pejaβiʔõ	jaβiʔõ	NOUN	NOUN	_	6	obl	_	_
+2	paʔi	paʔi	NOUN	n	_	6	nsubj	_	_
+3	Tupã	Tupã	PROPN	propn	_	2	compound	_	_
+4-5	karaíβeβé	_	_	_	_	_	_	_	_
+4	karaí	karaíβa	NOUN	n	_	6	obj	_	_
+5	βeβé	βeβé	VERB	v	_	4	nmod	_	_
+6	moiŋów	ikó	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
