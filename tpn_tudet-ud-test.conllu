@@ -5298,7 +5298,7 @@
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.167
-# text = jori , terejá sekó . Ta sepɨ nemonagwera .
+# text = jori , terejá sekó . Tasepɨ nemonagwera .
 # text_eng = (Teatro, 48)
 # text_por = Vem, para que recebas a lei deles. Que tenha reparação o teu roubo.
 1	jori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
@@ -5311,7 +5311,7 @@
 8	.	_	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.168
-# text = jori , terejá sekó . Ta sepɨ nemonagwera .
+# text = jori , terejá sekó . Tasepɨ nemonagwera .
 # text_eng = (Teatro, 48)
 # text_por = Vem, para que recebas a lei deles. Que tenha reparação o teu roubo.
 1	jori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
@@ -5445,10 +5445,10 @@
 # text_por = Fiz entrar os malditos nas armadilhas, as mulheres matei por matar, nas moradas delas
 1	Kotɨpe	kotɨpe	NOUN	n	Case=Loc	3	obl	_	_
 2	muru	muru	NOUN	n	_	3	obj	_	_
-3	amoiŋé	iké	VERB	v	Number[subj]=Sing|Person=[subj]=1|Voice=Cau	0	root	_	_
+3	amoiŋé	iké	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Cau	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	kujã	kujã	PART	prcl	_	6	obj	_	_
-6	ajukáʔĩ	ajuká	VERB	v	Aspect=Lus|Number[subj]=Sing|Person=[subj]=1|Voice=Cau	3	parataxis	_	_
+6	ajukáʔĩ	ajuká	VERB	v	Aspect=Lus|Number[subj]=Sing|Person[subj]=1|Voice=Cau	3	parataxis	_	_
 7	sekóápe	ekóab	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	6	obl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
@@ -5467,7 +5467,7 @@
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0044.180
-# text = nepoʃɨpotaraʔuβ . teresó rõ neratápe , awjerama terejub moreawsuβa mojaŋápe . Irõ , oropokosuβ !
+# text = nepoʃɨpotaraʔuβ . teresó rõ neratápe , awjerama terejuβ moreawsuβa mojaŋápe . Irõ , oropokosuβ !
 # text_eng = (Teatro, 50)
 # text_por = Tu queres ser mau, sem resultado. Que vás, pois, para teu fogo, para que estejas para sempre prostrado no lugar em que se faz sofrer. Portanto, apanho-te!
 1-3	nepoʃɨpotaraʔuβ	_	_	_	_	_	_	_	_
@@ -5516,7 +5516,7 @@
 7	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0044.184
-# text = ʃeaβé ij ɨβõmɨrwera βastião ʃemoawjé . Nitɨβi ʃeaβaetépwera
+# text = ʃeaβé ʃe aβé ijɨβõmɨrwera βastião ʃemoawjé . Nitɨβi ʃeaβaetépwera
 # text_eng = (Teatro, 50)
 # text_por = A mim, também, o flechado Bastião derrotou-me. Não existe mais minha antiga terribilidade
 1-2	ʃeaβé	_	_	_	_	_	_	_	_
@@ -5598,12 +5598,12 @@
 12	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.190
-# text = Perorɨ , ʃeraʔɨretá , ʃeri . Kó ajkó pe pɨsɨrõmo .
+# text = Perorɨ , ʃeraʔɨretá , ʃeri . Kó ajkó pepɨsɨrõmo .
 # text_eng = (Teatro, 52)
 # text_por = Alegrai-vos, meus filhos, por minha causa. Eis que aqui estou para vos libertar.
 1	Perorɨ	orɨ	NOUN	n	Number=Plur|Person=2|Rel=Cont	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	ʃeraʔɨretá	ʃeraʔɨr	NOUN	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	_	1	vocative	_	_
+3	ʃeraʔɨretá	ʃeraʔɨr	NOUN	n	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	_	1	vocative	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	ʃeri	ri	ADP	posp	Number=Sing|Person=1	1	obl	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
@@ -5617,7 +5617,7 @@
 # text_eng = (Teatro, 52)
 # text_por = Vim do céu pelo interior das vossas ocas para vos ajudar sempre.
 1	Ajur	jur	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	ɨβaka	ɨβak	NOUN	n	Case=ref	1	nmod	_	_
+2	ɨβaka	ɨβak	NOUN	n	Case=Ref	1	nmod	_	_
 3	swi	swi	ADP	posp	_	2	case	_	_
 4	perokɨβɨja	okɨβɨj	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	1	obl	_	_
 5	rupi	_	ADP	posp	Rel=Cont	4	case	_	_
@@ -5649,7 +5649,7 @@
 17	.	,	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 0044.193
-# text = Pe jaβiʔõ paʔi Tupã karaíβeβé moiŋów .
+# text = Pejaβiʔõ paʔi Tupã karaíβeβé moiŋów .
 # text_eng = (Teatro, 52)
 # text_por = De cada um de vós o Senhor Deus um anjo encarregou.
 1	Pejaβiʔõ	jaβiʔõ	NOUN	NOUN	_	6	obl	_	_
@@ -5683,7 +5683,7 @@
 1	Ojojá	jojar	ADV	adv	_	11	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ko	ko	DET	dem	_	5	det	_	_
-4	janejara	iar	NOUN	n	Case=Ref|Clusivity=In||Number[psor]=Plur|Person[psor]=1	5	nmod	_	_
+4	janéjara	iar	NOUN	n	Case=Ref|Clusivity=In||Number[psor]=Plur|Person[psor]=1	5	nmod	_	_
 5	βojá	βojá	NOUN	prcl	_	11	obl:subj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	São	são	NOUN	n	_	_	_	_	_
