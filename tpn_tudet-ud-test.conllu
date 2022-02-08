@@ -5303,9 +5303,9 @@
 # text_por = Vem, para que recebas a lei deles. Que tenha reparação o teu roubo.
 1	jori	jur	VERB	vi	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	terejá	erejá	VERB	v	Mood=Per|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
+3	terejá	erejá	VERB	v	Mood=Perm|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
 4	sekó	ekó	NOUN	n	Rel=NCont	3	obj	_	_
-5	.	.	PUNCT	punct	_	3	punct	_	_ 
+5	.	.	PUNCT	punct	_	3	punct	_	_
 6	Tasepɨ	epɨ	VERB	n	Rel=NCont	3	parataxis	_	_
 7	nemonagwera	_	NOUN	n	Case=Ref|Tense=Past	6	obj	_	_
 8	.	_	PUNCT	punct	_	6	punct	_	_
@@ -5318,8 +5318,8 @@
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	terejá	jar	VERB	v	_	1	parataxis	_	_
 4	sekó	ikó	NOUN	n	Rel=NCont	3	obj	_	_
-5	.	.	PUNCT	punct	_	3	punct	_	_ 
-6	Tasepɨ	epɨ	VERB	n	Mood=Imp|Number[obj]=Sing|Number[obj]=Sing|Person[obj]=3|Person[subj]=3	3	parataxis	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	Tasepɨ	epɨ	VERB	n	Mood=Imp|Number[obj]=Sing|Person[obj]=3|Person[subj]=3	3	parataxis	_	_
 7	nemonagwera	moná	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2|Tense=Past	6	obj	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
@@ -5369,12 +5369,12 @@
 1	Kó	ko	DET	dem	_	4	discourse	_	_
 2	βé	βé	ADV	adv	_	4	advmod	_	_
 3	ʃeremiaretá	ʃeremiar	VERB	v	Dev=Pass|Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	4	obj	_	_
-4	tameʔene	meʔeŋ	VERB	v	Mood=Per|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+4	tameʔene	meʔeŋ	VERB	v	Mood=Perm|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 5	amõ	amõ	PRON	pro	PronType=Ind	4	obl	_	_
 6	enéβo	ené	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 7	,	,	PUNCT	punct	_	4	punct	_	_
 8	iakaŋa	iakaŋ	NOUN	n	Case=Ref|Rel=NCont	9	parataxis	_	_
-9	terejoká	joká	VERB	v	Mood=Per|Number[subj]=Sing|Person[subj]=2	4	parataxis	_	_
+9	terejoká	joká	VERB	v	Mood=Perm|Number[subj]=Sing|Person[subj]=2	4	parataxis	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.173
@@ -5384,7 +5384,7 @@
 1	Ejerok	ok	VERB	v	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Rel=Cont	0	root	_	_
 2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	1	obl	_	_
 3	resé	esé	ADP	posp	Rel=Cont	2	case	_	_
-4	tanererapwãŋatu	ererapwãn	VERB	v	Intens=Yes|Mood=Per|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
+4	tanererapwãŋatu	ererapwãn	VERB	v	Intens=Yes|Mood=Perm|Number[subj]=Sing|Person[subj]=2	1	parataxis	_	_
 5	.	,	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0044.174
@@ -5462,7 +5462,7 @@
 3	naker	ker	VERB	v	Number[subj]=Sing|Person[subj]=1|Polarity=Neg	0	root	_	_
 4	aŋáj	ʔaŋ	ADV	adv	Polarity=Neg	3	advmod	_	_
 5	sekasápe	ekár	VERB	v	Case=Loc|Rel=NCont|VerbForm=Ger	3	obl	_	_
-6	ʃeremiaramo	ar	NOUN	n	Case=Tra|Dev=Pas|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	obl	_	_
+6	ʃeremiaramo	ar	NOUN	n	Case=Tra|Dev=Pass|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	obl	_	_
 7	memẽ	meme	ADV	adv	_	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
@@ -5603,7 +5603,7 @@
 # text_por = Alegrai-vos, meus filhos, por minha causa. Eis que aqui estou para vos libertar.
 1	Perorɨ	orɨ	NOUN	n	Number=Plur|Person=2|Rel=Cont	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	ʃeraʔɨretá	ʃeraʔɨr	NOUN	n	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	_	1	vocative	_	_
+3	ʃeraʔɨretá	ʃeraʔɨr	NOUN	n	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	vocative	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	ʃeri	ri	ADP	posp	Number=Sing|Person=1	1	obl	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
@@ -5701,7 +5701,7 @@
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	peẽte	peete	VERB	vt	Foc=Yes|Mood=Imp|Number=Sing|Person=2	21	dislocated	_	_
 20	,	,	PUNCT	punct	_	21	punct	_	_
-21	pemopuʔama	mopuʔama	VERB	n	Number=Sing|Person=2|VerbForm=Cau|Voice=Cau	16	advcl	_	_
+21	pemopuʔama	mopuʔama	VERB	n	Number=Sing|Person=2|Voice=Cau	16	advcl	_	_
 22	.	.	PUNCT	punct	_	21	punct	_	_
 
 # sent_id = 0044.196
