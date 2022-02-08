@@ -5636,7 +5636,7 @@
 6	jẽ	jẽ	PART	prcl	_	7	discourse	_	_
 7	ʃereków	reków	NOUN	n	Number[psor]=Sing|Person[psor]=1	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
-9	narojáj	ʔnaroj	CCONJ	n	Polarity=Neg	11	cc	_	_
+9	narojáj	ʔnaroj	CCONJ	n	_	11	cc	_	_
 10	mamõ	mamõ	ADV	adv	_	11	obl	_	_
 11	ʃesów	so	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person[psor]=1	7	parataxis	_	_
 12	taβa	taβ	NOUN	n	Case=Ref	13	nmod	_	_
@@ -5689,7 +5689,7 @@
 8	Lourenço	Lourenço	PROPN	propn	_	7	compound	_	_
 9	aŋaturama	aŋaturama	NOUN	n	Case=Ref	8	nmod	_	_
 10	,	,	PUNCT	punct	_	11	punct	_	_
-11	osarõ	arõ	NOUN	n	Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+11	osarõ	arõ	NOUN	n	Number[psor]=Sing|Person[psor]=3	0	root	_	_
 12	jẽ	jẽ	PART	n	_	11	discourse	_	_
 13	peretama	peretama	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	11	obl:obj	_	_
 14	,	,	PUNCT	punct	_	11	punct	_	_
