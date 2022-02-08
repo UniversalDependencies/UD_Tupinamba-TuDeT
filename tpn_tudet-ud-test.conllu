@@ -5431,11 +5431,8 @@
 10	amõ	amõ	PRON	pro	PronType=Ind	9	nmod	_	_
 11	iakaŋusuj	iakaŋusuj	NOUN	n	Augm=Yes|Case=Loc|Rel=NCont	9	obl	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_
-13-15	Oporakɨpwemonó	_	_	_	_	_	_	_	_
-13	Opor	poro	PART	prcl	Number[subj]=Sing|Person[subj]=3	15	dep	_	_
-14	akɨpwe	akɨpwér	NOUN	n	Person=3	15	nmod	_	_
-15	monó	so	VERB	v	Voice=Cau	9	parataxis	_	_
-16	.	,	PUNCT	punct	_	15	punct	_	_
+13	Oporakɨpwemonó	akɨpwemonó	VERB	v	Hum=Yes|Number[subj]=Sing|Person[subj]=3	4	parataxis	_	_
+14	.	.	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = 0044.178
 # text = Kotɨpe muru amoiŋé , kujã ajukáʔĩ sekóápe .
@@ -5591,7 +5588,7 @@
 7	rawsupa	awsuβ	VERB	v	Rel=Cont|VerbForm=Ger	1	parataxis	_	_
 8	jẽ	jẽ	PART	prcl	_	7	discourse	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
-10	ʃeremiarõ	arõ	VERB	v	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	nsubj	_	_
+10	ʃeremiarõ	arõ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	nsubj	_	_
 11	janune	janu	ADV	adv	Tense=Fut	10	advmod	_	_
 12	.	.	PUNCT	punct	_	10	punct	_	_
 
@@ -5742,7 +5739,7 @@
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	wirɨrɨ	wirɨrɨ	PROPN	n	_	3	conj	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	Pinoβa	Pinoβ	PROPN	n	Case=Ref	3	conj	_	_
+13	Pinoβa	Pinoβ	PROPN	n	_	3	conj	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
 15	Parigtiasu	Parigtiasu	PROPN	n	_	3	conj	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
@@ -6418,6 +6415,6 @@
 # text = Aikoruŋ ʃeruβa
 # text_eng = I prepare the slash to my father
 # text_por = Preparo a roça a meu pai (Figueira, 145)
-1	Aikoruŋ	ikóruŋ	NOUN	n	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+1	Aikoruŋ	ikóruŋ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	ʃeruβa	uβa	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 
