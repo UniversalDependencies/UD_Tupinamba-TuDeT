@@ -5718,7 +5718,7 @@
 10	kɨreʔɨmβawera	_	NOUN	n	Case=Ref|Nomzr=Hab|Tense=Past	8	conj	_	_
 11	,	_	PUNCT	punc_t	_	10	punct	_	_
 12	omopaβ	omopaβ	VERB	vt	Person[obj]=3|Person[subj]=3	0	root	_	_
-13	erimaʔe	erimaʔe	ADV	n	Nomzr=Rel	12	advmod	_	_
+13	erimaʔe	erimaʔe	ADV	n	_	12	advmod	_	_
 14	;	;	PUNCT	punct	_	12	punct	_	_
 15-16	nitɨβaŋái	_	_	_	_	_	_	_	_
 15	nitɨβ	tɨβaŋá	NOUN	n	Polarity=Neg|Rel=NCont	12	parataxis	_	_
@@ -5732,13 +5732,13 @@
 # text_por = Todas - Paranapucu, Jacutinga, Moroí, Sarigüeia, Güiriri, Pindoba, Pariguaçu, Curuçá, Miapeí a tapera de Jabebiracica - há tempo não contêm mais muita coisa
 1	Opá	opá	PRON	pron	_	24	dislocated	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	Paranapuku	Paranapuku	PROPN	propn	Number=Sing|Person=1|Rel=Cont	1	appos	_	_
+3	Paranapuku	Paranapuku	PROPN	propn	_	1	appos	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5	Jakutiŋa	akutiŋ	PROPN	n	Case=Ref|Rel=NCont	3	conj	_	_
+5	Jakutiŋa	akutiŋ	PROPN	n	_	3	conj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	Moroʔɨ	Moro'ɨ	PROPN	n	_	3	conj	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	Sariweia	Sariwei	PROPN	n	Case=Ref|Number=Sing|Person[psor]=1	3	conj	_	_
+9	Sariweia	Sariwei	PROPN	n	_	3	conj	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	wirɨrɨ	wirɨrɨ	PROPN	n	_	3	conj	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
@@ -6418,8 +6418,6 @@
 # text = Aikoruŋ ʃeruβa
 # text_eng = I prepare the slash to my father
 # text_por = Preparo a roça a meu pai (Figueira, 145)
-1-2	Aikoruŋ	_	_	_	_	_	_	_	_
-1	Aiko	ikó	NOUN	n	Number[subj]=Sing|Person[subj]=1	2	dep	_	_
-2	ruŋ	ruŋ	VERB	v	_	0	root	_	_
-3	ʃeruβa	uβa	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
+1	Aikoruŋ	ikóruŋ	NOUN	n	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	ʃeruβa	uβa	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 
