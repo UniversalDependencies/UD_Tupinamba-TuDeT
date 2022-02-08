@@ -5568,7 +5568,7 @@
 # text = Ijá mosapɨrɨ βé pekaj ojepéwasune .
 # text_eng = (Teatro, 52)
 # text_por = Ainda bem que os três, novamente, queimareis todos juntos.
-1	Ijá	jár	ADV	n	Rel=NCont	4	advmod	_	_
+1	Ijá	jár	ADV	adv	_	4	advmod	_	_
 2	mosapɨrɨ	mosapɨrɨ	NUM	n	NumType=Card	4	nsubj	_	_
 3	βé	βé	ADV	adv	_	4	advmod	_	_
 4	pekaj	kaj	VERB	v	Number[subj]=Plur|Person[subj]=2	0	root	_	_
