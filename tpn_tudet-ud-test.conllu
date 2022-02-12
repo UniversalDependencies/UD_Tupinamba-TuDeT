@@ -5885,6 +5885,53 @@
 6	Jesu	Jesu	PROPN	n	_	5	compound	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
+# sent_id = 0044.206
+# text = Sekóaŋaturãŋatu peretama rerekoara , São Lourenço , ajẽ ojpuru .
+# text_eng = (Teatro, 56)
+# text_por = Sua lei muito santa o guardião de vossa terra, São Lourenço, verdadeiramente praticou-a.
+1-2	Sekóaŋaturãŋatu	_	_	_	_	_	_	_	_
+1	Sekó	ekó	NOUN	n	Rel=NCont	10	obl:obj	_	_
+2	aŋaturãŋatu	aŋaturãŋatu	NOUN	n	Intens=Yes	1	nmod	_	_
+3	peretama	peretama	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2|Rel=Cont	4	nmod	_	_
+4	rerekoara	erekoar	NOUN	n	Case=Ref|Rel=Cont	10	obl:subj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	São	são	NOUN	propn	_	4	appos	_	_
+7	Lourenço	Lourenço	PROPN	propn	_	6	compound	_	_
+8	,	,	PUNCT	punct	_	10	punct	_	_
+9	ajẽ	ajẽ	ADV	adv	_	10	advmod	_	_
+10	ojpuru	puru	VERB	n	Number[subj]=Plur|Person[obj]=3|Person[subj]=1	0	root	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = 0044.207
+# text = Ijasear apɨaβaíβa sekoβé aβé rapɨaβo .
+# text_eng = (Teatro, 56)
+# text_por = Uniram-se os homens maus para queimá-lo vivo, também.
+1	Ijasear	jasear	NOUN	n	_	0	root	_	_
+2-3	apɨaβaíβa	_	_	_	_	_	_	_	_
+2	apɨaβ	apɨaβ	NOUN	n	Case=Ref	1	nsubj	_	_
+3	aíβa	aíβ	NOUN	n	Case=Ref	2	nmod	_	_
+4	sekoβé	ekoβé	ADV	n	Rel=NCont	6	advmod	_	_
+5	aβé	aβé	ADV	adv	_	6	advmod	_	_
+6	rapɨaβo	apɨa	VERB	v	Rel=Cont|VerbForm=Ger	1	advcl	_	_
+7	.	,	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0044.208
+# text = Sosaŋ , tatá poraráβo , omanõ riré torɨβa rerekóβo , oputuwaβo .
+# text_eng = (Teatro, 56)
+# text_por = Sofreu, o fogo suportando, tendo alegria após sua morte, descansando
+1	Sosaŋ	osaŋ	VERB	vi	Rel=NCont	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	tatá	atá	NOUN	n	Rel=Abs	4	obj	_	_
+4	poraráβo	porará	VERB	v	VerbForm=Ger	1	advcl	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	omanõ	manõ	NOUN	n	Corf=Yes	9	obl	_	_
+7	riré	riré	ADP	posp	_	6	case	_	_
+8	torɨβa	orɨβ	NOUN	n	Case=Ref|Rel=Hum	9	obj	_	_
+9	rerekóβo	ereko	VERB	v	Rel=Cont|VerbForm=Ger	1	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	oputuwaβo	putuʔu	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	parataxis	_	_
+12	.	,	PUNCT	punct	_	11	punct	_	_
+
 # sent_id = 0099.01
 # text = Tupã sɨporaŋeté , oropaβ oromanõmo .
 # text_eng = (Poemas, 82)
