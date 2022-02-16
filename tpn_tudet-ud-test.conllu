@@ -5220,7 +5220,7 @@
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7-8	jemimɨjanoné	_	_	_	_	_	_	_	_
 7	jemimɨ	mim	VERB	v	Reflex=Yes	3	advcl	_	_
-8	janoné	janoné	NOUN	n	Rel=NCont	7	mark	_	_
+8	janoné	janoné	SCONJ	sconj	Rel=NCont	7	mark	_	_
 9	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.161
@@ -5581,7 +5581,7 @@
 # text_por = Serão bons, doravante, amando ao Senhor Deus, os que eu guardo de costume.
 1	Iaŋaturã	aŋaturãm	NOUN	n	Rel=NCont	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	koʔɨré	koʔɨré	PRON	pron	_	1	advmod	_	_
+3	koʔɨré	koʔɨré	ADV	adv	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	paʔi	paʔi	NOUN	n	_	7	nmod	_	_
 6	Tupã	Tupã	PROPN	propn	_	5	compound	_	_
@@ -5797,10 +5797,10 @@
 12	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0044.201
-# text = Memẽte nipó , peʔaŋa amotá , iporawsuβ oka , koʔarapukuj ipokoka , i moaɨsóβo , imomoraŋa , tekópwera rekoaβoka .
+# text = Memẽte nipó , peʔaŋa amotá , iporawsuβ oka , koʔarapukuj ipokoka , imoaɨsóβo , imomoraŋa , tekópwera rekoaβoka .
 # text_eng = (Teatro, 56)
 # text_por = Mas sempre, com certeza, a vossas almas querendo bem, arrancando suas aflições, sempre guiando-as, aformoseando-as, embelezando-as, modificando o velho modo de ser
-1	Memẽte	Memẽte	ADV	vt	Foc=Yes|Mood=Jmp|Number=Sing|Person=2	5	advmod	_	_
+1	Memẽte	Memẽte	ADV	vt	Foc=Yes|Mood=Imp	5	advmod	_	_
 2	nipó	nipó	ADV	adv	_	5	advmod	_	_
 3	,	,	PUNCT	punct	_	5	punct	_	_
 4	peʔaŋa	peʔaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	5	obj	_	_
