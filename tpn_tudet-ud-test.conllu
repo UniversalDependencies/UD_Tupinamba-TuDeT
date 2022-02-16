@@ -6582,15 +6582,15 @@
 # text = ʃeatuaj turi
 # text_eng = (AA, 41v)
 # text_por = Veio detrás de mim.
-1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	root	_	_
+1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	obl	_	_
 2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.413
 # text = Orowereko ʃeraʔɨramo
 # text_eng = (AA, 41)
 # text_por = Tenho-te como meu filho.
-1   Orowereko   ereko   VERB    v   Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1   0   root    _   _
-2   ʃeraʔɨramo  aʔɨr   NOUN    n   Case=Tra|Number[psor]=Sing|Person[psor]=1|Rel=Cont   1   obl _   _
+1	Orowereko	ereko	VERB	v	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1	0	root	_	_
+2	ʃeraʔɨramo	aʔɨr	NOUN	n	Case=Tra|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl	_	_
 
 # sent_id = 0033.412
 # text = ʃeatuaj βe turi
@@ -6644,9 +6644,9 @@
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
 1	Asawsuβ	awsuβ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	Pedro	Pedro	PROPN	propn	_ 	1	obl:obj	_	_
+2	Pedro	Pedro	PROPN	propn _ 1	obl:obj	_	_
 3	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
-4-5	 reseβé	_	_	_	_	_	_	_	_
+4-5 reseβé	_	_	_	_	_	_	_	_
 4	rese	esé	ADP	posp	Rel=Cont	3	case	_	_
 5	βé	βe	ADV	adv	_	4	advmod	_	_
 
@@ -6665,7 +6665,7 @@
 1	Arojeβɨr	erojeβɨr	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com	0	root	_	_
 2	aoβa	aoβ	NOUN	_	Case=Ref	1	obj	_	_
 
-# sent_id = 0033. 49
+# sent_id = 0033.49
 # text = Aseropuʔam Pedro ɨβɨrá pupé
 # text_eng = (AA, 49)
 # text_por = Ameacei Pedro com um pau.
@@ -6679,7 +6679,7 @@
 # text_eng = (AA, 50v)
 # text_por = Dou-lhe os filhos de Pedro
 1-2	Ajtaʔɨmeʔeŋ	_	_	_	_	_	_	_	_
-1	Ajtaʔɨ	taʔɨr	NONU	n	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	2	obl:obj	_	_
+1	Ajtaʔɨ	taʔɨr	NOUN	n	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	2	obl:obj	_	_
 2	meʔeŋ	meʔeŋ	VERB	v	_	0	root	_	_
 3	Pedro	Pedro	PROPN	_	_	2	obl	_	_
 
