@@ -6636,15 +6636,15 @@
 # text = Sesé orosó
 # text_eng = (AA, 44v)
 # text_por = Vou com ele
-1   Sesé    esé    ADP posp   Rel=NCont   2   obl _   _
-2   orosó   so   VERB    v   Clusivity=Ex|Number[subj]=Plur|Person[suj]=1   0   root    _   _
+1	Sesé	esé	ADP	posp	Rel=NCont	2	obl	_	_
+2	orosó	so	VERB	v	Clusivity=Ex|Number[subj]=Plur|Person[suj]=1	0	root	_	_
 
 # sent_id = 0033.445
 # text = Asawsuβ  Pedro taʔɨra reseβé
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
 1	Asawsuβ	awsuβ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	Pedro	Pedro	PROPN	propn	_ 	1	obl:obj	_	_
+2	Pedro	Pedro	PROPN propn _ 	1	obl:obj	_	_
 3	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
 4-5	 reseβé	_	_	_	_	_	_	_	_
 4	rese	esé	ADP	posp	Rel=Cont	3	case	_	_
