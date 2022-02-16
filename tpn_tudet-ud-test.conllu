@@ -5750,7 +5750,7 @@
 21	Jaβeβirasɨka	_	PROPN	_	_	3	conj	_	_
 22	tapera	taβ	NOUN	n	Tense=Past	24	nmod	_	_
 23	akweime	akweime	ADV	adv	_	24	advmod	_	_
-24	niporetái	poretá	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	_	_	_	_
+24	niporetái	poretá	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	0	root	_	_
 25	.	,	PUNCT	punct	_	24	punct	_	_
 
 # sent_id = 0044.198
