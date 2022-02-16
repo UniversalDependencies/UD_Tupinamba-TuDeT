@@ -6643,12 +6643,12 @@
 # text = Asawsuβ  Pedro taʔɨra reseβé  
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
-1   Asawsuβ awsuβ   VERB    v   Number[subj]=Sing|Person[subj]=1   0   root    _   _
-2   Pedro   Pedro   PROPN   propn   _   1   obl:obj _   _
-3   taʔɨra  aʔɨr   NOUN    n   Case=Ref|Rel=NCont   1   obl _   _
-4-5 reseβé  _   _   _   _   _   _   _   _
-4   rese    esé   ADP posp   Rel=Cont   3   case    _   _
-5   βé  βe   ADV adv   _   4   advmod  _   _
+1	Asawsuβ	awsuβ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	Pedro	Pedro	PROPN	propn	_ 	1	obl:obj _	_	_
+3	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	1	obl	_	_
+4-5	 reseβé	_	_	_	_	_	_	_	_
+4	rese	esé	ADP	posp	Rel=Cont	3	case	_	_
+5	βé	βe	ADV	adv	_	4	advmod	_	_
 
 # sent_id = 0033.46
 # text = ʃesó aβé turi
