@@ -6640,7 +6640,7 @@
 2   orosó   so   VERB    v   Clusivity=Ex|Number[subj]=Plur|Person[suj]=1   0   root    _   _
 
 # sent_id = 0033.445
-# text = Asawsuβ  Pedro taʔɨra reseβé  
+# text = Asawsuβ  Pedro taʔɨra reseβé
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
 1	Asawsuβ	awsuβ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
@@ -6662,8 +6662,8 @@
 # text = Arojeβɨr aoβa  
 # text_eng = (AA, 48)
 # text_por = Volto a fazer roupa
-1   Arojeβɨr    erojeβɨr   VERB    _   Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com   0   root    _   _
-2   aoβa    aoβ   NOUN    _   Case=Ref   1   obj _   _
+1	Arojeβɨr	erojeβɨr	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com	0	root	_	_
+2	aoβa	aoβ	NOUN	_	Case=Ref	1	obj	_	_
 
  sent_id = 0033. 49
 # text = Aseropuʔam Pedro ɨβɨrá pupé
