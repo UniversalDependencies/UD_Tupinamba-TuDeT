@@ -6551,8 +6551,10 @@
 # text = Aikoruŋ ʃeruβa
 # text_eng = I prepare the slash to my father
 # text_por = Preparo a roça a meu pai (Figueira, 145)
-1	Aikoruŋ	ikóruŋ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	ʃeruβa	uβa	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl	_	_
+1-2	Aikoruŋ	_	_	_	_	_	_	_	_
+1	Aiko	ikó	VERB	v	Number[subj]=Sing|Person[subj]=1	2	obl:obj	_	_
+2	ruŋ	ruŋ	VERB	v	_	0	root	_	_
+3	ʃeruβa	uβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 
 # sent_id = 0033.21 
 # text = Asó ã  
