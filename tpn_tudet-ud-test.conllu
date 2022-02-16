@@ -6563,14 +6563,14 @@
 1	Asó	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	ã	ã	PART	prcl	_	1	discourse	_	_
 
-# sent_id = 0033.212 
+# sent_id = 0033.212
 # text = Aso βiã
 # text_eng = (AA, 21v)
 # text_por = Vou por ir / vou emr resultado
 1	Asó	so	VERB	v	_	0	root	_	_
 2	βiã	βiã	PART	prcl	_	1	discourse	_	_
 
-# sent_id = 0033.35 
+# sent_id = 0033.35
 # text = Najpotareʔɨmaʔuβ
 # text_eng = (AA, 35)
 # text_por = Finjo que o quero
@@ -6578,21 +6578,21 @@
 1	Najpotareʔɨm	potar	VERB	v	Number[subj]=3|Person[obj]=3|Person[subj]=1|Polarity=Neg|Priv=Yes	2	dep	_	_
 2	aʔuβ	aʔuβ	VERB	v	_	0	root	_	_
 
-# sent_id = 0033.41 
+# sent_id = 0033.41
 # text = ʃeatuaj turi
 # text_eng = (AA, 41v)
 # text_por = Veio detrás de mim.
 1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[subj]=1	2	root	_	_
 2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
-# sent_id = 0033.413 
+# sent_id = 0033.413
 # text = Orowereko ʃeraʔɨramo 
 # text_eng = (AA, 41)
 # text_por = Tenho-te como meu filho.
 1   Orowereko   ereko   VERB    v   Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1   0   root    _   _
 2   ʃeraʔɨramo  aʔɨr   NOUN    n   Case=Tra|Number[psor]=Sing|Person[psor]=1|Rel=Cont   1   obl _   _
 
-# sent_id = 0033.412 
+# sent_id = 0033.412
 # text = ʃeatuaj βe turi
 # text_eng = (AA, 41v)
 # text_por = Veio logo detrás de mim.
@@ -6600,14 +6600,14 @@
 2	βe	βe	ADV	_	_	1	advmod	_	_
 3	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
-# sent_id = 0033.43 
+# sent_id = 0033.43
 # text = Ajmoneβ oajurɨβo
 # text_eng = (AA, 43)
 # text_por = Coloco-o ao redor do pescoço
 1	Ajmoneβ	moneβ	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 2	oajurɨβo	ajur	NOUN	n	Case=Per|Corf=Yes	1	obl	_	_
 
-# sent_id = 0033.44 
+# sent_id = 0033.44
 # text = Ajeruré aoβa resé Pedro supé
 # text_eng = (AA, 44)
 # text_por = Peço a Pedro pm roupa.
@@ -6617,14 +6617,14 @@
 4	Pedro	Pedro	PROPN	propn	_	1	obl	_	_
 5	supé	supé	ADP	posp	_	4	case	_	_
 
-# sent_id = 0033.441 
+# sent_id = 0033.441
 # text = Asó nerekoβiaramo
 # text_eng = (AA, 44v)
 # text_por = Vou como teu substituto
 1	Asó	so	VERB	vi	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	nerekoβiaramo	ekoβiar	NOUN	n	Case=Tra|Number[psor]=Sing|Person[psor]=2|Rel=Cont	1	obl	_	_
 
-# sent_id = 0033.44 
+# sent_id = 0033.44
 # text = Ajtɨk jeʔeŋa sesé  
 # text_eng = (AA, 44v)
 # text_por = Lanço palavras contra ele
@@ -6632,14 +6632,14 @@
 2   jeʔeŋa  jeʔeŋ   NOUN    n   Case=Ref   1   obl:obj _   _
 3   sesé    esé   ADP posp   Rel=NCont   1   case    _   _
 
-# sent_id = 0033.442 
+# sent_id = 0033.442
 # text = Sesé orosó  
 # text_eng = (AA, 44v)
 # text_por = Vou com ele
 1   Sesé    esé    ADP posp   Rel=NCont   2   obl _   _
 2   orosó   so   VERB    v   Clusivity=Ex|Number[subj]=Plur|Person[suj]=1   0   root    _   _
 
-# sent_id = 0033.44 
+# sent_id = 0033.44
 # text = Asawsuβ  Pedro taʔɨra reseβé  
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
@@ -6650,7 +6650,7 @@
 4   rese    esé   ADP posp   Rel=Cont   3   case    _   _
 5   βé  βe   ADV adv   _   4   advmod  _   _
 
-# sent_id = 0033.46 
+# sent_id = 0033.46
 # text = ʃesó aβé turi
 # text_eng = (AA, 46)
 # text_por = Depois de eu vir, ele veio
@@ -6658,7 +6658,7 @@
 2	aβé	aβé	ADV	adv	_	1	mark	_	_
 3	turi	ur	NOUN	v	NonFoc=Yes|Rel=NCont	0	root	_	_
 
-# sent_id = 0033.48 
+# sent_id = 0033.48
 # text = Arojeβɨr aoβa  
 # text_eng = (AA, 48)
 # text_por = Volto a fazer roupa
@@ -6674,7 +6674,7 @@
 3	ɨβɨrá	ɨβɨrá	NOUN	n	_	1	obl	_	_
 4	pupé	pupé	ADP	posp	_	3	case	_	_
 
-# sent_id = 0033.50 
+# sent_id = 0033.50
 # text = Ajtaʔɨmeʔeŋ Pedro
 # text_eng = (AA, 50v)
 # text_por = Dou-lhe os filhos de Pedro
@@ -6683,10 +6683,10 @@
 2	meʔeŋ	meʔeŋ	VERB	v	_	0	root	_	_
 3	Pedro	Pedro	PROPN	_	_	2	obl	_	_
 
-# sent_id = 0033.56 
+# sent_id = 0033.56
 # text = Eneʔĩ esóβo
 # text_eng = (AA, 56v)
 # text_por = Eia, vai!
 1	Eneʔĩ	eneʔĩ	INTJ	intj	_	2	discourse	_	_
 2	esóβo	so	VERB	vi	Person=2|VerbType=Ger	0	root	_	_
- 
+
