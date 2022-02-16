@@ -6624,13 +6624,13 @@
 1	Asó	so	VERB	vi	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	nerekoβiaramo	ekoβiar	NOUN	n	Case=Tra|Number[psor]=Sing|Person[psor]=2|Rel=Cont	1	obl	_	_
 
-# sent_id = 0033.44
+# sent_id = 0033.443
 # text = Ajtɨk jeʔeŋa sesé  
 # text_eng = (AA, 44v)
 # text_por = Lanço palavras contra ele
-1   Ajtɨk   itɨk   VERB    v   Number[subj]=Sing|Person[subj]=1   0   root    _   _
-2   jeʔeŋa  jeʔeŋ   NOUN    n   Case=Ref   1   obl:obj _   _
-3   sesé    esé   ADP posp   Rel=NCont   1   case    _   _
+1	Ajtɨk	itɨk	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	jeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref	1	obl:obj	_	_
+3	sesé	esé	ADP	posp	Rel=NCont	1	case	_	_
 
 # sent_id = 0033.442
 # text = Sesé orosó  
@@ -6639,7 +6639,7 @@
 1   Sesé    esé    ADP posp   Rel=NCont   2   obl _   _
 2   orosó   so   VERB    v   Clusivity=Ex|Number[subj]=Plur|Person[suj]=1   0   root    _   _
 
-# sent_id = 0033.44
+# sent_id = 0033.445
 # text = Asawsuβ  Pedro taʔɨra reseβé  
 # text_eng = (AA, 44v)
 # text_por = Amo a Pedro assim como seu filho
