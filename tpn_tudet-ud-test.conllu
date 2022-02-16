@@ -6544,7 +6544,7 @@
 1	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	compound	_	_
 3	tojkó	ikó	VERB	v	Mood=Perm|Number=Sing|Person[subj]=3	0	root	_	_
-4	irũnamo	_	NOUN	n	_	3	obl	_	_
+4	irũnamo	_	ADP	posp	_	3	obl	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0022.1451
