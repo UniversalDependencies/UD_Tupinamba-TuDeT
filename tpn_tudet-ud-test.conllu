@@ -5800,7 +5800,7 @@
 # text = Memẽte nipó , peʔaŋa amotá , iporawsuβ oka , koʔarapukuj ipokoka , imoaɨsóβo , imomoraŋa , tekópwera rekoaβoka .
 # text_eng = (Teatro, 56)
 # text_por = Mas sempre, com certeza, a vossas almas querendo bem, arrancando suas aflições, sempre guiando-as, aformoseando-as, embelezando-as, modificando o velho modo de ser
-1	Memẽte	Memẽte	ADV	vt	Foc=Yes|Mood=Imp	5	advmod	_	_
+1	Memẽte	Memẽte	ADV	vt	Foc=Yes	5	advmod	_	_
 2	nipó	nipó	ADV	adv	_	5	advmod	_	_
 3	,	,	PUNCT	punct	_	5	punct	_	_
 4	peʔaŋa	peʔaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	5	obj	_	_
@@ -5828,12 +5828,12 @@
 2	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	3	nmod	_	_
 3	popwari	popwari	NOUN	n	NonFoc=Yes	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5	peri	peri	ADP	posp	Number[psor]=Plur|Person[psor]=2	6	obl	_	_
-6	semiapotasápe	_	NOUN	n	Case=Loc|Dev=Pass|Nomzr=Cir|Rel=NCont	3	advcl	_	_
+5	peri	peri	ADP	posp	Number=Plur|Person=2	6	obl	_	_
+6	semiapotasápe	_	NOUN	n	Case=Loc|Dev=Pass|Nomzr=Circ|Rel=NCont	3	advcl	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.203
-# text = Peatõj'a nojpotari . Peʔaŋa rawsukatuápe , oβojáramo perari .
+# text = Peatõja nojpotari . Peʔaŋa rawsukatuápe , oβojáramo perari .
 # text_eng = (Teatro, 56)
 # text_por = Não querem que vos toquem. Por amar muito vossas almas,como seus discípulos vos tomaram.
 1	Peatõja	atõj	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	2	obl:obj	_	_
@@ -5847,7 +5847,7 @@
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0044.204
-# text = Peteumẽ pepoʃɨramo aŋiré , tokaɲẽ perekópwera kaʔu , awasánemwera , temoʔema , marã ʔe , joapiʃaβa , maranwera .
+# text = Peteumẽ pepoʃɨramo aŋiré , tokaɲẽ perekópwera : kaʔu , awasánemwera , temoʔema , marã ʔe , joapiʃaβa , maranwera .
 # text_eng = (Teatro, 56)
 # text_por = Guardai-vos de serdes maus doravante, para que desapareçam vossas práticas antigas - bebedeira, a velha mancebia fétida, mentiras, dizer maldades, ferimentos mútuos, antigas guerras.
 1	Peteumẽ	Peteumẽ	NOUN	n	Number=Plur|Person=2	2	discourse	_	_
@@ -5910,7 +5910,7 @@
 2-3	apɨaβaíβa	_	_	_	_	_	_	_	_
 2	apɨaβ	apɨaβ	NOUN	n	Case=Ref	1	nsubj	_	_
 3	aíβa	aíβ	NOUN	n	Case=Ref	2	nmod	_	_
-4	sekoβé	ekoβé	ADV	n	Rel=NCont	6	advmod	_	_
+4	sekoβé	ekoβé	NOUN	n	Rel=NCont	6	obj	_	_
 5	aβé	aβé	ADV	adv	_	6	advmod	_	_
 6	rapɨaβo	apɨa	VERB	v	Rel=Cont|VerbForm=Ger	1	advcl	_	_
 7	.	,	PUNCT	punct	_	6	punct	_	_
@@ -6557,14 +6557,14 @@
 3	ʃeruβa	uβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 
 # sent_id = 0033.21
-# text = Asó ã  
+# text = Asó ã
 # text_eng = (AA, 21v)
 # text_por = Eis que eu vou
 1	Asó	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	ã	ã	PART	prcl	_	1	discourse	_	_
 
 # sent_id = 0033.212
-# text = Aso βiã
+# text = Asó βiã
 # text_eng = (AA, 21v)
 # text_por = Vou por ir / vou emr resultado
 1	Asó	so	VERB	v	_	0	root	_	_
