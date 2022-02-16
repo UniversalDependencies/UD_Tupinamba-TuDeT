@@ -6575,18 +6575,18 @@
 # text_eng = (AA, 35)
 # text_por = Finjo que o quero
 1-2	Najpotareʔɨmaʔuβ	_	_	_	_	_	_	_	_
-1	Najpotareʔɨm	potar	VERB	v	Number[subj]=3|Person[obj]=3|Person[subj]=1|Polarity=Neg|Priv=Yes	2	dep	_	_
+1	Najpotareʔɨm	potar	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg|Priv=Yes	2	dep	_	_
 2	aʔuβ	aʔuβ	VERB	v	_	0	root	_	_
 
 # sent_id = 0033.41
 # text = ʃeatuaj turi
 # text_eng = (AA, 41v)
 # text_por = Veio detrás de mim.
-1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[subj]=1	2	root	_	_
+1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	root	_	_
 2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.413
-# text = Orowereko ʃeraʔɨramo 
+# text = Orowereko ʃeraʔɨramo
 # text_eng = (AA, 41)
 # text_por = Tenho-te como meu filho.
 1   Orowereko   ereko   VERB    v   Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1   0   root    _   _
