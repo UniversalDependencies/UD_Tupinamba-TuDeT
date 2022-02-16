@@ -6583,6 +6583,13 @@
 1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[subj]=1	2	root	_	_
 2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
+# sent_id = 0033.413 
+# text = Orowereko ʃeraʔɨramo 
+# text_eng = (AA, 41)
+# text_por = Tenho-te como meu filho.
+1   Orowereko   ereko   VERB    v   Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1   0   root    _   _
+2   ʃeraʔɨramo  aʔɨr   NOUN    n   Case=Tra|Number[psor]=Sing|Person[psor]=1|Rel=Cont   1   obl _   _
+
 # sent_id = 0033.412 
 # text = ʃeatuaj βe turi
 # text_eng = (AA, 41v)
@@ -6615,6 +6622,32 @@
 1	Asó	so	VERB	vi	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	nerekoβiaramo	ekoβiar	NOUN	n	Case=Tra|Number[psor]=Sing|Person[psor]=2|Rel=Cont	1	obl	_	_
 
+# sent_id = 0033.44 
+# text = Ajtɨk jeʔeŋa sesé  
+# text_eng = (AA, 44v)
+# text_por = Lanço palavras contra ele
+1   Ajtɨk   itɨk   VERB    v   Number[subj]=Sing|Person[subj]=1   0   root    _   _
+2   jeʔeŋa  jeʔeŋ   NOUN    n   Case=Ref   1   obl:obj _   _
+3   sesé    esé   ADP posp   Rel=NCont   1   case    _   _
+
+# sent_id = 0033.442 
+# text = Sesé orosó  
+# text_eng = (AA, 44v)
+# text_por = Vou com ele
+1   Sesé    esé    ADP posp   Rel=NCont   2   obl _   _
+2   orosó   so   VERB    v   Clusivity=Ex|Number[subj]=Plur|Person[suj]=1   0   root    _   _
+
+# sent_id = 0033.44 
+# text = Asawsuβ  Pedro taʔɨra reseβé  
+# text_eng = (AA, 44v)
+# text_por = Amo a Pedro assim como seu filho
+1   Asawsuβ awsuβ   VERB    v   Number[subj]=Sing|Person[subj]=1   0   root    _   _
+2   Pedro   Pedro   PROPN   propn   _   1   obl:obj _   _
+3   taʔɨra  aʔɨr   NOUN    n   Case=Ref|Rel=NCont   1   obl _   _
+4-5 reseβé  _   _   _   _   _   _   _   _
+4   rese    esé   ADP posp   Rel=Cont   3   case    _   _
+5   βé  βe   ADV adv   _   4   advmod  _   _
+
 # sent_id = 0033.46 
 # text = ʃesó aβé turi
 # text_eng = (AA, 46)
@@ -6622,6 +6655,13 @@
 1	ʃesó	so	NOUN	n	Number[psor]=Sing|Person[psor]=1	3	advcl	_	_
 2	aβé	aβé	ADV	adv	_	1	mark	_	_
 3	turi	ur	NOUN	v	NonFoc=Yes|Rel=NCont	0	root	_	_
+
+# sent_id = 0033.48 
+# text = Arojeβɨr aoβa  
+# text_eng = (AA, 48)
+# text_por = Volto a fazer roupa
+1   Arojeβɨr    erojeβɨr   VERB    _   Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com   0   root    _   _
+2   aoβa    aoβ   NOUN    _   Case=Ref   1   obj _   _
 
  sent_id = 0033. 49
 # text = Aseropuʔam Pedro ɨβɨrá pupé
@@ -6647,6 +6687,4 @@
 # text_por = Eia, vai!
 1	Eneʔĩ	eneʔĩ	INTJ	intj	_	2	discourse	_	_
 2	esóβo	so	VERB	vi	Person=2|VerbType=Ger	0	root	_	_
-
-
 
