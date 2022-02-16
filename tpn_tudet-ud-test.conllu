@@ -3229,7 +3229,7 @@
 22	swi	swi	ADP	posp	_	21	case	_	_
 23	.	.	PUNCT	punct	_	1	punct	_	punct
 
-# sent_id = 4442111131
+# sent_id = 4f111131
 # text = Ejori muru moiŋóβo janéjeʔeŋa rupi
 # text_eng = (Teatro, 165, p. 18)
 # text_port = Vem para colocar os malditos conforme nossas palavras.
@@ -6625,7 +6625,7 @@
 2	nerekoβiaramo	ekoβiar	NOUN	n	Case=Tra|Number[psor]=Sing|Person[psor]=2|Rel=Cont	1	obl	_	_
 
 # sent_id = 0033.443
-# text = Ajtɨk jeʔeŋa sesé  
+# text = Ajtɨk jeʔeŋa sesé
 # text_eng = (AA, 44v)
 # text_por = Lanço palavras contra ele
 1	Ajtɨk	itɨk	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
@@ -6633,7 +6633,7 @@
 3	sesé	esé	ADP	posp	Rel=NCont	1	case	_	_
 
 # sent_id = 0033.442
-# text = Sesé orosó  
+# text = Sesé orosó
 # text_eng = (AA, 44v)
 # text_por = Vou com ele
 1   Sesé    esé    ADP posp   Rel=NCont   2   obl _   _
@@ -6659,7 +6659,7 @@
 3	turi	ur	NOUN	v	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.48
-# text = Arojeβɨr aoβa  
+# text = Arojeβɨr aoβa
 # text_eng = (AA, 48)
 # text_por = Volto a fazer roupa
 1	Arojeβɨr	erojeβɨr	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com	0	root	_	_
