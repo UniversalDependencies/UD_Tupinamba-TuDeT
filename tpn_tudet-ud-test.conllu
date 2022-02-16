@@ -5681,7 +5681,7 @@
 4	janéjara	iar	NOUN	n	Case=Ref|Clusivity=In|Number[psor]=Plur|Person[psor]=1	5	nmod	_	_
 5	βojá	βojá	NOUN	prcl	_	11	obl:subj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	São	são	NOUN	n	_	_	_	_	_
+7	São	são	NOUN	n	_	5	appos	_	_
 8-9	Lourençoaŋaturama	_	_	_	_	_	_	_	_
 8	Lourenço	Lourenço	PROPN	propn	_	7	compound	_	_
 9	aŋaturama	aŋaturama	NOUN	n	Case=Ref	8	nmod	_	_
