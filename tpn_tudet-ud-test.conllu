@@ -5336,14 +5336,14 @@
 # text = Okaʔu βé ʃerajʃó , wajβimarãserãserã .
 # text_eng = My mother-in-law also drinks beer, the very evil oldwoman (Teatro, 48)
 # text_por = Bebe cauim também minha sogra, velha muito maldosa
-1	Okaʔu	kaʔu	VERB	v	Number[subj]=Sing|Person[subj]=3	0	dep	_	_
+1	Okaʔu	kaʔu	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	_
 2	βé	βé	ADV	adv	_	1	advmod	_	_
 3	ʃerajʃó	ajʃó	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl:subj	_	_
-4	,	,	PUNCT	punct	_	6	punct	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
 5-7	wajβimarãserãserã	_	_	_	_	_	_	_	_
-5	wajβi	wajβi	NOUN	n	_	4	appos	_	_
-6	marãserãserã	marãserãserã	NOUN	n	_	6	nmod	_	_
-7	serãserã	serãserã	ADV	adv	_	7	nmod	_	_
+5	wajβi	wajβi	NOUN	n	_	3	appos	_	_
+6	marã	marã	NOUN	n	_	5	nmod	_	_
+7	serãserã	serã	ADV	adv	_	6	nmod	_	_
 8	.	,	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0044.171
