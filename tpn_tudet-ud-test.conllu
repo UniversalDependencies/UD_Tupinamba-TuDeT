@@ -6586,6 +6586,21 @@
 3	umẽ	umẽ	PART	prcl	_	4	discourse	_	_
 4	ejuká	juká	VERB	v	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 
+# sent_id = 00.3325
+# text = Kori temone asómo
+# text_eng (Anchieta Arte, 25)
+# text_por = Hoje eu deveria ir.
+1	Kori	_	ADV	adv	AdvTYpe=Tmp	3	advmod	_	_
+2	temone	_	PART	prcl	_	3	discourse	_	_
+3	asómo	so	VERB	v	Mood=Sub|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+
+# sent_id = 00.33252
+# text = Asó temonemo
+# text_eng (Anchieta Arte, 25)
+# text_por = Deveria ir.
+1	Asó	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	temonemo	temonemo	PART	prcl	Mood=Cnd_	1	discourse	_	_
+
 # sent_id = 0033.35
 # text = Najpotareʔɨmaʔuβ
 # text_eng = (AA, 35)
@@ -6593,6 +6608,13 @@
 1-2	Najpotareʔɨmaʔuβ	_	_	_	_	_	_	_	_
 1	Najpotareʔɨm	potar	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg|Priv=Yes	2	dep	_	_
 2	aʔuβ	aʔuβ	VERB	v	_	0	root	_	_
+
+# sent_id = 0033.39
+# text = Kori ijukaw
+# text_eng (Anchieta Arte, 39v)
+# text_por = Hoje o matou
+1	Kori	kori	ADV	adv	AdvType=Tem	2	advmod	_	_
+2	ijukaw	juká	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.41
 # text = ʃeatuaj turi
@@ -6666,6 +6688,16 @@
 4	rese	esé	ADP	posp	Rel=Cont	3	case	_	_
 5	βé	βe	ADV	adv	_	4	advmod	_	_
 
+# sent_id = 00.33.446
+# text = Ejotĩ nekesaβa ʃeporupi
+# text_eng (Anchieta Arte, 44)
+# text_por = Amarra tua rede ao lado de mim.
+1	Ejotĩ	_	VERB	v	Mood=Imp|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
+2	nekesaβa	kesaβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
+3-4	ʃeporupi	_	_	_	_	_	_	_	_
+3	ʃepo	_	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl	_	_
+4	rupi	upi	ADP	posp	Number[psor]=Sing|Person[psor]=1|Rel=Cont	3	case	_	_
+
 # sent_id = 0033.46
 # text = ʃesó aβé turi
 # text_eng = (AA, 46)
@@ -6699,10 +6731,32 @@
 2	meʔeŋ	meʔeŋ	VERB	v	_	0	root	_	_
 3	Pedro	Pedro	PROPN	_	_	2	obl	_	_
 
-# sent_id = 0033.56
+# sent_id = 0033.561
 # text = Eneʔĩ esóβo
 # text_eng = (AA, 56v)
 # text_por = Eia, vai!
 1	Eneʔĩ	eneʔĩ	INTJ	intj	_	2	discourse	_	_
 2	esóβo	so	VERB	vi	Person=2|VerbForm=Ger	0	root	_	_
+
+# sent_id = 00.33562
+# text = Teʔiɲẽ tosó
+# text_eng (Anchieta Arte, 56v)
+# text_por = Deixa que vá
+1	Teʔiɲẽ	teʔiɲẽ	PART	prcl	_	2	discourse	_	_
+2	tosó	so	VERB	v	Mood=Per|Person[subj]=3	0	root	_	_
+
+# sent_id = 00.33571
+# text = Teraʔumo oú
+# text_eng (Anchieta Arte, 57)
+# text_por = Vamos ver se vem!
+1	Teraʔumo	teraʔumo	PART	prcl	_	2	discourse	_	_
+2	oú	ur	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
+
+# sent_id = 00.33572
+# text = Temone aʔereme osɨkamo
+# text_eng (Anchieta Arte, 57)
+# text_por = Oxalá então tchegasse
+1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
+2	aʔereme	aʔereme	ADV	adv	AdvType=Tmp	3	advmod	_	_
+3	osɨkamo	sɨk	VERB	v	Mood=Sub|Person[subj]=3	0	root	_	_
 
