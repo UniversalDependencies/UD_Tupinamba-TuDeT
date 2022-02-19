@@ -6590,7 +6590,7 @@
 # text = Kori temone asómo
 # text_eng (Anchieta Arte, 25)
 # text_por = Hoje eu deveria ir.
-1	Kori	_	ADV	adv	AdvTYpe=Tmp	3	advmod	_	_
+1	Kori	_	ADV	adv	AdvType=Tmp	3	advmod	_	_
 2	temone	_	PART	prcl	_	3	discourse	_	_
 3	asómo	so	VERB	v	Mood=Sub|Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
@@ -6599,7 +6599,7 @@
 # text_eng (Anchieta Arte, 25)
 # text_por = Deveria ir.
 1	Asó	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	temonemo	temonemo	PART	prcl	Mood=Cnd_	1	discourse	_	_
+2	temonemo	temonemo	PART	prcl	Mood=Cnd	1	discourse	_	_
 
 # sent_id = 0033.35
 # text = Najpotareʔɨmaʔuβ
@@ -6613,7 +6613,7 @@
 # text = Kori ijukaw
 # text_eng (Anchieta Arte, 39v)
 # text_por = Hoje o matou
-1	Kori	kori	ADV	adv	AdvType=Tmp	2	advmod	_	_
+1	Kori	kori	ADV	adv	AdvType=Temp	2	advmod	_	_
 2	ijukaw	juká	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.41
@@ -6696,7 +6696,7 @@
 2	nekesaβa	kesaβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
 3-4	ʃeporupi	_	_	_	_	_	_	_	_
 3	ʃepo	_	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl	_	_
-4	rupi	upi	ADP	posp	Number[psor]=Sing|Person[psor]=1|Rel=Cont	3	case	_	_
+4	rupi	upi	ADP	posp	Number=Sing|Person=1|Rel=Cont	3	case	_	_
 
 # sent_id = 0033.46
 # text = ʃesó aβé turi
@@ -6757,6 +6757,6 @@
 # text_eng (Anchieta Arte, 57)
 # text_por = Oxalá então tchegasse
 1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
-2	aʔereme	aʔereme	ADV	adv	AdvType=Tmp	3	advmod	_	_
+2	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
 3	osɨkamo	sɨk	VERB	v	Mood=Sub|Person[subj]=3	0	root	_	_
 
