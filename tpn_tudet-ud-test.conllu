@@ -6590,7 +6590,7 @@
 # text = Kori temone asómo
 # text_eng (Anchieta Arte, 25)
 # text_por = Hoje eu deveria ir.
-1	Kori	_	ADV	adv	AdvType=Tmp	3	advmod	_	_
+1	Kori	_	ADV	adv	AdvType=Temp	3	advmod	_	_
 2	temone	_	PART	prcl	_	3	discourse	_	_
 3	asómo	so	VERB	v	Mood=Sub|Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
