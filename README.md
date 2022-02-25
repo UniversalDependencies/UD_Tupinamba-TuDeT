@@ -1,7 +1,7 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá) which is annotating sentences from all Tupinambá sources.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá) which is annotating sentences from all Tupinambá sources: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century).
 
 
 
