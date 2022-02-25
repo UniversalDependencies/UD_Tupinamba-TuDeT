@@ -6122,6 +6122,18 @@
 9	mojaŋi	mojaŋ	NOUN	n	NonFoc=Yes	0	root	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = 0099.234
+# text = Tupã sɨaŋaturama , ajeroβjá neresé
+# text_eng = (Poemas, 166)
+# text_por = Mãe de Deus bondosa, confio em ti.
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
+2-3	sɨaŋaturama	_	_	_	_	_	_	_	_
+2	sɨ	sɨ	NOUN	n	_	5	vocative	_	_
+3	aŋaturama	aŋaturam	NOUN	n	Case=Ref	2	nmod	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	ajeroβjá	jeroβjar	VERB	v	Number[subj]=Sing|Person[subj]=1|Reflex=Yes	0	root	_	_
+6	neresé	neresé	ADP	posp	Number=Sing|Person=2|Rel=Cont	5	obl	_	_
+
 # sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
 # text_eng = Camarão leter 1,1
