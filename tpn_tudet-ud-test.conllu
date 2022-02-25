@@ -6134,6 +6134,17 @@
 5	ajeroβjá	jeroβjar	VERB	v	Number[subj]=Sing|Person[subj]=1|Reflex=Yes	0	root	_	_
 6	neresé	neresé	ADP	posp	Number=Sing|Person=2|Rel=Cont	5	obl	_	_
 
+# sent_id = 0099.235
+# text = Ejpotámirĩumẽ , tatápe ʃesoawama .
+# text_eng = (Poemas, 166)
+# text_por = Não queiras nem um pouquinho minha futura ida para o fogo.
+1-2	Ejpotámiriumẽ	_	_	_	_	_	_	_	_
+1	Ejpotá	potar	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	mirĩumẽ	mirĩ	ADV	adv	Polarity=Neg	0	root	_	_
+3	tatápe	tatá	NOUN	n	Case=Loc|Rel=NCont	3	obl	_	_
+4	ʃesoawama	ʃesoawama	NOUN	n	Nomzr=Circ|Number[psor]=Sing|Person[psor]=1|Tense=Past	1	obl:obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
 # sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβékatu tomeʔeŋ enéβe .
 # text_eng = Camarão leter 1,1
