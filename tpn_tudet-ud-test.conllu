@@ -3388,7 +3388,7 @@
 # text = Karaíβa nasetáj , São Sebastião aʔe omonɨk tatá sesé , imonɨja
 # text_eng = (Teatro, 22)
 # text_por = Os cristãos não eram muitos; São Sebastião, porém, ateou fogo nelas, espantando-os
-1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	_	_
+1	Karaíβa	Karaíβ	NOUN	n	Case=Ref	2	nsubj	_	_
 2	nasetáj	etá	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	São	são	NOUN	n	_	5	compound	_	_
@@ -3401,9 +3401,9 @@
 11	imonɨja	monɨj	VERB	_	Rel=NCont|VerbForm=Ger	7	advcl	_	_
 
 # sent_id = 442
-# text = Nopɨtái amõ aβá maranápe
+# text = Nopɨtáj amõ aβá maranápe
 # text_eng = (Teatro, 22)
-1	Nopɨtái	pɨtá	VERB	v	Person[subj]=3|Polarity=Neg	0	root	_	_
+1	Nopɨtáj	pɨtá	VERB	v	Person[subj]=3|Polarity=Neg	0	root	_	_
 2	amõ	amõ	PRON	pron	PronType=Ind	3	nmod	_	_
 3	aβá	aβá	NOUN	n	_	1	obl	_	_
 4	maranápe	maran	NOUN	n	Case=Loc	1	obl	_	_
@@ -3411,7 +3411,7 @@
 # sent_id = 443
 # text = Karaíβa ipó nojkóaŋaipápɨrɨβi
 # text_eng = (Teatro, 22)
-1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	_	_
+1	Karaíβa	Karaíbβ	NOUN	n	Case=Ref	3	obl	_	_
 2	ipó	ipó	PART	_	_	3	discourse	_	_
 3-5	nojkóaŋaipápɨrɨβi	_	_	_	_	_	_	_	_
 3	nojkó	ikó	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	_	_
@@ -4052,7 +4052,7 @@
 1	Tupã	Tupã	PROPN	propn	_	9	nsubj	_	_
 2	aé	aé	PART	prcl	_	9	discourse	_	_
 3	,	,	PUNCT	punct	_	9	punct	_	_
-4	okaraíβa	karaíb	NOUN	n	Case=Ref|Corf=Yes	9	obl	_	_
+4	oKaraíβa	Karaíbβ	NOUN	n	Case=Ref|Corf=Yes	9	obl	_	_
 5	pupé	pupé	ADP	posp	_	4	case	_	_
 6	,	,	PUNCT	punct	_	9	punct	_	_
 7	iʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Rel=NCont	9	obj	_	_
