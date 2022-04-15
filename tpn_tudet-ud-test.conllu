@@ -128,7 +128,7 @@
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	Cristãos	Cristão	NOUN	n	_	7	obl:subj	_	_
 7	ojmoeté	eté	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
-8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|Voice=Cau	7	advcl	_	tupã-ʔar-a
+8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	7	advcl	_	tupã-ʔar-a
 
 # sent_id = 66666666
 # text = Janejara momeʔureme , serobβjasareʔɨma potɨrõw ijɨβõijjɨβõmo , ijukáβo
