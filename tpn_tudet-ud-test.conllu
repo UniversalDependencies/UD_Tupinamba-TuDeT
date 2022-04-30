@@ -1424,7 +1424,7 @@
 6	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 2349
-# text = Iko aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ iʃe sekara jepe , ijukaukar janone wijaβo eʔi
+# text = ikó aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ iʃe sekara jepe , ijukaukar janone wijaβo eʔi
 # text_eng = Saying I bring this man here, coming out with him, may you know that I have searched in vain for a previous act of his, before ordaining his death, he said it. Book 3 chap 8
 # text_por = 
 1	Iko	iko	DET	dem	_	2	nmod	_	_
@@ -2410,7 +2410,7 @@
 7	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 93
-# text = Tupã raʔɨra jẽ iko aβa eʔi , amõamõ opotiʔa rese opwaopwa , oangajpawera moasɨ́aβo
+# text = Tupã raʔɨra jẽ ikó aβa eʔi , amõamõ opotiʔa rese opwaopwa , oangajpawera moasɨ́aβo
 # text_eng = They said: this man is really the son of god, others beating their chests, regreting their evil acting.    Book 3 chap 11
 # text_por = 
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
@@ -2936,7 +2936,7 @@
 15	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9184746
-# text = Ju , ajaŋap iko ri !
+# text = Ju , ajaŋap ikó ri !
 # text_eng = Oh, is this perhaps the devil? (Teatro, 74, p. 10)
 # text_por = o, sera que isto e o diabo?
 1	Ju	ju	INTJ	intj	_	3	discourse	_	_
@@ -4191,7 +4191,7 @@
 18	morapitiara	porapitiar	NOUN	n	Case=Ref|Hum=Yes	17	nmod	_	_
 
 # sent_id = 4451
-# text = aʔepe iko ?
+# text = aʔepe ikó ?
 # text_eng = Is it this one? (Teatro, 30)
 # text_por = e este?
 1	aʔepe	aʔe	PRON	dem	Int=Yes	0	root	_	_
@@ -4426,7 +4426,7 @@
 17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
 
 # sent_id = 4469
-# text = wabiru ruãpe iko konipo sarigweinema ?
+# text = wabiru ruãpe ikó konipo sarigweinema ?
 # text_eng = (Teatro, 32)
 # text_por = Sera que isto e um guabiru4o ou um sarigüê fedorento?
 1	wabiru	wabiru	NOUN	n	_	0	root	_	_
@@ -5152,7 +5152,7 @@
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = 0044.133
-# text = Napeapɨsaj , janu , iko taβa apamonana .
+# text = Napeapɨsaj , janu , ikó taβa apamonana .
 # text_eng = (Teatro, 40)
 # text_por = Não tendes ouvidos, como de costume, esta aldeia confundindo.
 1	Napeapɨsaj	apɨsa	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
@@ -6053,18 +6053,6 @@
 18	rekoaβoka	ekoaβok	VERB	v	Rel=Cont|VerbForm=Ger	15	parataxis	_	_
 19	.	,	PUNCT	punct	_	18	punct	_	_
 
-# sent_id = 0044.202
-# text = Memẽ aɲaŋa popwari , peri semiapotasape .
-# text_eng = (Teatro, 56)
-# text_por = Sempre dos diabos atam as mãos, quando querem em vos suas presas.
-1	Memẽ	memẽ	NOUN	n	_	3	advcl	_	_
-2	aɲaŋa	aɲaŋ	NOUN	n	Case=Ref	3	nmod	_	_
-3	popwari	popwari	NOUN	n	NonFoc=Yes	0	root	_	_
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	peri	peri	ADP	posp	Number=Plur|Person=2	6	obl	_	_
-6	semiapotasape	_	NOUN	n	Case=Loc|Nomzr=DevPass|Nomzr=Circ|Rel=NCont	3	advcl	_	_
-7	.	.	PUNCT	punct	_	3	punct	_	_
-
 # sent_id = 0044.203
 # text = Peatõja nojpotari . Peʔaŋa rawsukatuape , oβojaramo perari .
 # text_eng = (Teatro, 56)
@@ -6416,7 +6404,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 0055.2
-# text = Iko ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
+# text = ikó ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
 # text_eng = Camarão leter 1,2
 # text_por = Antes que vejas esta carta, eis que estou muito feliz, preguntando pelo bem-estar e vocês, eu tambem não estando mal. , en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
 1	Iko	iko	DET	_	_	2	det	_	_
@@ -6472,7 +6460,7 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 0055.4
-# text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema iko orojur peje iʃupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
+# text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema ikó orojur peje iʃupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
 # text_eng = Camarão letter 1,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen alla algunos hombres o algunas mujeres para conversar. Diganle a ellos 'vinimos para salvarlos. Conversen con ellos primero. Despues de conversar, que los envien a ellos para que conozcan los altibajos pantanosos"
 1	Ajmono	mono	VERB	VERB	Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
@@ -6508,7 +6496,7 @@
 31	.	.	PUNCT	punct	_	30	punct	_	_
 
 # sent_id = 0055.5
-# text = Paʔi Tupã janejara remikuwaβamo , iko ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
+# text = Paʔi Tupã janejara remikuwaβamo , ikó ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
 # text_eng = Camarão letter 1,5
 # text_por = Como cosa sabida por nuestro Señor Dios, te envio estas mis palabras, señor Pedro Potĩ.
 1	Paʔi	paʔi	NOUN	n	_	2	compound	_	_
@@ -6643,7 +6631,7 @@
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.16
-# text = Iko βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβiʃaβa jeʔeŋa rupi βe .
+# text = ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16 
 # text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos
 # text_por = 
