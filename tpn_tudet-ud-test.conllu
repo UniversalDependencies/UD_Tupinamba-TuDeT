@@ -2952,7 +2952,7 @@
 # sent_id = 19837637
 # text = ʃemenwera ipo reʔĩ , Pirakaʔẽamɨrĩ !
 # text_eng =         (Teatro, 74, p. 10)
-# text_por =       
+# text_por =    É meu marido, com certeza 
 1	ʃemenwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	ipo	ipo	ADV	adv	_	1	advmod	_	_
 3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	_	_
@@ -4324,9 +4324,8 @@
 
 # sent_id = 4462
 # text = ɨgasape kawituja , aʔe re iamomota , ojoja waibĩ rekuia
-# (Teatro, 30)
-# Nas igaçabas o cauim transbordante, alem disso, os atrai, e, igualmente, as cuias das velhas
-# text_por = 
+# text_eng = 
+# text_por = Nas igaçabas o cauim transbordante, alem disso, os atrai, e, igualmente, as cuias das velhas (Teatro, 30)
 1	ɨgasape	ɨgasab	NOUN	n	Case=Loc|Nomzr=Circ	3	obl	_	_
 2-3	kawituja	_	_	_	_	_	_	_	_
 2	kawi	kawi	NOUN	n	_	3	nmod	_	_
@@ -4579,7 +4578,7 @@
 
 # sent_id = 0044.87
 # text = Marãpe nerejemimi ? Ereipotape neʔu ?
-# text_eng (Teatro, 34)
+# text_eng = (Teatro, 34)
 # text_por = Por que não te escondes? Queres que ele te coma?
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
 2	nerejemimi	mim	VERB	v	Number=Sing|Person[subj]=2|Polarity=Neg|Reflex=Yes	0	root	_	_
@@ -4909,8 +4908,8 @@
 
 # sent_id = 0044.115
 # text = Ojkoβe jemomeʔu , mosaŋa mweiraβɨjara .
-# text_eng (Teatro, 40)
-# text_por = Existe a confissão, remedio portador de cura. 
+# text_eng =
+# text_por = Existe a confissão, remedio portador de cura. (Teatro, 40)
 1	Ojkoβe	ikoβe	VERB	vi	Number=Sing|Person=3	0	root	_	_
 2	jemomeʔu	jemomeʔu	NOUN	n	Reflex=Yes|Voice=Cau	1	nsubj	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
@@ -4952,8 +4951,7 @@
 # sent_id = 0044.118
 # text = Osoβasab aβare , Tupã mojɨrõŋatuaβo .
 # text_eng = (Teatro, 40)
-# tex_por = Benze-os o padre, aplacando bem a Deus.
-# text_por = 
+# text_por = Benze-os o padre, aplacando bem a Deus. 
 1	Osoβasab	Osoβasab	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	aβare	aβare	NOUN	n	_	1	obl:subj	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -5027,7 +5025,7 @@
 
 # sent_id = 0044.124
 # text = Iʃe najejɨj iʃwi , Tupã supe wijerureβo , ipɨtɨβõmo jepi .
-# text_eng (Teatro, 42)
+# text_eng = (Teatro, 42)
 # text_por = Eu não me afasto deles, orando para Deus , ajudando-os sempre.
 1	Iʃe	iʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	obl:subj	_	_
 2	najejɨj	_	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Reflex=Yes	0	root	_	_
@@ -5043,7 +5041,7 @@
 
 # sent_id = 0044.125
 # text = ʃerese ojeroβja ; ojmojaŋ ko tupãoka tekopwera rekoaβoka , oarõanamo ʃera , ʃeresekatu ojekoka .
-# text_eng (Teatro, 42)
+# text_eng = (Teatro, 42)
 # text_por = Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.
 1	ʃerese	ese	ADP	posp	Number=Sing|Person=1|Rel=Cont	2	obl	_	_
 2	ojeroβja	jeroβjar	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
@@ -5298,8 +5296,7 @@
 # sent_id = 0044.149
 # text = ʃepweraj , ʃeropesɨi . Awje ! Teume ʃemomaka !
 # text_eng = (Teatro, 46)
-# text:por = Eu estou cansado, eu estou com sono. Basta! Não me despertes!
-# text_por = 
+# text_por = Eu estou cansado, eu estou com sono. Basta! Não me despertes!
 1	ʃepweraj	pwerai	NOUN	n	Number=Sing|Person=1	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ʃeropesɨi	ropesɨi	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	conj	_	_
@@ -5313,8 +5310,7 @@
 # sent_id = 0044.150
 # text = Aβape ne ?
 # text_eng = Who are you? (Teatro, 46)
-# text_pof = Quem e você? 
-# text_por = 
+# text_por = Quem e você? 
 1	Aβape	aβa	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
 2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
@@ -5389,7 +5385,7 @@
 
 # sent_id = 0044.156
 # text = tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa .
-# text_eng (Teatro, 46)
+# text_eng = (Teatro, 46)
 # text_por = Hei de dar ovas de peixe para ti, retribuindo
 1	tameʔẽne	meʔeŋ	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	0	root	_	_
 2	pira	pira	NOUN	n	_	3	nmod	_	_
@@ -5401,7 +5397,7 @@
 
 # sent_id = 0044.157
 # text = Ereiuseipe uʔipuβa ? Ereipotape itajuβa ?
-# text_eng Do you want to eat manioc-flour? Do you want gold?(Teatro, 46)
+# text_eng = Do you want to eat manioc-flour? Do you want gold?(Teatro, 46)
 # text_por = Queres comer farinha puba? Queres ouro ?
 1	Ereiuseipe	usei	VERB	v	Int=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	uʔipuβa	uʔipuβ	NOUN	n	Case=Ref	1	xcomp	_	_
@@ -5457,7 +5453,7 @@
 
 # sent_id = 0044.162
 # text = Aani , mosapɨ jõ .
-# text_eng (Teatro, 48)
+# text_eng = (Teatro, 48)
 # text_por = Não so três!
 1	Aani	aani	ADV	adv	Polarity=Neg	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -5466,8 +5462,8 @@
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0044.163
-# text_eng = (Teatro, 48)
 # text = Karaiβokɨpe witekoβo , ʃepope jõte araso .
+# text_eng = (Teatro, 48)
 # text_por = Estando eu em casa de cristãos, nas minhas mãos, somente, levei-as .
 1-2	Karaiβokɨpe	_	_	_	_	_	_	_	_
 1	Karaiβ	karaiβ	NOUN	n	_	2	nmod	_	_
@@ -5926,8 +5922,7 @@
 # sent_id = 0044.196
 # text = São Seβastião aβe , marana rerekoarwera , tamũja , kɨreʔɨmβawera , omopaβ erimaʔe ; nitɨβaŋai setãmβwera .
 # text_eng = (Teatro, )
-# text_por =São Sebastião tambem, o que cuidava das guerras, os tamoios, os valentes, destruiu; não existem mais absolutamente suas antigas terras
-# text_por = 
+# text_por = São Sebastião tambem, o que cuidava das guerras, os tamoios, os valentes, destruiu; não existem mais absolutamente suas antigas terras
 1	São	são	NOUN	propn	_	12	obl:subj	_	_
 2	Seβastião	Seβastião	PROPN	propn	_	1	compound	_	_
 3	aβe	aβe	ADV	adv	_	1	advmod	_	_
@@ -6266,7 +6261,7 @@
 
 # sent_id = 0099.07
 # text = Morawsuβerekosara , oroʔe paβẽ eneβo .
-# text_eng (Poemas, 84)
+# text_eng = (Poemas, 84)
 # text_por = Compadecedora, dizemos todos a ti.
 1	Morawsuβerekosara	Morawsuβerekosar	NOUN	n	Case=Ref	3	vocative	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -6625,8 +6620,7 @@
 # sent_id = 0055.16
 # text = Ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16 
-# text_por Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos
-# text_por = 
+# text_por = Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos 
 1	Ikó	ko	DET	dem	_	3	nsubj	_	_
 2	βe	βe	ADV	adv	_	3	advmod	_	_
 3	orojko	jko	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
@@ -6674,6 +6668,7 @@
 # sent_id = 0055.19
 # text = Maʔe rese oreamotareʔɨm jepe ?
 # Camarão letters 1,19
+# text_eng =
 # text_por = por quê vos nos odiais?
 1	Maʔe	maʔe	NOUN	n	_	3	obl	_	_
 2	rese	ese	ADP	posp	Rel=Cont	1	case	_	_
@@ -6850,7 +6845,7 @@
 
 # sent_id = 00.3325
 # text = Kori temone asomo
-# text_eng (Anchieta Arte, 25)
+# text_eng = (Anchieta Arte, 25)
 # text_por = Hoje eu deveria ir.
 1	Kori	_	ADV	adv	AdvType=Temp	3	advmod	_	_
 2	temone	_	PART	prcl	_	3	discourse	_	_
@@ -6858,7 +6853,7 @@
 
 # sent_id = 00.33252
 # text = Aso temonemo
-# text_eng (Anchieta Arte, 25)
+# text_eng = (Anchieta Arte, 25)
 # text_por = Deveria ir.
 1	Aso	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	temonemo	temonemo	PART	prcl	Mood=Cnd	1	discourse	_	_
@@ -6873,7 +6868,7 @@
 
 # sent_id = 0033.39
 # text = Kori ijukaw
-# text_eng (Anchieta Arte, 39v)
+# text_eng = (Anchieta Arte, 39v)
 # text_por = Hoje o matou
 1	Kori	kori	ADV	adv	AdvType=Temp	2	advmod	_	_
 2	ijukaw	juka	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
@@ -6952,7 +6947,7 @@
 
 # sent_id = 00.33.446
 # text = Ejotĩ nekesaβa ʃeporupi
-# text_eng (Anchieta Arte, 44)
+# text_eng = (Anchieta Arte, 44)
 # text_por = Amarra tua rede ao lado de mim.
 1	Ejotĩ	_	VERB	v	Mood=Imp|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	nekesaβa	kesaβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
@@ -7002,21 +6997,21 @@
 
 # sent_id = 00.33562
 # text = Teʔiɲẽ toso
-# text_eng (Anchieta Arte, 56v)
+# text_eng = (Anchieta Arte, 56v)
 # text_por = Deixa que va
 1	Teʔiɲẽ	teʔiɲẽ	PART	prcl	_	2	discourse	_	_
 2	toso	so	VERB	v	Mood=Per|Person[subj]=3	0	root	_	_
 
 # sent_id = 00.33571
 # text = Teraʔumo ou
-# text_eng (Anchieta Arte, 57)
+# text_eng = (Anchieta Arte, 57)
 # text_por = Vamos ver se vem!
 1	Teraʔumo	teraʔumo	PART	prcl	_	2	discourse	_	_
 2	ou	ur	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
 
 # sent_id = 00.33572
 # text = Temone aʔereme osɨkamo
-# text_eng (Anchieta Arte, 57)
+# text_eng = (Anchieta Arte, 57)
 # text_por = Oxala então tchegasse
 1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
 2	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
