@@ -855,7 +855,7 @@
 
 # sent_id = 402
 # text = Ojaβiʔõpe ase serekow ?
-# text_eng =  Do we have each his own? (Araujo, Book 1 chapt. 4, 23v).    add PronType=Tot
+# text_eng = Do we have each his own? (Araujo, Book 1 chapt. 4, 23v).    add PronType=Tot
 # text_por = A gente os tem cada um o seu proprio (anjo da guarda)? 
 1	Ojaβiʔõpe	jaβiʔõ	PRON	pron	Int=Yes|Reflex=Yes	3	obj	_	_
 2	ase	ase	PRON	pro	PronType=Prs	3	nsubj	_	_
@@ -955,7 +955,7 @@
 
 # sent_id = 43456
 # text = maʔepe imongaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?
- text_eng =  
+# text_eng =  
 # text_por = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	maʔepe	_	_	_	_	_	_	_	_
 1	maʔe	maʔe	NOUN	n	_	4	obj	_	_
