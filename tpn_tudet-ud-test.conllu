@@ -55,14 +55,14 @@
 4	mosapɨr	mosapɨr	NUM	num	NumType=Card	5	nummod	_	_
 5	mɨsã	pɨsã	NOUN	n	_	3	dep	_	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
-7	sɨkeme	sɨk	NOUN	n	_	39	advcl	_	_
+7	sɨkeme	sɨk	NOUN	n	Mood=Sub	39	advcl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	_	_
 10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	_	_
 11	rɨge	rɨge	NOUN	n	Rel=Cont	14	nmod	_	_
 12	swi	swi	ADP	posp	_	11	case	_	_
 13	Tupã	Tupã	NOUN	n	_	14	nmod	_	_
-14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	_	_
+14	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	15	nmod	_	_
 15	ʔarʔire	ʔar	NOUN	n	_	39	advcl	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
 17	mosapɨr	mosapɨr	NUM	num	NumType=Card	18	nummod	_	_
@@ -89,7 +89,7 @@
 38	iʃupe	supe	ADP	posp	Rel=NCont	34	obl	_	_
 39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
 40	jetanongaβamo	jetanoŋ	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
-41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	_	_
+41	itajuβa	itajuβ	NOUN	n	Case=Ref	39	obj	_	_
 42	,	,	PUNCT	punct	_	41	punct	_	_
 43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	_	_
 44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	_	_
@@ -108,7 +108,7 @@
 2	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	4	nmod	_	_
 3	Rejamo	rei	NOUN	n	Case=Tra	2	obl	_	_
 4	seko	eko	NOUN	n	Rel=NCont	5	nmod	_	_
-5	momewaβa	momeu	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
+5	momewaβa	momeʔu	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	ɨsɨkatãsɨapwana	_	NOUN	_	Case=Ref	10	nsubj	_	_
 8	Tupanamo	Tupã	NOUN	n	Case=Tra	10	obl	_	_
@@ -120,7 +120,7 @@
 14	mirra	mirra	NOUN	n	_	17	nsubj	_	_
 15	moroese	moroese	NOUN	n	Rel=Hum	16	obj	_	_
 16	seʔõawama	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	17	nmod	_	_
-17	momewaβa	mombeu	NOUN	n	Case=Ref|Nomzr=Circ	10	parataxis	_	_
+17	momewaβa	momeʔu	NOUN	n	Case=Ref|Nomzr=Circ	10	parataxis	_	_
 
 # sent_id = 0011.55
 # text = SãoSebastião ʔara , seʔõawera , Cristãos ojmoete ojemotupana
@@ -195,7 +195,7 @@
 # text_por = 
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
 2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	_	_
-3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	_	_
+3	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	4	obl	_	_
 4	oweraso	so	VERB	v	Person=3|Voice=Com	0	root	_	_
 5	jetanongaβamo	jetanoŋ	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	_	_
 
@@ -1009,7 +1009,7 @@
 # text = Seʔõawera resepe Tupã Tuβa jɨrõkaturamo aseβe ?
 # text_eng = Was it through his death, that God the father rescued/forgave us all? book 3-5
 # text_por = 
-1	Seʔõawera	eʔõ	NOUN	n	Rel=NCont|Tense=Past	0	root	_	_
+1	Seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	0	root	_	_
 2	resepe	ese	ADP	posp	_	1	case	_	_
 3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
 4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Hum	3	dep	_	_
@@ -1119,7 +1119,7 @@
 4	tegwama	tegwam	NOUN	n	Case=Ref	5	nmod	_	_
 5	porarasara	_	NOUN	n	_	3	amod	_	_
 6	moroposanongara	poroposanoŋ	NOUN	n	Poss=Hum	12	obj	_	_
-7	mosanga	posaŋ	NOUN	n	Case=Ref|Poss=Hum	10	nmod	_	_
+7	mosanga	posaŋ	NOUN	n	Case=Ref|Rel=Hum	10	nmod	_	_
 8	tekoβe	teko	NOUN	n	Rel=Cont	9	nmod	_	_
 9	jara	jara	NOUN	n	_	7	nmod	_	_
 10	rerekoara	ereko	NOUN	n	Rel=Cont	6	nmod	_	_
@@ -1383,7 +1383,7 @@
 # text_por = 
 1	Okarɨpe	okar	NOUN	N	Case=All	0	root	_	_
 2	moroepjakape	moroepjak	NOUN	n	Animacy=Hum|Case=All	1	appos	_	_
-3	judeus	judeus	NOUN	n	_	5	obl	_	_
+3	judeus	judeu	NOUN	n	_	5	obl	_	_
 4	supe	supe	ADP	posp	Rel=Cont	3	case	_	_
 5	sepjakuka	epjak	VERB	vt	Rel=NCont|VerbForm=Ger|Voice=Cau	1	dep	_	gloss_port=RELN-see-CAUS.GER
 6	,	,	PUNCT	punct	_	5	punct	_	_
@@ -1420,7 +1420,7 @@
 1	Marã	marã	ADV	adv	_	2	advmod	_	_
 2	eʔipe	ʔi	VERB	vt	Person=3	0	root	_	_
 3	Pilatos	Pilatos	PROPN	propn	_	2	nsubj	_	_
-4	judeus	judeus	NOUN	n	_	2	obl	_	_
+4	judeus	judeu	NOUN	n	_	2	obl	_	_
 5	supe	supe	ADP	posp	Rel=Cont	4	case	_	_
 6	?	?	PUNCT	punct	_	2	punct	_	_
 
@@ -1452,7 +1452,7 @@
 # text_eng = How did the jews act afterwards? Book 3 chap 8
 # text_por = 
 1	Marãpe	marã	ADV	adv	Int=Yes	3	advmod	_	_
-2	judeus	judeus	NOUN	n	_	3	nsubj	_	_
+2	judeus	judeu	NOUN	n	_	3	nsubj	_	_
 3	rekow	eko	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
 4	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
@@ -1497,7 +1497,7 @@
 # text_por = 
 1	Osapjar	apjar	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	judeus	judeus	NOUN	n	_	5	obl	_	_
+3	judeus	judeu	NOUN	n	_	5	obl	_	_
 4	swi	swi	ADP	posp	Rel=Cont	3	case	_	_
 5	osɨkɨjeβo	sɨkɨje	VERB	v	Person=3|VerbForm=Ger	1	advcl	_	_
 6	jẽ	jẽ	PART	pcl	_	1	discourse	_	_
@@ -1583,7 +1583,7 @@
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
 # text_por = 
 1	Marãpe	marã	ADV	adv	Int=Yes	4	advmod	_	_
-2	judeus	judeus	NOUN	n	_	4	nmod	_	_
+2	judeus	judeu	NOUN	n	_	4	nmod	_	_
 3	janejara	jar	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	_	_
 4	rerekow	ereko	NOUN	n	_	0	root	_	_
 5	ojoupe	joupe	ADP	posp	Corf=Yes	7	obl	_	_
@@ -1629,7 +1629,7 @@
 # text_eng = Didn't the Jews made a man take the cross, helping him? book 3-chap 9
 # text_por = 
 1	Nowarukaripe	jar	VERB	v	_	0	root	_	_
-2	judeus	judeus	NOUN	n	_	1	obl	_	_
+2	judeus	judeu	NOUN	n	_	1	obl	_	_
 3	aʔe	aʔe	DET	dem	_	4	det	_	_
 4	cruz	cruz	NOUN	n	_	1	obj	_	_
 5	aβa	aβa	NOUN	n	_	1	obl	_	_
@@ -1830,7 +1830,7 @@
 3	neʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	_	_
 4	teʔe	teʔe	ADV	adv	_	3	advmod	_	_
 5	aʔereme	aʔereme	ADV	_	_	7	advmod	_	_
-6	judeus	judeus	NOUN	n	_	7	nsubj	_	_
+6	judeus	judeu	NOUN	n	_	7	nsubj	_	_
 7	sekɨjatãmo	ekɨjatã	VERB	v	Rel=NCont|VerbForm=Ger	1	parataxis	_	_
 8	ipira	_	NOUN	n	Rel=NCont	10	nmod	_	_
 9	βe	βe	ADV	adv	_	10	advcl	_	_
@@ -1875,7 +1875,7 @@
 1	Ikatupe	katupe	NOUN	n	Rel=NCont	7	dep	_	_
 2	jẽ	jẽ	PART	pcl	_	1	discourse	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
-4	iʃɨ	sɨ	NOUN	n	Rel=NCont	7	obl	_	_
+4	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	7	obl	_	_
 5	aʔe	aʔe	DET	dem	_	7	advmod	_	_
 6	ipo	ipo	DET	dem	_	5	dep	_	_
 7	opja	_	VERB	v	Person=3	0	root	_	_
@@ -2169,7 +2169,7 @@
 # text = iʃɨ , S.João aβe , kujãangaturameta aβe
 # text_eng = His mother, saint John, and may good women   Book 3 chap 10
 # text_por = 
-1	iʃɨ	sɨ	NOUN	n	Number=Sing|Person=1|Rel=NCont	0	root	_	_
+1	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	S.João	_	PROPN	propn	_	1	conj	_	_
 4	aβe	aβe	ADV	adv	_	1	advmod	_	_
@@ -2442,7 +2442,7 @@
 # text = iʃɨ , iirũeta aβe ojaseʔõerekoβo oina
 # text_eng = Sua mãe, muitos companheiros seus tambem pranteando estando. Book 3 chap 11
 # text_por = 
-1	iʃɨ	sɨ	NOUN	n	Rel=NCont	5	nsubj	_	_
+1	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	5	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	iirũeta	irũ	NOUN	n	Rel=NCont	1	conj	_	_
 4	aβe	aβe	ADV	adv	_	1	advmod	_	_
@@ -2598,7 +2598,7 @@
 # text = iʃɨ , iirũeta aβe
 # text_eng = His mother and his companions. Book 3 chap 11
 # text_por = 
-1	iʃɨ	sɨ	NOUN	n	Rel=NCont	0	root	_	_
+1	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	iirũeta	irũ	NOUN	n	Number=Plur|Rel=NCont	1	conj	_	_
 4	aβe	aβe	ADV	adv	_	1	advmod	_	_
@@ -3141,10 +3141,10 @@
 3	oweroβja	eroβjar	VERB	v	Person=3	0	root	_	_
 4	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	3	obj	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	punct
-6	opa	opa	PRON	pron	_	7	nmod	_	_
+6	opa	opaβ	PRON	pron	PronType=Tot	7	nmod	_	_
 7	ʔɨpaʔũmenwara	ʔɨpaʔũ	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	_	_
 8	,	,	PUNCT	punct	_	3	punct	_	punct
-9	opa	opa	PRON	pron	_	10	nmod	_	_
+9	opa	opaβ	PRON	pron	PronType=Tot	10	nmod	_	_
 10	Paraiβɨwara	Paraiβ	NOUN	n	Case=Ref|Nomzr=CCirc	3	conj	_	_
 11	ʃepope	po	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	13	obl	_	_
 12	oʔanga	ʔaŋ	NOUN	n	Case=Ref|Corf=Yes	13	obj	_	_
@@ -3378,7 +3378,7 @@
 # text = Opa umã tamũja sow , okaja tatape oupa
 # text_eng =  (Teatro, 152, p. 18)
 # text_por = Ja todos os tamoios foram, estando a queimar no fogo.
-1	Opa	opa	PRON	pron	_	3	nmod	_	_
+1	opa	opaβ	PRON	pron	PronType=Tot	3	nmod	_	_
 2	umã	umã	ADV	adv	_	4	advmod	_	_
 3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Hum	4	nsubj	_	_
 4	sow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
@@ -4887,7 +4887,7 @@
 # text = Opa taβa moangajpaβi !
 # text_eng = (Teatro, 40)
 # text_por = Toda a aldeia faz pecar
-1	Opa	opa	PRON	pron	_	2	nmod	_	_
+1	opa	opaβ	PRON	pron	PronType=Tot	2	nmod	_	_
 2	taβa	taβ	NOUN	n	Case=Ref	3	nsubj	_	_
 3	moangajpaβi	moangajpaβ	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -5945,7 +5945,7 @@
 # text = Opa , Paranapuku , Jakutiŋa , Moroʔɨ , Sariweia , wirɨrɨ , Pinoβa , Parigtiasu , Kurusa , Miapeʔɨ , Jaβeβirasɨka tapera akweime niporetai .
 # text_eng = (Teatro, )
 # text_por = Todas - Paranapucu, Jacutinga, Moroi, Sarigüeia, Güiriri, Pindoba, Pariguaçu, Curuça, Miapei a tapera de Jabebiracica - ha tempo não contêm mais muita coisa
-1	Opa	opa	PRON	pron	_	24	dislocated	_	_
+1	opa	opaβ	PRON	pron	PronType=Tot	24	dislocated	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Paranapuku	Paranapuku	PROPN	propn	_	1	appos	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
