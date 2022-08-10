@@ -733,7 +733,7 @@
 # text = Aβape JesusCristo ?
 # text_eng = Who is Jesus Christ? Book 1 chap 3
 # text_por = 
-1	Aβape	aβa	NOUN	n	_	2	nsubj	_	_
+1	Aβape	aβa	NOUN	n	Int=Yes	2	nsubj	_	_
 2	JesusCristo	JesusCristo	PROPN	propn	_	0	root	_	_
 3	?	?	PUNCT	punct	_	2	punct	_	_
 
@@ -870,7 +870,7 @@
 2	resepe	ese	ADP	posp	Int=Yes|Rel=Cont	4	obl	_	_
 3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	_	_
 4	imeʔeŋi	meʔeŋ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
-5	aseβe	ase	PRON	pro	_	4	obl	_	_
+5	aseβe	ase	PRON	pro	Case=Dat|PronType=Prs	4	obl	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 404
@@ -1010,7 +1010,7 @@
 3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
 4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Hum	3	dep	_	_
 5	jɨrõkaturamo	jɨrõkatu	NOUN	n	Nomzr=Circ	1	dep	_	_
-6	aseβe	ase	PRON	pro	PronType=Prs	5	obl	_	_
+6	aseβe	ase	PRON	pro	Case=Dat|PronType=Prs	5	obl	_	_
 7	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 10
@@ -2427,7 +2427,7 @@
 # text = Aβape opɨta aʔepe ?
 # text_eng = Who remained there?   Book 3 chap 11
 # text_por = 
-1	Aβape	aβa	PRON	pro	PronType=Int	2	obl	_	_
+1	Aβape	aβa	NOUN	n	Int=Yes	2	obl	_	_
 2	opɨta	pɨta	VERB	v	Person=3	0	root	_	_
 3	aʔepe	aʔe	DET	dem	Case=Loc	2	obl	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
@@ -3122,7 +3122,7 @@
 5	kwejβo	kwejβo	ADV	adv	_	3	advmod	_	_
 6	neremimoawje	awje	NOUN	n	Nomzr=DevPass|Person[psor]=2|Rel=NCont|Voice=Cau	3	obj	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
-8	Aβape	aβa	PRON	punct	Int=Yes	9	obj	_	_
+8	Aβape	aβa	NOUN	n	Int=Yes	9	obj	_	_
 9	eremoangajpa	angajpaβ	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	_	_
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
@@ -3468,7 +3468,7 @@
 # text_eng = (Teatro, 169, p. 18)
 # text_por = Quem e ele?
 1-2	Aβapaʔe	_	_	_	_	_	_	_	_
-1	Aβape	aβape	PRON	pron	PronType=Int	0	root	_	_
+1	Aβape	aβa	NOUN	n	Int=Yes	0	root	_	_
 2	aʔe	aʔe	PRON	dem	_	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -4146,7 +4146,7 @@
 # text = Aβape ne ?
 # text_eng = Who are you? (Teatro, 28)
 # text_por = Quem e você?
-1	Aβape	aβa	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
+1	Aβape	aβa	NOUN	n	Int=Yes	0	root	_	_
 2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -4575,7 +4575,7 @@
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
 2	nerejemimi	mim	VERB	v	Number=Sing|Person[subj]=2|Polarity=Neg|Reflex=Yes	0	root	_	_
 3	?	?	PUNCT	punct	_	2	punct	_	_
-4	Ereipotape	Ereipota	VERB	v	Int=Yes|Number=Sing|Person[obj]=3|Person[subj]=2	2	parataxis	_	_
+4	Ereipotape	potar	VERB	v	Int=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	2	parataxis	_	_
 5	neʔu	neʔu	NOUN	n	Number=Sing|Person[psor]=2	4	obl	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -5196,7 +5196,7 @@
 # text = Ene ae erejekoa ʃeroka poβupota .
 # text_eng = (teatro, 44) 
 # text_por = Tu mesmo es causa de teu dano querendo revirar minha casa.
-1	Ene	Ene	PRON	pron	PronType=Prs	3	obl:subj	_	_
+1	Ene	ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	obl:subj	_	_
 2	ae	ae	PART	prcl	_	1	discourse	_	_
 3	erejekoa	erejekoa	VERB	v	Number=Sing|Person=2|Reflex=Yes	0	root	_	_
 4	ʃeroka	ok	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	5	obj	_	_
@@ -5248,7 +5248,7 @@
 # text = Ene , rõ , kururuasɨka ! Erĩ , sarigweja e !
 # text_eng = (Teatro, 44)
 # text_por = Eia, pois, sapo maneta! Irra, gamba!
-1	Ene	Ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
+1	Ene	ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
 3	rõ	rõ	PART	prcl	_	5	discourse	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -5303,7 +5303,7 @@
 # text = Aβape ne ?
 # text_eng = Who are you? (Teatro, 46)
 # text_por = Quem e você? 
-1	Aβape	aβa	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
+1	Aβape	aβa	NOUN	n	Int=Yes	0	root	_	_
 2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -5372,7 +5372,7 @@
 1	Akai	Akai	INTJ	intj	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 3	Teumẽ	teumẽ	PART	prcl	Mood=Imp|Polarity=Neg	4	discourse	_	_
-4	ʃerapɨaβo	apɨ	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+4	ʃerapɨaβo	apɨ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = 0044.156
@@ -6205,7 +6205,7 @@
 12	neroβa	oβa	NOUN	n	Number=Sing|Person=2|Rel=Cont	13	obj	_	_
 13	repiakaʔupa	epiakaʔuβ	VERB	v	Rel=Cont|VerbForm=Ger	10	advcl	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
-15	nerapekoβo	apeko	VERB	v	Number=Sing|Person=2|Rel=Cont	10	advcl	_	_
+15	nerapekoβo	apeko	VERB	v	Number=Sing|Person=2|Rel=Cont|VerbForm=Ger	10	advcl	_	_
 16	,	,	PUNCT	punct	_	10	punct	_	_
 17	nesunesupa	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	10	advcl	_	_
 18	,	,	PUNCT	punct	_	10	punct	_	_
@@ -6486,7 +6486,7 @@
 6	iko	iko	DET	dem	_	7	det	_	_
 7	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	8	obl:obj	_	_
 8	ajmono	mono	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
-9	eneβe	ene	PRON	pron	Case=Dat|PronType=Prs	8	obl	_	_
+9	eneβe	ene	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
 10	,	,	PUNCT	punct	_	11	punct	_	_
 11	Sr	senhor	NOUN	n	_	9	appos	_	_
 12	Pedro	Pedro	PROPN	propn	_	11	compound	_	_
@@ -6555,7 +6555,7 @@
 # text_por = O quê queres realmente fazer ?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejkopotarete	_	_	_	_	_	_	_	_
-2	erejko	iko	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=2	3	xcomp	_	_
+2	erejko	iko	VERB	v	Number=Sing|Person[subj]=2	3	xcomp	_	_
 3	potarete	potar	VERB	v	Intens=Yes	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -6869,7 +6869,7 @@
 # text = ʃeatuaj turi
 # text_eng = (AA, 41v)
 # text_por = Veio detras de mim.
-1	ʃeatuaj	atuaj	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	obl	_	_
+1	ʃeatuaj	atua	NOUN	n	Case=Loc|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
 2	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 # sent_id = 0033.413
@@ -6883,7 +6883,7 @@
 # text = ʃeatuaj βe turi
 # text_eng = (AA, 41v)
 # text_por = Veio logo detras de mim.
-1	ʃeatuaj	_	NOUN	n	Case=Loc|Number[psor]=Sing|Person[subj]=1	3	obl	_	_
+1	ʃeatuaj	atua	NOUN	n	Case=Loc|Number[psor]=Sing|Person[subj]=1	3	obl	_	_
 2	βe	βe	ADV	_	_	1	advmod	_	_
 3	turi	ur	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
