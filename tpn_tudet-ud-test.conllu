@@ -916,7 +916,7 @@
 # text_eng = What do we sa, when we talk to the guard angel? (Araujo, Book 1 chapt. 4, 23v)
 # text_por = 
 1	Marã	marã	PRON	pro	_	2	obj	_	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	_	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	_	_
 3	ase	ase	PRON	pro	PronType=Prs	4	nmod	_	_
 4	karaiβeβe	karaiβeβe	NOUN	n	_	6	obj	_	_
 5	oarõana	arõan	NOUN	n	Case=Ref|Reflex=Yes	4	appos	_	_
@@ -1412,7 +1412,7 @@
 # text_eng = How (what) did Pilatos say to the jews? book 3 chap 8
 # text_por = 
 1	Marã	marã	ADV	adv	_	2	advmod	_	_
-2	eʔipe	ʔi	VERB	vt	Person=3	0	root	_	_
+2	eʔipe	ʔi	VERB	vt	Int=Yes|Person=3	0	root	_	_
 3	Pilatos	Pilatos	PROPN	propn	_	2	nsubj	_	_
 4	judeus	judeu	NOUN	n	_	2	obl	_	_
 5	supe	supe	ADP	posp	Rel=Cont	4	case	_	_
@@ -1687,7 +1687,7 @@
 # text_eng = What did our lord tell them? book 3 chap 9
 # text_por = 
 1	Marã	marã	PRON	pro	PronType=Int	2	obj	_	_
-2	eʔipe	ʔi	VERB	vt	Person=3	0	root	_	gloss_port=say-Q
+2	eʔipe	ʔi	VERB	vt	Int=Yes|Person=3	0	root	_	gloss_port=say-Q
 3	janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	_	_
 4	iʃupe	supe	ADP	posp	Rel=NCont	2	obl	_	_
 5	?	?	PUNCT	punct	_	2	punct	_	_
@@ -2008,7 +2008,7 @@
 # text_por = 
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
 2	mona	mona	NOUN	n	Case=Ref	0	root	_	_
-3	iʔekatwaβa	ʔekatwaβa	NOUN	n	Rel=NCont	5	obl	_	_
+3	iʔekatwaβa	ʔekatwaβ	NOUN	n	Case=Ref|Rel=NCont	5	obl	_	_
 4	kotɨ	kotɨ	ADP	posp	_	3	case	_	_
 5	amõ	amõ	PRON	pro	PronType=Ind	2	appos	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
@@ -2258,7 +2258,7 @@
 # text_eng = What did he say after that?   Book 3 chap 10
 # text_por = 
 1	Marã	marã	ADV	pron	Int=Yes	2	advmod	_	_
-2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	_	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	_	_
 3	aʔe	aʔe	DET	dem	_	2	obl	_	_
 4	rire	rire	ADP	posp	_	3	case	_	_
 5	?	?	PUNCT	punct	_	2	punct	_	_
@@ -2541,7 +2541,7 @@
 # text_por = 
 1	maʔe	maʔe	NOUN	n	_	3	obl	_	_
 2	resepe	ese	ADP	posp	Int=Yes|Rel=Cont	1	case	_	_
-3	iʃow	_	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+3	iʃow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 103
@@ -2603,7 +2603,7 @@
 # text_por = 
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
 2	sekow	_	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
-3	ipupe	pupe	ADP	posp	Rel=Cont	4	case	_	_
+3	ipupe	pupe	ADP	posp	Rel=NCont	4	case	_	_
 4	imoneβ	moneβ	NOUN	n	Rel=NCont	7	advcl	_	_
 5	ire	rire	ADP	posp	_	4	case	_	_
 6	iʃui	swi	ADP	posp	Rel=NCont	7	case	_	_
@@ -2727,7 +2727,7 @@
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	ʃereko	eko	NOUN	n	Number=Sing|Person=1|Rel=Cont	13	obl	_	_
 12	rupi	upi	ADP	posp	Rel=Cont	11	case	_	_
-13	imoingoβo	moingo	VERB	vt	Rel=NCont|VerbForm=Ger	6	advcl	_	_
+13	imoingoβo	moingo	VERB	vt	Rel=NCont|VerbForm=Ger|Voice=Cau	6	advcl	_	_
 
 # sent_id = 5003
 # text = Kwe swi aso mamõ , amõ taβa rapekoβo
@@ -5747,7 +5747,7 @@
 # text = Erekepe , Wajʃara ? Nerejuri ʃerepɨka ?
 # text_eng = (Teatro, 52)
 # text_por = Dormes, Guaixara? Não vens para me vingar?
-1	Erekepe	Ereke	VERB	v	Int=Yes|Number[subj]=Sing|Person[subj]=2	0	root	_	_
+1	Erekepe	ker	VERB	v	Int=Yes|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Wajʃara	wajʃara	PROPN	propn	_	1	vocative	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
