@@ -5490,7 +5490,7 @@
 4	βe	βe	ADV	adv	_	10	advmod	_	_
 5	,	,	PUNCT	punct	_	10	punct	_	_
 6	kawĩ	kawĩ	NOUN	adv	_	7	nmod	_	_
-7	repɨrama	epɨram	NOUN	n	Case=Ref|Voice=Com	10	obl	_	_
+7	repɨrama	epɨram	NOUN	n	Case=Ref|Voice=SCau	10	obl	_	_
 8	ri	ri	PART	prcl	_	7	case	_	_
 9	,	,	PUNCT	punct	_	10	punct	_	_
 10	ajmeʔeŋ	meʔeŋ	VERB	vi	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
@@ -5989,7 +5989,7 @@
 3	ajurujuβa	ajuruiuβ	NOUN	n	Case=Ref	1	appos	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	mokaβa	mokaβ	NOUN	n	Case=Ref	6	obj	_	_
-6	oweru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+6	oweru	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
 7	tejẽ	tejẽ	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 0044.200
@@ -6211,7 +6211,7 @@
 17	nesunesupa	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	10	advcl	_	_
 18	,	,	PUNCT	punct	_	10	punct	_	_
 19	oreɨβɨjme	_	NOUN	n	Case=Loc|Clusivity=Ex|Number=Plur|Person=1	20	obl	_	_
-20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=Com	10	advcl	_	_
+20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=SCau	10	advcl	_	_
 21	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0099.05
@@ -6249,7 +6249,7 @@
 17	nesunesupa	suβ	VERB	v	Aspect=Iter|Number=Sing|Person=2|VerbForm=Ger	10	advcl	_	_
 18	,	,	PUNCT	punct	_	10	punct	_	_
 19	oreɨβɨjme	ɨβɨjme	NOUN	n	Case=Loc	20	obl	_	_
-20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=Com	10	obl	_	_
+20	nererupa	_	NOUN	n	Number=Sing|Person=2|VerbForm=Ger|Voice=SCau	10	obl	_	_
 21	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0099.07
@@ -6617,7 +6617,7 @@
 1	iko	ko	DET	dem	_	3	nsubj	_	_
 2	βe	βe	ADV	adv	_	3	advmod	_	_
 3	orojko	jko	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
-4	renosema	enosem	NOUN	n	Case=Ref|Voice=Com	5	obj	_	_
+4	renosema	enosem	NOUN	n	Case=Ref|Voice=SCau	5	obj	_	_
 5	mota	potar	VERB	vt	VerbForm=Ger	3	advcl	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	sñor	sñor	PROPN	pro	_	8	compound	_	_
@@ -6761,7 +6761,7 @@
 5	peʔẽme	peʔẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	obl	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	moranuβa	poranuβ	NOUN	n	Case=Ref	8	obj	_	_
-8	rerasoβo	eraso	VERB	v	Rel=Cont|VerbForm=Ger|Voice=Com	4	advcl	_	_
+8	rerasoβo	eraso	VERB	v	Rel=Cont|VerbForm=Ger|Voice=SCau	4	advcl	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	tomomβeʔu	momβeʔu	VERB	vt	Mood=Per|Person[subj]=3|Voice=Cau	4	parataxis	_	_
 11	ke	ke	PART	n	_	10	discourse	_	_
@@ -6960,7 +6960,7 @@
 # text = Arojeβɨr aoβa
 # text_eng = (AA, 48)
 # text_por = Volto a fazer roupa
-1	Arojeβɨr	erojeβɨr	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Com	0	root	_	_
+1	Arojeβɨr	erojeβɨr	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=SCau	0	root	_	_
 2	aoβa	aoβ	NOUN	_	Case=Ref	1	obj	_	_
 
 # sent_id = 0033.49
