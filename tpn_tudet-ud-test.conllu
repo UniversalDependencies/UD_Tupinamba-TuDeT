@@ -87,7 +87,7 @@
 36	pe	pe	NOUN	n	_	37	nmod	_	_
 37	jaramo	jar	NOUN	n	Case=Tra	34	obl	_	_
 38	iʃupe	supe	ADP	posp	Rel=NCont	34	obl	_	_
-39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+39	ogueru	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
 40	jetanongaβamo	jetanoŋ	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
 41	itajuβa	itajuβ	NOUN	n	Case=Ref	39	obj	_	_
 42	,	,	PUNCT	punct	_	41	punct	_	_
@@ -178,7 +178,7 @@
 11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
 12	omemɨra	omemɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	_	_
 13	Iesus	Iesus	PROPN	propn	_	12	appos	_	_
-14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=SCau	0	root	_	_
 15	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
 16	okɨpe	ok	NOUN	n	_	14	obl	_	_
 17	,	,	PUNCT	punct	_	14	punct	_	_
@@ -196,7 +196,7 @@
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
 2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	_	_
 3	iʃɨ	sɨ	NOUN	n	Number[psor]=Sing|Person[psor]=1|Rel=NCont	4	obl	_	_
-4	oweraso	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+4	oweraso	so	VERB	v	Person=3|Voice=SCau	0	root	_	_
 5	jetanongaβamo	jetanoŋ	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	_	_
 
 # sent_id = 101010101010
@@ -1238,7 +1238,7 @@
 # text = Oweraso amõ okusupe , serojkjaβo , aʔepe maranaritekoaratã reʔɨjanga sese
 # text_eng = They took him to a certain palace, gathering there strong soldiers because of him book 3 chap 8
 # text_por = 
-1	Oweraso	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+1	Oweraso	so	VERB	v	Person=3|Voice=SCau	0	root	_	_
 2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
 3	okusupe	ok	NOUN	n	Case=All	1	obl	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
@@ -1367,7 +1367,7 @@
 # text_por = 
 1	Mamõpe	mamõ	ADV	adv	Int=Yes	3	obl	_	_
 2	Pilatos	Pilatos	PROPN	propn	_	3	nsubj	_	_
-3	senosemi	sem	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+3	senosemi	sem	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=SCau	0	root	_	_
 4	aʔereme	aʔereme	ADV	_	_	3	advmod	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -1391,7 +1391,7 @@
 # text_por = 
 1	Marãeteʔĩpe	Marã	ADV	adv	_	0	root	_	_
 2	Jesus	Jesus	PROPN	propn	_	1	nsubj	_	_
-3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=Com	2	obl	_	_
+3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=SCau	2	obl	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 2347
@@ -1402,7 +1402,7 @@
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ju	ju	NOUN	n	_	1	conj	_	_
 4	aβe	aβe	ADV	adv	_	3	cc	_	_
-5	owerur	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+5	owerur	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
 6	ojoese	_	ADP	posp	Reflex=Yes	5	obl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	oporeawsuβetekaturamo	poreawsuβ	NOUN	n	Case=Tra|Intens=Yes|Reflex=Yes	5	obl	_	_
@@ -1424,10 +1424,11 @@
 # text_por = 
 1	iko	ikó	DET	dem	_	2	nmod	_	_
 2	aβa	aβa	PRON	pro	PronType=Int	3	obj	_	_
-3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=Com	0	root	_	_
+3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=SCau	0	root	_	_
 4	ike	ike	ADV	adv	_	3	obl	_	_
 5	okarɨpe	okar	NOUN	n	Case=All	4	appos	_	_
-6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	3	advcl	_	_
+6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau
+3	advcl	_	_
 7	,	,	PUNCT	punct	_	3	punct	_	_
 8	tapejkwaβ	kwaβ	VERB	vt	Mood=Per|Number=Plur|Person[obj]=3|Person[subj]=2	3	parataxis	_	_
 9	sekopwera	eko	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	_	_
@@ -2470,7 +2471,7 @@
 10	retɨmã	etɨmã	NOUN	n	Rel=Cont	11	obj	_	_
 11	mopena	_	VERB	v	VerbForm=Ger|Voice=Cau	1	advcl	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	serojɨpa	erojɨβ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	1	advcl	_	_
+13	serojɨpa	erojɨβ	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau	1	advcl	_	_
 
 # sent_id = 98
 # text = aʔepe janejara reʔõmwera marã serekow ?
@@ -2627,7 +2628,7 @@
 1	Ojaseʔõereko	jaseʔõereko	NOUN	n	Person=3	4	obl	_	_
 2	aβe	aβe	ADV	adv	_	4	advmod	_	_
 3	serã	serã	PART	pcl	_	4	discourse	_	_
-4	oweraso	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+4	oweraso	so	VERB	v	Person=3|Voice=SCau	0	root	_	_
 5	ogokɨpe	ok	NOUN	n	Case=Loc|Person=3|Reflex=Yes	4	obl	_	_
 6	?	?	PUNCT	punct	_	4	punct	_	_
 
@@ -2705,7 +2706,7 @@
 # text_por = 
 1	Aβa	aβa	NOUN	n	_	3	obl	_	_
 2	serã	serã	PART	pcl	_	3	discourse	_	_
-3	oweru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+3	oweru	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	ʃeretama	etam	NOUN	n	Number=Sing|Person=1|Rel=Cont	6	obj	_	_
 6	momoʃɨaβo	poʃɨ	VERB	v	VerbForm=Ger|Voice=Cau	3	advcl	_	_
@@ -3039,7 +3040,7 @@
 8	ʃesow	so	NOUN	n	NonFoc=Yes|Number=Sing|Person[psor]=1	0	root	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	janeβoja	βoja	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1	11	obj	_	_
-11	rerosupa	suβ	VERB	v	VerbForm=Ger|Voice=Com	8	advcl	_	_
+11	rerosupa	suβ	VERB	v	VerbForm=Ger|Voice=SCau	8	advcl	_	_
 12	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 564333456565
@@ -3165,7 +3166,7 @@
 # text_eng =        (Teatro, 110, p. 14)
 # text_por = Por os levarem os padres, não os amo, fugiram, visitando os tupis14 na minha morada.
 1	Aβare	aβare	NOUN	n	_	2	nmod	_	_
-2	owerasoape	so	NOUN	n	Case=Loc|Corf=Yes|Nomzr=Circ|Voice=Com	4	obl	_	_
+2	owerasoape	so	NOUN	n	Case=Loc|Corf=Yes|Nomzr=Circ|Voice=SCau	4	obl	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
 4	nasawsuβi	awsuβ	VERB	v	Person[obj]=3|Person[subj]=3|Polarity=Neg	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
@@ -3191,7 +3192,7 @@
 8	aʔuβi	aʔuβ	NOUN	n	NonFoc=Yes|Rel=Cont	7	nmod	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
 10	ike	ike	ADV	posp	_	11	advmod	_	_
-11	serupota	potar	VERB	v	Rel=NCont|Voice=Com	7	advcl	_	_
+11	serupota	potar	VERB	v	Rel=NCont|Voice=SCau	7	advcl	_	_
 12	jẽ	jẽ	PART	prcl	_	11	discourse	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	_
 
@@ -3852,7 +3853,7 @@
 # text = taraso ko ɨgaporaja ;
 # text_eng = (Teatro, 24)
 # text_por = Hei de levar esta vasilha
-1	taraso	eraso	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Voice=Com	0	root	_	_
+1	taraso	eraso	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Voice=SCau	0	root	_	_
 2	ko	ko	DET	dem	_	3	det	_	_
 3	ɨgaporaja	ɨgaporaj	NOUN	n	Case=Ref	1	obj	_	_
 4	;	;	PUNCT	punct	_	1	punct	_	_
@@ -4690,7 +4691,7 @@
 4	meme	meme	ADV	adv	_	3	advmod	_	_
 5	iʃupe	supe	ADP	posp	Rel=NCont	3	obl	_	_
 6	,	,	PUNCT	punct	_	3	punct	_	_
-7	senojena	enojen	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Com	3	advcl	_	_
+7	senojena	enojen	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau	3	advcl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	iakakapa	akakap	NOUN	n	Aspect=Iter|Rel=NCont|VerbForm=Ger	3	advcl	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
@@ -4981,7 +4982,7 @@
 2	jepe	jepe	SCONJ	pron	_	1	mark	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	teʔõ	teʔõ	NOUN	adv	Rel=Hum	5	obj	_	_
-5	reroβɨka	eroβɨk	NOUN	n	Rel=Cont|VerbForm=Ger|Voice=Com	10	advcl	_	_
+5	reroβɨka	eroβɨk	NOUN	n	Rel=Cont|VerbForm=Ger|Voice=SCau	10	advcl	_	_
 6	e	e	PART	prcl	_	5	discourse	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8-9	ʃeangaipatuβiʃawera	_	_	_	_	_	_	_	_
@@ -5064,7 +5065,7 @@
 7	,	,	PUNCT	punct	_	10	punct	_	_
 8	nepo	po	NOUN	adv	Number=Sing|Person[psor]=2	10	obl	_	_
 9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
-10	anosene	anose	VERB	v	Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	3	parataxis	_	_
+10	anosene	anose	VERB	v	Number=Sing|Person[subj]=1|Tense=Fut|Voice=SCau	3	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = 0044.128
@@ -5076,9 +5077,9 @@
 3	ɨβɨtu	_	NOUN	n	_	1	obl	_	_
 4	ja	ja	ADP	posp	_	3	case	_	_
 5	;	;	PUNCT	punct	_	1	punct	_	_
-6	anojan	anojan	NOUN	n	Number=Sing|Person=1|Voice=Com	1	parataxis	_	_
+6	anojan	anojan	NOUN	n	Number=Sing|Person=1|Voice=SCau	1	parataxis	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
-8	aroβeβene	aroβeβe	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=Com	1	parataxis	_	_
+8	aroβeβene	aroβeβe	VERB	v	Number=Sing|Person=1|Tense=Fut|Voice=SCau	1	parataxis	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0044.130
@@ -5087,7 +5088,7 @@
 # text_por = Aimbirê, levemos os malditos, logo, para alegrar os que ficaram em nossa casa 
 1	Aimire	Aimire	PROPN	propn	_	3	vocative	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	jaraso	so	VERB	v	Clusivity=In|Number=Plur|Person=1|Rel=NCont|Voice=Com	0	root	_	_
+3	jaraso	so	VERB	v	Clusivity=In|Number=Plur|Person=1|Rel=NCont|Voice=SCau	0	root	_	_
 4	muru	muru	NOUN	n	_	3	obj	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	tawje	tawje	ADV	adv	_	3	advmod	_	_
@@ -5379,7 +5380,7 @@
 # text = tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa .
 # text_eng = (Teatro, 46)
 # text_por = Hei de dar ovas de peixe para ti, retribuindo
-1	tameʔẽne	meʔeŋ	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	0	root	_	_
+1	tameʔẽne	meʔeŋ	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut|Voice=SCau	0	root	_	_
 2	pira	pira	NOUN	n	_	3	nmod	_	_
 3	ruβa	uβ	NOUN	n	Rel=Cont	1	nmod	_	_
 4	eneβo	ene	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -5439,7 +5440,7 @@
 # text = Ererureta serã ?
 # text_eng = (Teatro, 46)
 # text_por = Acaso trouxeste muitas coisas?
-1	Ererureta	Ererur	VERB	v	Intens=Yes|Number[subj]=Sing|Person[subj]=2|Voice=Com	0	root	_	_
+1	Ererureta	Ererur	VERB	v	Intens=Yes|Number[subj]=Sing|Person[subj]=2|Voice=SCau	0	root	_	_
 2	serã	serã	ADV	adv	_	1	advmod	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
@@ -5464,7 +5465,7 @@
 4	,	,	PUNCT	punct	_	7	punct	_	_
 5	ʃepope	po	NOUN	n	Case=Loc|Number[psor]=Sing|Person[psor]=1	7	obl	_	_
 6	jõte	jõte	PART	prcl	_	7	advmod	_	_
-7	araso	raso	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Com	0	root	_	_
+7	araso	raso	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=SCau	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0044.164
@@ -5506,7 +5507,7 @@
 3	e	e	PART	pcl	_	2	discourse	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	opakatu	opaβ	PRON	propn	Intens=Yes|PronType=Tot	6	obj	_	_
-6	amoapɨ	amoapɨ	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Cau	0	root	_	_
+6	amoapɨ	amoapɨ	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=SCau	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.167
@@ -5652,10 +5653,10 @@
 # text_por = Fiz entrar os malditos nas armadilhas, as mulheres matei por matar, nas moradas delas
 1	Kotɨpe	kotɨpe	NOUN	n	Case=Loc	3	obl	_	_
 2	muru	muru	NOUN	n	_	3	obj	_	_
-3	amoiŋe	ike	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=Cau	0	root	_	_
+3	amoiŋe	ike	VERB	v	Number[subj]=Sing|Person[subj]=1|Voice=SCau	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	kujã	kujã	PART	prcl	_	6	obj	_	_
-6	ajukaʔĩ	ajuka	VERB	v	Aspect=Lus|Number[subj]=Sing|Person[subj]=1|Voice=Cau	3	parataxis	_	_
+6	ajukaʔĩ	ajuka	VERB	v	Aspect=Lus|Number[subj]=Sing|Person[subj]=1|Voice=SCau	3	parataxis	_	_
 7	sekoape	ekoaβ	NOUN	n	Case=Loc|Nomzr=Circ|Rel=NCont	6	obl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
@@ -5852,7 +5853,7 @@
 13	raroanamo	aroan	NOUN	n	Case=Tra|Rel=Cont	16	obl	_	_
 14	jẽ	jẽ	PART	prcl	_	16	discourse	_	_
 15	janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number[psor]=Plur|Person[psor]=1	16	nsubj	_	_
-16	ʃemoiŋow	moiko	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person=1|Voice=Cau	11	parataxis	_	_
+16	ʃemoiŋow	moiko	NOUN	n	NonFoc=Yes|Number[psor]=Sing|Person=1|Voice=SCau	11	parataxis	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
 
 # sent_id = 0044.193
@@ -5865,7 +5866,7 @@
 4-5	karaiβeβe	_	_	_	_	_	_	_	_
 4	karai	karaiβ	NOUN	n	_	6	obj	_	_
 5	βeβe	βeβe	VERB	v	_	4	nmod	_	_
-6	moiŋow	iko	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
+6	moiŋow	iko	NOUN	n	NonFoc=Yes|Voice=SCau	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0044.194
@@ -5873,14 +5874,14 @@
 # text_eng = (Teatro, 52)
 # text_por = Ele vos encoraja; ele, esses vossos inimigos, de vossas almas enxota-os.
 1	aʔe	aʔe	DET	dem	_	2	nsubj	_	_
-2	pemopɨatã	pemopɨ	VERB	n	Number[subj]=Plur|Person[subj]=2|Voice=Cau	0	root	_	_
+2	pemopɨatã	pemopɨ	VERB	n	Number[subj]=Plur|Person[subj]=2|Voice=SCau	0	root	_	_
 3	;	;	PUNCT	punct	_	2	punct	_	_
 4	aʔe	aʔe	DET	dem	_	9	dislocated	_	_
 5	ko	ko	DET	dem	_	6	det	_	_
 6	pesumarã	sumarã	NOUN	n	Number[psor]=Plur|Person[psor]=2	9	obj	_	_
 7	peʔanga	ʔaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	9	obl	_	_
 8	swi	swi	ADP	posp	_	7	case	_	_
-9	imonow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Cau	2	parataxis	_	_
+9	imonow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=SCau	2	parataxis	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0044.195
@@ -5908,7 +5909,7 @@
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	peẽte	peete	VERB	vt	Foc=Yes|Mood=Imp|Number=Sing|Person=2	21	dislocated	_	_
 20	,	,	PUNCT	punct	_	21	punct	_	_
-21	pemopuʔama	mopuʔama	VERB	n	Number=Sing|Person=2|Voice=Cau	16	advcl	_	_
+21	pemopuʔama	mopuʔama	VERB	n	Number=Sing|Person=2|Voice=SCau	16	advcl	_	_
 22	.	.	PUNCT	punct	_	21	punct	_	_
 
 # sent_id = 0044.196
@@ -6024,9 +6025,9 @@
 10	koʔarapukuj	koʔarapukuj	ADV	adv	_	11	advmod	_	_
 11	ipokoka	pokoka	VERB	v	Rel=NCont|VerbForm=Ger	8	parataxis	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	imoaɨsoβo	moaɨsoβo	VERB	v	Rel=NCont|VerbForm=Ger|Voice=Cau	11	parataxis	_	_
+13	imoaɨsoβo	moaɨsoβo	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau	11	parataxis	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
-15	imomoranga	momoraŋ	VERB	n	Rel=NCont|VerbForm=Ger|Voice=Cau	13	parataxis	_	_
+15	imomoranga	momoraŋ	VERB	n	Rel=NCont|VerbForm=Ger|Voice=SCau	13	parataxis	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
 17	tekopwera	eko	NOUN	n	Case=Ref|Rel=Abs|Tense=Past	18	obj	_	_
 18	rekoaβoka	ekoaβok	VERB	v	Rel=Cont|VerbForm=Ger	15	parataxis	_	_
