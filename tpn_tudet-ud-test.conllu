@@ -1427,8 +1427,7 @@
 3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=SCau	0	root	_	_
 4	ike	ike	ADV	adv	_	3	obl	_	_
 5	okarɨpe	okar	NOUN	n	Case=All	4	appos	_	_
-6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau
-3	advcl	_	_
+6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau 3	advcl	_	_
 7	,	,	PUNCT	punct	_	3	punct	_	_
 8	tapejkwaβ	kwaβ	VERB	vt	Mood=Per|Number=Plur|Person[obj]=3|Person[subj]=2	3	parataxis	_	_
 9	sekopwera	eko	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	_	_
