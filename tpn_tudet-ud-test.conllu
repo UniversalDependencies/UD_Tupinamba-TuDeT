@@ -970,7 +970,7 @@
 # text_eng = The death of our lord JC book 3-1
 # text_por =  
 1	Janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	3	nmod	_	_
-2	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
+2	JesusCristo	JesusCristo	PROPN	pn	_	1	appos	_	_
 3	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
 
 # sent_id = 619736
@@ -1046,19 +1046,19 @@
 6	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 14
-# text = Ojpotakatu , Sese omaʔenwaramo e ase Tupã rawsuβi opɨʔape seko aβɨpotareʔɨma
+# text = Ojpotakatu , sese omaʔenwaramo e ase Tupã rawsuβi opɨʔape seko aβɨpotareʔɨma
 # text_eng = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
 # text_por = 
 1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	Sese	ese	ADP	posp	Rel=NCont	4	case	_	_
+3	sese	ese	ADP	posp	Rel=NCont	4	case	_	_
 4	omaʔenwaramo	maʔenwar	NOUN	n	Case=Tra|Reflex=Yes	8	xcomp	_	_
 5	e	e	PART	pcl	_	4	discourse	_	_
 6	ase	ase	PRON	pro	PronType=Prs	8	nmod	_	_
 7	Tupã	Tupã	NOUN	n	_	8	nmod	_	_
 8	rawsuβi	awsuβ	NOUN	n	Rel=Cont	1	parataxis	_	_
 9	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	8	obl	_	_
-10	seko	eko	NOUN	n	Rel=NCont	12	nmod	_	_
+10	seko	eko	NOUN	n	Rel=NCont	11	nmod	_	_
 11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	_	_	_	_
 
 # sent_id = 16
