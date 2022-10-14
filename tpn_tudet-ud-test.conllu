@@ -6372,7 +6372,7 @@
 
 # sent_id = 0055.1
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
-# text_eng = Camarão leter 1,1
+# text_eng = Camarão leter 5,1
 # text_por = Nuestro Señor te de una buena vida 
 1	Janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	5	obl:subj	_	_
 2	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
@@ -6384,7 +6384,7 @@
 
 # sent_id = 0055.2
 # text = Ikó ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
-# text_eng = Camarão leter 1,2
+# text_eng = Camarão leter 5,2
 # text_por = Antes que vejas esta carta, eis que estou muito feliz, preguntando pelo bem-estar e vocês, eu tambem não estando mal. , en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
 1	iko	ikó	DET	_	_	2	det	_	_
 2	ʃepapera	_	NOUN	n	Case=Ref|Number=Sing|Person=1	4	obj	_	_
@@ -6416,7 +6416,7 @@
 
 # sent_id = 0055.3
 # text = Maʔe mojaŋawama rese , ajmono ʔã ʃesoldados eβapo nerape ɨpɨ ,  pesema rese kwãj awa mosema repjaka wiʔjaβo .
-# text_eng = Camarão leter 1,3
+# text_eng = Camarão leter 5,3
 # text_por = Para hacer las cosas, envie a esos mis soldados alli, cerca de tus caminos, para la salida de ustedes, diciendoles "vayan a evacuar los altibajos".
 1	Maʔe	maʔe	NOUN	n	_	5	obl	_	_
 2	mojaŋawama	_	NOUN	n	_	1	nmod	_	_
@@ -6440,7 +6440,7 @@
 
 # sent_id = 0055.4
 # text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema ikó orojur peje isupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
-# text_eng = Camarão letter 1,4
+# text_eng = Camarão letter 5,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen alla algunos hombres o algunas mujeres para conversar. Diganle a ellos 'vinimos para salvarlos. Conversen con ellos primero. Despues de conversar, que los envien a ellos para que conozcan los altibajos pantanosos"
 1	Ajmono	mono	VERB	VERB	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
 2	Capitão	capitão	NOUN	NOUN	Foreign=Yes	3	compound	_	_
@@ -6476,7 +6476,7 @@
 
 # sent_id = 0055.5
 # text = Paʔi Tupã janejara remikuwaβamo , ikó ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
-# text_eng = Camarão letter 1,5
+# text_eng = Camarão letter 5,5
 # text_por = Como cosa sabida por nuestro Señor Dios, te envio estas mis palabras, señor Pedro Potĩ.
 1	Paʔi	paʔi	NOUN	n	_	2	compound	_	_
 2	Tupã	Tupã	PROPN	propn	_	3	compound	_	_
@@ -6495,7 +6495,7 @@
 
 # sent_id = 0055.6
 # text = Marãnamo ʃeʔã neanama retekatu ?
-# text_eng = Camarão letter 1,6
+# text_eng = Camarão letter 5,6
 # text_por = ¿Por que es que soy un genuino familiar tuyo?
 1	Marãnamo	Marãnamo	ADV	adv	_	4	advmod	_	_
 2	ʃeʔã	ise	PRON	pron	PronType=Prs	4	nsubj	_	_
@@ -6505,7 +6505,7 @@
 
 # sent_id = 0055.7
 # text = Ejor esema Ajaŋa rata nuŋara swi
-# text_eng = Camarões letter 1,7
+# text_eng = Camarões letter 5,7
 # text_por = Ven, sal de aquello que es como el fuego del Diablo.
 1	Ejor	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	esema	sem	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	advcl	_	_
@@ -6516,7 +6516,7 @@
 
 # sent_id = 0055.8
 # text = Ejkuwaβ christãoramo nereko .
-# text_eng = Camarões letter 1,8
+# text_eng = Camarões letter 5,8
 # text_por = ¿Sabias que eres cristiano?
 1	Ejkuwaβ	kuwaβ	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	christãoramo	christão	NOUN	n	Case=Tra	3	obl	_	_
@@ -6525,7 +6525,7 @@
 
 # sent_id = 0055.9
 # text = Marã erejmokajẽmotaretekatu christãoramo nereko ?
-# text_eng = Camarões letter 1,9
+# text_eng = Camarões letter 5,9
 # text_por = ¿Por que quieres perder definitivamente tu vida como cristiano?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejmokajẽmotaretekatu	_	_	_	_	_	_	_	_
@@ -6537,7 +6537,7 @@
 
 # sent_id = 0055.10
 # text = Marã erejmokajẽʔmotarete Paʔi Tupã raʔɨramo nereko ?
-# text_eng = Why do you wnat to loose your essence as son of the lord god? Camarões letter 1,10
+# text_eng = Why do you wnat to loose your essence as son of the lord god? Camarões letter 5,10
 # text_por = Por quê queres perder tua natureza de filho do senhor Deus?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejmokajẽʔmotarete	_	_	_	_	_	_	_	_
@@ -6551,7 +6551,7 @@
 
 # sent_id = 0055.11
 # text = Marã erejkopotarete ?
-# text_eng =  Camarões letter 1,11
+# text_eng =  Camarões letter 5,11
 # text_por = O quê queres realmente fazer ?
 1	Marã	marã	ADV	adv	_	3	advmod	_	_
 2-3	erejkopotarete	_	_	_	_	_	_	_	_
@@ -6561,7 +6561,7 @@
 
 # sent_id = 0055.12
 # text = Teko kuwaβeʔɨmamo , erejemokajẽmotaretekatu , ene ajẽ , ejkoβo
-# text_eng =  Camarões letter 1,12
+# text_eng =  Camarões letter 5,12
 # text_por = Sem saber os fatos, tu, na verdade, estas querendo muitissimo perder-te a ti mesmo.
 1	Teko	iko	NOUN	n	Rel=Hum	2	nmod	_	_
 2	kuwaβeʔɨmamo	kuwaβ	NOUN	n	Case=Tra|Priv=Yes	5	obl	_	_
@@ -6577,7 +6577,7 @@
 
 # sent_id = 0055.13
 # text = Moβɨ christãokajema eresepja ?
-# text_eng = How many lost christians have you seen? Camarões letter 1,13
+# text_eng = How many lost christians have you seen? Camarões letter 5,13
 # text_por = Quantos cristãos perdidos viste?
 1	Moβɨ	moβɨ	ADV	adv	_	2	advmod	_	_
 2-3	christãokajema	_	_	_	_	_	_	_	_
@@ -6588,7 +6588,7 @@
 
 # sent_id = 0055.14
 # text = Karaiβa naokajeβaʔeruã .
-# text_eng = Camarões letter 1,14
+# text_eng = Camarões letter 5,14
 # text_por = Os cristãos não se perdem.
 1	Karaiβa	karaiβa	NOUN	n	_	2	nsubj	_	_
 2	naokajeβaʔeruã	kaje	VERB	v	Nomzr=Rel|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
@@ -6596,7 +6596,7 @@
 
 # sent_id = 0055.15
 # text = Marãnamo christãoramo sekoreme , nikatui , Paʔi Tupã imokajema ?
-# text_eng = Camarões letter 1,15
+# text_eng = Camarões letter 5,15
 # text_por = Por que, sendo cristãos, não são bons, fazendo-os perder o Senhor Deus?
 1	Marãnamo	marãnamo	ADV	_	_	5	advmod	_	_
 2	christãoramo	christão	NOUN	n	Case=Tra	3	nmod	_	_
@@ -6611,7 +6611,7 @@
 
 # sent_id = 0055.16
 # text = Ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβisaβa jeʔeŋa rupi βe .
-# text_eng = Camarões letter 1,16 
+# text_eng = Camarões letter 5,16 
 # text_por = Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos 
 1	iko	ko	DET	dem	_	3	nsubj	_	_
 2	βe	βe	ADV	adv	_	3	advmod	_	_
@@ -6637,7 +6637,7 @@
 
 # sent_id = 0055.17
 # text = ʃeputupaβete ʔã witekoβo rese , oreswi jewasema repjaka .
-# text_eng = CAmarão letter 1,17
+# text_eng = CAmarão letter 5,17
 # text_por = Eis que eu estou muito admirado convosco, vendo-vos fugir de nos.
 1	ʃeputupaβete	putupaβ	NOUN	n	Intens=Yes|Number=Sing|Person=1	0	root	_	_
 2	ʔã	ʔã	PART	prcl	_	1	discourse	_	_
@@ -6651,7 +6651,7 @@
 
 # sent_id = 0055.18
 # text = Naanamaruãte ore ?
-# text_eng = Camarão letter 1,18
+# text_eng = Camarão letter 5,18
 # text_por = Não somos nos vossa familia
 1	Naanamaruãte	anam	VERB	vt	Foc=Yes|Polarity=Neg	0	root	_	_
 2	ore	re	PRON	v	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
@@ -6659,7 +6659,7 @@
 
 # sent_id = 0055.19
 # text = Maʔe rese oreamotareʔɨm jepe ?
-# Camarão letters 1,19
+# Camarão letters 5,19
 # text_eng =
 # text_por = por quê vos nos odiais?
 1	Maʔe	maʔe	NOUN	n	_	3	obl	_	_
@@ -6670,7 +6670,7 @@
 
 # sent_id = 0055.20
 # text = Ore noromojaŋi maʔeaʔiβa amõ peʔẽmo .
-# text_eng = Camarão letters 1,20
+# text_eng = Camarão letters 5,20
 # text_por = Nos não fizemos nada mau para vos.
 1	Ore	ore	PRON	pron	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	2	obl:obj	_	_
 2	noromojaŋi	Orenʔoromojaŋ	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1|Polarity=Neg	0	root	_	_
@@ -6683,7 +6683,7 @@
 
 # sent_id = 0055.21
 # text = Neʔĩ , ʔẽ najmojaŋi maʔeaʔiβa amõ oreβe .
-# text_eng = Camarão letters 1,21
+# text_eng = Camarão letters 5,21
 # text_por = Eia, vos não fizestes nada mau para nos.
 1	Neʔĩ	neʔĩ	INTJ	intj	_	4	discourse	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
@@ -6698,7 +6698,7 @@
 
 # sent_id = 0055.22
 # text = Emokwej capitãoMor papera sow eneβe .
-# text_eng = Camarão letters 1,22
+# text_eng = Camarão letters 5,22
 # text_por = Para ai tambem vai a ti a carta do Capitão-mor.
 1	Emokwej	Emokwej	NOUN	n	_	4	nmod	_	_
 2	capitãoMor	capitãomor	NOUN	n	_	3	nmod	_	_
@@ -6709,7 +6709,7 @@
 
 # sent_id = 0055.23
 # text = Emokwej Antonio Paraopeβa supe amõ kapitãoMor papera sow .
-# text_eng = Camarão letters 1,23
+# text_eng = Camarão letters 5,23
 # text_por = Para ai tambem vai outra carta do Capitão-mor para Antonio Paraopeba.
 1	Emokwej	Emokwej	ADV	adv	_	8	obl	_	_
 2	Antonio	Antonio	PROPN	propn	_	8	obl	_	_
@@ -6723,7 +6723,7 @@
 
 # sent_id = 0055.24
 # text = Paʔi Tupã temõ ojke pɨʔamo , christão we !
-# text_eng = Camarão letters 1,24
+# text_eng = Camarão letters 5,24
 # text_por = Oxala o Senhor Deus entrasse em vossos corações, o .cristãos
 1	Paʔi	paʔi	NOUN	n	_	4	nsubj	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	compound	_	_
@@ -6737,7 +6737,7 @@
 
 # sent_id = 0055.25
 # text = Aʔemo peseme orerorɨβetemo , pesememo , memẽ repjakamo .
-# text_eng = Camarão letters 1,25
+# text_eng = Camarão letters 5,25
 # text_por = E ficariamos muito felizes se saisseis, para vos ver sempre
 1	Aʔemo	aʔemo	PART	prcl	_	2	nmod	_	_
 2	peseme	sem	NOUN	n	Case=Loc|Number=Plur|Person=2	3	nmod	_	_
@@ -6751,7 +6751,7 @@
 
 # sent_id = 0055.26
 # text = Emokwej mokõj kujã ajmono peʔẽme , moranuβa rerasoβo , tomomβeʔu ke ʃereko eneβe .
-# text_eng = Camarão letters 1,26 
+# text_eng = Camarão letters 5,26 
 # text_por = Para ai tambem enviei duas mulheres a vos para levar noticias e para que contem a ti como aqui estou
 1	Emokwej	Emokwej	ADV	adv	_	4	advmod	_	_
 2	mokõj	mokõj	NUM	num	NumType=Card	3	nummod	_	_
@@ -6770,7 +6770,7 @@
 
 # sent_id = 0055.27
 # text = Ajpo jõ moranuβa sow .
-# text_eng = Camarão letters 1,27
+# text_eng = Camarão letters 5,27
 # text_por = Vão estas noticias somente.
 1	Ajpo	ajpo	DET	dem	_	3	det	_	_
 2	jõ	jõ	ADV	adv	_	4	advmod	_	_
@@ -6780,7 +6780,7 @@
 
 # sent_id = 0055.28
 # text = Peikoβekatu peikoβo .
-# text_eng = Camarão letters 1,28
+# text_eng = Camarão letters 5,28
 # text_por = Que estejais vivendo bem
 1	Peikoβekatu	ikoβe	VERB	n	Intens=Yes|Number=Plur|Person[subj]=2	0	root	_	_
 2	peikoβo	iko	AUX	v	Number=Plur|Person=2|VerbForm=Ger	1	aux	_	_
@@ -6788,7 +6788,7 @@
 
 # sent_id = 0055.29
 # text = Paʔi Tupã tojko irũnamo .
-# text_eng = Camarão letters 1,29
+# text_eng = Camarão letters 5,29
 # text_por = O Senhor Deus esteja convosco
 1	Paʔi	paʔi	NOUN	n	_	3	compound	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	compound	_	_
