@@ -6371,6 +6371,91 @@
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0055.1
+# text = Aimono βejẽ ʃejeʔeŋa opaβejẽ peẽβe , xeraʔɨreta . Perawsupa e , perekomojaŋaβa ajmono βejẽ peẽβe .
+# text_eng = (Camarão letters 1, 1 ) 
+# text_por = Envio minhas palavras novamente a todos vocês, meus filhos. Mando-lhes determinações novamente, por os amar de fato.
+1	Aimono	mono	VERB	vt	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	βejẽ	βejẽ	ADV	ADV	_	1	advmod	_	_
+3	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	1	obj	_	_
+4	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	_	_	_	_
+5	peẽβe	peẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	xeraʔɨreta	aʔɨr	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	vocative	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+9	Perawsupa	awsuβ	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont|VerbForm=Ger	14	xcomp	_	_
+10	e	e	PART	prcl	_	9	discourse	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12-13	perekomojaŋaβa	_	_	_	_	_	_	_	_
+12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
+13	mojaŋaβa	mojaŋ	NOUN	n	Case=ref|Nomzr=Abs	12	nmod	_	_
+14	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	1	parataxis	_	_
+15	βejẽ	βejẽ	ADV	ADV	adv	14	advmod	_	_
+16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	punct	_	14	punct	_	_
+# sent_id =
+# text = Marãnamo ?
+# text_eng = Why ? (Camarão letters 1, 2) 
+# text_por = Por quê?
+1	Marãnamo	marãnamo	ADV	adv	_	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0055.2
+# text = Opaβejẽ peruβeteramo witekoβo e , perekokatu kajema swi .
+# text_eng = (Camarão letters 1, 3) 
+# text_por = Por ser eu, na verdade, o pai verdadeiro de todos, para que vocês não percam sua salvação.
+1	Opaβejẽ	opaβejẽ	PRON	pron	_	2	nmod	_	_
+2	peruβeteramo	uβ	NOUN	n	Case=Trans|Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	3	obl	_	_
+3	witekoβo	iko	VERB	v	Corf=Yes|Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+4	e	e	PART	prcl	_	3	discourse	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6-7	perekokatu	_	_	_	_	_	_	_	_
+6	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	8	nmod	_	_
+7	katu	katu	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	6	nmod	_	_
+8	kajema	kajem	NOUN	n	Case=Ref	3	xcomp	_	_
+9	swi	swi	ADP	posp	_	8	obl	_	_
+10	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0055.3
+# text = Nikatui jẽ ko janeretama pupe jẽ ; pereko pupe pekajemetekatwaβo , ʃeswi , cristãoramo pereko pupe .
+# text_eng = (Camarão letters 1, 4) 
+# text_por = Isto não é bom em nossa terra, e vocês se desgraçam muitíssimo com seus atos, longe de mim, em sua condição de cristãos.
+1	Nikatui	katu	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+2	jẽ	jẽ	PART	prcl	_	1	discourse	_	_
+3	ko	ko	DET	dem	_	1	nsubj	_	_
+4	janeretama	etam	NOUN	n	Case=Ref|Clusivity=In|Number[psor]=Plur|Person[psor]=1|Rel=Cont	1	obl	_	_
+5	pupe	pupe	ADP	posp	_	4	case	_	_
+6	jẽ	jẽ	PART	prcl	_	1	discourse	_	_
+7	;	;	PUNCT	punct	_	1	punct	_	_
+8	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	10	obl	_	_
+9	pupe	pupe	ADP	posp	_	8	case	_	_
+10-11	pekajemetekatwaβo	_	_	_	_	_	_	_	_
+10	pekajem	kajem	NOUN	n	Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	parataxis	_	_
+11	etekatwaβo	etekatu	NOUN	n	VerbForm=Ger	10	advmod	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	cristãoramo	cristão	NOUN	n	Case=Trans	10	obl	_	_
+16	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	15	obl	_	_
+17	pupe	pupe	ADP	posp	_	15	case	_	_
+18	.	.	PUNCT	punct	_	15	punct	_	_
+
+# sent_id = 0055.4
+# text = Ko ʃejeʔeŋa aimonó βejẽ tekoaiβa swi pepɨsɨrõawama rese .
+# text_eng = (Camarão letters 1, 5) 
+# text_por = Dirijo estas minhas palavras de novo para salvá-los do pecado.
+1	Ko	_	DET	_	_	2	det	_	_
+2	ʃejeʔeŋa	_	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
+3	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+4	βejẽ	βejẽ	ADV	ADV	adv	3	advcl	_	_
+5-6	tekoaiβa	_	_	_	_	_	_	_	_
+5	teko	iko	NOUN	n	_	8	obl	_	_
+6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
+7	swi	_	ADP	posp	_	5	case	_	_
+8	pepɨsɨrõawama	pɨsɨrõ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2|Tense=Fut	3	advcl	_	_
+9	rese	_	ADP	posp	_	8	case	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = 0055.5
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
 # text_eng = Camarão leter 5,1
 # text_por = Nuestro Señor te de una buena vida 
@@ -6382,7 +6467,7 @@
 6	eneβe	ene	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 0055.2
+# sent_id = 0055.6
 # text = iko ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
 # text_eng = Camarão leter 5,2
 # text_por = Antes que vejas esta carta, eis que estou muito feliz, preguntando pelo bem-estar e vocês, eu tambem não estando mal. , en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
@@ -6414,7 +6499,7 @@
 26	remimotara	potar	NOUN	n	Case=Ref|Nomzr=DevPass|Rel=Cont	21	appos	_	_
 27	.	.	PUNCT	punct	_	26	punct	_	_
 
-# sent_id = 0055.3
+# sent_id = 0055.7
 # text = Maʔe mojaŋawama rese , ajmono ʔã ʃesoldados eβapo nerape ɨpɨ ,  pesema rese kwãj awa mosema repjaka wiʔjaβo .
 # text_eng = Camarão leter 5,3
 # text_por = Para hacer las cosas, envie a esos mis soldados alli, cerca de tus caminos, para la salida de ustedes, diciendoles "vayan a evacuar los altibajos".
@@ -6438,7 +6523,7 @@
 18	wiʔjaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	5	advcl	_	_
 19	.	.	PUNCT	_	_	18	punct	_	_
 
-# sent_id = 0055.4
+# sent_id = 0055.8
 # text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema iko orojur peje isupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
 # text_eng = Camarão letter 5,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen alla algunos hombres o algunas mujeres para conversar. Diganle a ellos 'vinimos para salvarlos. Conversen con ellos primero. Despues de conversar, que los envien a ellos para que conozcan los altibajos pantanosos"
@@ -6474,7 +6559,7 @@
 30	wiʔjaβo	ʔi	VERB	VERB	Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
 31	.	.	PUNCT	punct	_	30	punct	_	_
 
-# sent_id = 0055.5
+# sent_id = 0055.9
 # text = Paʔi Tupã janejara remikuwaβamo , iko ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
 # text_eng = Camarão letter 5,5
 # text_por = Como cosa sabida por nuestro Señor Dios, te envio estas mis palabras, señor Pedro Potĩ.
@@ -6493,7 +6578,7 @@
 13	Poti	Poti	PROPN	propn	_	12	compound	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 0055.6
+# sent_id = 0055.10
 # text = Marãnamo ʃeʔã neanama retekatu ?
 # text_eng = Camarão letter 5,6
 # text_por = ¿Por que es que soy un genuino familiar tuyo?
@@ -6503,7 +6588,7 @@
 4	retekatu	ete	NOUN	n	Intens=Yes|Rel=Cont	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.7
+# sent_id = 0055.11
 # text = Ejor esema Ajaŋa rata nuŋara swi
 # text_eng = Camarões letter 5,7
 # text_por = Ven, sal de aquello que es como el fuego del Diablo.
@@ -6514,7 +6599,7 @@
 5	nuŋara	nuŋara	NOUN	n	_	2	obl	_	_
 6	swi	swi	ADP	posp	_	5	case	_	_
 
-# sent_id = 0055.8
+# sent_id = 0055.12
 # text = Ejkuwaβ christãoramo nereko .
 # text_eng = Camarões letter 5,8
 # text_por = ¿Sabias que eres cristiano?
@@ -6523,7 +6608,7 @@
 3	nereko	iko	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	ccomp	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.9
+# sent_id = 0055.13
 # text = Marã erejmokajẽmotaretekatu christãoramo nereko ?
 # text_eng = Camarões letter 5,9
 # text_por = ¿Por que quieres perder definitivamente tu vida como cristiano?
@@ -6535,7 +6620,7 @@
 5	nereko	iko	NOUN	n	Number=Sing|Person=2|Rel=Cont	3	obl:obj	_	_
 6	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.10
+# sent_id = 0055.14
 # text = Marã erejmokajẽʔmotarete Paʔi Tupã raʔɨramo nereko ?
 # text_eng = Why do you wnat to loose your essence as son of the lord god? Camarões letter 5,10
 # text_por = Por quê queres perder tua natureza de filho do senhor Deus?
@@ -6549,7 +6634,7 @@
 7	nereko	iko	NOUN	n	_	3	obl:obj	_	_
 8	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.11
+# sent_id = 0055.15
 # text = Marã erejkopotarete ?
 # text_eng =  Camarões letter 5,11
 # text_por = O quê queres realmente fazer ?
@@ -6559,7 +6644,7 @@
 3	potarete	potar	VERB	v	Intens=Yes	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.12
+# sent_id = 0055.16
 # text = Teko kuwaβeʔɨmamo , erejemokajẽmotaretekatu , ene ajẽ , ejkoβo
 # text_eng =  Camarões letter 5,12
 # text_por = Sem saber os fatos, tu, na verdade, estas querendo muitissimo perder-te a ti mesmo.
@@ -6575,7 +6660,7 @@
 9	,	,	PUNCT	punct	_	5	punct	_	_
 10	ejkoβo	iko	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	5	aux	_	_
 
-# sent_id = 0055.13
+# sent_id = 0055.17
 # text = Moβɨ christãokajema eresepja ?
 # text_eng = How many lost christians have you seen? Camarões letter 5,13
 # text_por = Quantos cristãos perdidos viste?
@@ -6586,7 +6671,7 @@
 4	eresepja	epjak	VERB	v	Number=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.14
+# sent_id = 0055.18
 # text = Karaiβa naokajeβaʔeruã .
 # text_eng = Camarões letter 5,14
 # text_por = Os cristãos não se perdem.
@@ -6594,7 +6679,7 @@
 2	naokajeβaʔeruã	kaje	VERB	v	Nomzr=Rel|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 0055.15
+# sent_id = 0055.19
 # text = Marãnamo christãoramo sekoreme , nikatui , Paʔi Tupã imokajema ?
 # text_eng = Camarões letter 5,15
 # text_por = Por que, sendo cristãos, não são bons, fazendo-os perder o Senhor Deus?
@@ -6609,7 +6694,7 @@
 9	imokajema	mokajem	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	_	_
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 0055.16
+# sent_id = 0055.20
 # text = iko βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβisaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 5,16 
 # text_por = Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos 
@@ -6635,7 +6720,7 @@
 20	βe	βe	ADV	adv	_	18	cc	_	_
 21	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 0055.17
+# sent_id = 0055.21
 # text = ʃeputupaβete ʔã witekoβo rese , oreswi jewasema repjaka .
 # text_eng = CAmarão letter 5,17
 # text_por = Eis que eu estou muito admirado convosco, vendo-vos fugir de nos.
@@ -6649,7 +6734,7 @@
 8	repjaka	epjak	VERB	n	Rel=Cont|VerbForm=Ger	1	advcl	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.18
+# sent_id = 0055.22
 # text = Naanamaruãte ore ?
 # text_eng = Camarão letter 5,18
 # text_por = Não somos nos vossa familia
@@ -6657,7 +6742,7 @@
 2	ore	re	PRON	v	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.19
+# sent_id = 0055.23
 # text = Maʔe rese oreamotareʔɨm jepe ?
 # Camarão letters 5,19
 # text_eng =
@@ -6668,7 +6753,7 @@
 4	jepe	jepe	PRON	pron	_	3	nsubj	_	_
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.20
+# sent_id = 0055.24
 # text = Ore noromojaŋi maʔeaʔiβa amõ peʔẽmo .
 # text_eng = Camarão letters 5,20
 # text_por = Nos não fizemos nada mau para vos.
@@ -6681,7 +6766,7 @@
 6	peʔẽmo	ʔẽmo	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 0055.21
+# sent_id = 0055.25
 # text = Neʔĩ , ʔẽ najmojaŋi maʔeaʔiβa amõ oreβe .
 # text_eng = Camarão letters 5,21
 # text_por = Eia, vos não fizestes nada mau para nos.
@@ -6696,7 +6781,7 @@
 8	oreβe	ore	NOUN	n	Case=Dat|Clusivity=Ex|Number=Plur|Person=1	4	obl	_	_
 9	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.22
+# sent_id = 0055.26
 # text = Emokwej capitãoMor papera sow eneβe .
 # text_eng = Camarão letters 5,22
 # text_por = Para ai tambem vai a ti a carta do Capitão-mor.
@@ -6707,7 +6792,7 @@
 5	eneβe	ene	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.23
+# sent_id = 0055.27
 # text = Emokwej Antonio Paraopeβa supe amõ kapitãoMor papera sow .
 # text_eng = Camarão letters 5,23
 # text_por = Para ai tambem vai outra carta do Capitão-mor para Antonio Paraopeba.
@@ -6721,7 +6806,7 @@
 8	sow	so	NOUN	n	NonFoc=Yes	0	root	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 0055.24
+# sent_id = 0055.28
 # text = Paʔi Tupã temõ ojke pɨʔamo , christão we !
 # text_eng = Camarão letters 5,24
 # text_por = Oxala o Senhor Deus entrasse em vossos corações, o .cristãos
@@ -6735,7 +6820,7 @@
 8	we	we	PART	prcl	_	7	discourse	_	_
 9	!	!	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.25
+# sent_id = 0055.29
 # text = Aʔemo peseme orerorɨβetemo , pesememo , memẽ repjakamo .
 # text_eng = Camarão letters 5,25
 # text_por = E ficariamos muito felizes se saisseis, para vos ver sempre
@@ -6749,7 +6834,7 @@
 8	repjakamo	epjak	NOUN	n	Case=Tra	5	advcl	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 0055.26
+# sent_id = 0055.30
 # text = Emokwej mokõj kujã ajmono peʔẽme , moranuβa rerasoβo , tomomβeʔu ke ʃereko eneβe .
 # text_eng = Camarão letters 5,26 
 # text_por = Para ai tambem enviei duas mulheres a vos para levar noticias e para que contem a ti como aqui estou
@@ -6768,7 +6853,7 @@
 13	eneβe	ene	PRON	pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
 14	.	.	PUNCT	punct	_	10	punct	_	_
 
-# sent_id = 0055.27
+# sent_id = 0055.31
 # text = Ajpo jõ moranuβa sow .
 # text_eng = Camarão letters 5,27
 # text_por = Vão estas noticias somente.
@@ -6778,7 +6863,7 @@
 4	sow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 0055.28
+# sent_id = 0055.32
 # text = Peikoβekatu peikoβo .
 # text_eng = Camarão letters 5,28
 # text_por = Que estejais vivendo bem
@@ -6786,7 +6871,7 @@
 2	peikoβo	iko	AUX	v	Number=Plur|Person=2|VerbForm=Ger	1	aux	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.29
+# sent_id = 0055.33
 # text = Paʔi Tupã tojko irũnamo .
 # text_eng = Camarão letters 5,29
 # text_por = O Senhor Deus esteja convosco
