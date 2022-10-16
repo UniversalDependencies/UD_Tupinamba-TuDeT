@@ -6450,9 +6450,9 @@
 5-6	tekoaiβa	_	_	_	_	_	_	_	_
 5	teko	iko	NOUN	n	Rel=Abs	8	obl	_	_
 6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
-7	swi	_	ADP	posp	_	5	case	_	_
+7	swi	swi	ADP	posp	_	5	case	_	_
 8	pepɨsɨrõawama	pɨsɨrõ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2|Tense=Fut	3	advcl	_	_
-9	rese	_	ADP	posp	_	8	case	_	_
+9	rese	ese	ADP	posp	Rel=Cont	8	case	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0055.5
