@@ -131,7 +131,7 @@
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	cristãos	cristão	NOUN	n	Number=Plur	7	obl:subj	_	_
+6	Cristãos	cristão	NOUN	n	Number=Plur	7	obl:subj	_	_
 7	ojmoete	ete	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
 8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	7	advcl	_	tupã-ʔar-a
 
@@ -663,7 +663,7 @@
 # text = Cristãos .
 # text_eng = Christians. Book 1 chap 3
 # text_por = 
-1	cristãos	cristão	NOUN	n	Number=Plur	0	root	_	_
+1	Cristãos	cristão	NOUN	n	Number=Plur	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 43
@@ -715,7 +715,7 @@
 # text_por = 
 1	Aβa	aβa	NOUN	n	_	6	obl	_	_
 2	swipe	swi	ADP	posp	Int=Yes	1	case	_	_
-3	cristãos	cristão	NOUN	n	Number=Plur	6	nsubj	_	_
+3	Cristãos	cristão	NOUN	n	Number=Plur	6	nsubj	_	_
 4	ajpo	ajpo	DET	dem	_	5	nmod	_	_
 5	owerama	er	NOUN	n	Case=Ref|Reflex=Yes|Tense=Fut	6	obj	_	_
 6	rari	ar	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
@@ -945,13 +945,13 @@
 # text = Aβaaβape ase rese Tupã moŋetasaramo sekow ?
 # text_eng =  Who are the ones who pray to god for us?   (Araujo, Book 1 chapt. 4, 23v)
 # text_por = 
-1	Aβaaβape	aβa	NOUN	n	Int=Yes	0	root	_	_
-2	ase	ase	PRON	pro	PronType=Prs	5	obl	_	_
-3	rese	ese	ADP	posp	Rel=Cont	2	case	_	_
+1	Aβaaβape	aβa	PRON	pro	Int=Yes|Number=Plur	5	nsubj	_	_
+2	ase	ase	PRON	pro	_	5	obl	_	_
+3	rese	ese	ADP	posp	_	2	case	_	_
 4	Tupã	Tupã	PROPN	propn	_	5	nmod	_	_
-5	moŋetasaramo	moŋeta	NOUN	n	Case=Tra|Nomzr=Ag	1	nsubj	_	_
-6	sekow	eko	AUX	aux	NonFoc=Yes|Rel=NCont	5	aux	_	_
-7	?	?	PUNCT	punct	_	1	punct	_	_
+5	moŋetasaramo	moŋeta	NOUN	n	_	0	root	_	_
+6	sekow	eko	NOUN	n	_	5	dep	_	_
+7	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 43456
 # text = maʔepe imoŋaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?
@@ -1419,15 +1419,15 @@
 6	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 2349
-# text = Ikó aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ ise sekara jepe , ijukaukar janone wijaβo eʔi
+# text = iko aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ ise sekara jepe , ijukaukar janone wijaβo eʔi
 # text_eng = Saying I bring this man here, coming out with him, may you know that I have searched in vain for a previous act of his, before ordaining his death, he said it. Book 3 chap 8
 # text_por = 
-1	iko	ikó	DET	dem	_	2	nmod	_	_
+1	iko	iko	DET	dem	_	2	nmod	_	_
 2	aβa	aβa	PRON	pro	PronType=Int	3	obj	_	_
 3	arur	ur	VERB	v	Number=Sing|Person=1|Voice=SCau	0	root	_	_
 4	ike	ike	ADV	adv	_	3	obl	_	_
 5	okarɨpe	okar	NOUN	n	Case=All	4	appos	_	_
-6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau 3	advcl	_	_
+6	senosema	sem	VERB	v	Rel=NCont|VerbForm=Ger|Voice=SCau	3	advcl	_	_
 7	,	,	PUNCT	punct	_	3	punct	_	_
 8	tapejkwaβ	kwaβ	VERB	vt	Mood=Per|Number=Plur|Person[obj]=3|Person[subj]=2	3	parataxis	_	_
 9	sekopwera	eko	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	12	obj	_	_
@@ -2141,7 +2141,7 @@
 # text = Kori erejko ʃerorɨpape ʃepɨ́rine eʔi
 # text_eng = He said, you will be in the place of my happiness today.  Book 3 chap 10
 # text_por = 
-1	kori	kori	ADV	adv	AdvType=Temp	2	advmod	_	_
+1	Kori	kori	ADV	adv	AdvType=Temp	2	advmod	_	_
 2	erejko	iko	VERB	v	Number=Plur|Person=2	5	ccomp	_	_
 3	ʃerorɨpape	orɨpaβ	NOUN	n	Number=Plur|Person=1|Rel=Cont	2	obl	_	_
 4	ʃepɨ́rine	pɨ́rine	ADP	posp	Number=Plur|Person=1|Tense=Fut	2	obl	_	_
@@ -2405,7 +2405,7 @@
 7	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 93
-# text = Tupã raʔɨra jẽ ikó aβa eʔi , amõamõ opotiʔa rese opwaopwa , oaŋajpawera moasɨ́aβo
+# text = Tupã raʔɨra jẽ iko aβa eʔi , amõamõ opotiʔa rese opwaopwa , oaŋajpawera moasɨ́aβo
 # text_eng = They said: this man is really the son of god, others beating their chests, regreting their evil acting.    Book 3 chap 11
 # text_por = 
 1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
@@ -2931,13 +2931,13 @@
 15	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 9184746
-# text = Ju , Ajaŋap ikó ri !
+# text = Ju , Ajaŋap iko ri !
 # text_eng = Oh, is this perhaps the devil? (Teatro, 74, p. 10)
 # text_por = o, sera que isto e o diabo?
 1	Ju	ju	INTJ	intj	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Ajaŋap	Ajaŋa	NOUN	n	Int=Yes	0	root	_	_
-4	iko	ikó	DET	dem	_	3	det	_	_
+4	iko	iko	DET	dem	_	3	det	_	_
 5	ri	ri	PART	prcl	_	3	discourse	_	_
 6	!	!	PUNCT	punct	_	3	punct	_	_
 
@@ -3241,7 +3241,7 @@
 # text = Aʔereme aputuʔu
 # text_eng = Then I rested (Teatro, 125, p.14)
 # text_por = Então eu descansei
-1	aʔereme	aʔereme	ADV	adv	AdvType=Temp	2	advmod	_	_
+1	Aʔereme	aʔereme	ADV	adv	AdvType=Temp	2	advmod	_	_
 2	aputuʔu	putuʔu	VERB	v	Number=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = 81818182838
@@ -3372,7 +3372,7 @@
 # text = Opa umã tamũja sow , okaja tatape oupa
 # text_eng =  (Teatro, 152, p. 18)
 # text_por = Ja todos os tamoios foram, estando a queimar no fogo.
-1	opa	opaβ	PRON	pron	PronType=Tot	3	nmod	_	_
+1	Opa	opaβ	PRON	pron	PronType=Tot	3	nmod	_	_
 2	umã	umã	ADV	adv	_	4	advmod	_	_
 3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Hum	4	nsubj	_	_
 4	sow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
@@ -3529,7 +3529,7 @@
 # text = Kori βe timokajẽ !
 # text_eng = (Teatro, 176 p.18)
 # text_por = Hoje mesmo havemos de fazê-lo sumir!
-1	kori	kori	ADV	adv	AdvType=Temp	3	advmod	_	_
+1	Kori	kori	ADV	adv	AdvType=Temp	3	advmod	_	_
 2	βe	βe	PART	prcl	_	1	discourse	_	_
 3	timokajẽ	kaj	NOUN	n	Mood=Per|Rel=NCont|Voice=Cau	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -3822,7 +3822,7 @@
 # text_por = Esta bem, hei de ir para onde me mandam. Mesmo porque, em meu coração, assim quero as coisas
 1	je	je	PART	prcl	_	2	discourse	_	_
 2	tasone	so	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
-3	ʃemonoape	monoaβ	NOUN	n	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|Number=Sing|Person=1	2	obl	_	_
+3	ʃemonoape	monoaβ	NOUN	n	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|Person=1	2	obl	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 5-6	Memetise	_	_	_	_	_	_	_	_
 5	Meme	meme	ADV	adv	_	6	discourse	_	_
@@ -4175,7 +4175,7 @@
 18	morapitiara	porapitiar	NOUN	n	Case=Ref|Hum=Yes	17	nmod	_	_
 
 # sent_id = 4451
-# text = aʔepe ikó ?
+# text = aʔepe iko ?
 # text_eng = Is it this one? (Teatro, 30)
 # text_por = e este?
 1	aʔepe	aʔe	PRON	dem	Int=Yes	0	root	_	_
@@ -4212,7 +4212,7 @@
 1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	_	_
 2	peseka	ekar	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 3	ko	ko	DET	dem	_	4	nmod	_	_
-4	ʃeretama	etam	NOUN	n	Case=Ref|Number=Yes|Person[subj]=Yes|Number=Sing|Person=1	2	obl	_	_
+4	ʃeretama	etam	NOUN	n	Case=Ref|Number=Yes|Number=Sing|Person[subj]=Yes|Person=1	2	obl	_	_
 5	pupe	pupe	ADP	posp	_	4	case	_	_
 6	?	?	PUNCT	punct	_	2	punct	_	_
 
@@ -4409,7 +4409,7 @@
 17	oʔiaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	7	advcl	_	_
 
 # sent_id = 4469
-# text = wabiru ruãpe ikó konipo sarigweinema ?
+# text = wabiru ruãpe iko konipo sarigweinema ?
 # text_eng = (Teatro, 32)
 # text_por = Sera que isto e um guabiru4o ou um sarigüê fedorento?
 1	wabiru	wabiru	NOUN	n	_	0	root	_	_
@@ -4881,7 +4881,7 @@
 # text = Opa taβa moaŋajpaβi !
 # text_eng = (Teatro, 40)
 # text_por = Toda a aldeia faz pecar
-1	opa	opaβ	PRON	pron	PronType=Tot	2	nmod	_	_
+1	Opa	opaβ	PRON	pron	PronType=Tot	2	nmod	_	_
 2	taβa	taβ	NOUN	n	Case=Ref	3	nsubj	_	_
 3	moaŋajpaβi	moaŋajpaβ	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
@@ -5134,7 +5134,7 @@
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = 0044.133
-# text = Napeapɨsaj , janu , ikó taβa apamonana .
+# text = Napeapɨsaj , janu , iko taβa apamonana .
 # text_eng = (Teatro, 40)
 # text_por = Não tendes ouvidos, como de costume, esta aldeia confundindo.
 1	Napeapɨsaj	apɨsa	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
@@ -5939,7 +5939,7 @@
 # text = Opa , Paranapuku , Jakutiŋa , Moroʔɨ , Sariweia , wirɨrɨ , Pinoβa , Parigtiasu , Kurusa , Miapeʔɨ , Jaβeβirasɨka tapera akweime niporetai .
 # text_eng = (Teatro, )
 # text_por = Todas - Paranapucu, Jacutinga, Moroi, Sarigüeia, Güiriri, Pindoba, Pariguaçu, Curuça, Miapei a tapera de Jabebiracica - ha tempo não contêm mais muita coisa
-1	opa	opaβ	PRON	pron	PronType=Tot	24	dislocated	_	_
+1	Opa	opaβ	PRON	pron	PronType=Tot	24	dislocated	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Paranapuku	Paranapuku	PROPN	propn	_	1	appos	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
@@ -6383,10 +6383,10 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 0055.2
-# text = Ikó ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
+# text = iko ʃepapera ene sepjakʔ janone , ʃerorɨkatu ʔã opaβejẽ  maraneʔɨma rese wiporanupa , ʃeaβe ʔã naʃemarani jẽ witekoβo , peʔẽme maʔe mojaŋawama rese , maʔe  remimotara .
 # text_eng = Camarão leter 5,2
 # text_por = Antes que vejas esta carta, eis que estou muito feliz, preguntando pelo bem-estar e vocês, eu tambem não estando mal. , en efecto, para que ustedes hagan las cosas, las cosas que ustedes desean.
-1	iko	ikó	DET	_	_	2	det	_	_
+1	iko	iko	DET	_	_	2	det	_	_
 2	ʃepapera	_	NOUN	n	Case=Ref|Number=Sing|Person=1	4	obj	_	_
 3	ene	ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 4	sepjakʔ	epjak	NOUN	n	Rel=NCont	7	advcl	_	_
@@ -6439,7 +6439,7 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 0055.4
-# text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema ikó orojur peje isupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
+# text = Ajmono Capitão Diogo da Costa , ipɨsɨk aβa amõ kojpo kujã amõ tajmoŋeta . Perenosema iko orojur peje isupe , imoŋeta rajẽ . Imoŋeta rojre , tapejmono awamoŋa kuapa wiʔjaβo .
 # text_eng = Camarão letter 5,4
 # text_por = Enviei o capitão Diego Acosta, dizendo: "tomen alla algunos hombres o algunas mujeres para conversar. Diganle a ellos 'vinimos para salvarlos. Conversen con ellos primero. Despues de conversar, que los envien a ellos para que conozcan los altibajos pantanosos"
 1	Ajmono	mono	VERB	VERB	Number=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
@@ -6475,7 +6475,7 @@
 31	.	.	PUNCT	punct	_	30	punct	_	_
 
 # sent_id = 0055.5
-# text = Paʔi Tupã janejara remikuwaβamo , ikó ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
+# text = Paʔi Tupã janejara remikuwaβamo , iko ʃejeʔeŋa ajmono eneβe , Sr Pedro Poti .
 # text_eng = Camarão letter 5,5
 # text_por = Como cosa sabida por nuestro Señor Dios, te envio estas mis palabras, señor Pedro Potĩ.
 1	Paʔi	paʔi	NOUN	n	_	2	compound	_	_
@@ -6610,7 +6610,7 @@
 10	?	?	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.16
-# text = Ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβisaβa jeʔeŋa rupi βe .
+# text = iko βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβisaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 5,16 
 # text_por = Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos 
 1	iko	ko	DET	dem	_	3	nsubj	_	_
@@ -7008,3 +7008,4 @@
 1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
 2	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
 3	osɨkamo	sɨk	VERB	v	Mood=Sub|Person[subj]=3	0	root	_	_
+
