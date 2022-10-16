@@ -2707,7 +2707,7 @@
 2	serã	serã	PART	pcl	_	3	discourse	_	_
 3	oweru	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5	ʃeretama	etam	NOUN	n	Number=Sing|Person=1|Rel=Cont	6	obj	_	_
+5	ʃeretama	etam	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1|Rel=Cont	6	obj	_	_
 6	momoʃɨaβo	poʃɨ	VERB	v	VerbForm=Ger|Voice=Cau	3	advcl	_	_
 7	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -3822,7 +3822,7 @@
 # text_por = Esta bem, hei de ir para onde me mandam. Mesmo porque, em meu coração, assim quero as coisas
 1	je	je	PART	prcl	_	2	discourse	_	_
 2	tasone	so	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
-3	ʃemonoape	monoaβ	NOUN	n	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|Person=1	2	obl	_	_
+3	ʃemonoape	monoaβ	NOUN	n	Case=All|Nomzr=Circ|Number=Sing|Person=1|Person[psor]=1	2	obl	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 5-6	Memetise	_	_	_	_	_	_	_	_
 5	Meme	meme	ADV	adv	_	6	discourse	_	_
@@ -4212,7 +4212,7 @@
 1	Maʔetepe	Maʔe	PRON	pron	Int=Yes|PronType=Int	2	obl	_	_
 2	peseka	ekar	VERB	v	Number=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 3	ko	ko	DET	dem	_	4	nmod	_	_
-4	ʃeretama	etam	NOUN	n	Case=Ref|Number=Yes|Number=Sing|Person[subj]=Yes|Person=1	2	obl	_	_
+4	ʃeretama	etam	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
 5	pupe	pupe	ADP	posp	_	4	case	_	_
 6	?	?	PUNCT	punct	_	2	punct	_	_
 
@@ -4492,7 +4492,7 @@
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	nekɨriri	nekɨriri	NOUN	n	_	1	parataxis	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
-8	kori	kori	ADV	adv	AdvType=Temp	10	advmod	_	_
+8	Kori	kori	ADV	adv	AdvType=Temp	10	advmod	_	_
 9	e	e	PART	pcl	_	10	discourse	_	_
 10	toromonone	oromono	VERB	v	Mood=Per|Number=Sing|Person=1	1	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
@@ -4508,7 +4508,7 @@
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	nekɨriri	nekɨriri	VERB	v	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
-8	kori	kori	ADV	adv	AdvType=Temp	10	advmod	_	_
+8	Kori	kori	ADV	adv	AdvType=Temp	10	advmod	_	_
 9	e	e	PART	pcl	_	10	discourse	_	_
 10	toromonone	oromono	VERB	v	Clusivity=Ex|Mood=Per|Number=Plur|Person=1	1	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
