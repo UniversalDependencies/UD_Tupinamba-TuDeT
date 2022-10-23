@@ -6644,7 +6644,7 @@
 5	peremimojaŋwama	_	NOUN	n	_	3	conj	_	_
 6	,	_	PUNCT	_	_	5	punct	_	_
 7	perekomojaŋaβa	_	NOUN	n	_	5	conj	_	_
-8	aimono	_	VERB	v	_	_	_	_	_
+8	aimono	_	VERB	v	_	0	root	_	_
 9	βejẽ	βejẽ	ADV	adv	_	8	advmod	_	_
 10	peẽβe	_	PRON	pron	_	8	obl	_	_
 11	tapeimoaβaíβ	_	VERB	v	_	8	advcl	_	_
