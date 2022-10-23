@@ -6741,6 +6741,76 @@
 17	aβe	aβe	ADV	adv	_	16	cc	_	_
 18	.	.	PUNCT	_	_	16	punct	_	_
 
+# sent_id =
+# text = Peimoʔaŋ ɨmẽ, tuisamojaŋape orewasemaβa supe, quartel jemeʔeŋa.
+# text_eng = (Camarão letters 1, 25) 
+# text_por = Não pensem que se poupa a vida dos potiguaras (da gente nossa) por esses terem sido feitos chefes.
+1	Peimoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+2	ɨmẽ	ɨmẽ	PART	_	Polarity=Neg	1	dep	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	tuisamojaŋape	_	NOUN	_	_	1	obl	_	_
+5	orewasemaβa	_	NOUN	_	Case=Ref|Clusivity=ex|Nomzr=Abs|Number=Plur|Person=1	4	obl	_	_
+6	supe	supe	ADP	_	CAse=Dat	5	case	_	_
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	quartel	quartel	NOUN	_	_	9	obj	_	_
+9	jemeʔeŋa	_	NOUN	_	Reflex=Yes|VerbForm=Ger	1	xcomp	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id =
+# text = Pejmoʔaŋ ɨmẽ apɨaβaíβa oreswi pepɨsɨrõ.
+# text_eng = (Camarão letters 1, 26) 
+# text_por = Não pensem que os homens maus livram vocês de nós
+1	Pejmoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+2	ɨmẽ	_	PART	_	_	1	dep	_	_
+3-4	apɨaβaíβa	_	_	_	_	_	_	_	_
+3	apɨaβ	_	NOUN	_	_	6	nmod	_	_
+4	aíβa	_	NOUN	_	Cas	3	nmod	_	_
+5	oreswi	_	ADP	_	_	6	obl	_	_
+6	pepɨsɨrõ	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = Isupe jõ ã quartel jemeʔeŋi.
+# text_eng = (Camarão letters 1, 27) 
+# text_por = Somente a vida deles é poupada.
+1	Isupe	supe	ADP	_	Rel=NCont	0	root	_	_
+2	jõ	jõ	ADV	_	_	1	advmod	_	_
+3	ã	ã	PART	_	_	1	discourse	_	_
+4	quartel	quartel	NOUN	_	_	5	obj	_	_
+5	jemeʔeŋi	meʔeŋ	NOUN	_	NonFoc=Yes|Reflex=Yes	1	parataxis	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id =
+# text = Marãnamo, soβajɨwaramo sekoreme?
+# text_eng = (Camarão letters 1, 28) 
+# text_por =  E por que, se eles são estrangeiros?
+1	Marãnamo	_	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	soβajɨwaramo	_	NOUN	_	Case=Trans|Rel=NCont	0	root	_	_
+4	sekoreme	iko	AUX	_	Mood=Subj	3	aux	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id =
+# text = Emonãnamo, petejẽumẽ βejẽ aβa ojemomotaβejẽmo, apɨaβaiβa maranirũramo  owekorama rese.
+# text_eng = (Camarão letters 1, 29) 
+# text_por = Portanto, não deixai que mais índios sejam atraídos de novo, e que fiquem sendo companheiros de guerra dos homens maus em suas ações futuras.
+1	Emonãnamo	emonãnamo	ADV	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	petejẽumẽ	_	VERB	_	Number=Plur|Person=2|Polarity=Neg	0	root	_	_
+4	βejẽ	βejẽ	ADV	_	_	3	advcl	_	_
+5	aβa	aβa	NOUN	_	_	6	nsubj	_	_
+6	ojemomotaβejẽmo	_	VERB	_	Person=3|Reflex=Yes	3	obj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8-9	apɨaβaiβa	_	_	_	_	_	_	_	_
+8	apɨaβ	apɨaβ	NOUN	_	_	11	nmod	_	_
+9	aiβa	aíβ	NOUN	_	_	8	nmod	_	_
+10-11	maranirũramo	_	_	_	_	_	_	_	_
+10	maran	maran	NOUN	_	_	11	nmod	_	_
+11	irũramo	irũ	NOUN	_	Case=Trans	6	obl	_	_
+12	owekorama	eko	NOUN	_	Case=Ref|Corf=Yes|Tense=Fut	8	obl	_	_
+13	rese	ese	ADP	_	Re=NCont	12	case	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
 # sent_id = cam_let5_1
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
 # text_eng = Camarão leter 5,1
