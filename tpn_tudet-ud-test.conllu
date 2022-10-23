@@ -4732,7 +4732,7 @@
 9	meme	meme	ADV	adv	_	8	advmod	_	_
 10	kawape	kaʔu	NOUN	n	Case=Loc|Nomzr=Circ	8	obl	_	_
 11	,	,	PUNCT	punct	_	8	punct	_	_
-12	aʔepe	aʔe	DET	det	Case=All	15	obl	_	_
+12	aʔepe	aʔe	DET	det	Case=Loc	15	obl	_	_
 13-14	kujãmuku	_	_	_	_	_	_	_	_
 13	kujã	kujã	NOUN	n	_	15	obl	_	_
 14	muku	puku	NOUN	n	_	13	nmod	_	_
