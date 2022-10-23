@@ -6510,7 +6510,7 @@
 4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
 5	poreteramo	por	NOUN	n	Case=Tra|Intens=Yes	6	obl	_	_
 6	perekoreme	iko	NOUN	n	Mood=Irr|Number[psor]=Plur|Person[psor]=2|Rel=Cont	9	advcl	_	_
-7	,	,	PUNCT	punct	_	_	_	_	_
+7	,	,	PUNCT	punct	_	9	punct	_	_
 8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
 8	amarã	amarãn	VERB	v	_	9	dep	_	_
 9	mojaŋɨpe	mojaŋ	VERB	v	Int=Yes	0	root	_	_
