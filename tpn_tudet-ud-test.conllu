@@ -6484,7 +6484,7 @@
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0055.7
-# text = Sasɨete ã iseβe maʔeaiβa peremimojaŋwera rese ko marana perawsuβareʔɨma.
+# text = Sasɨete ã iseβe maʔeaiβa peremimojaŋwera rese ko marana perawsuβareʔɨma .
 # text_eng = (Camarão letters 1, 8) 
 # text_por = Esta guerra é muito dolorosa para mim, por causa das coisas más que vocês fizeram, e eu não tenho pena de vocês.
 1	Sasɨete	asɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
@@ -6514,7 +6514,7 @@
 8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
 8	amarã	amarãn	VERB	v	_	9	dep	_	_
 9	mojaŋɨpe	mojaŋ	VERB	v	Int=Yes	0	root	_	_
-10	orewasemaβa	wasem	NOUN	n	Case=ref|Clusivity=Ex|Nomzr=Abs	9	obl	_	_
+10	orewasemaβa	wasem	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Abs	9	obl	_	_
 11	ri	ri	ADP	posp	_	9	case	_	_
 12	?	?	PUNCT	punct	_	9	punct	_	_
 
@@ -6541,7 +6541,7 @@
 7	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0055.11
-# text = Orerese omaramojãβaʔe , apɨaβaiβa pitikoara , kajẽmaβi Serijaʔẽpe .
+# text = Orerese omaramojãβaʔe , apɨaβaiβa Pitikoara , kajẽmaβi Serijaʔẽpe .
 # text_eng = (Camarão letters 1, 12) 
 # text_por = Os que lutaram com os homens maus para sua própria desonra, todos eles pereceram por nossas mãos em Serinhaem
 1	Orerese	ese	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	_
@@ -6558,7 +6558,7 @@
 9	kajẽm	kajẽm	NOUN	n	_	3	parataxis	_	_
 10	paβi	paβ	PRON	PRON	NonFoc=Yes|PronType=Tot	9	nsubj	_	_
 11	Serijaʔẽpe	Serijaʔẽ	PROPN	propn	Case=Loc	9	obl	_	_
-12	.	,	PUNCT	punct	_	9	punct	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = 0055.12
 # text = Apɨaβaíβa pɨtɨβõsara opakatu ikajemi kwese akɨ̃ maramojaŋape .
@@ -6600,7 +6600,7 @@
 6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 0055.15
-# text = Marãramo, ko ɨβɨ poreteramo ãwa rekoreme? 
+# text = Marãnamo, ko ɨβɨ poreteramo ãwa rekoreme? 
 # text_eng = (Camarão letters 1, 16) 
 # text_por = Por que isso, se eles são os habitantes verdadeiros desta terra?
 1	Marãnamo	_	ADV	adv	_	5	advcl	_	_
@@ -6613,7 +6613,7 @@
 8	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 0055.16
-# text = Peikuwakatu karaiβa opaβejẽ maʔeaiβa peremimojaŋa rese , opaβẽ culpa sejtɨkite aʔereme, koβaʔe swi pepɨsɨrõawama rese
+# text = Peikuwakatu karaiβa opaβejẽ maʔeaiβa peremimojaŋa rese , opaβẽ culpa sejtɨkite aʔereme , koβaʔe swi pepɨsɨrõawama rese
 # text_eng = (Camarão letters 1, 17) 
 # text_por = Vocês conhecem bem os portugueses por todas as coisas más que vocês fazem, mas vocês rejeitaram toda a culpa, então, para se livrarem desta.
 1	Peikuwakatu	kwaβ	VERB	v	_	0	root	_	_
@@ -6634,7 +6634,7 @@
 16	rese	ese	ADP	posp	Rel=Cont	15	obl	_	_
 
 # sent_id = 0055.17
-# text = Ko ise perekorama , peremimojaŋwama , perekomojaŋaβa aimono βejẽ peẽβe tapejmoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme , ojoirũramo pererekoaíme .
+# text = Ko ise perekorama , peremimojaŋwama , perekomojaŋaβa aimono βejẽ peẽβe tapeimoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme , ojoirũramo pererekoaíme .
 # text_eng = (Camarão letters 1, 18) 
 # text_por = Eis que eu lhes indico novamente o que vocês devem fazer, as determinações a seguir, para que vocês não tenham dificuldades com os homens maus se eles maltratarem vocês entre si.
 1	Ko	ko	ADV	adv	_	2	discourse	_	_
@@ -6670,7 +6670,7 @@
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 # sent_id = 0055.19
-# text = Okajemeta ʔɨwama , apɨaβaíβa , oreswi .
+# text = Okajemeta ʔɨwama , apɨaβaiβa , oreswi .
 # text_eng = (Camarão letters 1, 20) 
 # text_por = Muitos comandantes morrerão, homens ruins, por nossas mãos.
 1	Okajemeta	kajem	VERB	_	Intens=Yes|Person=3	0	root	_	_
