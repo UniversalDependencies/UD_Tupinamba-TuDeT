@@ -6389,7 +6389,7 @@
 12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
 13	mojaŋaβa	mojaŋ	NOUN	n	Case=Ref|Nomzr=Abs	12	nmod	_	_
 14	aimono	mono	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
-15	βejẽ	βejẽ	ADV	ADV	adv	14	advmod	_	_
+15	βejẽ	βejẽ	ADV	adv	_	14	advmod	_	_
 16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
 
