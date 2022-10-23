@@ -957,13 +957,13 @@
 # text = maʔepe imoŋaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?
 # text_eng =  
 # text_por = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
-1	maʔepe	maʔe	PRON	pcl	Int=Yes	_	_	_	_
-2	imoŋaraiβɨpɨra	moŋaraiβ	NOUN	n	Case=Ref|Nomzr=Pas|Rel=NCont	4	nsubj	_	_
+1	maʔepe	maʔe	PRON	pcl	Int=Yes	3	advmod	_	_
+2	imoŋaraiβɨpɨra	moŋaraiβ	NOUN	n	Case=Ref|Nomzr=Pas|Rel=NCont	3	nsubj	_	_
 3	jeroβjasaβete	jeroβja	NOUN	n	_	0	root	_	_
-4	Tupã	Tupã	NOUN	n	_	6	nmod	_	_
-5	mojɨrõ	mojɨrõ	NOUN	n	_	7	nmod	_	_
-6	potasaβamo	pota	NOUN	n	Case=Tra|Nomzr=Circ|VerbForm=Ger	4	advcl	_	_
-7	?	?	PUNCT	punct	_	4	punct	_	_
+4	Tupã	Tupã	NOUN	n	_	5	nmod	_	_
+5	mojɨrõ	mojɨrõ	NOUN	n	_	6	nmod	_	_
+6	potasaβamo	pota	NOUN	n	Case=Tra|Nomzr=Circ|VerbForm=Ger	3	obl	_	_
+7	?	?	PUNCT	punct	_	3	punct	_
 
 # sent_id = 592378
 # text = Janejara JesusCristo reʔõawera
@@ -1059,7 +1059,7 @@
 8	rawsuβi	awsuβ	NOUN	n	Rel=Cont	1	parataxis	_	_
 9	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	8	obl	_	_
 10	seko	eko	NOUN	n	Rel=NCont	11	nmod	_	_
-11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	_	_	_	_
+11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	1	xcomp	_	_
 
 # sent_id = 16
 # text = Omaʔeʔu wemimoʔeeta pɨri karukeme , Santo-Sacramento meʔeŋa janone .
@@ -1821,7 +1821,7 @@
 # text_por = 
 1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	neʔi	eʔi	VERB	v	Person=3|Polarity=Neg	7	advmod	_	_
+3	neʔi	eʔi	VERB	v	Person=3|Polarity=Neg	7	discourse	_	_
 4	teʔe	teʔe	ADV	adv	_	3	advmod	_	_
 5	aʔereme	aʔereme	ADV	_	_	7	advmod	_	_
 6	judeus	judeu	NOUN	n	_	7	nsubj	_	_
