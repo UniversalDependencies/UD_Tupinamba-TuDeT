@@ -6469,6 +6469,378 @@
 7	ʃeremimono	mono	NOUN	n	Dev=Pass|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	appos	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 
+# sent_id =
+# text = Aimono βejẽ ʃejeʔeŋa opaβejẽ peẽβe , xeraʔɨreta . Perawsupa e , perekomojaŋaβa ajmono βejẽ peẽβe .
+# text_eng = (Camarão letters 1, 1 ) 
+# text_por = Envio minhas palavras novamente a todos vocês, meus filhos. Mando-lhes determinações novamente, por os amar de fato.
+1	Aimono	mono	VERB	vt	Person[obj]=3|Nunmber[subj]=Sing|Person[subj]=1	0	root	_	_
+2	βejẽ	βejẽ	ADV	ADV	_	1	advmod	_	_
+3	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	1	obj	_	_
+4	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	_	_	_	_
+5	peẽβe	peẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	xeraʔɨreta	aʔɨr	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	vocative	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+9	Perawsupa	awsuβ	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont|VerbForm=Ger	14	xcomp	_	_
+10	e	e	PART	prcl	_	9	discourse	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12-13	perekomojaŋaβa	_	_	_	_	_	_	_	_
+12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
+13	mojaŋaβa	mojaŋ	NOUN	n	Case=ref|Nomzr=Abs	12	nmod	_	_
+14	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	1	parataxis	_	_
+15	βejẽ	βejẽ	ADV	ADV	adv	14	advmod	_	_
+16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	punct	_	14	punct	_	_
+
+# sent_id =
+# text = Marãnamo ?
+# text_eng = Why ? (Camarão letters 1, 2) 
+# text_por = Por quê?
+1	Marãnamo	marãnamo	ADV	adv	_	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id =
+# text = Opaβejẽ peruβeteramo witekoβo e , perekokatu kajema swi .
+# text_eng = (Camarão letters 1, 3) 
+# text_por = Por ser eu, na verdade, o pai verdadeiro de todos, para que vocês não percam sua salvação.
+1	Opaβejẽ	opaβejẽ	PRON	pron	_	2	nmod	_	_
+2	peruβeteramo	uβ	NOUN	n	Case=Trans|Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	3	obl	_	_
+3	witekoβo	iko	VERB	v	Corf=Yes|Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+4	e	e	PART	prcl	_	3	discourse	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6-7	perekokatu	_	_	_	_	_	_	_	_
+6	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	8	nmod	_	_
+7	katu	katu	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	6	nmod	_	_
+8	kajema	kajem	NOUN	n	Case=Ref	3	xcomp	_	_
+9	swi	swi	ADP	posp	_	8	obl	_	_
+10	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =
+# text = Nikatui jẽ ko janeretama pupe jẽ ; pereko pupe pekajemetekatwaβo , ʃeswi , cristãoramo pereko pupe .
+# text_eng = (Camarão letters 1, 4) 
+# text_por = Isto não é bom em nossa terra, e vocês se desgraçam muitíssimo com seus atos, longe de mim, em sua condição de cristãos.
+1	Nikatui	katu	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+2	jẽ	jẽ	PART	prcl	_	1	discourse	_	_
+3	ko	ko	DET	dem	_	1	nsubj	_	_
+4	janeretama	etam	NOUN	n	Case=Ref|Clusivity=In|Number[psor]=Plur|Person[psor]=1|Rel=Cont	1	obl	_	_
+5	pupe	pupe	ADP	posp	_	4	case	_	_
+6	jẽ	jẽ	PART	prcl	_	1	discourse	_	_
+7	;	;	PUNCT	punct	_	1	punct	_	_
+8	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	10	obl	_	_
+9	pupe	pupe	ADP	posp	_	8	case	_	_
+10-11	pekajemetekatwaβo	_	_	_	_	_	_	_	_
+10	pekajem	kajem	NOUN	n	Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	parataxis	_	_
+11	etekatwaβo	etekatu	NOUN	n	VerbForm=Ger	10	advmod	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	cristãoramo	cristão	NOUN	n	Case=Trans	10	obl	_	_
+16	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	15	obl	_	_
+17	pupe	pupe	ADP	posp	_	15	case	_	_
+18	.	.	PUNCT	punct	_	15	punct	_	_
+
+# sent_id =
+# text = Ko ʃejeʔeŋa aimonó βejẽ tekoaiβa swi pepɨsɨrõawama rese .
+# text_eng = (Camarão letters 1, 5) 
+# text_por = Dirijo estas minhas palavras de novo para salvá-los do pecado.
+1	Ko	_	DET	_	_	2	det	_	_
+2	ʃejeʔeŋa	_	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
+3	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+4	βejẽ	βejẽ	ADV	ADV	adv	3	advcl	_	_
+5-6	tekoaiβa	_	_	_	_	_	_	_	_
+5	teko	iko	NOUN	n	Rel=Abs	8	obl	_	_
+6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
+7	swi	swi	ADP	posp	_	5	case	_	_
+8	pepɨsɨrõawama	pɨsɨrõ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2|Tense=Fut	3	advcl	_	_
+9	rese	ese	ADP	posp	Rel=Cont	8	case	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id =
+# text = Emonãramo , tapejkuwapaβẽ peposaŋa peẽβe ʃeremimonó .
+# text_eng = (Camarão letters 1, 6) 
+# text_por = Portanto, que todos vocês reconheçam o remédio que lhes mando.
+1	Emonãramo	emonãramo	ADV	ADV	adv	3	advmod	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	tapeikuwa	kwaβ	VERB	v	Mood=Perm|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
+4	paβẽ	paβẽ	PRON	pron	PronType=Tot	3	nsubj	_	_
+5	peposaŋa	posaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	3	obj	_	_
+6	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	_
+7	ʃeremimono	mono	NOUN	n	Dev=Pass|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	appos	_	_
+8	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =
+# text = Aiko niã ise peẽβe opaβejẽ maʔe mojaŋawama rese .
+# text_eng = (Camarão letters 1, 7) 
+# text_por = Estou pronto para fazer tudo por vocês.
+1	Aiko	iko	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	niã	niã	ADV	ADV	adv	1	advmod	_	_
+3	ise	ise	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+4	peẽβe	peẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	_
+5	opaβejẽ	opaβejẽ	PRON	pron	_	6	nmod	_	_
+6	maʔe	maʔe	NOUN	n	_	7	nmod	_	_
+7	mojaŋawama	mojaŋ	NOUN	n	Case=Ref|Tense=Fut	1	advcl	_	_
+8	rese	ese	ADP	posp	Rel=Cont	7	case	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id =
+# text = Sasɨete ã iseβe maʔeaiβa peremimojaŋwera rese ko marana perawsuβareʔɨma.
+# text_eng = (Camarão letters 1, 8) 
+# text_por = Esta guerra é muito dolorosa para mim, por causa das coisas más que vocês fizeram, e eu não tenho pena de vocês.
+1	Sasɨete	asɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
+2	ã	ã	PART	prcl	_	_	_	_	_
+3	iseβe	ise	PRON	pron	Case=Dat|Number=Sing|Person=1	1	obl	_	_
+4-5	maʔeaiβa	_	_	_	_	_	_	_	_
+4	maʔe	maʔe	NOUN	n	_	1	obl	_	_
+5	aiβa	aiβ	NOUN	n	Case=Ref	4	nmod	_	_
+6	peremimojaŋwera	mojaŋ	NOUN	n	Case=Ref|Dev=Pas|Number[psor]=Plur|Person[psor]=2|Tense=Past	4	appos	_	_
+7	rese	ese	ADP	posp	Rel=Cont	4	case	_	_
+8	ko	ko	DET	dem	_	9	det	_	_
+9	marana	maran	NOUN	n	Case=Ref	1	nsubj	_	_
+10	perawsuβareʔɨma	awsuβar	NOUN	n	Number[psor]=Plur|Person[psor]=2|Priv=Yes|Rel=Cont|VerbForm=Ger	1	xcomp	_	_
+11	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id =
+# text = Marãramo , ko ɨβɨ poreteramo perekoreme , amarãmojaŋɨpe orewasemaβa ri ?
+# text_eng = (Camarão letters 1, 9) 
+# text_por = Por que, se vocês são os verdadeiros habitantes desta terra, faço guerra com gente de nosso sangue ?
+1	Marãramo	marãramo	ADV	ADV	adv	9	advmod	_	_
+2	,	,	PUNCT	punct	_	9	punct	_	_
+3	ko	ko	DET	dem	_	4	nmod	_	_
+4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
+5	poreteramo	por	NOUN	n	Case=Trans|Intens=Yes	6	obl	_	_
+6	perekoreme	iko	NOUN	n	Mood=Irr|Number[psor]=Plur|Person[psor]=2|Rel=Cont	9	advcl	_	_
+7	,	,	PUNCT	punct	_	_	_	_	_
+8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
+8	amarã	amarãn	VERB	v	_	9	dep	_	_
+9	mojaŋɨpe	mojaŋ	VERB	v	Int=Yes	0	root	_	_
+10	orewasemaβa	wasem	NOUN	n	Case=ref|Clusivity=Ex|Nomzr=Abs	9	obl	_	_
+11	ri	ri	ADP	posp	_	9	case	_	_
+12	?	?	PUNCT	punct	_	9	punct	_	_
+
+# sent_id =
+# text = Nasawsuβarɨpɨramo ruã sekow ?
+# text_eng = (Camarão letters 1, 10) 
+# text_por = Como aqueles de quem ninguém se compadece estão eles?
+1	Nasawsuβarɨpɨramo	_	NOUN	n	Case=Trans|Nomzr=Pass|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+2	ruã	ruã	PART	prcl	Polarity=Neg	1	dep	_	_
+3	sekow	iko	NOUN	n	NonFoc=Yes|Rel=NCont	1	parataxis	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =
+# text = Maʔẽtepe e mokõj ɨwã maramojaŋape ?
+# text_eng = (Camarão letters 1, 11) 
+# text_por = twice already waging war ?
+1	Maʔẽtepe	maʔẽ	ADV	ADV	Foc=Yes|Int=Yes	3	advmod	_	_
+2	e	e	PART	prcl	_	3	dep	_	_
+3	mokõj	mokõj	NUM	num	NumType=Card	0	root	_	_
+4	ɨwã	ɨwã	ADV	ADV	adv	3	advmod	_	_
+5-6	maramojaŋape	_	_	_	_	_	_	_	_
+5	marã	marãn	NOUN	n	_	6	dep	_	_
+6	mojaŋape	mojaŋ	NOUN	n	Case=Loc|VerbForm=Ger	3	obl	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =
+# text = Orerese omaramojãβaʔe , apɨaβaiβa pitikoara , kajẽmaβi Serijaʔẽpe .
+# text_eng = (Camarão letters 1, 12) 
+# text_por = Os que lutaram com os homens maus para sua própria desonra, todos eles pereceram por nossas mãos em Serinhaem
+1	Orerese	ese	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	_
+2-3	omaramojãβaʔe	_	_	_	_	_	_	_	_
+2	omara	_	NOUN	n	Person=3	3	nmod	_	_
+3	mojãβaʔe	mojaŋ	NOUN	n	Nmzr=Rel	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5-6	apɨaβaíβa	_	_	_	_	_	_	_	_
+5	apɨaβ	apiaβ	NOUN	n	_	3	appos	_	_
+6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
+7	Pitikoara	Pitikoara	PROPN	propn	Case=Ref	5	nmod	_	_
+8	,	,	PUNCT	punct	_	3	punct	_	_
+9-10	kajẽmaβi	_	_	_	_	_	_	_	_
+9	kajẽm	kajẽm	NOUN	n	_	3	parataxis	_	_
+10	paβi	paβ	PRON	PRON	NonFoc=Yes|PronType=Tot	9	nsubj	_	_
+11	Serijaʔẽpe	Serijaʔẽ	PROPN	propn	Case=Loc	9	obl	_	_
+12	.	,	PUNCT	punct	_	9	punct	_	_
+
+# sent_id =
+# text = Apɨaβaíβa pɨtɨβõsara opakatu ikajemi kwese akɨ̃ maramojaŋape .
+# text_eng = (Camarão letters 1, 13) 
+# text_por = Todos os que ajudavam os homens maus morreram na batalha ontem, lamentavelmente.
+1	Apɨaβaíβa	_	NOUN	n	_	2	nmod	_	_
+2	pɨtɨβõsara	_	NOUN	n	_	4	nsubj	_	_
+3	opakatu	_	PRON	pron	_	2	nmod	_	_
+4	ikajemi	kajem	NOUN	n	_	0	root	_	_
+5	kwese	kwese	ADV	ADV	adv	4	advcl	_	_
+6	akɨ̃	akɨ̃	INTJ	_	_	4	discourse	_	_
+7	maramojaŋape	_	NOUN	n	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id =
+# text = Apɨaβaíβa irũramo oaʔo rese omaramojãβaʔepwera, opakatu ikajemi oreswi .
+# text_eng = (Camarão letters 1, 14) 
+# text_por = Os que lutaram com os homens maus para sua própria desonra, todos eles pereceram por nossas mãos.
+1	Apɨaβaíβa	_	NOUN	n	_	5	obl	_	_
+2	irũramo	_	ADP	posp	_	1	case	_	_
+3	oaʔo	_	NOUN	n	_	5	obl	_	_
+4	rese	ese	ADP	posp	Rel=Cont	3	case	_	_
+5	omaramojãβaʔepwera	_	NOUN	n	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	opakatu	_	PRON	pron	_	8	nsubj	_	_
+8	ikajemi	_	NOUN	n	_	5	parataxis	_	_
+9	oreswi	swi	ADP	posp	_	8	obl	_	_
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id =
+# text = .
+# text_eng = (Camarão letters 1, 15) 
+# text_por = Hoje não se poupou a vida deles
+1	Nojemeʔeŋi	meʔeŋ	VERB	v	Person=3|Polarity=Neg|Reflex=Yes	0	root	_	_
+2	jeí	_	ADV	ADV	adv	1	advmod	_	_
+3	ãwa	_	PRON	pron	_	1	obl	_	_
+4	supe	_	ADJ	_	_	3	case	_	_
+5	quartel	_	NOUN	n	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = Marãramo, ko ɨβɨ poreteramo ãwa rekoreme? 
+# text_eng = (Camarão letters 1, 16) 
+# text_por = Por que isso, se eles são os habitantes verdadeiros desta terra?
+1	Marãnamo	_	ADV	ADV	adv	5	advcl	_	_
+2	,	,	PUNCT	_	_	1	dep	_	_
+3	ko	ko	DET	_	_	4	det	_	_
+4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
+5	poreteramo	_	NOUN	n	_	0	root	_	_
+6	ãwa	ãwa	DET	_	_	5	nsubj	_	_
+7	rekoreme	_	NOUN	n	_	5	aux	_	_
+8	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id =
+# text = Pejkuwakatu karaiβa opaβejẽ maʔeaβa peremimojaŋa rese, opaβẽ culpa sejtɨkite aʔereme, koβaʔe swi pepɨsɨrõawama rese
+# text_eng = (Camarão letters 1, 17) 
+# text_por = Vocês conhecem bem os portugueses por todas as coisas más que vocês fazem, mas vocês rejeitaram toda a culpa, então, para se livrarem desta.
+1	Peikuwakatu	kwaβ	VERB	v	_	0	root	_	_
+2	karaiβa	karaiβ	NOUN	n	_	1	obj	_	_
+3	opaβejẽ	βejẽ	NOUN	n	_	4	nmod	_	_
+4	maʔeaiβa	_	NOUN	n	_	1	obl	_	_
+5	peremimojaŋa	_	NOUN	n	_	4	nmod	_	_
+6	rese	ese	ADP	posp	Rel=Cont	4	case	_	_
+7	,	_	PUNCT	_	_	1	punct	_	_
+8	opaβẽ	_	PRON	pron	_	9	nmod	_	_
+9	culpa	_	NOUN	n	_	10	obj	_	_
+10	sejtɨkite	_	NOUN	n	_	1	parataxis	_	_
+11	aʔereme	_	ADV	ADV	adv	10	advmod	_	_
+12	,	_	PUNCT	_	_	10	punct	_	_
+13	koβaʔe	_	PRON	pron	_	15	obl	_	_
+14	swi	_	ADP	posp	_	13	case	_	_
+15	pepɨsɨrõawama	_	NOUN	n	_	10	xcomp	_	_
+16	rese	ese	ADP	posp	Rel=Cont	15	obl	_	_
+
+# sent_id =
+# text = Ko ise perekorama, peremimojaŋwama, perekomojaŋaβa ajmono βejẽ peẽβe tapejmoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme, ojoirũramo pererekoaíme .
+# text_eng = (Camarão letters 1, 18) 
+# text_por = Eis que eu lhes indico novamente o que vocês devem fazer, as determinações a seguir, para que vocês não tenham dificuldades com os homens maus se eles maltratarem vocês entre si.
+1	Ko	ko	ADV	ADV	adv	2	discourse	_	_
+2	ise	_	PRON	pron	_	8	dislocated	_	_
+3	perekorama	_	NOUN	n	_	8	obj	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	peremimojaŋwama	_	NOUN	n	_	3	conj	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	perekomojaŋaβa	_	NOUN	n	_	5	conj	_	_
+8	aimono	_	VERB	v	_	_	_	_	_
+9	βejẽ	βejẽ	ADV	ADV	adv	8	advmod	_	_
+10	peẽβe	_	PRON	pron	_	8	obl	_	_
+11	tapeimoaβaíβ	_	VERB	v	_	8	advcl	_	_
+12	ɨmẽ	_	PART	prcl	_	11	dep	_	_
+13	apɨaβaiβa	_	NOUN	n	_	11	obj	_	_
+14	ojopaʔũme	_	PRON	pron	_	17	obl	_	_
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	ojoirũramo	_	PRON	pron	_	17	obl	_	_
+17	pererekoaíme	_	NOUN	n	_	13	advcl	_	_
+18	.	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id =
+# text = Iswi pesemawama maʔe apɨaβaíβa rɨrɨja swi pejeaŋune .
+# text_eng = (Camarão letters 1, 19) 
+# text_por = A saída de vocês do meio deles será algo mais que um simples abalo de gente ruim e vocês ficarão com medo.
+1	Iswi	_	ADP	posp	_	2	obl	_	_
+2	pesemawama	_	NOUN	n	_	3	nsubj	_	_
+3	maʔe	_	NOUN	n	_	0	root	_	_
+4	apɨaβaíβa	_	NOUN	n	_	5	nmod	_	_
+5	rɨrɨja	_	NOUN	n	_	3	obl	_	_
+6	swi	swi	ADP	posp	_	5	case	_	_
+7	pejeaŋune	_	VERB	_	_	3	parataxis	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id =
+# text = Okajemeta ʔɨwama, apɨaβaíβa, oreswi .
+# text_eng = (Camarão letters 1, 20) 
+# text_por = Muitos comandantes morrerão, homens ruins, por nossas mãos.
+1	Okajemeta	kajem	VERB	_	Intens=Yes|Person=3	0	root	_	_
+2	ʔɨwama	ʔɨβ	NOUN	n	Case=Ref|Tense=Fut	1	nsubj	_	_
+3	,	,	PUNCT	punct	_	_	_	_	_
+4	apɨaβaiβa	_	NOUN	n	_	2	appos	_	_
+5	,	,	PUNCT	punct	_	_	_	_	_
+6	oreswi	swi	ADP	posp	Clusivity=Ex|Number=Plur|Person=1	1	obl	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id =
+# text = Kwese orowar βejẽ tuβisaβa, opaβejẽ ianama, jeroβjasaβa .
+# text_eng = (Camarão letters 1, 21) 
+# text_por = Ontem prendemos mais quatro chefes e toda a sua família em que confiavam
+1	Kwese	kwese	ADV	ADV	adv	2	advmod	_	_
+2	orowar	ʔar	VERB	v	Clusivity=Ex|Number[subj]=Plur|Person[subj]=1	0	root	_	_
+3	βejẽ	βejẽ	ADV	adv	_	2	advcl	_	_
+4	4	4	NUM	num	_	5	nummod	_	_
+5	tuβisaβa	uβisaβ	NOUN	n	Case=Ref|Rel=Abs	2	obj	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	8	nmod	_	_
+8	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	5	conj	_	_
+9	,	,	PUNCT	punct	_	8	appos	_	_
+10	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Abs|Reflex=Yes	8	appos	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
+
+# sent_id =
+# text = Quatro cento iβoja ojopɨtera rupi orowar .
+# text_eng = (Camarão letters 1, 22) 
+# text_por = Capturamos a metade dos quatrocentos subordinados deles
+1	Quatro	_	NUM	_	_	2	nummod	_	_
+2	cento	_	NUM	_	_	4	nummod	_	_
+3	iβoja	βoj	NOUN	_	Case=Ref|Rel=NCont	2	nmod	_	_
+4	ojopɨtera	ojopɨter	NOUN	_	Case=Ref	6	obj	_	_
+5	rupi	upi	ADP	_	Rel=Cont	4	case	_	_
+6	orowar	jar	VERB	vt	Clusivity=Ex|Number[subj]=Plur|Person[subj]=1	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = Amõ okajem oreswi irũramo .
+# text_eng = (Camarão letters 1, 23) 
+# text_por = Alguns morreram com eles por nossas mãos .
+1	Amõ	amõ	PRON	pron	PronType=Ind	2	nsubj	_	_
+2	okajem	kajem	VERB	_	Person[subj]=3	0	root	_	_
+3	oreswi	oreswi	ADP	_	Clusivity=Ex|Number[subj]=Plur|Person=1	2	obl	_	_
+4	irũramo	irũramo	ADP	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id =
+# text = Okajẽ capitão Andre de Souza βioβɨ, capitão Matheus Monteiro, capitão Gaspar Ijiβakwagiriβa opamejẽ iβojaete aβe.
+# text_eng = (Camarão letters 1, 24) 
+# text_por = Morreu o capitão André de Souza Biobi, o capitão Mateus Monteiro, o capitão Gaspar Ijibaquajiribã e também todos os seus melhores subordinados.
+1	Okajẽ	kajẽm	VERB	_	Person[subj]=3	0	root	_	_
+2	capitão	capitão	NOUN	_	_	3	nmod	_	_
+3	Andre	_	PROPN	_	_	1	nsubj	_	_
+4	de	_	X	_	_	3	flat	_	_
+5	Souza	_	PROPN	_	_	3	flat	_	_
+6	βioβɨ	_	PROPN	_	_	3	flat	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	capitão	capitão	NOUN	_	_	9	nmod	_	_
+9	Matheus	_	PROPN	_	_	3	conj	_	_
+10	Monteiro	_	PROPN	_	_	9	flat	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	capitão	capitão	NOUN	_	_	13	nmod	_	_
+13	Gaspar	_	PROPN	_	_	3	conj	_	_
+14	Ijiβakwagiriβa	_	PROPN	_	_	13	flat	_	_
+15	opamejẽ	opamejẽ	PRON	pron	PronType=Tot	16	nmod	_	_
+16	iβojaete	βoj	NOUN	_	Number=Plur|Rel=NCont	3	conj	_	_
+17	aβe	aβe	ADV	adv	_	16	cc	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+
 # sent_id = 0055.6
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
 # text_eng = Camarão leter 5,1
