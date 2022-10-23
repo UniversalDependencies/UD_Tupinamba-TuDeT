@@ -6387,7 +6387,7 @@
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12-13	perekomojaŋaβa	_	_	_	_	_	_	_	_
 12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
-13	mojaŋaβa	mojaŋ	NOUN	n	Case=ref|Nomzr=Abs	12	nmod	_	_
+13	mojaŋaβa	mojaŋ	NOUN	n	Case=Ref|Nomzr=Abs	12	nmod	_	_
 14	aimono	mono	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
 15	βejẽ	βejẽ	ADV	ADV	adv	14	advmod	_	_
 16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
@@ -6431,7 +6431,7 @@
 9	pupe	pupe	ADP	posp	_	8	case	_	_
 10-11	pekajemetekatwaβo	_	_	_	_	_	_	_	_
 10	pekajem	kajem	NOUN	n	Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	parataxis	_	_
-11	etekatwaβo	etekatu	NOUN	n	VerbForm=Ger	10	advmod	_	_
+11	etekatwaβo	etekatu	VERB	v	VerbForm=Ger	10	advmod	_	_
 12	,	,	PUNCT	punct	_	10	punct	_	_
 13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
@@ -6457,7 +6457,7 @@
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0055.5
-# text = Emonãramo , tapejkuwa paβẽ peposaŋa peẽβe ʃeremimono .
+# text = Emonãramo , tapeikuwa paβẽ peposaŋa peẽβe ʃeremimono .
 # text_eng = (Camarão letters 1, 6) 
 # text_por = Portanto, que todos vocês reconheçam o remédio que lhes mando.
 1	Emonãramo	emonãramo	ADV	adv	_	3	advmod	_	_
