@@ -6431,7 +6431,7 @@
 9	pupe	pupe	ADP	posp	_	8	case	_	_
 10-11	pekajemetekatwaβo	_	_	_	_	_	_	_	_
 10	pekajem	kajem	NOUN	n	Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	parataxis	_	_
-11	etekatwaβo	etekatu	ADV	v	VerbForm=Ger	10	advmod	_	_
+11	etekatwaβo	etekatu	ADV	v	_	10	advmod	_	_
 12	,	,	PUNCT	punct	_	10	punct	_	_
 13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
@@ -6547,16 +6547,16 @@
 1	Orerese	ese	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	_
 2-3	omaramojãβaʔe	_	_	_	_	_	_	_	_
 2	omara	_	NOUN	n	Person=3	3	nmod	_	_
-3	mojãβaʔe	mojaŋ	NOUN	n	Nmzr=Rel	0	root	_	_
+3	mojãβaʔe	mojaŋ	NOUN	n	Nomzr=Rel	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5-6	apɨaβaiβa	_	_	_	_	_	_	_	_
 5	apɨaβ	apiaβ	NOUN	n	_	3	appos	_	_
 6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
-7	Pitikoara	Pitikoara	PROPN	propn	Case=Ref	5	nmod	_	_
+7	Pitikoara	Pitikoara	PROPN	propn	_	5	nmod	_	_
 8	,	,	PUNCT	punct	_	3	punct	_	_
 9-10	kajẽmaβi	_	_	_	_	_	_	_	_
 9	kajẽm	kajẽm	NOUN	n	_	3	parataxis	_	_
-10	paβi	paβ	PRON	PRON	NonFoc=Yes|PronType=Tot	9	nsubj	_	_
+10	paβi	paβ	PRON	PRON	PronType=Tot	9	nsubj	_	_
 11	Serijaʔẽpe	Serijaʔẽ	PROPN	propn	Case=Loc	9	obl	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_
 
@@ -6604,7 +6604,7 @@
 # text_eng = (Camarão letters 1, 16) 
 # text_por = Por que isso, se eles são os habitantes verdadeiros desta terra?
 1	Marãnamo	_	ADV	adv	_	5	advcl	_	_
-2	,	,	PUNCT	_	_	1	dep	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
 3	ko	ko	DET	_	_	4	det	_	_
 4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
 5	poreteramo	_	NOUN	n	_	0	root	_	_
@@ -6714,7 +6714,7 @@
 # text_por = Alguns morreram com eles por nossas mãos .
 1	Amõ	amõ	PRON	pron	PronType=Ind	2	nsubj	_	_
 2	okajem	kajem	VERB	_	Person[subj]=3	0	root	_	_
-3	oreswi	oreswi	ADP	_	Clusivity=Ex|Number[subj]=Plur|Person=1	2	obl	_	_
+3	oreswi	oreswi	ADP	_	Clusivity=Ex|Number=Plur|Person=1	2	obl	_	_
 4	irũramo	irũramo	ADP	_	_	2	obl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
