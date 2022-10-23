@@ -6488,7 +6488,7 @@
 # text_eng = (Camarão letters 1, 8) 
 # text_por = Esta guerra é muito dolorosa para mim, por causa das coisas más que vocês fizeram, e eu não tenho pena de vocês.
 1	Sasɨete	asɨ	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
-2	ã	ã	PART	prcl	_	_	_	_	_
+2	ã	ã	PART	prcl	_	1	discourse	_	_
 3	iseβe	ise	PRON	pron	Case=Dat|Number=Sing|Person=1	1	obl	_	_
 4-5	maʔeaiβa	_	_	_	_	_	_	_	_
 4	maʔe	maʔe	NOUN	n	_	1	obl	_	_
@@ -6509,7 +6509,7 @@
 3	ko	ko	DET	dem	_	4	nmod	_	_
 4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
 5	poreteramo	por	NOUN	n	Case=Tra|Intens=Yes	6	obl	_	_
-6	perekoreme	iko	NOUN	n	Mood=Irr|Number[psor]=Plur|Person[psor]=2|Rel=Cont	9	advcl	_	_
+6	perekoreme	iko	NOUN	n	Mood=Sub|Number[psor]=Plur|Person[psor]=2|Rel=Cont	9	advcl	_	_
 7	,	,	PUNCT	punct	_	9	punct	_	_
 8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
 8	amarã	amarãn	VERB	v	_	9	dep	_	_
@@ -6522,7 +6522,7 @@
 # text = Nasawsuβarɨpɨramo ruã sekow ?
 # text_eng = (Camarão letters 1, 10) 
 # text_por = Como aqueles de quem ninguém se compadece estão eles?
-1	Nasawsuβarɨpɨramo	_	NOUN	n	Case=Tra|Nomzr=Pass|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+1	Nasawsuβarɨpɨramo	_	NOUN	n	Case=Tra|Nomzr=Pas|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
 2	ruã	ruã	PART	prcl	Polarity=Neg	1	dep	_	_
 3	sekow	iko	NOUN	n	NonFoc=Yes|Rel=NCont	1	parataxis	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
