@@ -263,26 +263,26 @@
 # text_eng = They say, by the sign of the holy cross, free us, God, our lord, from our lord. In the name of the father, of the son, of the holy ghost. Book 1 chap 2
 # text_por = 
 1	SantaCruz	cruz	NOUN	n	_	2	nmod	_	_
-2	raʔaŋaβa	aʔaŋ	NOUN	n	Case=Ref|Nomzr=Circ	5	advcl	_	_
+2	raʔaŋaβa	aʔaŋ	NOUN	n	Case=Ref|Nomzr=Circ	5	obl	_	_
 3	rese	ese	ADP	posp	Rel=Cont	2	case	_	_
-4	,	,	PUNCT	punct	_	2	punct	_	_
-5	orepɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	21	ccomp	_	_
-6	jepe	jepe	PRON	_	_	5	nsubj	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	orepɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
+6	jepe	jepe	PRON	_	_	5	obl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
-8	Tupã	Tupã	PROPN	propn	_	5	nsubj	_	_
+8	Tupã	Tupã	PROPN	propn	_	5	vocative	_	_
 9	orejar	jar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Rel=Cont	8	appos	_	_
-10	,	,	PUNCT	punct	_	8	punct	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
 11	oreamotareʔɨmara	_	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Ag|Number=Plur|Person=1|Polarity=Neg	5	obl	_	_
-12	swi	swi	ADP	posp	Rel=Cont	11	obl	_	_
-13	.	.	PUNCT	punct	_	11	punct	_	_
+12	swi	swi	ADP	posp	Rel=Cont	11	case	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
 14	Tuβa	uβa	NOUN	n	Rel=NCont	19	nmod	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
-16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	14	conj	_	_
+16	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	19	nmod	_	_
 17	,	,	PUNCT	punct	_	16	punct	_	_
-18	EspiritoSanto	EspiritoSanto	PROPN	_	_	14	conj	_	_
-19	rera	er	NOUN	n	Rel=Cont	5	parataxis	_	_
+18	EspiritoSanto	EspiritoSanto	PROPN	_	_	19	nmod	_	_
+19	rera	er	NOUN	n	Rel=Cont	5	obl	_	_
 20	pupe	pupe	ADP	posp	Rel=Cont	19	case	_	_
-21	eʔi	ʔi	VERB	v	Person=3	0	root	_	_
+21	eʔi	ʔi	VERB	v	Person=3	5	parataxis	_	_
 
 # sent_id = 7
 # text = Marãnamope ase osɨβape joβasaβa moini ?
@@ -980,7 +980,7 @@
 1-3	Tekoaŋaipaβokaramo	_	_	_	_	_	_	_	_
 1	teko	eko	NOUN	n	Rel=Hum	3	nmod	_	_
 2	aŋaipaβ	aŋaipaβ	NOUN	n	_	1	nmod	_	_
-3	okaramo	okar	NOUN	n	Case=Tra	6	nsubj	_	_
+3	okaramo	okar	NOUN	n	Case=Tra	6	obl	_	_
 4	janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	6	nsubj	_	_
 5	JesusCristo	JesusCristo	PROPN	pn	_	4	appos	_	_
 6-7	rekoreme	_	_	_	_	_	_	_	_
