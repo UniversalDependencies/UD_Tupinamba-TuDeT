@@ -6405,7 +6405,7 @@
 # text_eng = (Camarão letters 1, 3) 
 # text_por = Por ser eu, na verdade, o pai verdadeiro de todos, para que vocês não percam sua salvação.
 1	Opaβejẽ	opaβejẽ	PRON	pron	_	2	nmod	_	_
-2	peruβeteramo	uβ	NOUN	n	Case=Trans|Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	3	obl	_	_
+2	peruβeteramo	uβ	NOUN	n	Case=Tra|Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	3	obl	_	_
 3	witekoβo	iko	VERB	v	Corf=Yes|Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 4	e	e	PART	prcl	_	3	discourse	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
@@ -6435,7 +6435,7 @@
 12	,	,	PUNCT	punct	_	10	punct	_	_
 13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
-15	cristãoramo	cristão	NOUN	n	Case=Trans	10	obl	_	_
+15	cristãoramo	cristão	NOUN	n	Case=Tra	10	obl	_	_
 16	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	15	obl	_	_
 17	pupe	pupe	ADP	posp	_	15	case	_	_
 18	.	.	PUNCT	punct	_	15	punct	_	_
@@ -6493,7 +6493,7 @@
 4-5	maʔeaiβa	_	_	_	_	_	_	_	_
 4	maʔe	maʔe	NOUN	n	_	1	obl	_	_
 5	aiβa	aiβ	NOUN	n	Case=Ref	4	nmod	_	_
-6	peremimojaŋwera	mojaŋ	NOUN	n	Case=Ref|Dev=Pas|Number[psor]=Plur|Person[psor]=2|Tense=Past	4	appos	_	_
+6	peremimojaŋwera	mojaŋ	NOUN	n	Case=Ref|Dev=Pass|Number[psor]=Plur|Person[psor]=2|Tense=Past	4	appos	_	_
 7	rese	ese	ADP	posp	Rel=Cont	4	case	_	_
 8	ko	ko	DET	dem	_	9	det	_	_
 9	marana	maran	NOUN	n	Case=Ref	1	nsubj	_	_
@@ -6508,7 +6508,7 @@
 2	,	,	PUNCT	punct	_	9	punct	_	_
 3	ko	ko	DET	dem	_	4	nmod	_	_
 4	ɨβɨ	ɨβɨ	NOUN	n	_	5	nmod	_	_
-5	poreteramo	por	NOUN	n	Case=Trans|Intens=Yes	6	obl	_	_
+5	poreteramo	por	NOUN	n	Case=Tra|Intens=Yes	6	obl	_	_
 6	perekoreme	iko	NOUN	n	Mood=Irr|Number[psor]=Plur|Person[psor]=2|Rel=Cont	9	advcl	_	_
 7	,	,	PUNCT	punct	_	_	_	_	_
 8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
@@ -6522,7 +6522,7 @@
 # text = Nasawsuβarɨpɨramo ruã sekow ?
 # text_eng = (Camarão letters 1, 10) 
 # text_por = Como aqueles de quem ninguém se compadece estão eles?
-1	Nasawsuβarɨpɨramo	_	NOUN	n	Case=Trans|Nomzr=Pass|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+1	Nasawsuβarɨpɨramo	_	NOUN	n	Case=Tra|Nomzr=Pass|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
 2	ruã	ruã	PART	prcl	Polarity=Neg	1	dep	_	_
 3	sekow	iko	NOUN	n	NonFoc=Yes|Rel=NCont	1	parataxis	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
@@ -6742,14 +6742,14 @@
 18	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = cat_let1_25
-# text = Peimoʔaŋ ɨmẽ, tuisamojaŋape orewasemaβa supe, quartel jemeʔeŋa.
+# text = Peimoʔaŋ ɨmẽ , tuisamojaŋape orewasemaβa supe , quartel jemeʔeŋa .
 # text_eng = (Camarão letters 1, 25) 
 # text_por = Não pensem que se poupa a vida dos potiguaras (da gente nossa) por esses terem sido feitos chefes.
-1	Peimoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+1	Peimoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=Plural|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	ɨmẽ	ɨmẽ	PART	_	Polarity=Neg	1	dep	_	_
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	tuisamojaŋape	_	NOUN	_	_	1	obl	_	_
-5	orewasemaβa	_	NOUN	_	Case=Ref|Clusivity=ex|Nomzr=Abs|Number=Plur|Person=1	4	obl	_	_
+5	orewasemaβa	_	NOUN	_	Case=Ref|Clusivity=Ex|Nomzr=Abs|Number=Plur|Person=1	4	obl	_	_
 6	supe	supe	ADP	_	CAse=Dat	5	case	_	_
 7	,	,	PUNCT	_	_	1	punct	_	_
 8	quartel	quartel	NOUN	_	_	9	obj	_	_
@@ -6757,14 +6757,14 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = cat_let1_26
-# text = Pejmoʔaŋ ɨmẽ apɨaβaíβa oreswi pepɨsɨrõ.
+# text = Pejmoʔaŋ ɨmẽ apɨaβaíβa oreswi pepɨsɨrõ .
 # text_eng = (Camarão letters 1, 26) 
 # text_por = Não pensem que os homens maus livram vocês de nós
-1	Pejmoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+1	Pejmoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number[subj]=Plural|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	ɨmẽ	_	PART	_	_	1	dep	_	_
 3-4	apɨaβaíβa	_	_	_	_	_	_	_	_
 3	apɨaβ	_	NOUN	_	_	6	nmod	_	_
-4	aíβa	_	NOUN	_	Cas	3	nmod	_	_
+4	aíβa	_	NOUN	_	_	3	nmod	_	_
 5	oreswi	_	ADP	_	_	6	obl	_	_
 6	pepɨsɨrõ	_	NOUN	_	_	1	obj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
@@ -6781,13 +6781,13 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cat_let1_28
-# text = Marãnamo, soβajɨwaramo sekoreme?
+# text = Marãnamo , soβajɨwaramo sekoreme ?
 # text_eng = (Camarão letters 1, 28) 
 # text_por =  E por que, se eles são estrangeiros?
 1	Marãnamo	_	ADV	_	_	3	advmod	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	soβajɨwaramo	_	NOUN	_	Case=Trans|Rel=NCont	0	root	_	_
-4	sekoreme	iko	AUX	_	Mood=Subj	3	aux	_	_
+3	soβajɨwaramo	_	NOUN	_	Case=Tra|Rel=NCont	0	root	_	_
+4	sekoreme	iko	AUX	_	Mood=Sub	3	aux	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cat_let1_29
@@ -6806,7 +6806,7 @@
 9	aiβa	aíβ	NOUN	_	_	8	nmod	_	_
 10-11	maranirũramo	_	_	_	_	_	_	_	_
 10	maran	maran	NOUN	_	_	11	nmod	_	_
-11	irũramo	irũ	NOUN	_	Case=Trans	6	obl	_	_
+11	irũramo	irũ	NOUN	_	Case=Tra	6	obl	_	_
 12	owekorama	eko	NOUN	_	Case=Ref|Corf=Yes|Tense=Fut	8	obl	_	_
 13	rese	ese	ADP	_	Re=NCont	12	case	_	_
 14	.	.	PUNCT	_	_	3	punct	_	_
