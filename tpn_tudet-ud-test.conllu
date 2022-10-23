@@ -6549,7 +6549,7 @@
 2	omara	_	NOUN	n	Person=3	3	nmod	_	_
 3	mojãβaʔe	mojaŋ	NOUN	n	Nmzr=Rel	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5-6	apɨaβaíβa	_	_	_	_	_	_	_	_
+5-6	apɨaβaiβa	_	_	_	_	_	_	_	_
 5	apɨaβ	apiaβ	NOUN	n	_	3	appos	_	_
 6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
 7	Pitikoara	Pitikoara	PROPN	propn	Case=Ref	5	nmod	_	_
@@ -6613,7 +6613,7 @@
 8	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 0055.16
-# text = Peikuwakatu karaiβa opaβejẽ maʔeaβa peremimojaŋa rese, opaβẽ culpa sejtɨkite aʔereme, koβaʔe swi pepɨsɨrõawama rese
+# text = Peikuwakatu karaiβa opaβejẽ maʔeaiβa peremimojaŋa rese , opaβẽ culpa sejtɨkite aʔereme, koβaʔe swi pepɨsɨrõawama rese
 # text_eng = (Camarão letters 1, 17) 
 # text_por = Vocês conhecem bem os portugueses por todas as coisas más que vocês fazem, mas vocês rejeitaram toda a culpa, então, para se livrarem desta.
 1	Peikuwakatu	kwaβ	VERB	v	_	0	root	_	_
@@ -6634,7 +6634,7 @@
 16	rese	ese	ADP	posp	Rel=Cont	15	obl	_	_
 
 # sent_id = 0055.17
-# text = Ko ise perekorama , peremimojaŋwama , perekomojaŋaβa ajmono βejẽ peẽβe tapejmoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme , ojoirũramo pererekoaíme .
+# text = Ko ise perekorama , peremimojaŋwama , perekomojaŋaβa aimono βejẽ peẽβe tapejmoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme , ojoirũramo pererekoaíme .
 # text_eng = (Camarão letters 1, 18) 
 # text_por = Eis que eu lhes indico novamente o que vocês devem fazer, as determinações a seguir, para que vocês não tenham dificuldades com os homens maus se eles maltratarem vocês entre si.
 1	Ko	ko	ADV	adv	_	2	discourse	_	_
@@ -6681,23 +6681,22 @@
 6	oreswi	swi	ADP	posp	Clusivity=Ex|Number=Plur|Person=1	1	obl	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.
+# sent_id = 0055.20
 # text = Kwese orowar βejẽ tuβisaβa , opaβejẽ ianama , jeroβjasaβa .
 # text_eng = (Camarão letters 1, 21) 
 # text_por = Ontem prendemos mais quatro chefes e toda a sua família em que confiavam
 1	Kwese	kwese	ADV	adv	_	2	advmod	_	_
 2	orowar	ʔar	VERB	v	Clusivity=Ex|Number[subj]=Plur|Person[subj]=1	0	root	_	_
 3	βejẽ	βejẽ	ADV	adv	_	2	advcl	_	_
-4	4	4	NUM	num	_	5	nummod	_	_
-5	tuβisaβa	uβisaβ	NOUN	n	Case=Ref|Rel=Abs	2	obj	_	_
-6	,	,	PUNCT	punct	_	2	punct	_	_
-7	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	8	nmod	_	_
-8	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	5	conj	_	_
-9	,	,	PUNCT	punct	_	8	appos	_	_
-10	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Abs|Reflex=Yes	8	appos	_	_
-11	.	.	PUNCT	punct	_	10	punct	_	_
+4	tuβisaβa	uβisaβ	NOUN	n	Case=Ref|Rel=Abs	2	obj	_	_
+5	,	,	PUNCT	punct	_	2	punct	_	_
+6	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	7	nmod	_	_
+7	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	4	conj	_	_
+8	,	,	PUNCT	punct	_	7	appos	_	_
+9	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Abs|Reflex=Yes	7	appos	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 0055.
+# sent_id = 0055.21
 # text = Quatro cento iβoja ojopɨtera rupi orowar .
 # text_eng = (Camarão letters 1, 22) 
 # text_por = Capturamos a metade dos quatrocentos subordinados deles
@@ -6709,7 +6708,7 @@
 6	orowar	jar	VERB	vt	Clusivity=Ex|Number[subj]=Plur|Person[subj]=1	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 0055.
+# sent_id = 0055.22
 # text = Amõ okajem oreswi irũramo .
 # text_eng = (Camarão letters 1, 23) 
 # text_por = Alguns morreram com eles por nossas mãos .
@@ -6719,8 +6718,8 @@
 4	irũramo	irũramo	ADP	_	_	2	obl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 0055.
-# text = Okajẽ capitão Andre de Souza βioβɨ , capitão Matheus Monteiro , capitão Gaspar Ijiβakwagiriβa opamejẽ iβojaete aβe.
+# sent_id = 0055.23
+# text = Okajẽ capitão Andre de Souza βioβɨ , capitão Matheus Monteiro , capitão Gaspar Ijiβakwagiriβa opamejẽ iβojaete aβe .
 # text_eng = (Camarão letters 1, 24) 
 # text_por = Morreu o capitão André de Souza Biobi, o capitão Mateus Monteiro, o capitão Gaspar Ijibaquajiribã e também todos os seus melhores subordinados.
 1	Okajẽ	kajẽm	VERB	_	Person[subj]=3	0	root	_	_
@@ -7380,3 +7379,4 @@
 1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
 2	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
 3	osɨkamo	sɨk	VERB	v	Mood=Sub|Person[subj]=3	0	root	_	_
+
