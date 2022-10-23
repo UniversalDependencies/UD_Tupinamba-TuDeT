@@ -957,7 +957,7 @@
 # text = maʔepe imoŋaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?
 # text_eng =  
 # text_por = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
-1	maʔepe	maʔe	PRON	pcl	Int=Yes	3	advmod	_	_
+1	maʔepe	maʔe	PRON	pcl	Int=Yes	3	obj	_	_
 2	imoŋaraiβɨpɨra	moŋaraiβ	NOUN	n	Case=Ref|Nomzr=Pas|Rel=NCont	3	nsubj	_	_
 3	jeroβjasaβete	jeroβja	NOUN	n	_	0	root	_	_
 4	Tupã	Tupã	NOUN	n	_	5	nmod	_	_
