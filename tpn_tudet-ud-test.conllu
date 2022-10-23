@@ -6377,7 +6377,7 @@
 1	Aimono	mono	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 2	βejẽ	βejẽ	ADV	ADV	_	1	advmod	_	_
 3	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	1	obj	_	_
-4	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	_	_	_	_
+4	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	5	nmod	_	_
 5	peẽβe	peẽ	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
 6	,	,	PUNCT	punct	_	1	punct	_	_
 7	xeraʔɨreta	aʔɨr	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	vocative	_	_
@@ -6431,7 +6431,7 @@
 9	pupe	pupe	ADP	posp	_	8	case	_	_
 10-11	pekajemetekatwaβo	_	_	_	_	_	_	_	_
 10	pekajem	kajem	NOUN	n	Intens=Yes|Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	parataxis	_	_
-11	etekatwaβo	etekatu	VERB	v	VerbForm=Ger	10	advmod	_	_
+11	etekatwaβo	etekatu	ADV	v	VerbForm=Ger	10	advmod	_	_
 12	,	,	PUNCT	punct	_	10	punct	_	_
 13	ʃeswi	swi	ADP	posp	_	10	discourse	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
@@ -6462,7 +6462,7 @@
 # text_por = Portanto, que todos vocês reconheçam o remédio que lhes mando.
 1	Emonãramo	emonãramo	ADV	adv	_	3	advmod	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
-3	tapeikuwa	_	VERB	v	Mood=Perm|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
+3	tapeikuwa	_	VERB	v	Mood=Per|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 4	paβẽ	paβẽ	PRON	pron	PronType=Tot	3	nsubj	_	_
 5	peposaŋa	posaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	3	obj	_	_
 6	peẽβe	peẽβe	PRON	pron	_	7	obl	_	_
