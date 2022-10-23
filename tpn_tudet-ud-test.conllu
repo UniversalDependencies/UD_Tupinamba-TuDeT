@@ -3013,7 +3013,7 @@
 # text_por = Você estava realmente dormindo?
 1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	_	_
 2	ipo	ipo	ADV	adv	_	1	advmod	_	_
-3	ejupa	juβ	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	_	_
+3	ejupa	juβ	VERB	v	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	xcomp	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 5656562135
@@ -3022,7 +3022,7 @@
 # text_por = Você estava realmente dormindo?
 1	Erekepe	ker	VERB	vi	Int=Yes|Number=Sing|Person[subj]=2	0	root	_	_
 2	ipo	ipo	ADV	adv	_	1	advmod	_	_
-3	ejupa	juβ	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	aux	_	_
+3	ejupa	juβ	VERB	v	Corf=Yes|Number=Sing|Person[subj]=2|VerbForm=Ger	1	xcomp	_	_
 4	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 564499956565
@@ -3379,7 +3379,7 @@
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	okaja	kaj	VERB	v	Person=3|VerbForm=Ger	4	advcl	_	_
 7	tatape	ata	NOUN	n	Case=Loc|Rel=Hum	6	obl	_	_
-8	oupa	juβ	AUX	aux	Person=3|VerbForm=Ger	6	aux	_	_
+8	oupa	juβ	VERB	v	Person=3|VerbForm=Ger	6	xcomp	_	_
 
 # sent_id = 000333444
 # text = Mokojõ , Tupã rawsupa , ko taβa pupe sekow , ojepɨsɨrõmo okupa .
@@ -3396,7 +3396,7 @@
 9	sekow	eko	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	_	_
-12	okupa	kuβ	AUX	aux	Person=3|VerbForm=Ger	11	aux	_	_
+12	okupa	kuβ	VERB	v	Person=3|VerbForm=Ger	11	xcomp	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = 8782222231
@@ -3712,7 +3712,7 @@
 2	ume	ume	PART	prcl	_	1	dep	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	tiajekotɨruŋ	jekotɨruŋ	VERB	v	Clusivity=In|Mood=Per|Number=Plur|Person[subj]=1|Reflex=Yes	1	parataxis	_	_
-5	jajupa	juβ	AUX	aux	Clusivity=In|Number=Plur|Person[subj]=1|VerbForm=Ger	4	aux	_	_
+5	jajupa	juβ	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|VerbForm=Ger	4	xcomp	_	_
 
 # sent_id = 4411
 # text = janemajana raje toso janerenone , opa ok ɨbɨ̃ja supa
@@ -4591,7 +4591,7 @@
 6	?	?	PUNCT	punct	_	5	punct	_	_
 7	Ajemiŋatu	mim	VERB	v	Intens=Yes|Number=Sing|Person[subj]=1|Reflex=Yes	5	parataxis	_	_
 8	ko	ko	DET	dem	_	7	advmod	_	_
-9	witupa	juβ	AUX	aux	Corf=Yes|Number=Sing|Person[subj]=1|VerbForm=Ger	7	aux	_	_
+9	witupa	juβ	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|VerbForm=Ger	7	xcomp	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 0044.91
@@ -6370,7 +6370,7 @@
 7	rupi	upi	ADP	posp	Rel=Cont	6	case	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 0055.1
+# sent_id = cat_let1_1
 # text = Aimono βejẽ ʃejeʔeŋa opaβejẽ peẽβe , xeraʔɨreta . Perawsupa e , perekomojaŋaβa aimono βejẽ peẽβe .
 # text_eng = (Camarão letters 1, 1 ) 
 # text_por = Envio minhas palavras novamente a todos vocês, meus filhos. Mando-lhes determinações novamente, por os amar de fato.
@@ -6393,14 +6393,14 @@
 16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
 
-# sent_id = 0055.1.2
+# sent_id = cat_let1_2
 # text = Marãnamo ?
 # text_eng = Why ? (Camarão letters 1, 2) 
 # text_por = Por quê?
 1	Marãnamo	marãnamo	ADV	adv	_	0	root	_	_
 2	?	?	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.2
+# sent_id = cat_let1_3
 # text = Opaβejẽ peruβeteramo witekoβo e , perekokatu kajema swi .
 # text_eng = (Camarão letters 1, 3) 
 # text_por = Por ser eu, na verdade, o pai verdadeiro de todos, para que vocês não percam sua salvação.
@@ -6416,7 +6416,7 @@
 9	swi	swi	ADP	posp	_	8	obl	_	_
 10	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.3
+# sent_id = cat_let1_4
 # text = Nikatui jẽ ko janeretama pupe jẽ ; pereko pupe pekajemetekatwaβo , ʃeswi , cristãoramo pereko pupe .
 # text_eng = (Camarão letters 1, 4) 
 # text_por = Isto não é bom em nossa terra, e vocês se desgraçam muitíssimo com seus atos, longe de mim, em sua condição de cristãos.
@@ -6440,7 +6440,7 @@
 17	pupe	pupe	ADP	posp	_	15	case	_	_
 18	.	.	PUNCT	punct	_	15	punct	_	_
 
-# sent_id = 0055.4
+# sent_id = cat_let1_5
 # text = Ko ʃejeʔeŋa aimono βejẽ tekoaiβa swi pepɨsɨrõawama rese .
 # text_eng = (Camarão letters 1, 5) 
 # text_por = Dirijo estas minhas palavras de novo para salvá-los do pecado.
@@ -6456,7 +6456,7 @@
 9	rese	ese	ADP	posp	Rel=Cont	8	case	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 0055.5
+# sent_id = cat_let1_6
 # text = Emonãramo , tapeikuwa paβẽ peposaŋa peẽβe ʃeremimono .
 # text_eng = (Camarão letters 1, 6) 
 # text_por = Portanto, que todos vocês reconheçam o remédio que lhes mando.
@@ -6469,7 +6469,7 @@
 7	ʃeremimono	mono	NOUN	n	Dev=Pass|Number[psor]=Sing|Person[psor]=1|Rel=Cont	5	appos	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.6
+# sent_id = cat_let1_7
 # text = Aiko niã ise peẽβe opaβejẽ maʔe mojaŋawama rese .
 # text_eng = (Camarão letters 1, 7) 
 # text_por = Estou pronto para fazer tudo por vocês.
@@ -6483,7 +6483,7 @@
 8	rese	ese	ADP	posp	Rel=Cont	7	case	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 0055.7
+# sent_id = cat_let1_8
 # text = Sasɨete ã iseβe maʔeaiβa peremimojaŋwera rese ko marana perawsuβareʔɨma .
 # text_eng = (Camarão letters 1, 8) 
 # text_por = Esta guerra é muito dolorosa para mim, por causa das coisas más que vocês fizeram, e eu não tenho pena de vocês.
@@ -6500,7 +6500,7 @@
 10	perawsuβareʔɨma	awsuβar	NOUN	n	Number[psor]=Plur|Person[psor]=2|Priv=Yes|Rel=Cont|VerbForm=Ger	1	xcomp	_	_
 11	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.8
+# sent_id = cat_let1_9
 # text = Marãramo , ko ɨβɨ poreteramo perekoreme , amarãmojaŋɨpe orewasemaβa ri ?
 # text_eng = (Camarão letters 1, 9) 
 # text_por = Por que, se vocês são os verdadeiros habitantes desta terra, faço guerra com gente de nosso sangue ?
@@ -6518,7 +6518,7 @@
 11	ri	ri	ADP	posp	_	9	case	_	_
 12	?	?	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 0055.9
+# sent_id = cat_let1_10
 # text = Nasawsuβarɨpɨramo ruã sekow ?
 # text_eng = (Camarão letters 1, 10) 
 # text_por = Como aqueles de quem ninguém se compadece estão eles?
@@ -6527,7 +6527,7 @@
 3	sekow	iko	NOUN	n	NonFoc=Yes|Rel=NCont	1	parataxis	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.10
+# sent_id = cat_let1_11
 # text = Maʔẽtepe e mokõj ɨwã maramojaŋape ?
 # text_eng = (Camarão letters 1, 11) 
 # text_por = twice already waging war ?
@@ -6540,7 +6540,7 @@
 6	mojaŋape	mojaŋ	NOUN	n	Case=Loc|VerbForm=Ger	3	obl	_	_
 7	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 0055.11
+# sent_id = cat_let1_12
 # text = Orerese omaramojãβaʔe , apɨaβaiβa Pitikoara , kajẽmaβi Serijaʔẽpe .
 # text_eng = (Camarão letters 1, 12) 
 # text_por = Os que lutaram com os homens maus para sua própria desonra, todos eles pereceram por nossas mãos em Serinhaem
@@ -6560,7 +6560,7 @@
 11	Serijaʔẽpe	Serijaʔẽ	PROPN	propn	Case=Loc	9	obl	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 0055.12
+# sent_id = cat_let1_13
 # text = Apɨaβaíβa pɨtɨβõsara opakatu ikajemi kwese akɨ̃ maramojaŋape .
 # text_eng = (Camarão letters 1, 13) 
 # text_por = Todos os que ajudavam os homens maus morreram na batalha ontem, lamentavelmente.
@@ -6573,7 +6573,7 @@
 7	maramojaŋape	_	NOUN	n	_	4	obl	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 0055.13
+# sent_id = cat_let1_14
 # text = Apɨaβaíβa irũramo oaʔo rese omaramojãβaʔepwera , opakatu ikajemi oreswi .
 # text_eng = (Camarão letters 1, 14) 
 # text_por = Os que lutaram com os homens maus para sua própria desonra, todos eles pereceram por nossas mãos.
@@ -6588,7 +6588,7 @@
 9	oreswi	swi	ADP	posp	_	8	obl	_	_
 10	.	_	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 0055.14
+# sent_id = cat_let1_15
 # text = Nojemeʔeŋi jeí ãwa supe quartel .
 # text_eng = (Camarão letters 1, 15) 
 # text_por = Hoje não se poupou a vida deles
@@ -6599,7 +6599,7 @@
 5	quartel	_	NOUN	n	_	1	nsubj	_	_
 6	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 0055.15
+# sent_id = cat_let1_16
 # text = Marãnamo , ko ɨβɨ poreteramo ãwa rekoreme ?
 # text_eng = (Camarão letters 1, 16) 
 # text_por = Por que isso, se eles são os habitantes verdadeiros desta terra?
@@ -6612,7 +6612,7 @@
 7	rekoreme	_	NOUN	n	_	5	aux	_	_
 8	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 0055.16
+# sent_id = cat_let1_17
 # text = Peikuwakatu karaiβa opaβejẽ maʔeaiβa peremimojaŋa rese , opaβẽ culpa sejtɨkite aʔereme , koβaʔe swi pepɨsɨrõawama rese
 # text_eng = (Camarão letters 1, 17) 
 # text_por = Vocês conhecem bem os portugueses por todas as coisas más que vocês fazem, mas vocês rejeitaram toda a culpa, então, para se livrarem desta.
@@ -6633,7 +6633,7 @@
 15	pepɨsɨrõawama	_	NOUN	n	_	10	xcomp	_	_
 16	rese	ese	ADP	posp	Rel=Cont	15	obl	_	_
 
-# sent_id = 0055.17
+# sent_id = cat_let1_18
 # text = Ko ise perekorama , peremimojaŋwama , perekomojaŋaβa aimono βejẽ peẽβe tapeimoaβaíβ ɨmẽ apɨaβaíβa ojopaʔũme , ojoirũramo pererekoaíme .
 # text_eng = (Camarão letters 1, 18) 
 # text_por = Eis que eu lhes indico novamente o que vocês devem fazer, as determinações a seguir, para que vocês não tenham dificuldades com os homens maus se eles maltratarem vocês entre si.
@@ -6656,7 +6656,7 @@
 17	pererekoaíme	_	NOUN	n	_	13	advcl	_	_
 18	.	_	PUNCT	_	_	17	punct	_	_
 
-# sent_id = 0055.18
+# sent_id =  cat_let1_19
 # text = Iswi pesemawama maʔe apɨaβaíβa rɨrɨja swi pejeaŋune .
 # text_eng = (Camarão letters 1, 19) 
 # text_por = A saída de vocês do meio deles será algo mais que um simples abalo de gente ruim e vocês ficarão com medo.
@@ -6669,7 +6669,7 @@
 7	pejeaŋune	_	VERB	_	_	3	parataxis	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 0055.19
+# sent_id =  cat_let1_20
 # text = Okajemeta ʔɨwama , apɨaβaiβa , oreswi .
 # text_eng = (Camarão letters 1, 20) 
 # text_por = Muitos comandantes morrerão, homens ruins, por nossas mãos.
@@ -6681,7 +6681,7 @@
 6	oreswi	swi	ADP	posp	Clusivity=Ex|Number=Plur|Person=1	1	obl	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 0055.20
+# sent_id = cat_let1_21
 # text = Kwese orowar βejẽ tuβisaβa , opaβejẽ ianama , jeroβjasaβa .
 # text_eng = (Camarão letters 1, 21) 
 # text_por = Ontem prendemos mais quatro chefes e toda a sua família em que confiavam
@@ -6696,7 +6696,7 @@
 9	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Abs|Reflex=Yes	7	appos	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 0055.21
+# sent_id = cat_let1_22
 # text = Quatro cento iβoja ojopɨtera rupi orowar .
 # text_eng = (Camarão letters 1, 22) 
 # text_por = Capturamos a metade dos quatrocentos subordinados deles
@@ -6708,7 +6708,7 @@
 6	orowar	jar	VERB	vt	Clusivity=Ex|Number[subj]=Plur|Person[subj]=1	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 0055.22
+# sent_id =  cat_let1_23
 # text = Amõ okajem oreswi irũramo .
 # text_eng = (Camarão letters 1, 23) 
 # text_por = Alguns morreram com eles por nossas mãos .
@@ -6718,7 +6718,7 @@
 4	irũramo	irũramo	ADP	_	_	2	obl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 0055.23
+# sent_id =  cat_let1_24
 # text = Okajẽ capitão Andre de Souza βioβɨ , capitão Matheus Monteiro , capitão Gaspar Ijiβakwagiriβa opamejẽ iβojaete aβe .
 # text_eng = (Camarão letters 1, 24) 
 # text_por = Morreu o capitão André de Souza Biobi, o capitão Mateus Monteiro, o capitão Gaspar Ijibaquajiribã e também todos os seus melhores subordinados.
@@ -6741,7 +6741,7 @@
 17	aβe	aβe	ADV	adv	_	16	cc	_	_
 18	.	.	PUNCT	_	_	16	punct	_	_
 
-# sent_id =
+# sent_id = cat_let1_25
 # text = Peimoʔaŋ ɨmẽ, tuisamojaŋape orewasemaβa supe, quartel jemeʔeŋa.
 # text_eng = (Camarão letters 1, 25) 
 # text_por = Não pensem que se poupa a vida dos potiguaras (da gente nossa) por esses terem sido feitos chefes.
@@ -6756,7 +6756,7 @@
 9	jemeʔeŋa	_	NOUN	_	Reflex=Yes|VerbForm=Ger	1	xcomp	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id =
+# sent_id = cat_let1_26
 # text = Pejmoʔaŋ ɨmẽ apɨaβaíβa oreswi pepɨsɨrõ.
 # text_eng = (Camarão letters 1, 26) 
 # text_por = Não pensem que os homens maus livram vocês de nós
@@ -6769,7 +6769,7 @@
 6	pepɨsɨrõ	_	NOUN	_	_	1	obj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id =
+# sent_id = cat_let1_27
 # text = Isupe jõ ã quartel jemeʔeŋi.
 # text_eng = (Camarão letters 1, 27) 
 # text_por = Somente a vida deles é poupada.
@@ -6780,7 +6780,7 @@
 5	jemeʔeŋi	meʔeŋ	NOUN	_	NonFoc=Yes|Reflex=Yes	1	parataxis	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id =
+# sent_id = cat_let1_28
 # text = Marãnamo, soβajɨwaramo sekoreme?
 # text_eng = (Camarão letters 1, 28) 
 # text_por =  E por que, se eles são estrangeiros?
@@ -6790,8 +6790,8 @@
 4	sekoreme	iko	AUX	_	Mood=Subj	3	aux	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id =
-# text = Emonãnamo, petejẽumẽ βejẽ aβa ojemomotaβejẽmo, apɨaβaiβa maranirũramo  owekorama rese.
+# sent_id = cat_let1_29
+# text = Emonãnamo , petejẽumẽ βejẽ aβa ojemomotaβejẽmo , apɨaβaiβa maranirũramo  owekorama rese .
 # text_eng = (Camarão letters 1, 29) 
 # text_por = Portanto, não deixai que mais índios sejam atraídos de novo, e que fiquem sendo companheiros de guerra dos homens maus em suas ações futuras.
 1	Emonãnamo	emonãnamo	ADV	_	_	3	discourse	_	_
