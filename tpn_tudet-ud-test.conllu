@@ -6387,7 +6387,7 @@
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12-13	perekomojaŋaβa	_	_	_	_	_	_	_	_
 12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
-13	mojaŋaβa	mojaŋ	NOUN	n	Case=Ref|Nomzr=Abs	12	nmod	_	_
+13	mojaŋaβa	mojaŋ	NOUN	n	Case=Ref|Nomzr=Circ	12	nmod	_	_
 14	aimono	mono	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
 15	βejẽ	βejẽ	ADV	adv	_	14	advmod	_	_
 16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
@@ -6514,7 +6514,7 @@
 8-9	amarãmojaŋɨpe	_	_	_	_	_	_	_	_
 8	amarã	amarãn	VERB	v	_	9	dep	_	_
 9	mojaŋɨpe	mojaŋ	VERB	v	Int=Yes	0	root	_	_
-10	orewasemaβa	wasem	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Abs	9	obl	_	_
+10	orewasemaβa	wasem	NOUN	n	Case=Ref|Clusivity=Ex|Nomzr=Circ	9	obl	_	_
 11	ri	ri	ADP	posp	_	9	case	_	_
 12	?	?	PUNCT	punct	_	9	punct	_	_
 
@@ -6693,7 +6693,7 @@
 6	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	7	nmod	_	_
 7	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	4	conj	_	_
 8	,	,	PUNCT	punct	_	7	appos	_	_
-9	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Abs|Reflex=Yes	7	appos	_	_
+9	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Circ|Reflex=Yes	7	appos	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = cat_let1_22
@@ -6745,11 +6745,11 @@
 # text = Peimoʔaŋ ɨmẽ , tuisamojaŋape orewasemaβa supe , quartel jemeʔeŋa .
 # text_eng = (Camarão letters 1, 25) 
 # text_por = Não pensem que se poupa a vida dos potiguaras (da gente nossa) por esses terem sido feitos chefes.
-1	Peimoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number=Plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+1	Peimoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	ɨmẽ	ɨmẽ	PART	_	Polarity=Neg	1	dep	_	_
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	tuisamojaŋape	_	NOUN	_	_	1	obl	_	_
-5	orewasemaβa	_	NOUN	_	Case=Ref|Clusivity=Ex|Nomzr=Abs|Number=Plur|Person=1	4	obl	_	_
+5	orewasemaβa	_	NOUN	_	Case=Ref|Clusivity=Ex|Nomzr=Circ|Number=Plur|Person=1	4	obl	_	_
 6	supe	supe	ADP	_	Case=Dat	5	case	_	_
 7	,	,	PUNCT	_	_	1	punct	_	_
 8	quartel	quartel	NOUN	_	_	9	obj	_	_
@@ -6760,7 +6760,7 @@
 # text = Pejmoʔaŋ ɨmẽ apɨaβaíβa oreswi pepɨsɨrõ .
 # text_eng = (Camarão letters 1, 26) 
 # text_por = Não pensem que os homens maus livram vocês de nós
-1	Pejmoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number=Plural|Person[obj]=3|Person[subj]=2	0	root	_	_
+1	Pejmoʔaŋ	moʔaŋ	VERB	_	Mood=Imp|Number=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	ɨmẽ	_	PART	_	_	1	dep	_	_
 3-4	apɨaβaíβa	_	_	_	_	_	_	_	_
 3	apɨaβ	_	NOUN	_	_	6	nmod	_	_
@@ -6808,7 +6808,7 @@
 10	maran	maran	NOUN	_	_	11	nmod	_	_
 11	irũramo	irũ	NOUN	_	Case=Tra	6	obl	_	_
 12	owekorama	eko	NOUN	_	Case=Ref|Corf=Yes|Tense=Fut	8	obl	_	_
-13	rese	ese	ADP	_	Re=NCont	12	case	_	_
+13	rese	ese	ADP	_	Rel=NCont	12	case	_	_
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cam_let5_1
