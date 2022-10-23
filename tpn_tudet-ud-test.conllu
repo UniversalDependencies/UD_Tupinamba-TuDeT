@@ -6589,15 +6589,15 @@
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cat_let1_15
-# text = Nojemeʔeŋi jeí ãwa supe quartel .
+# text = Nojemeʔeŋi jei ãwa supe quartel .
 # text_eng = (Camarão letters 1, 15) 
 # text_por = Hoje não se poupou a vida deles
 1	Nojemeʔeŋi	meʔeŋ	VERB	v	Person=3|Polarity=Neg|Reflex=Yes	0	root	_	_
-2	jeí	_	ADV	adv	_	1	advmod	_	_
-3	ãwa	_	PRON	pron	_	1	obl	_	_
-4	supe	_	ADJ	_	_	3	case	_	_
-5	quartel	_	NOUN	n	_	1	nsubj	_	_
-6	.	_	PUNCT	_	_	1	punct	_	_
+2	jei	jei	ADV	adv	_	1	advmod	_	_
+3	ãwa	ãwa	PRON	pron	_	1	obl	_	_
+4	supe	supe	ADP	_	Case=Dat	3	case	_	_
+5	quartel	quartel	NOUN	n	_	1	nsubj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = cat_let1_16
 # text = Marãnamo , ko ɨβɨ poreteramo ãwa rekoreme ?
