@@ -6371,10 +6371,10 @@
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = 0055.1
-# text = Aimono βejẽ ʃejeʔeŋa opaβejẽ peẽβe , xeraʔɨreta . Perawsupa e , perekomojaŋaβa ajmono βejẽ peẽβe .
+# text = Aimono βejẽ ʃejeʔeŋa opaβejẽ peẽβe , xeraʔɨreta . Perawsupa e , perekomojaŋaβa aimono βejẽ peẽβe .
 # text_eng = (Camarão letters 1, 1 ) 
 # text_por = Envio minhas palavras novamente a todos vocês, meus filhos. Mando-lhes determinações novamente, por os amar de fato.
-1	Aimono	mono	VERB	vt	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+1	Aimono	mono	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 2	βejẽ	βejẽ	ADV	ADV	_	1	advmod	_	_
 3	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	1	obj	_	_
 4	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	_	_	_	_
@@ -6388,11 +6388,12 @@
 12-13	perekomojaŋaβa	_	_	_	_	_	_	_	_
 12	pereko	iko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	14	obj	_	_
 13	mojaŋaβa	mojaŋ	NOUN	n	Case=ref|Nomzr=Abs	12	nmod	_	_
-14	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	1	parataxis	_	_
+14	aimono	mono	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	parataxis	_	_
 15	βejẽ	βejẽ	ADV	ADV	adv	14	advmod	_	_
 16	peẽβe	peẽβe	PRON	pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	obl	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
-# sent_id =
+
+# sent_id = 0055.1.2
 # text = Marãnamo ?
 # text_eng = Why ? (Camarão letters 1, 2) 
 # text_por = Por quê?
@@ -6440,13 +6441,13 @@
 18	.	.	PUNCT	punct	_	15	punct	_	_
 
 # sent_id = 0055.4
-# text = Ko ʃejeʔeŋa aimonó βejẽ tekoaiβa swi pepɨsɨrõawama rese .
+# text = Ko ʃejeʔeŋa aimono βejẽ tekoaiβa swi pepɨsɨrõawama rese .
 # text_eng = (Camarão letters 1, 5) 
 # text_por = Dirijo estas minhas palavras de novo para salvá-los do pecado.
 1	Ko	_	DET	_	_	2	det	_	_
 2	ʃejeʔeŋa	_	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
-3	aimono	mono	VERB	v	Person[obj]=3|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-4	βejẽ	βejẽ	ADV	ADV	adv	3	advcl	_	_
+3	aimono	mono	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+4	βejẽ	βejẽ	ADV	adv	_	3	advcl	_	_
 5-6	tekoaiβa	_	_	_	_	_	_	_	_
 5	teko	iko	NOUN	n	Rel=Abs	8	obl	_	_
 6	aiβa	aiβ	NOUN	n	Case=Ref	5	nmod	_	_
@@ -6456,10 +6457,10 @@
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 0055.5
-# text = Emonãramo , tapejkuwapaβẽ peposaŋa peẽβe ʃeremimonó .
+# text = Emonãramo , tapejkuwa paβẽ peposaŋa peẽβe ʃeremimono .
 # text_eng = (Camarão letters 1, 6) 
 # text_por = Portanto, que todos vocês reconheçam o remédio que lhes mando.
-1	Emonãramo	emonãramo	ADV	ADV	adv	3	advmod	_	_
+1	Emonãramo	emonãramo	ADV	adv	_	3	advmod	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	tapeikuwa	_	VERB	v	Mood=Perm|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	_
 4	paβẽ	paβẽ	PRON	pron	PronType=Tot	3	nsubj	_	_
