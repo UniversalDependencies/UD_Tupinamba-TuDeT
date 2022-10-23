@@ -6691,8 +6691,8 @@
 4	tuβisaβa	uβisaβ	NOUN	n	Case=Ref|Rel=Abs	2	obj	_	_
 5	,	,	PUNCT	punct	_	2	punct	_	_
 6	opaβejẽ	opaβejẽ	PRON	pron	PronType=Tot	7	nmod	_	_
-7	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	4	conj	_	_
-8	,	,	PUNCT	punct	_	7	appos	_	_
+7	ianama	anam	NOUN	n	Case=Ref|Rel=NCont	2	conj	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
 9	jeroβjasaβa	jeroβjar	NOUN	n	Case=Ref|Nomzr=Circ|Reflex=Yes	7	appos	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
