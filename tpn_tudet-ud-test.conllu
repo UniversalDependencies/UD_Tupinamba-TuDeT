@@ -6844,7 +6844,7 @@
 1	ʃejɨrõ	jɨrõ	NOUN	_	Number[psor]=Sing|Person[psor]=1	0	root	_	_
 2	ŋatu	katu	NOUN	_	_	1	nmod	_	_
 3	ipóne	ipo	ADV	_	Tense=Fut	1	advmod	_	_
-4	peẽβene	peẽ	PRON	_	Case=Dat|Tens=Fut	1	obl	_	_
+4	peẽβene	peẽ	PRON	_	Case=Dat|Tense=Fut	1	obl	_	_
 5	opaβejẽ	opaβejẽ	PRON	_	_	6	nmod	_	_
 6-7	maʔeaiβa	_	_	_	_	_	_	_	_
 6	maʔe	_	NOUN	_	_	1	obl	_	_
