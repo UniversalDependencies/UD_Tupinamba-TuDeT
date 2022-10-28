@@ -6811,6 +6811,80 @@
 13	rese	ese	ADP	_	Rel=NCont	12	case	_	_
 14	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = cat_let1_30
+# text = Naipotaraŋaj βejẽj pekajema .
+# text_eng = (Camarão letters 1, 30) 
+# text_por = Não quero mais, de modo algum, a ruína de vocês
+1-2	Naipotaraŋaj	_	_	_	_	_	_	_	_
+1	Naipotar	potar	VERB	_	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	_	_
+2	aŋaj	aŋa	ADV	_	Polarity=Neg	1	advmod	_	_
+3	βejẽj	βejẽj	ADV	_	_	1	advmod	_	_
+4	pekajema	kajem	NOUN	_	Case=Ref|Number[psor]=Plur|Person[psor]=2	1	obj	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id =  cat_let1_31
+# text = Emonãnamo , opamejẽ pejor ʃeropejana , iseβe pejkɨaβo.
+# text_eng = (Camarão letters 1, 33) 
+# text_por = Portanto, venham vocês todos ao meu encontro, recolhendo-se junto a mim.
+1	Emonãnamo	_	ADV	_	_	4	advmod	_	_
+2	,	_	PUNCT	punct	_	4	punct	_	_
+3	opamejẽ	opamejẽ	PRON	_	PronType=Tot	4	vocative	_	_
+4	pejor	jor	VERB	_	Mood=Imp|Number[subj]=Plur|Person[subj]=2	0	root	_	_
+5	ʃeropejana	opejan	NOUN	_	Case=Ref|Number[psor]=Sing|Person[psor]=1|Rel=Cont	_	_	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	iseβe	ise	PRON	_	Case=Dat|Number=Sing|Person=1	8	obl	_	_
+8	pejkɨaβo	ike	VERB	_	Number[subj]=Plur|Person[subj]=2|VerbForm=Ger	4	xcomp	_	_
+9	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id =  cat_let1_32
+# text = ʃejɨrõŋatu ipóne peẽβene opaβejẽ maʔeaiβa peremimojaŋwera resene .
+# text_eng = (Camarão letters 1, 34) 
+# text_por = Eu vou certamente perdoar-lhes todas as coisas más que vocês fizeram.
+1-2	ʃejɨrõŋatu	_	_	_	_	_	_	_	_
+1	ʃejɨrõ	jɨrõ	NOUN	_	Number[psor]=Sing|Person[psor]=1	0	root	_	_
+2	ŋatu	katu	NOUN	_	_	1	nmod	_	_
+3	ipóne	ipo	ADV	_	Tens=Fut	1	advmod	_	_
+4	peẽβene	peẽ	PRON	_	Casde=Dat|Tens=Fut	1	obl	_	_
+5	opaβejẽ	opaβejẽ	PRON	_	_	6	nmod	_	_
+6-7	maʔeaiβa	_	_	_	_	_	_	_	_
+6	maʔe	_	NOUN	_	_	1	obl	_	_
+7	aiβa	aíβ	NOUN	_	Case=Ref	6	nmod	_	_
+8	peremimojaŋwera	mojaŋ	NOUN	n	Case=Ref|Dev=Pass|Number[psor]=Plur|Person[psor]=2|Tense=Past	6	appos	_	_
+9	resene	ese	ADP	posp	Rel=Cont|Tense=Fut	6	case	_	_
+10	.	_	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = cat_let1_33
+# text = Ko jõ peposaŋa . 
+# text_eng = (Camarão letters 1, 35) 
+# text_por = Somente este é o remédio de vocês
+1	Ko	ko	DET	_	_	3	det	_	_
+2	jõ	jõ	ADV	_	_	3	advmod	_	_
+3	peposaŋa	_	NOUN	_	Number[psor]=Plur|Person[psor]=2	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# text = Emonãnamo , pepuʔã sese , isui pesema .
+# text_eng = (Camarão letters 1, 36) 
+# text_por = Portanto, fiquem contra eles, afastando-se
+1	Emonãnamo	emonãnamo	ADV	_	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	pepuʔã	_	VERB	_	Mood=Imp|Number[psor]=Plur|Person[psor]=2	0	root	_	_
+4	sese	ese	ADP	_	Rel=NCont	3	obl	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	isui	_	ADP	_	Rel=NCont	7	obl	_	_
+7	pesema	sem	VERB	_	Number[psor]=Plur|Person[psor]=2|VerbForm=Ger	3	xcomp	_	_
+8	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = cat_let1_34
+# text = Emonã perekoreme , ʃerorɨβetene .
+# text_eng = (Camarão letters 1, 37) 
+# text_por = Eu vou ficar muito feliz se vocês fizerem isso.
+1	Emonã	_	ADV	_	_	2	advmod	_	_
+2	perekoreme	_	NOUN	_	Mood=Irr|Number[psor]=Plur|Person[psor]=2|Rel=Cont	4	advcl	_	_
+3	,	_	PUNCT	punct	_	4	punct	_	_
+4	ʃerorɨβetene	_	NOUN	_	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont|Tense=Fut	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = cat_let1_35
 # sent_id = cam_let5_1
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
 # text_eng = Camarão leter 5,1
