@@ -28,7 +28,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## References
 
-* Ferraz Gerardi, Fabrício. 2023. A RRG descritpion of Tupinambá. Forthcoming
+* Ferraz Gerardi, Fabrício. 2023. A Role and Reference Description of Tupinambá. Forthcoming
 
 
 
