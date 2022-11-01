@@ -6885,6 +6885,183 @@
 4	ʃerorɨβetene	_	NOUN	_	Intens=Yes|Number[psor]=Sing|Person[psor]=1|Rel=Cont|Tense=Fut	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
+# sent_id = cat_let1_36
+# text = Opomoikojeβɨkatupe , akweme perekopwera rupikatune . 
+# text_eng = (Camarão letters 1, 38) 
+# text_por = Eu novamente farei vocês estarem bem, perfeitamente de acordo com seu modo de vida de antigamente
+1-3	Opomoikojeβɨkatupe	_	_	_	_	_	_	_	_
+1	Opomoiko	iko	VERB	_	Number[obj]=Plur|Person[obj]=2|Person[subj]=1|Voice=Cau	0	root	_	_
+2	jeβɨ	jeβɨr	ADV	adv	_	1	advcl	_	_
+3	katupe	katu	ADV	adv	Delib=Yes	1	advmod	_	_
+4	,	.	PUNCT	punct	_	1	punct	_	_
+5	akweme	akweme	ADV	adv	_	6	advmod	_	_
+6	perekopwera	_	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	1	obl	_	_
+7-8	rupikatune	_	_	_	_	_	_	_	_
+7	rupi	upi	ADP	posp	_	6	case	_	_
+8	katune	katu	NOUN	n	Tense=Fut	7	advmod	_	_
+9	.	,	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = cat_let1_37
+# text = Ko ʃejeʔeŋa rupi oiko eʔiβaʔe aʔejpe ne : imokajemetepɨramo jẽ sekowne .
+# text_eng = (Camarão letters 1, 39) 
+# text_por = Os que se acharem aí, conforme eu disse, serão completamente arruinados.
+1	Ko	ko	DET	_	_	2	det	_	_
+2	ʃejeʔeŋa	jeʔeŋ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=1	4	obl	_	_
+3	rupi	upi	ADP	posp	Rel=Cont	2	case	_	_
+4	oiko	iko	VERB	_	Person[subj]=3	0	root	_	_
+5	eʔiβaʔe	eʔi	NOUN	n	Nomzr=Rel	4	nsubj	_	_
+6	aʔejpene	aʔe	ADV	adv	Case=Loc|Tense=Fut	4	advmod	_	_
+7	:	:	PUNCT	punct	_	4	punct	_	_
+8	imokajemetepɨramo	_	NOUN	n	Case=Trans|Dev=Pass|Intens=Yes|Rel=NCont|Voice=Cau	10	obl	_	_
+9	jẽ	jẽ	ADV	adv	_	10	advcl	_	_
+10	sekowne	iko	NOUN	n	Rel=NCont|Tense=Fut	4	parataxis	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = cat_let1_38
+# text = Mamõ monẽ isow ʃeswi ojewasema . 
+# text_eng = (Camarão letters 1, 40) 
+# text_por = Para longe deveriam ir para fugir de mim.
+1	Mamõ	mamõ	ADV	adv	_	3	advmod	_	_
+2	monẽ	monẽ	PART	_	_	3	discourse	_	_
+3	isow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+4	ʃeswi	swi	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+5	ojewasema	wasem	NOUN	n	Number[subj]=Sing|Person[subj]=3|Reflex=Yes|VerbForm=Ger	3	xcomp	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = cat_let1_39
+# text = Toimoaŋ ɨmẽ . aβa emonã oikoβaʔe . 
+# text_eng = (Camarão letters 1, 41) 
+# text_por = Que não finjam os índios que assim fizerem.
+1	Toimoaŋ	moaŋ	VERB	_	Number[subj]=3|Person[obj]=3|Person[subj]=3|Voice=Perm	0	root	_	_
+2	ɨmẽ	ɨmẽ	PART	prcl	Polarity=Neg	1	dep	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+4	aβa	aβa	NOUN	n	_	1	nsubj	_	_
+5	emonã	emonã	ADV	adv	_	1	advcl	_	_
+6	oikoβaʔe	_	NOUN	n	Nomzr=Rel|Person[subj]=3|	4	appos	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = cat_let1_40
+# text = Ko marana akweme akɨ̃ amõ armada rekopwera jaβe ; seko akwejβaʔe reko .
+# text_eng = (Camarão letters 1, 42) 
+# text_por = Que tristeza! Esta guerra é parecida com o que era a armada; sua condição é a condição daquela
+1	Ko	ko	DET	_	_	2	det	_	_
+2	marana	_	NOUN	n	Case=Ref	7	nsubj	_	_
+3	akweme	akweme	ADV	adv	_	7	advcl	_	_
+4	akɨ̃	akɨ̃	INTJ	_	_	7	discourse	_	_
+5	amõ	amõ	PRON	_	PronType=Ind	6	nmod	_	_
+6	armada	armada	NOUN	n	_	_	_	_	_
+7	rekopwera	eko	NOUN	n	Case=Ref|Rel=Cont|Tense=Pas	0	root	_	_
+8	jaβe	jaβe	NOUN	n	_	7	conj	_	_
+9	;	_	PUNCT	punct	_	7	punct	_	_
+10	seko	eko	NOUN	n	Rel=NCont	12	nsubj	_	_
+11	akwejβaʔe	_	DET	_	Nomzr=Rel	12	nmod	_	_
+12	reko	_	NOUN	n	Rel=Cont	7	parataxis	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = cat_let1_41
+# text = Ise ae aikuwa teko . 
+# text_eng = (Camarão letters 1, 43) 
+# text_por = Eu mesmo reconheço isso.
+1	Ise	ise	PRON	_	_	3	nsubj	_	_
+2	ae	_	PART	_	_	3	discourse	_	_
+3	aikuwa	kwaβ	VERB	_	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+4	teko	eko	NOUN	n	Rel=Abs	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = cat_let1_42
+# text = Peteɨmẽ pejeawaβo , pekwaẽmo ʃeswi .
+# text_eng = (Camarão letters 1, 44) 
+# text_por = Deixem de se desonrar, fugindo de mim
+1	Peteɨmẽ	_	VERB	_	Mood=Imp|Number[subj]=Plur|Person[subj]=2	0	root	_	_
+2	pejeawaβo	_	VERB	_	Number[subj]=Plur|Person[subj]=2|Reflex=Yes|VerbForm=Ger	1	xcomp	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	pekwaẽmo	_	VERB	_	Number[subj]=Plur|Person[subj]=2|VerbForm=Ger	1	xcomp	_	_
+5	ʃeswi	_	ADP	posp	Number=Sing|Person=1	4	obl	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = cat_let1_43
+# text = Aimeʔekatu ipóne perdão geral peẽβene . 
+# text_eng = (Camarão letters 1, 45) 
+# text_por = Vou-lhes dar o perdão geral, sem dúvida
+1	Aimeʔekatu	meʔeŋ	VERB	_	_	0	root	_	_
+2	ipóne	ipo	ADV	adv	Tense=Fut	1	advmod	_	_
+3	perdão	perdão	NOUN	n	_	1	obj	_	_
+4	geral	geral	NOUN	n	_	3	nmod	_	_
+5	peẽβene	peẽ	PRON	_	Case=Dat|PronType=Prs|Tense=Fut	1	obl	_	_
+6	.	.	PUNCT	punct	_	1	_	_	_
+
+# sent_id = cat_let1_44
+# text = ʃeremimotaramo peikone .
+# text_eng = (Camarão letters 1, 46) 
+# text_por = Vocês serão meus amigos. (vocês estão como eu desejo)
+1	ʃeremimotaramo	potar	NOUN	n	Dev=Pass|Case=Tra|Number[psor]=Sing|Person[psor]=1|Rel=Cont	2	obl	_	_
+2	peikone	iko	VERB	_	Number[subj]=Plur|Person[subj]=2|Tense=Fut	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = cat_let1_45
+# text = Opamejẽ moruβisaβeta aβa ojerurete peẽβe perurawama rese .
+# text_eng = (Camarão letters 1, 47) 
+# text_por = Todos os chefes índios pedem-lhes muito que venham
+1	Opamejẽ	_	PRON	_	PronType=Tot	2	nmod	_	_
+2	moruβisaβeta	moruβisaβ	NOUN	n	Number=Plur	4	nsubj	_	_
+3	aβa	aβa	NOUN	n	_	2	nmod	_	_
+4	ojerurete	ur	VERB	_	Intens=Yes|Reflex=Yes	0	root	_	_
+5	peẽβe	peẽ	PRON	_	Case=Dat	4	iobj	_	_
+6	perurawama	ur	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2|Rel=Cont|Tense=Fut	4	obl	_	_
+7	rese	ese	ADP	posp	Rel=Cont	6	case	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = cat_let1_46
+# text = Aʔe aβe ojmeʔẽ perdão geral peẽβene ow ekomojaŋaβa rupi .
+# text_eng = (Camarão letters 1, 48) 
+# text_por =  Eles também lhes darão o perdão geral, de acordo com as ordens de seu próprio chefe.
+1	Aʔe	aʔe	DET	_	_	3	nsubj	_	_
+2	aβe	aβe	ADV	n	_	3	advmod	_	_
+3	oimeʔẽ	meʔeŋ	VERB	_	Person[obj]=3|Person[subj]=3	0	root	_	_
+4	perdão	perdão	NOUN	n	_	3	obj	_	_
+5	geral	geral	X	_	_	4	compound	_	_
+6	peẽβene	peẽ	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs|Tense=Fut	3	obl	_	_
+7	oguβisaβa	uβisaβ	NOUN	n	_	8	nmod	_	_
+8	owekomojaŋaβa	_	NOUN	n	Nomzr=Abs	3	obl	_	_
+9	rupi	upi	ADP	posp	Rel=Cont	8	case	_	_
+10	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = cat_let1_47
+# text = Pejeroβjareʔɨme, iaparɨpɨramo pejko.
+# text_eng = (Camarão letters 1, 49) 
+# text_por = Se vocês não confiam, vocês são uns aleijados.
+1	Pejeroβjareʔɨme	_	VERB	_	Mood=Sub|Number[subj]=Plur|Person[subj]=2|Priv=Yes|Reflex=Yes	4	advcl	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	japarɨpɨramo	_	NOUN	n	Case=Tra|Nomzr=Pas|Rel=NCont	4	obl	_	_
+4	peiko	iko	VERB	_	Number[subj]=Plur|Person[subj]=2	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = cat_let1_48
+# text = Maranamo ajurujuβa ojmeʔeŋ wã ko ɨβɨ karaíβa supe? 
+# text_eng = (Camarão letters 1, 50) 
+# text_por = Por que os holandeses já entregaram esta terra aos portugueses?
+1	Maranamo	_	ADV	adv	_	4	advmod	_	_
+2-3	ajurujuβa	_	_	_	_	_	_	_	_
+2	ajuru	_	NOUN	n	_	4	nsubj	_	_
+3	juβa	_	NOUN	n	Case=Ref	2	nmod	_	_
+4	oimeʔeŋ	_	VERB	_	Person[obj]=3|Person[subj]=3	0	root	_	_
+5	wã	_	ADV	adv	_	4	advmod	_	_
+6	ko	_	DET	_	_	7	det	_	_
+7	ɨβɨ	_	NOUN	n	_	4	obj	_	_
+8	karaíβa	_	NOUN	n	_	4	obl	_	_
+9	supe	_	ADP	posp	_	8	case	_	_
+10	?	_	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = cam_let5_1
+# text = Emonãnamo , peikuwa pereko .
+# text_eng = (Camarão letters 1, 51) 
+# text_por = Portanto, reconheçam a condição de vocês.
+1	Emonãnamo	emonãnamo	ADV	adv	_	3	advmod	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	peikuwa	kwaβ	VERB	_	_	0	root	_	_
+4	pereko	eko	NOUN	n	Number[psor]=Plur|Person[psor]=2|Rel=Cont	3	obj	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
 # sent_id = cam_let5_1
 # text = Janejara Paʔi Tupã tekoβekatu tomeʔeŋ eneβe .
 # text_eng = Camarão leter 5,1
