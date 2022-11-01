@@ -1,6 +1,6 @@
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https://glottolog.org/resource/languoid/id/tupi1273). All known sources in this language are being annotated: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century). Sentence annotation and documentation by Fabrício Ferraz Gerardi.
+UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https://glottolog.org/resource/languoid/id/tupi1273). All known sources in this language are being annotated: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century). Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io).
 
 
 
@@ -17,9 +17,10 @@ UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https:
 * de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
 * de Anchieta, J., (). Doutrina Cristã I
 * de Anchieta, J., (197). Doutrina Cristã II
-* Bettendorf, F. (). Catecismo
-* Cartas dos Camarões ()
+* Bettendorf, F. (1687). Catecismo
+* Cartas dos Camarões (2022)
 
+## Text sources
 
 # Acknowledgments
 
@@ -27,6 +28,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## References
 
+* Ferraz Gerardi, Fabrício. 2023. A RRG descritpion of Tupinambá. Forthcoming
 
 
 
