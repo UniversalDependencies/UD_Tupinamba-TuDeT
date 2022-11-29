@@ -20,7 +20,6 @@ UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https:
 * Bettendorf, F. (1687). Catecismo
 * Cartas dos Camarões (2022)
 
-## Text sources
 
 # Acknowledgments
 
