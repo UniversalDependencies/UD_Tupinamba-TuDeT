@@ -2501,7 +2501,7 @@
 12	suwɨ	uwɨ	NOUN	n	Rel=NCont	10	conj	_	_
 13	aβe	aβe	ADV	adv	_	12	advmod	_	_
 14	iswi	swi	ADP	posp	Rel=NCont	10	case	_	_
-15	iẽawama	en	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Fut	4	xcomp	_	gloss=RELNC-en-sab-wam
+15	iẽawama	en	NOUN	n	Case=Ref|Nomzr=Circ|Rel=NCont|Tense=Fut	4	xcomp	_	RELNC-en-sab-wam
 
 # sent_id = 100
 # text = aʔepe aʔe marana ri tekoara so re , marã ?
@@ -2574,7 +2574,7 @@
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	itakaramemwã	itakaramemwã	NOUN	n	_	9	obl	_	_
 6	aβa	aβa	NOUN	n	_	7	nmod	_	_
-7	tɨmawereʔɨma	_	NOUN	n	Case=Ref|Polarity=Neg|Rel=Cont	5	nmod	_	gloss=bury-PAST-PRIV-REF
+7	tɨmawereʔɨma	_	NOUN	n	Case=Ref|Polarity=Neg|Rel=Cont	5	nmod	_	bury-PAST-PRIV-REF
 8	pupe	pupe	ADP	posp	Rel=Cont	5	case	_	_
 9	imonepa	mone	VERB	v	Rel=NCont|VerbForm=Ger	3	advcl	_	_
 
