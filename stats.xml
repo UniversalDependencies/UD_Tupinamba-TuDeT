@@ -37,7 +37,6 @@
     <feat name="Aspect" value="Compl" upos="VERB">4</feat><!-- Jaʔupa, aʔupakatune, sowaβopa, ʔupaβ -->
     <feat name="Aspect" value="Iter" upos="NOUN,VERB">32</feat><!-- inupãnupã, poβupoβu, Oioaʔoaʔo, Oposẽposem, iakakapa, imomosema, imoperepereβi, imosɨkɨjekɨjeβo, inupãnupãsara, ipetepeteka -->
     <feat name="Aspect" value="Lus" upos="NOUN,VERB">2</feat><!-- ajukaʔĩ, ojpotarĩ -->
-    <feat name="Augm" value="Yes" upos="NOUN,PROPN">13</feat><!-- kunumĩwasu, Peporeawsu, Sarawaiusu, iakaŋusuj, moitiniŋusu, neruʔumusu, sukuriju, ɨgasaβusu, ʃetamũjusu, ʃeʔakusu -->
     <feat name="Case" value="All" upos="DET,NOUN">11</feat><!-- okarɨpe, ɨβɨtɨrɨpe, Mɨpe, aʔepe, moroepjakape, neratape, okusupe, ʃemonoape -->
     <feat name="Case" value="Dat" upos="ADP,NOUN,PRON">30</feat><!-- eneβe, eneβo, peẽβe, aseβe, iseβe, iseβo, oreβo, peʔẽme, supe, ʃeβo -->
     <feat name="Case" value="Loc" upos="ADV,DET,NOUN,PROPN,VERB">64</feat><!-- aʔepe, opɨʔape, tatape, ʃepope, mojaŋape, oreɨβɨjme, sekoape, ʃeatuaj, ʃerekoape, Ejmoiŋokatu -->
@@ -49,6 +48,7 @@
     <feat name="Clusivity" value="In" upos="ADP,NOUN,PRON,VERB">55</feat><!-- janejara, jamoma, jane, Jaʔupa, iaiemoitɨamo, iamomota, jajebɨjebɨ, jajporakar, jajupa, jamomeʔu -->
     <feat name="ConjType" value="Disj" upos="CCONJ">2</feat><!-- kojpo -->
     <feat name="Corf" value="Yes" upos="ADP,NOUN,VERB">32</feat><!-- ejupa, ojoupe, omaʔe, omojaŋara, opɨʔa, aiβete, oajurɨβo, oeko, ojekoka, ojewaka -->
+    <feat name="Degree" value="Aug" upos="NOUN,PROPN">12</feat><!-- kunumĩwasu, Peporeawsu, Sarawaiusu, iakaŋusuj, neruʔumusu, sukuriju, ɨgasaβusu, ʃetamũjusu, ʃeʔakusu -->
     <feat name="Delib" value="Yes" upos="NOUN">1</feat><!-- ʃekatupe -->
     <feat name="Dev" value="Pass" upos="NOUN">3</feat><!-- peremimojaŋwera, ʃeremimono -->
     <feat name="Emph" value="Yes" upos="NOUN">2</feat><!-- joβasaβetaetawne, joβasaβine -->
