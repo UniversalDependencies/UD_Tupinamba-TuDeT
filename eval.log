@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Tupinamba-TuDeT:
-commit d882a61518fe5b25103b760374735fb5921ae347
-Merge: b25d562 3bd8968
+commit 60d80d32dd18745074e3b763ebdc803d5adafcb3
+Merge: c3ac363 67b85c9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 4508 of 4508 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.01170719235506.
@@ -15,16 +15,16 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 2224 out of 4508 total words have one or more features.
+Features: 2223 out of 4508 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        584
-Udapi: found 584 bugs.
+               TOTAL        596
+Udapi: found 596 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 4508 words.
 Genres: found 2 out of 17 known.
-validate.py --lang tpn --max-err=10 UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang tpn --max-err=10 UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
