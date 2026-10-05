@@ -139,11 +139,11 @@
     <dep name="flat">6</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">7</dep>
-    <dep name="nmod">376</dep>
+    <dep name="nmod">398</dep>
     <dep name="nsubj">214</dep>
     <dep name="nummod">15</dep>
     <dep name="obj">243</dep>
-    <dep name="obl">425</dep>
+    <dep name="obl">403</dep>
     <dep name="parataxis">184</dep>
     <dep name="punct">1057</dep>
     <dep name="root">581</dep>
